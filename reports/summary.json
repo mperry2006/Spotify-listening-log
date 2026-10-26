@@ -1,0 +1,293 @@
+{
+  "generated_at": "2026-10-26T19:58-04:00",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-26"
+  },
+  "log_since": "2026-10-26",
+  "total_plays_logged": 55,
+  "this_week": {
+    "plays": 55,
+    "minutes": 185,
+    "unique_tracks": 54,
+    "unique_artists": 54
+  },
+  "last_week": {
+    "plays": 0,
+    "minutes": 0
+  },
+  "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
+  "skips": {
+    "skip_rate_pct": 0,
+    "skipped_plays": 0,
+    "most_skipped_tracks": [],
+    "most_skipped_artists": []
+  },
+  "top_artists": [
+    {
+      "rank": 1,
+      "name": "Westside Gunn",
+      "plays": 13,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 2,
+      "name": "The Alchemist",
+      "plays": 8,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
+      "name": "Benny The Butcher",
+      "plays": 6,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
+      "name": "Boldy James",
+      "plays": 5,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 5,
+      "name": "Drake",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 6,
+      "name": "Conway the Machine",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
+      "name": "Freddie Gibbs",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
+      "name": "Mach-Hommy",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "21 Savage",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "J. Cole",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    }
+  ],
+  "top_tracks": [
+    {
+      "rank": 1,
+      "name": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 2,
+      "name": "Passionfruit - Drake",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
+      "name": "Carruth - Boldy James",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
+      "name": "Dance Floor Love - Westside Gunn",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 5,
+      "name": "Uuuu - Steve Lacy",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 6,
+      "name": "Apple Juice - Mach-Hommy",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
+      "name": "go crazy - Gunna",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
+      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "Who Cares Anyway - Masego",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "cLOUDs - J. Cole",
+      "plays": 1,
+      "last_week_plays": 0,
+      "change": "NEW"
+    }
+  ],
+  "dropped_off": [],
+  "discovery": {
+    "new_artists": [
+      {
+        "name": "Westside Gunn",
+        "plays": 13
+      },
+      {
+        "name": "The Alchemist",
+        "plays": 8
+      },
+      {
+        "name": "Benny The Butcher",
+        "plays": 6
+      },
+      {
+        "name": "Boldy James",
+        "plays": 5
+      },
+      {
+        "name": "Drake",
+        "plays": 3
+      },
+      {
+        "name": "Conway the Machine",
+        "plays": 3
+      },
+      {
+        "name": "Freddie Gibbs",
+        "plays": 3
+      },
+      {
+        "name": "Mach-Hommy",
+        "plays": 2
+      },
+      {
+        "name": "21 Savage",
+        "plays": 2
+      },
+      {
+        "name": "J. Cole",
+        "plays": 2
+      }
+    ],
+    "plays_of_new_tracks_pct": 100,
+    "note": "New = first time in the log (only meaningful once the log has some history)."
+  },
+  "on_repeat": [],
+  "time_of_day": {
+    "Late night (12am-5am)": 0,
+    "Morning (5am-12pm)": 17,
+    "Afternoon (12pm-5pm)": 28,
+    "Evening (5pm-9pm)": 10,
+    "Night (9pm-12am)": 0
+  },
+  "day_of_week": {
+    "Mon": 55,
+    "Tue": 0,
+    "Wed": 0,
+    "Thu": 0,
+    "Fri": 0,
+    "Sat": 0,
+    "Sun": 0
+  },
+  "busiest_day": "Mon",
+  "streaks": [],
+  "release_eras": {
+    "1960s": 1,
+    "2000s": 2,
+    "2010s": 20,
+    "2020s": 32
+  },
+  "listening_style": {
+    "played_from": {
+      "other": 54,
+      "album": 1
+    },
+    "full_album_sessions": 0
+  },
+  "spotify_top_snapshot": {
+    "short_term": {
+      "artists": [
+        "Future",
+        "Gunna",
+        "Lil Baby",
+        "J. Cole",
+        "Drake",
+        "Westside Gunn",
+        "LUCKI",
+        "Migos",
+        "Freddie Gibbs",
+        "Lil Durk"
+      ]
+    },
+    "medium_term": {
+      "artists": [
+        "LUCKI",
+        "Future",
+        "J. Cole",
+        "Drake",
+        "Lil Baby",
+        "Freddie Gibbs",
+        "Westside Gunn",
+        "Curren$y",
+        "Gunna",
+        "Young Thug"
+      ]
+    },
+    "long_term": {
+      "artists": [
+        "J. Cole",
+        "Drake",
+        "Westside Gunn",
+        "Future",
+        "Freddie Gibbs",
+        "Lil Baby",
+        "Kendrick Lamar",
+        "Benny The Butcher",
+        "Young Thug",
+        "Conway the Machine"
+      ]
+    }
+  }
+}
