@@ -1,0 +1,42 @@
+name: Log Spotify listening
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-log
+  cancel-in-progress: false
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch recent plays
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python spotify_logger.py
+
+      - name: Commit new data
+        run: |
+          git config user.name "spotify-logger"
+          git config user.email "spotify-logger@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No new plays."
+          else
+            git commit -m "Log plays $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
