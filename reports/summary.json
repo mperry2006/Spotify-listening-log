@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-27T16:51-04:00",
+  "generated_at": "2026-10-27T17:49-04:00",
   "window": {
     "start": "2026-10-20",
     "end": "2026-10-27"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 97,
+  "total_plays_logged": 99,
   "this_week": {
-    "plays": 97,
-    "minutes": 308,
-    "unique_tracks": 95,
-    "unique_artists": 73
+    "plays": 99,
+    "minutes": 313,
+    "unique_tracks": 97,
+    "unique_artists": 74
   },
   "last_week": {
     "plays": 0,
@@ -34,7 +34,7 @@
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 13,
+      "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -47,14 +47,14 @@
     },
     {
       "rank": 4,
-      "name": "Boldy James",
-      "plays": 6,
+      "name": "Conway the Machine",
+      "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Conway the Machine",
+      "name": "Boldy James",
       "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
@@ -176,18 +176,18 @@
       },
       {
         "name": "The Alchemist",
-        "plays": 13
+        "plays": 14
       },
       {
         "name": "Benny The Butcher",
         "plays": 8
       },
       {
-        "name": "Boldy James",
-        "plays": 6
+        "name": "Conway the Machine",
+        "plays": 7
       },
       {
-        "name": "Conway the Machine",
+        "name": "Boldy James",
         "plays": 6
       },
       {
@@ -224,12 +224,12 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 17,
     "Afternoon (12pm-5pm)": 31,
-    "Evening (5pm-9pm)": 25,
+    "Evening (5pm-9pm)": 27,
     "Night (9pm-12am)": 10
   },
   "day_of_week": {
     "Mon": 80,
-    "Tue": 17,
+    "Tue": 19,
     "Wed": 0,
     "Thu": 0,
     "Fri": 0,
@@ -242,12 +242,12 @@
     "1960s": 1,
     "2000s": 5,
     "2010s": 38,
-    "2020s": 53
+    "2020s": 55
   },
   "listening_style": {
     "played_from": {
       "other": 94,
-      "playlist": 2,
+      "playlist": 4,
       "album": 1
     },
     "full_album_sessions": 0

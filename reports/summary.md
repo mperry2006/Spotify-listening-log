@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-20 to 2026-10-27** · updated 2026-10-27 16:51 ET
+**2026-10-20 to 2026-10-27** · updated 2026-10-27 17:49 ET
 
-**97 plays** (+97 vs last week) · **308 minutes** · 73 artists · 95 songs
+**99 plays** (+99 vs last week) · **313 minutes** · 74 artists · 97 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -9,10 +9,10 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Westside Gunn | 22 | NEW |
-| 2 | The Alchemist | 13 | NEW |
+| 2 | The Alchemist | 14 | NEW |
 | 3 | Benny The Butcher | 8 | NEW |
-| 4 | Boldy James | 6 | NEW |
-| 5 | Conway the Machine | 6 | NEW |
+| 4 | Conway the Machine | 7 | NEW |
+| 5 | Boldy James | 6 | NEW |
 | 6 | Drake | 5 | NEW |
 | 7 | Young Thug | 5 | NEW |
 | 8 | Freddie Gibbs | 5 | NEW |
@@ -35,7 +35,7 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (22), The Alchemist (13), Benny The Butcher (8), Boldy James (6), Conway the Machine (6), Drake (5), Young Thug (5), Freddie Gibbs (5), Stove God Cooks (5), Gunna (4)
+New artists: Westside Gunn (22), The Alchemist (14), Benny The Butcher (8), Conway the Machine (7), Boldy James (6), Drake (5), Young Thug (5), Freddie Gibbs (5), Stove God Cooks (5), Gunna (4)
 
 ## On repeat (3+ plays)
 - Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn - 3x
@@ -45,11 +45,11 @@ New artists: Westside Gunn (22), The Alchemist (13), Benny The Butcher (8), Bold
 Late night (12am-5am)  █████████ 14
 Morning (5am-12pm)     ███████████ 17
 Afternoon (12pm-5pm)   ████████████████████ 31
-Evening (5pm-9pm)      ████████████████ 25
+Evening (5pm-9pm)      █████████████████ 27
 Night (9pm-12am)       ██████ 10
 
 Mon                    ████████████████████ 80
-Tue                    ████ 17
+Tue                    █████ 19
 Wed                     0
 Thu                     0
 Fri                     0
@@ -58,10 +58,10 @@ Sun                     0
 ```
 
 ## Eras
-1960s: 1, 2000s: 5, 2010s: 38, 2020s: 53
+1960s: 1, 2000s: 5, 2010s: 38, 2020s: 55
 
 ## How you listen
-Played from: other 94, playlist 2, album 1
+Played from: other 94, playlist 4, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 97 plays recorded total._
+_Log started 2026-10-26 · 99 plays recorded total._
