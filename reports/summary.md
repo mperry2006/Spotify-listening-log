@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-19 to 2026-10-26** · updated 2026-10-26 23:51 ET
+**2026-10-20 to 2026-10-27** · updated 2026-10-27 00:49 ET
 
-**79 plays** (+79 vs last week) · **256 minutes** · 62 artists · 78 songs
+**94 plays** (+94 vs last week) · **297 minutes** · 72 artists · 93 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -13,11 +13,11 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | 3 | Benny The Butcher | 8 | NEW |
 | 4 | Boldy James | 6 | NEW |
 | 5 | Conway the Machine | 6 | NEW |
-| 6 | Freddie Gibbs | 5 | NEW |
-| 7 | Stove God Cooks | 5 | NEW |
-| 8 | Curren$y | 4 | NEW |
-| 9 | Rome Streetz | 4 | NEW |
-| 10 | Drake | 3 | NEW |
+| 6 | Drake | 5 | NEW |
+| 7 | Young Thug | 5 | NEW |
+| 8 | Freddie Gibbs | 5 | NEW |
+| 9 | Stove God Cooks | 5 | NEW |
+| 10 | Gunna | 4 | NEW |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,18 +35,18 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (21), The Alchemist (13), Benny The Butcher (8), Boldy James (6), Conway the Machine (6), Freddie Gibbs (5), Stove God Cooks (5), Curren$y (4), Rome Streetz (4), Drake (3)
+New artists: Westside Gunn (21), The Alchemist (13), Benny The Butcher (8), Boldy James (6), Conway the Machine (6), Drake (5), Young Thug (5), Freddie Gibbs (5), Stove God Cooks (5), Gunna (4)
 
 ## When you listen
 ```
-Late night (12am-5am)   0
+Late night (12am-5am)  ██████████ 14
 Morning (5am-12pm)     ████████████ 17
 Afternoon (12pm-5pm)   ████████████████████ 28
 Evening (5pm-9pm)      ██████████████████ 25
-Night (9pm-12am)       ██████ 9
+Night (9pm-12am)       ███████ 10
 
-Mon                    ████████████████████ 79
-Tue                     0
+Mon                    ████████████████████ 80
+Tue                    ████ 14
 Wed                     0
 Thu                     0
 Fri                     0
@@ -55,10 +55,10 @@ Sun                     0
 ```
 
 ## Eras
-1960s: 1, 2000s: 4, 2010s: 29, 2020s: 45
+1960s: 1, 2000s: 5, 2010s: 36, 2020s: 52
 
 ## How you listen
-Played from: other 78, album 1
+Played from: other 93, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 79 plays recorded total._
+_Log started 2026-10-26 · 94 plays recorded total._

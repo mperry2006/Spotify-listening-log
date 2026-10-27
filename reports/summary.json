@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-26T23:51-04:00",
+  "generated_at": "2026-10-27T00:49-04:00",
   "window": {
-    "start": "2026-10-19",
-    "end": "2026-10-26"
+    "start": "2026-10-20",
+    "end": "2026-10-27"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 79,
+  "total_plays_logged": 94,
   "this_week": {
-    "plays": 79,
-    "minutes": 256,
-    "unique_tracks": 78,
-    "unique_artists": 62
+    "plays": 94,
+    "minutes": 297,
+    "unique_tracks": 93,
+    "unique_artists": 72
   },
   "last_week": {
     "plays": 0,
@@ -61,36 +61,36 @@
     },
     {
       "rank": 6,
-      "name": "Freddie Gibbs",
+      "name": "Drake",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Stove God Cooks",
+      "name": "Young Thug",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Curren$y",
-      "plays": 4,
+      "name": "Freddie Gibbs",
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Rome Streetz",
-      "plays": 4,
+      "name": "Stove God Cooks",
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Drake",
-      "plays": 3,
+      "name": "Gunna",
+      "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -191,6 +191,14 @@
         "plays": 6
       },
       {
+        "name": "Drake",
+        "plays": 5
+      },
+      {
+        "name": "Young Thug",
+        "plays": 5
+      },
+      {
         "name": "Freddie Gibbs",
         "plays": 5
       },
@@ -199,16 +207,8 @@
         "plays": 5
       },
       {
-        "name": "Curren$y",
+        "name": "Gunna",
         "plays": 4
-      },
-      {
-        "name": "Rome Streetz",
-        "plays": 4
-      },
-      {
-        "name": "Drake",
-        "plays": 3
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -216,15 +216,15 @@
   },
   "on_repeat": [],
   "time_of_day": {
-    "Late night (12am-5am)": 0,
+    "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 17,
     "Afternoon (12pm-5pm)": 28,
     "Evening (5pm-9pm)": 25,
-    "Night (9pm-12am)": 9
+    "Night (9pm-12am)": 10
   },
   "day_of_week": {
-    "Mon": 79,
-    "Tue": 0,
+    "Mon": 80,
+    "Tue": 14,
     "Wed": 0,
     "Thu": 0,
     "Fri": 0,
@@ -235,13 +235,13 @@
   "streaks": [],
   "release_eras": {
     "1960s": 1,
-    "2000s": 4,
-    "2010s": 29,
-    "2020s": 45
+    "2000s": 5,
+    "2010s": 36,
+    "2020s": 52
   },
   "listening_style": {
     "played_from": {
-      "other": 78,
+      "other": 93,
       "album": 1
     },
     "full_album_sessions": 0
