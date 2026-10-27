@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-26T21:05-04:00",
+  "generated_at": "2026-10-26T21:55-04:00",
   "window": {
     "start": "2026-10-19",
     "end": "2026-10-26"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 72,
+  "total_plays_logged": 75,
   "this_week": {
-    "plays": 72,
-    "minutes": 236,
-    "unique_tracks": 71,
+    "plays": 75,
+    "minutes": 243,
+    "unique_tracks": 74,
     "unique_artists": 58
   },
   "last_week": {
@@ -27,14 +27,14 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 19,
+      "plays": 21,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 11,
+      "plays": 13,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -61,35 +61,35 @@
     },
     {
       "rank": 6,
-      "name": "Stove God Cooks",
+      "name": "Freddie Gibbs",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Freddie Gibbs",
-      "plays": 4,
+      "name": "Stove God Cooks",
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Rome Streetz",
+      "name": "Curren$y",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Drake",
-      "plays": 3,
+      "name": "Rome Streetz",
+      "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Mach-Hommy",
+      "name": "Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -172,11 +172,11 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 19
+        "plays": 21
       },
       {
         "name": "The Alchemist",
-        "plays": 11
+        "plays": 13
       },
       {
         "name": "Benny The Butcher",
@@ -191,11 +191,15 @@
         "plays": 6
       },
       {
+        "name": "Freddie Gibbs",
+        "plays": 5
+      },
+      {
         "name": "Stove God Cooks",
         "plays": 5
       },
       {
-        "name": "Freddie Gibbs",
+        "name": "Curren$y",
         "plays": 4
       },
       {
@@ -204,10 +208,6 @@
       },
       {
         "name": "Drake",
-        "plays": 3
-      },
-      {
-        "name": "Mach-Hommy",
         "plays": 3
       }
     ],
@@ -220,10 +220,10 @@
     "Morning (5am-12pm)": 17,
     "Afternoon (12pm-5pm)": 28,
     "Evening (5pm-9pm)": 25,
-    "Night (9pm-12am)": 2
+    "Night (9pm-12am)": 5
   },
   "day_of_week": {
-    "Mon": 72,
+    "Mon": 75,
     "Tue": 0,
     "Wed": 0,
     "Thu": 0,
@@ -236,12 +236,12 @@
   "release_eras": {
     "1960s": 1,
     "2000s": 2,
-    "2010s": 26,
-    "2020s": 43
+    "2010s": 28,
+    "2020s": 44
   },
   "listening_style": {
     "played_from": {
-      "other": 71,
+      "other": 74,
       "album": 1
     },
     "full_album_sessions": 0
