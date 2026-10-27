@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T14:58-04:00",
+  "generated_at": "2026-10-27T15:53-04:00",
   "window": {
     "start": "2026-10-20",
     "end": "2026-10-27"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 95,
+  "total_plays_logged": 97,
   "this_week": {
-    "plays": 95,
-    "minutes": 299,
-    "unique_tracks": 94,
+    "plays": 97,
+    "minutes": 308,
+    "unique_tracks": 95,
     "unique_artists": 73
   },
   "last_week": {
@@ -27,7 +27,7 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -99,7 +99,7 @@
     {
       "rank": 1,
       "name": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
-      "plays": 2,
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -172,7 +172,7 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 21
+        "plays": 22
       },
       {
         "name": "The Alchemist",
@@ -214,17 +214,22 @@
     "plays_of_new_tracks_pct": 100,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
-  "on_repeat": [],
+  "on_repeat": [
+    {
+      "track": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
+      "plays": 3
+    }
+  ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 17,
-    "Afternoon (12pm-5pm)": 29,
+    "Afternoon (12pm-5pm)": 31,
     "Evening (5pm-9pm)": 25,
     "Night (9pm-12am)": 10
   },
   "day_of_week": {
     "Mon": 80,
-    "Tue": 15,
+    "Tue": 17,
     "Wed": 0,
     "Thu": 0,
     "Fri": 0,
@@ -236,12 +241,13 @@
   "release_eras": {
     "1960s": 1,
     "2000s": 5,
-    "2010s": 37,
-    "2020s": 52
+    "2010s": 38,
+    "2020s": 53
   },
   "listening_style": {
     "played_from": {
       "other": 94,
+      "playlist": 2,
       "album": 1
     },
     "full_album_sessions": 0
