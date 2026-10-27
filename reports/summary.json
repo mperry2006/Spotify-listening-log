@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-26T19:58-04:00",
+  "generated_at": "2026-10-26T21:05-04:00",
   "window": {
     "start": "2026-10-19",
     "end": "2026-10-26"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 55,
+  "total_plays_logged": 72,
   "this_week": {
-    "plays": 55,
-    "minutes": 185,
-    "unique_tracks": 54,
-    "unique_artists": 54
+    "plays": 72,
+    "minutes": 236,
+    "unique_tracks": 71,
+    "unique_artists": 58
   },
   "last_week": {
     "plays": 0,
@@ -27,70 +27,70 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 13,
+      "plays": 19,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 8,
+      "plays": 11,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
       "name": "Benny The Butcher",
-      "plays": 6,
+      "plays": 8,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
       "name": "Boldy James",
-      "plays": 5,
+      "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Drake",
-      "plays": 3,
+      "name": "Conway the Machine",
+      "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Conway the Machine",
-      "plays": 3,
+      "name": "Stove God Cooks",
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
       "name": "Freddie Gibbs",
-      "plays": 3,
+      "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Mach-Hommy",
-      "plays": 2,
+      "name": "Rome Streetz",
+      "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "21 Savage",
-      "plays": 2,
+      "name": "Drake",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "J. Cole",
-      "plays": 2,
+      "name": "Mach-Hommy",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -172,43 +172,43 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 13
+        "plays": 19
       },
       {
         "name": "The Alchemist",
-        "plays": 8
+        "plays": 11
       },
       {
         "name": "Benny The Butcher",
-        "plays": 6
+        "plays": 8
       },
       {
         "name": "Boldy James",
+        "plays": 6
+      },
+      {
+        "name": "Conway the Machine",
+        "plays": 6
+      },
+      {
+        "name": "Stove God Cooks",
         "plays": 5
+      },
+      {
+        "name": "Freddie Gibbs",
+        "plays": 4
+      },
+      {
+        "name": "Rome Streetz",
+        "plays": 4
       },
       {
         "name": "Drake",
         "plays": 3
       },
       {
-        "name": "Conway the Machine",
-        "plays": 3
-      },
-      {
-        "name": "Freddie Gibbs",
-        "plays": 3
-      },
-      {
         "name": "Mach-Hommy",
-        "plays": 2
-      },
-      {
-        "name": "21 Savage",
-        "plays": 2
-      },
-      {
-        "name": "J. Cole",
-        "plays": 2
+        "plays": 3
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -219,11 +219,11 @@
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 17,
     "Afternoon (12pm-5pm)": 28,
-    "Evening (5pm-9pm)": 10,
-    "Night (9pm-12am)": 0
+    "Evening (5pm-9pm)": 25,
+    "Night (9pm-12am)": 2
   },
   "day_of_week": {
-    "Mon": 55,
+    "Mon": 72,
     "Tue": 0,
     "Wed": 0,
     "Thu": 0,
@@ -236,12 +236,12 @@
   "release_eras": {
     "1960s": 1,
     "2000s": 2,
-    "2010s": 20,
-    "2020s": 32
+    "2010s": 26,
+    "2020s": 43
   },
   "listening_style": {
     "played_from": {
-      "other": 54,
+      "other": 71,
       "album": 1
     },
     "full_album_sessions": 0
