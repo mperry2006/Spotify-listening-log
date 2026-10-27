@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-19 to 2026-10-26** · updated 2026-10-26 22:50 ET
+**2026-10-19 to 2026-10-26** · updated 2026-10-26 23:51 ET
 
-**75 plays** (+75 vs last week) · **243 minutes** · 58 artists · 74 songs
+**79 plays** (+79 vs last week) · **256 minutes** · 62 artists · 78 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -43,9 +43,9 @@ Late night (12am-5am)   0
 Morning (5am-12pm)     ████████████ 17
 Afternoon (12pm-5pm)   ████████████████████ 28
 Evening (5pm-9pm)      ██████████████████ 25
-Night (9pm-12am)       ████ 5
+Night (9pm-12am)       ██████ 9
 
-Mon                    ████████████████████ 75
+Mon                    ████████████████████ 79
 Tue                     0
 Wed                     0
 Thu                     0
@@ -55,10 +55,10 @@ Sun                     0
 ```
 
 ## Eras
-1960s: 1, 2000s: 2, 2010s: 28, 2020s: 44
+1960s: 1, 2000s: 4, 2010s: 29, 2020s: 45
 
 ## How you listen
-Played from: other 74, album 1
+Played from: other 78, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 75 plays recorded total._
+_Log started 2026-10-26 · 79 plays recorded total._
