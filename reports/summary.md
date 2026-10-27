@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-20 to 2026-10-27** · updated 2026-10-27 12:59 ET
+**2026-10-20 to 2026-10-27** · updated 2026-10-27 13:57 ET
 
-**94 plays** (+94 vs last week) · **297 minutes** · 72 artists · 93 songs
+**95 plays** (+95 vs last week) · **299 minutes** · 73 artists · 94 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -41,12 +41,12 @@ New artists: Westside Gunn (21), The Alchemist (13), Benny The Butcher (8), Bold
 ```
 Late night (12am-5am)  ██████████ 14
 Morning (5am-12pm)     ████████████ 17
-Afternoon (12pm-5pm)   ████████████████████ 28
-Evening (5pm-9pm)      ██████████████████ 25
+Afternoon (12pm-5pm)   ████████████████████ 29
+Evening (5pm-9pm)      █████████████████ 25
 Night (9pm-12am)       ███████ 10
 
 Mon                    ████████████████████ 80
-Tue                    ████ 14
+Tue                    ████ 15
 Wed                     0
 Thu                     0
 Fri                     0
@@ -55,10 +55,10 @@ Sun                     0
 ```
 
 ## Eras
-1960s: 1, 2000s: 5, 2010s: 36, 2020s: 52
+1960s: 1, 2000s: 5, 2010s: 37, 2020s: 52
 
 ## How you listen
-Played from: other 93, album 1
+Played from: other 94, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 94 plays recorded total._
+_Log started 2026-10-26 · 95 plays recorded total._
