@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-27T18:49-04:00",
+  "generated_at": "2026-10-27T19:45-04:00",
   "window": {
     "start": "2026-10-20",
     "end": "2026-10-27"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 99,
+  "total_plays_logged": 108,
   "this_week": {
-    "plays": 99,
-    "minutes": 313,
-    "unique_tracks": 97,
-    "unique_artists": 74
+    "plays": 108,
+    "minutes": 341,
+    "unique_tracks": 106,
+    "unique_artists": 77
   },
   "last_week": {
     "plays": 0,
@@ -61,36 +61,36 @@
     },
     {
       "rank": 6,
+      "name": "Kanye West",
+      "plays": 6,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
       "name": "Drake",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
-      "name": "Young Thug",
-      "plays": 5,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 8,
-      "name": "Freddie Gibbs",
+      "name": "Gunna",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Stove God Cooks",
+      "name": "Young Thug",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Gunna",
-      "plays": 4,
+      "name": "Freddie Gibbs",
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -191,7 +191,15 @@
         "plays": 6
       },
       {
+        "name": "Kanye West",
+        "plays": 6
+      },
+      {
         "name": "Drake",
+        "plays": 5
+      },
+      {
+        "name": "Gunna",
         "plays": 5
       },
       {
@@ -201,14 +209,6 @@
       {
         "name": "Freddie Gibbs",
         "plays": 5
-      },
-      {
-        "name": "Stove God Cooks",
-        "plays": 5
-      },
-      {
-        "name": "Gunna",
-        "plays": 4
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -224,12 +224,12 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 17,
     "Afternoon (12pm-5pm)": 31,
-    "Evening (5pm-9pm)": 27,
+    "Evening (5pm-9pm)": 36,
     "Night (9pm-12am)": 10
   },
   "day_of_week": {
     "Mon": 80,
-    "Tue": 19,
+    "Tue": 28,
     "Wed": 0,
     "Thu": 0,
     "Fri": 0,
@@ -240,14 +240,15 @@
   "streaks": [],
   "release_eras": {
     "1960s": 1,
-    "2000s": 5,
-    "2010s": 38,
-    "2020s": 55
+    "1990s": 1,
+    "2000s": 7,
+    "2010s": 39,
+    "2020s": 60
   },
   "listening_style": {
     "played_from": {
-      "other": 94,
-      "playlist": 4,
+      "other": 96,
+      "playlist": 11,
       "album": 1
     },
     "full_album_sessions": 0
