@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T13:58-04:00",
+  "generated_at": "2026-10-28T15:05-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 173,
+  "total_plays_logged": 190,
   "this_week": {
-    "plays": 173,
-    "minutes": 553,
-    "unique_tracks": 167,
-    "unique_artists": 120
+    "plays": 190,
+    "minutes": 611,
+    "unique_tracks": 184,
+    "unique_artists": 127
   },
   "last_week": {
     "plays": 0,
@@ -27,49 +27,49 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
-      "name": "Young Thug",
-      "plays": 9,
+      "name": "Conway the Machine",
+      "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
+      "name": "Drake",
       "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "Young Thug",
       "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Drake",
-      "plays": 8,
+      "name": "Freddie Gibbs",
+      "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Freddie Gibbs",
-      "plays": 8,
+      "name": "Future",
+      "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -89,7 +89,7 @@
     },
     {
       "rank": 10,
-      "name": "Kanye West",
+      "name": "J. Cole",
       "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
@@ -172,31 +172,31 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 27
+        "plays": 28
       },
       {
         "name": "The Alchemist",
-        "plays": 18
+        "plays": 19
+      },
+      {
+        "name": "Conway the Machine",
+        "plays": 10
+      },
+      {
+        "name": "Drake",
+        "plays": 9
       },
       {
         "name": "Young Thug",
         "plays": 9
       },
       {
-        "name": "Conway the Machine",
+        "name": "Freddie Gibbs",
         "plays": 9
       },
       {
         "name": "Future",
         "plays": 9
-      },
-      {
-        "name": "Drake",
-        "plays": 8
-      },
-      {
-        "name": "Freddie Gibbs",
-        "plays": 8
       },
       {
         "name": "Benny The Butcher",
@@ -207,7 +207,7 @@
         "plays": 7
       },
       {
-        "name": "Kanye West",
+        "name": "J. Cole",
         "plays": 7
       }
     ],
@@ -223,14 +223,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 36,
-    "Afternoon (12pm-5pm)": 57,
+    "Afternoon (12pm-5pm)": 74,
     "Evening (5pm-9pm)": 50,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 45,
+    "Wed": 62,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -262,13 +262,13 @@
   "release_eras": {
     "1960s": 1,
     "1990s": 2,
-    "2000s": 11,
-    "2010s": 63,
-    "2020s": 96
+    "2000s": 12,
+    "2010s": 69,
+    "2020s": 106
   },
   "listening_style": {
     "played_from": {
-      "other": 151,
+      "other": 168,
       "playlist": 21,
       "album": 1
     },
