@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T17:54-04:00",
+  "generated_at": "2026-10-28T18:53-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 228,
+  "total_plays_logged": 244,
   "this_week": {
-    "plays": 228,
-    "minutes": 730,
-    "unique_tracks": 218,
-    "unique_artists": 142
+    "plays": 244,
+    "minutes": 780,
+    "unique_tracks": 234,
+    "unique_artists": 145
   },
   "last_week": {
     "plays": 0,
@@ -27,7 +27,7 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -40,57 +40,57 @@
     },
     {
       "rank": 3,
-      "name": "Conway the Machine",
-      "plays": 13,
+      "name": "Young Thug",
+      "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Drake",
-      "plays": 12,
+      "name": "Conway the Machine",
+      "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Young Thug",
-      "plays": 12,
+      "name": "Drake",
+      "plays": 13,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
       "name": "Future",
-      "plays": 11,
+      "plays": 13,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Freddie Gibbs",
+      "name": "Kanye West",
       "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Kanye West",
-      "plays": 9,
+      "name": "Freddie Gibbs",
+      "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
       "name": "Benny The Butcher",
-      "plays": 9,
+      "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
       "name": "Boldy James",
-      "plays": 8,
+      "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -172,43 +172,43 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 29
+        "plays": 30
       },
       {
         "name": "The Alchemist",
         "plays": 22
       },
       {
+        "name": "Young Thug",
+        "plays": 14
+      },
+      {
         "name": "Conway the Machine",
-        "plays": 13
+        "plays": 14
       },
       {
         "name": "Drake",
-        "plays": 12
-      },
-      {
-        "name": "Young Thug",
-        "plays": 12
+        "plays": 13
       },
       {
         "name": "Future",
-        "plays": 11
+        "plays": 13
+      },
+      {
+        "name": "Kanye West",
+        "plays": 10
       },
       {
         "name": "Freddie Gibbs",
         "plays": 10
       },
       {
-        "name": "Kanye West",
-        "plays": 9
-      },
-      {
         "name": "Benny The Butcher",
-        "plays": 9
+        "plays": 10
       },
       {
         "name": "Boldy James",
-        "plays": 8
+        "plays": 9
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -228,13 +228,13 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 36,
     "Afternoon (12pm-5pm)": 100,
-    "Evening (5pm-9pm)": 62,
+    "Evening (5pm-9pm)": 78,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 100,
+    "Wed": 116,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -267,13 +267,13 @@
     "1960s": 1,
     "1980s": 1,
     "1990s": 4,
-    "2000s": 16,
-    "2010s": 78,
-    "2020s": 128
+    "2000s": 18,
+    "2010s": 83,
+    "2020s": 137
   },
   "listening_style": {
     "played_from": {
-      "other": 206,
+      "other": 222,
       "playlist": 21,
       "album": 1
     },
