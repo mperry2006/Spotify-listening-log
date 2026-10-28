@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-27T19:45-04:00",
+  "generated_at": "2026-10-27T21:17-04:00",
   "window": {
     "start": "2026-10-20",
     "end": "2026-10-27"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 108,
+  "total_plays_logged": 123,
   "this_week": {
-    "plays": 108,
-    "minutes": 341,
-    "unique_tracks": 106,
-    "unique_artists": 77
+    "plays": 123,
+    "minutes": 394,
+    "unique_tracks": 119,
+    "unique_artists": 84
   },
   "last_week": {
     "plays": 0,
@@ -27,62 +27,62 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 22,
+      "plays": 24,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 14,
+      "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
+      "name": "Conway the Machine",
+      "plays": 9,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
       "name": "Benny The Butcher",
       "plays": 8,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 7,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 5,
-      "name": "Boldy James",
+      "name": "Drake",
       "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Kanye West",
+      "name": "Boldy James",
       "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Drake",
-      "plays": 5,
+      "name": "Young Thug",
+      "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Gunna",
-      "plays": 5,
+      "name": "Kanye West",
+      "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Young Thug",
+      "name": "Gunna",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
@@ -105,63 +105,63 @@
     },
     {
       "rank": 2,
+      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
+      "name": "HEATED - Beyoncé",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
       "name": "Passionfruit - Drake",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Carruth - Boldy James",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "Dance Floor Love - Westside Gunn",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Uuuu - Steve Lacy",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Apple Juice - Mach-Hommy",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "go crazy - Gunna",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
-      "plays": 1,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 9,
-      "name": "Who Cares Anyway - Masego",
-      "plays": 1,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "cLOUDs - J. Cole",
+      "name": "Who Cares Anyway - Masego",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
@@ -172,22 +172,30 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 22
+        "plays": 24
       },
       {
         "name": "The Alchemist",
-        "plays": 14
+        "plays": 15
+      },
+      {
+        "name": "Conway the Machine",
+        "plays": 9
       },
       {
         "name": "Benny The Butcher",
         "plays": 8
       },
       {
-        "name": "Conway the Machine",
-        "plays": 7
+        "name": "Drake",
+        "plays": 6
       },
       {
         "name": "Boldy James",
+        "plays": 6
+      },
+      {
+        "name": "Young Thug",
         "plays": 6
       },
       {
@@ -195,15 +203,7 @@
         "plays": 6
       },
       {
-        "name": "Drake",
-        "plays": 5
-      },
-      {
         "name": "Gunna",
-        "plays": 5
-      },
-      {
-        "name": "Young Thug",
         "plays": 5
       },
       {
@@ -224,12 +224,12 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 17,
     "Afternoon (12pm-5pm)": 31,
-    "Evening (5pm-9pm)": 36,
-    "Night (9pm-12am)": 10
+    "Evening (5pm-9pm)": 50,
+    "Night (9pm-12am)": 11
   },
   "day_of_week": {
     "Mon": 80,
-    "Tue": 28,
+    "Tue": 43,
     "Wed": 0,
     "Thu": 0,
     "Fri": 0,
@@ -242,13 +242,13 @@
     "1960s": 1,
     "1990s": 1,
     "2000s": 7,
-    "2010s": 39,
-    "2020s": 60
+    "2010s": 46,
+    "2020s": 68
   },
   "listening_style": {
     "played_from": {
-      "other": 96,
-      "playlist": 11,
+      "other": 101,
+      "playlist": 21,
       "album": 1
     },
     "full_album_sessions": 0
@@ -256,16 +256,16 @@
   "spotify_top_snapshot": {
     "short_term": {
       "artists": [
+        "Westside Gunn",
         "Future",
-        "Gunna",
         "Lil Baby",
         "J. Cole",
+        "Gunna",
         "Drake",
-        "Westside Gunn",
         "LUCKI",
         "Migos",
-        "Freddie Gibbs",
-        "Lil Durk"
+        "Lil Durk",
+        "JAŸ-Z"
       ]
     },
     "medium_term": {
