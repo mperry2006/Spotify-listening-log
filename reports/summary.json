@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T11:09-04:00",
+  "generated_at": "2026-10-28T12:05-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 145,
+  "total_plays_logged": 148,
   "this_week": {
-    "plays": 145,
-    "minutes": 459,
-    "unique_tracks": 140,
-    "unique_artists": 97
+    "plays": 148,
+    "minutes": 468,
+    "unique_tracks": 142,
+    "unique_artists": 99
   },
   "last_week": {
     "plays": 0,
@@ -75,21 +75,21 @@
     },
     {
       "rank": 8,
-      "name": "Future",
+      "name": "Freddie Gibbs",
       "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Drake",
-      "plays": 6,
+      "name": "Future",
+      "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Gunna",
+      "name": "Drake",
       "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
@@ -119,49 +119,49 @@
     },
     {
       "rank": 4,
-      "name": "HEATED - Beyoncé",
+      "name": "Low Down - Lil Baby",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
+      "name": "HEATED - Beyoncé",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 6,
       "name": "Passionfruit - Drake",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Carruth - Boldy James",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Dance Floor Love - Westside Gunn",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Uuuu - Steve Lacy",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Apple Juice - Mach-Hommy",
-      "plays": 1,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "go crazy - Gunna",
+      "name": "Apple Juice - Mach-Hommy",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
@@ -199,15 +199,15 @@
         "plays": 7
       },
       {
+        "name": "Freddie Gibbs",
+        "plays": 7
+      },
+      {
         "name": "Future",
         "plays": 7
       },
       {
         "name": "Drake",
-        "plays": 6
-      },
-      {
-        "name": "Gunna",
         "plays": 6
       }
     ],
@@ -222,15 +222,15 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 34,
-    "Afternoon (12pm-5pm)": 31,
+    "Morning (5am-12pm)": 36,
+    "Afternoon (12pm-5pm)": 32,
     "Evening (5pm-9pm)": 50,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 17,
+    "Wed": 20,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -263,12 +263,12 @@
     "1960s": 1,
     "1990s": 1,
     "2000s": 8,
-    "2010s": 54,
-    "2020s": 81
+    "2010s": 55,
+    "2020s": 83
   },
   "listening_style": {
     "played_from": {
-      "other": 123,
+      "other": 126,
       "playlist": 21,
       "album": 1
     },
