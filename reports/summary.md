@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-21 to 2026-10-28** · updated 2026-10-28 13:04 ET
+**2026-10-21 to 2026-10-28** · updated 2026-10-28 13:58 ET
 
-**163 plays** (+163 vs last week) · **518 minutes** · 111 artists · 157 songs
+**173 plays** (+173 vs last week) · **553 minutes** · 120 artists · 167 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Westside Gunn | 27 | NEW |
-| 2 | The Alchemist | 17 | NEW |
-| 3 | Conway the Machine | 9 | NEW |
-| 4 | Young Thug | 8 | NEW |
-| 5 | Benny The Butcher | 8 | NEW |
-| 6 | Drake | 7 | NEW |
-| 7 | Boldy James | 7 | NEW |
-| 8 | Kanye West | 7 | NEW |
-| 9 | Freddie Gibbs | 7 | NEW |
-| 10 | Future | 7 | NEW |
+| 2 | The Alchemist | 18 | NEW |
+| 3 | Young Thug | 9 | NEW |
+| 4 | Conway the Machine | 9 | NEW |
+| 5 | Future | 9 | NEW |
+| 6 | Drake | 8 | NEW |
+| 7 | Freddie Gibbs | 8 | NEW |
+| 8 | Benny The Butcher | 8 | NEW |
+| 9 | Boldy James | 7 | NEW |
+| 10 | Kanye West | 7 | NEW |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,22 +35,22 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (27), The Alchemist (17), Conway the Machine (9), Young Thug (8), Benny The Butcher (8), Drake (7), Boldy James (7), Kanye West (7), Freddie Gibbs (7), Future (7)
+New artists: Westside Gunn (27), The Alchemist (18), Young Thug (9), Conway the Machine (9), Future (9), Drake (8), Freddie Gibbs (8), Benny The Butcher (8), Boldy James (7), Kanye West (7)
 
 ## On repeat (3+ plays)
 - Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn - 3x
 
 ## When you listen
 ```
-Late night (12am-5am)  ██████ 14
-Morning (5am-12pm)     ██████████████ 36
-Afternoon (12pm-5pm)   ███████████████████ 47
-Evening (5pm-9pm)      ████████████████████ 50
+Late night (12am-5am)  █████ 14
+Morning (5am-12pm)     █████████████ 36
+Afternoon (12pm-5pm)   ████████████████████ 57
+Evening (5pm-9pm)      ██████████████████ 50
 Night (9pm-12am)       ██████ 16
 
 Mon                    ████████████████████ 80
 Tue                    ████████████ 48
-Wed                    █████████ 35
+Wed                    ███████████ 45
 Thu                     0
 Fri                     0
 Sat                     0
@@ -65,10 +65,10 @@ Sun                     0
 - 21 Savage: 3 days in a row
 
 ## Eras
-1960s: 1, 1990s: 1, 2000s: 10, 2010s: 60, 2020s: 91
+1960s: 1, 1990s: 2, 2000s: 11, 2010s: 63, 2020s: 96
 
 ## How you listen
-Played from: other 141, playlist 21, album 1
+Played from: other 151, playlist 21, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 163 plays recorded total._
+_Log started 2026-10-26 · 173 plays recorded total._
