@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T12:05-04:00",
+  "generated_at": "2026-10-28T13:04-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 148,
+  "total_plays_logged": 163,
   "this_week": {
-    "plays": 148,
-    "minutes": 468,
-    "unique_tracks": 142,
-    "unique_artists": 99
+    "plays": 163,
+    "minutes": 518,
+    "unique_tracks": 157,
+    "unique_artists": 111
   },
   "last_week": {
     "plays": 0,
@@ -27,7 +27,7 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 26,
+      "plays": 27,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -61,36 +61,36 @@
     },
     {
       "rank": 6,
-      "name": "Boldy James",
+      "name": "Drake",
       "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Kanye West",
+      "name": "Boldy James",
       "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Freddie Gibbs",
+      "name": "Kanye West",
       "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Future",
+      "name": "Freddie Gibbs",
       "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Drake",
-      "plays": 6,
+      "name": "Future",
+      "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -172,7 +172,7 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 26
+        "plays": 27
       },
       {
         "name": "The Alchemist",
@@ -191,6 +191,10 @@
         "plays": 8
       },
       {
+        "name": "Drake",
+        "plays": 7
+      },
+      {
         "name": "Boldy James",
         "plays": 7
       },
@@ -205,10 +209,6 @@
       {
         "name": "Future",
         "plays": 7
-      },
-      {
-        "name": "Drake",
-        "plays": 6
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -223,14 +223,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 36,
-    "Afternoon (12pm-5pm)": 32,
+    "Afternoon (12pm-5pm)": 47,
     "Evening (5pm-9pm)": 50,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 20,
+    "Wed": 35,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -239,7 +239,15 @@
   "busiest_day": "Mon",
   "streaks": [
     {
+      "artist": "Drake",
+      "days": 3
+    },
+    {
       "artist": "The Alchemist",
+      "days": 3
+    },
+    {
+      "artist": "Westside Gunn",
       "days": 3
     },
     {
@@ -249,26 +257,18 @@
     {
       "artist": "21 Savage",
       "days": 3
-    },
-    {
-      "artist": "Metro Boomin",
-      "days": 3
-    },
-    {
-      "artist": "Young Thug",
-      "days": 3
     }
   ],
   "release_eras": {
     "1960s": 1,
     "1990s": 1,
-    "2000s": 8,
-    "2010s": 55,
-    "2020s": 83
+    "2000s": 10,
+    "2010s": 60,
+    "2020s": 91
   },
   "listening_style": {
     "played_from": {
-      "other": 126,
+      "other": 141,
       "playlist": 21,
       "album": 1
     },
