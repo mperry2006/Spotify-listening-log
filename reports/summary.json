@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T16:56-04:00",
+  "generated_at": "2026-10-28T17:54-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 215,
+  "total_plays_logged": 228,
   "this_week": {
-    "plays": 215,
-    "minutes": 687,
-    "unique_tracks": 207,
-    "unique_artists": 136
+    "plays": 228,
+    "minutes": 730,
+    "unique_tracks": 218,
+    "unique_artists": 142
   },
   "last_week": {
     "plays": 0,
@@ -41,28 +41,28 @@
     {
       "rank": 3,
       "name": "Conway the Machine",
-      "plays": 12,
+      "plays": 13,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Young Thug",
-      "plays": 11,
+      "name": "Drake",
+      "plays": 12,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 11,
+      "name": "Young Thug",
+      "plays": 12,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Drake",
-      "plays": 10,
+      "name": "Future",
+      "plays": 11,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -75,21 +75,21 @@
     },
     {
       "rank": 8,
-      "name": "Benny The Butcher",
+      "name": "Kanye West",
       "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "J. Cole",
-      "plays": 8,
+      "name": "Benny The Butcher",
+      "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Kanye West",
+      "name": "Boldy James",
       "plays": 8,
       "last_week_plays": 0,
       "change": "NEW"
@@ -112,56 +112,56 @@
     },
     {
       "rank": 3,
-      "name": "No Charge - Future",
+      "name": "Wouldn't Get Far - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Magellanic - Quality Control",
+      "name": "Solid (feat. Drake) - Young Stoner Life",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Low Down - Lil Baby",
+      "name": "No Charge - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "HEATED - Beyoncé",
+      "name": "Magellanic - Quality Control",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
+      "name": "Low Down - Lil Baby",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
+      "name": "HEATED - Beyoncé",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
       "name": "Passionfruit - Drake",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "Carruth - Boldy James",
-      "plays": 1,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 9,
-      "name": "Dance Floor Love - Westside Gunn",
-      "plays": 1,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Uuuu - Steve Lacy",
+      "name": "Carruth - Boldy James",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
@@ -180,34 +180,34 @@
       },
       {
         "name": "Conway the Machine",
+        "plays": 13
+      },
+      {
+        "name": "Drake",
         "plays": 12
       },
       {
         "name": "Young Thug",
-        "plays": 11
+        "plays": 12
       },
       {
         "name": "Future",
         "plays": 11
       },
       {
-        "name": "Drake",
+        "name": "Freddie Gibbs",
         "plays": 10
       },
       {
-        "name": "Freddie Gibbs",
-        "plays": 10
+        "name": "Kanye West",
+        "plays": 9
       },
       {
         "name": "Benny The Butcher",
         "plays": 9
       },
       {
-        "name": "J. Cole",
-        "plays": 8
-      },
-      {
-        "name": "Kanye West",
+        "name": "Boldy James",
         "plays": 8
       }
     ],
@@ -227,14 +227,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 36,
-    "Afternoon (12pm-5pm)": 99,
-    "Evening (5pm-9pm)": 50,
+    "Afternoon (12pm-5pm)": 100,
+    "Evening (5pm-9pm)": 62,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 87,
+    "Wed": 100,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -244,6 +244,10 @@
   "streaks": [
     {
       "artist": "Drake",
+      "days": 3
+    },
+    {
+      "artist": "Boldy James",
       "days": 3
     },
     {
@@ -257,23 +261,19 @@
     {
       "artist": "Gunna",
       "days": 3
-    },
-    {
-      "artist": "21 Savage",
-      "days": 3
     }
   ],
   "release_eras": {
     "1960s": 1,
     "1980s": 1,
-    "1990s": 3,
-    "2000s": 15,
-    "2010s": 74,
-    "2020s": 121
+    "1990s": 4,
+    "2000s": 16,
+    "2010s": 78,
+    "2020s": 128
   },
   "listening_style": {
     "played_from": {
-      "other": 193,
+      "other": 206,
       "playlist": 21,
       "album": 1
     },
