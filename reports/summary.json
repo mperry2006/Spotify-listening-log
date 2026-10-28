@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T15:05-04:00",
+  "generated_at": "2026-10-28T15:58-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 190,
+  "total_plays_logged": 203,
   "this_week": {
-    "plays": 190,
-    "minutes": 611,
-    "unique_tracks": 184,
-    "unique_artists": 127
+    "plays": 203,
+    "minutes": 647,
+    "unique_tracks": 195,
+    "unique_artists": 130
   },
   "last_week": {
     "plays": 0,
@@ -27,69 +27,69 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 28,
+      "plays": 29,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 19,
+      "plays": 21,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
       "name": "Conway the Machine",
-      "plays": 10,
+      "plays": 11,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Drake",
-      "plays": 9,
+      "name": "Future",
+      "plays": 11,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
       "name": "Young Thug",
-      "plays": 9,
+      "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Freddie Gibbs",
+      "name": "Drake",
       "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Future",
+      "name": "Freddie Gibbs",
       "plays": 9,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Benny The Butcher",
+      "name": "Kanye West",
       "plays": 8,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Boldy James",
-      "plays": 7,
+      "name": "Benny The Butcher",
+      "plays": 8,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "J. Cole",
+      "name": "Boldy James",
       "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
@@ -98,70 +98,70 @@
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
+      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
-      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
-      "plays": 2,
+      "name": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
-      "name": "Magellanic - Quality Control",
+      "name": "No Charge - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Low Down - Lil Baby",
+      "name": "Magellanic - Quality Control",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "HEATED - Beyoncé",
+      "name": "Low Down - Lil Baby",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
+      "name": "HEATED - Beyoncé",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
       "name": "Passionfruit - Drake",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Carruth - Boldy James",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Dance Floor Love - Westside Gunn",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Uuuu - Steve Lacy",
-      "plays": 1,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Apple Juice - Mach-Hommy",
+      "name": "Uuuu - Steve Lacy",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
@@ -172,14 +172,22 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 28
+        "plays": 29
       },
       {
         "name": "The Alchemist",
-        "plays": 19
+        "plays": 21
       },
       {
         "name": "Conway the Machine",
+        "plays": 11
+      },
+      {
+        "name": "Future",
+        "plays": 11
+      },
+      {
+        "name": "Young Thug",
         "plays": 10
       },
       {
@@ -187,16 +195,12 @@
         "plays": 9
       },
       {
-        "name": "Young Thug",
-        "plays": 9
-      },
-      {
         "name": "Freddie Gibbs",
         "plays": 9
       },
       {
-        "name": "Future",
-        "plays": 9
+        "name": "Kanye West",
+        "plays": 8
       },
       {
         "name": "Benny The Butcher",
@@ -205,16 +209,16 @@
       {
         "name": "Boldy James",
         "plays": 7
-      },
-      {
-        "name": "J. Cole",
-        "plays": 7
       }
     ],
     "plays_of_new_tracks_pct": 100,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
+    {
+      "track": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
+      "plays": 3
+    },
     {
       "track": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
       "plays": 3
@@ -223,14 +227,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 36,
-    "Afternoon (12pm-5pm)": 74,
+    "Afternoon (12pm-5pm)": 87,
     "Evening (5pm-9pm)": 50,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 62,
+    "Wed": 75,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -261,14 +265,14 @@
   ],
   "release_eras": {
     "1960s": 1,
-    "1990s": 2,
-    "2000s": 12,
-    "2010s": 69,
-    "2020s": 106
+    "1990s": 3,
+    "2000s": 13,
+    "2010s": 72,
+    "2020s": 114
   },
   "listening_style": {
     "played_from": {
-      "other": 168,
+      "other": 181,
       "playlist": 21,
       "album": 1
     },
