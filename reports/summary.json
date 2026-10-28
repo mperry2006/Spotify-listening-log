@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-27T21:17-04:00",
+  "generated_at": "2026-10-27T22:58-04:00",
   "window": {
     "start": "2026-10-20",
     "end": "2026-10-27"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 123,
+  "total_plays_logged": 128,
   "this_week": {
-    "plays": 123,
-    "minutes": 394,
-    "unique_tracks": 119,
-    "unique_artists": 84
+    "plays": 128,
+    "minutes": 411,
+    "unique_tracks": 124,
+    "unique_artists": 85
   },
   "last_week": {
     "plays": 0,
@@ -27,14 +27,14 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 24,
+      "plays": 26,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 15,
+      "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -54,14 +54,14 @@
     },
     {
       "rank": 5,
-      "name": "Drake",
-      "plays": 6,
+      "name": "Boldy James",
+      "plays": 7,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Boldy James",
+      "name": "Drake",
       "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
@@ -82,14 +82,14 @@
     },
     {
       "rank": 9,
-      "name": "Gunna",
-      "plays": 5,
+      "name": "Freddie Gibbs",
+      "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Freddie Gibbs",
+      "name": "Gunna",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
@@ -172,11 +172,11 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 24
+        "plays": 26
       },
       {
         "name": "The Alchemist",
-        "plays": 15
+        "plays": 16
       },
       {
         "name": "Conway the Machine",
@@ -187,11 +187,11 @@
         "plays": 8
       },
       {
-        "name": "Drake",
-        "plays": 6
+        "name": "Boldy James",
+        "plays": 7
       },
       {
-        "name": "Boldy James",
+        "name": "Drake",
         "plays": 6
       },
       {
@@ -203,11 +203,11 @@
         "plays": 6
       },
       {
-        "name": "Gunna",
-        "plays": 5
+        "name": "Freddie Gibbs",
+        "plays": 6
       },
       {
-        "name": "Freddie Gibbs",
+        "name": "Gunna",
         "plays": 5
       }
     ],
@@ -225,11 +225,11 @@
     "Morning (5am-12pm)": 17,
     "Afternoon (12pm-5pm)": 31,
     "Evening (5pm-9pm)": 50,
-    "Night (9pm-12am)": 11
+    "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
-    "Tue": 43,
+    "Tue": 48,
     "Wed": 0,
     "Thu": 0,
     "Fri": 0,
@@ -242,12 +242,12 @@
     "1960s": 1,
     "1990s": 1,
     "2000s": 7,
-    "2010s": 46,
-    "2020s": 68
+    "2010s": 47,
+    "2020s": 72
   },
   "listening_style": {
     "played_from": {
-      "other": 101,
+      "other": 106,
       "playlist": 21,
       "album": 1
     },
