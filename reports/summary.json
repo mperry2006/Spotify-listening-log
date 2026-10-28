@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-28T18:53-04:00",
+  "generated_at": "2026-10-28T19:50-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 244,
+  "total_plays_logged": 246,
   "this_week": {
-    "plays": 244,
-    "minutes": 780,
-    "unique_tracks": 234,
+    "plays": 245,
+    "minutes": 783,
+    "unique_tracks": 235,
     "unique_artists": 145
   },
   "last_week": {
@@ -19,9 +19,19 @@
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 0,
-    "skipped_plays": 0,
-    "most_skipped_tracks": [],
-    "most_skipped_artists": []
+    "skipped_plays": 1,
+    "most_skipped_tracks": [
+      {
+        "track": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff) - Metro Boomin",
+        "skips": 1
+      }
+    ],
+    "most_skipped_artists": [
+      {
+        "artist": "Metro Boomin",
+        "skips": 1
+      }
+    ]
   },
   "top_artists": [
     {
@@ -228,13 +238,13 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 36,
     "Afternoon (12pm-5pm)": 100,
-    "Evening (5pm-9pm)": 78,
+    "Evening (5pm-9pm)": 79,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 116,
+    "Wed": 117,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -268,12 +278,12 @@
     "1980s": 1,
     "1990s": 4,
     "2000s": 18,
-    "2010s": 83,
+    "2010s": 84,
     "2020s": 137
   },
   "listening_style": {
     "played_from": {
-      "other": 222,
+      "other": 223,
       "playlist": 21,
       "album": 1
     },

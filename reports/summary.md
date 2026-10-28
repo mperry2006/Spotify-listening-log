@@ -1,9 +1,9 @@
 # Listening Report
-**2026-10-21 to 2026-10-28** · updated 2026-10-28 18:53 ET
+**2026-10-21 to 2026-10-28** · updated 2026-10-28 19:50 ET
 
-**244 plays** (+244 vs last week) · **780 minutes** · 145 artists · 234 songs
+**245 plays** (+245 vs last week) · **783 minutes** · 145 artists · 235 songs
 
-_Counting real listens only. 0 skips left out (0% skip rate)._
+_Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
@@ -41,17 +41,20 @@ New artists: Westside Gunn (30), The Alchemist (22), Young Thug (14), Conway the
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
 - Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn - 3x
 
+## Most skipped
+- Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff) - Metro Boomin - skipped 1x
+
 ## When you listen
 ```
 Late night (12am-5am)  ███ 14
 Morning (5am-12pm)     ███████ 36
 Afternoon (12pm-5pm)   ████████████████████ 100
-Evening (5pm-9pm)      ████████████████ 78
+Evening (5pm-9pm)      ████████████████ 79
 Night (9pm-12am)       ███ 16
 
 Mon                    ██████████████ 80
 Tue                    ████████ 48
-Wed                    ████████████████████ 116
+Wed                    ████████████████████ 117
 Thu                     0
 Fri                     0
 Sat                     0
@@ -66,10 +69,10 @@ Sun                     0
 - Gunna: 3 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 4, 2000s: 18, 2010s: 83, 2020s: 137
+1960s: 1, 1980s: 1, 1990s: 4, 2000s: 18, 2010s: 84, 2020s: 137
 
 ## How you listen
-Played from: other 222, playlist 21, album 1
+Played from: other 223, playlist 21, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 244 plays recorded total._
+_Log started 2026-10-26 · 246 plays recorded total._
