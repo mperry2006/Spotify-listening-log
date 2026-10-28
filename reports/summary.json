@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T09:14-04:00",
+  "generated_at": "2026-10-28T10:13-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 128,
+  "total_plays_logged": 137,
   "this_week": {
-    "plays": 128,
-    "minutes": 411,
-    "unique_tracks": 124,
-    "unique_artists": 85
+    "plays": 137,
+    "minutes": 436,
+    "unique_tracks": 133,
+    "unique_artists": 92
   },
   "last_week": {
     "plays": 0,
@@ -34,7 +34,7 @@
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 16,
+      "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -61,21 +61,21 @@
     },
     {
       "rank": 6,
+      "name": "Kanye West",
+      "plays": 7,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
       "name": "Drake",
       "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
-      "name": "Young Thug",
-      "plays": 6,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 8,
-      "name": "Kanye West",
+      "name": "Young Thug",
       "plays": 6,
       "last_week_plays": 0,
       "change": "NEW"
@@ -176,7 +176,7 @@
       },
       {
         "name": "The Alchemist",
-        "plays": 16
+        "plays": 17
       },
       {
         "name": "Conway the Machine",
@@ -191,15 +191,15 @@
         "plays": 7
       },
       {
+        "name": "Kanye West",
+        "plays": 7
+      },
+      {
         "name": "Drake",
         "plays": 6
       },
       {
         "name": "Young Thug",
-        "plays": 6
-      },
-      {
-        "name": "Kanye West",
         "plays": 6
       },
       {
@@ -222,7 +222,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 17,
+    "Morning (5am-12pm)": 26,
     "Afternoon (12pm-5pm)": 31,
     "Evening (5pm-9pm)": 50,
     "Night (9pm-12am)": 16
@@ -230,24 +230,33 @@
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 0,
+    "Wed": 9,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
   },
   "busiest_day": "Mon",
-  "streaks": [],
+  "streaks": [
+    {
+      "artist": "The Alchemist",
+      "days": 3
+    },
+    {
+      "artist": "Kanye West",
+      "days": 3
+    }
+  ],
   "release_eras": {
     "1960s": 1,
     "1990s": 1,
-    "2000s": 7,
-    "2010s": 47,
-    "2020s": 72
+    "2000s": 8,
+    "2010s": 49,
+    "2020s": 78
   },
   "listening_style": {
     "played_from": {
-      "other": 106,
+      "other": 115,
       "playlist": 21,
       "album": 1
     },

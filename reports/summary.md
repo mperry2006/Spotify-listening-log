@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-21 to 2026-10-28** · updated 2026-10-28 09:14 ET
+**2026-10-21 to 2026-10-28** · updated 2026-10-28 10:13 ET
 
-**128 plays** (+128 vs last week) · **411 minutes** · 85 artists · 124 songs
+**137 plays** (+137 vs last week) · **436 minutes** · 92 artists · 133 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -9,13 +9,13 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Westside Gunn | 26 | NEW |
-| 2 | The Alchemist | 16 | NEW |
+| 2 | The Alchemist | 17 | NEW |
 | 3 | Conway the Machine | 9 | NEW |
 | 4 | Benny The Butcher | 8 | NEW |
 | 5 | Boldy James | 7 | NEW |
-| 6 | Drake | 6 | NEW |
-| 7 | Young Thug | 6 | NEW |
-| 8 | Kanye West | 6 | NEW |
+| 6 | Kanye West | 7 | NEW |
+| 7 | Drake | 6 | NEW |
+| 8 | Young Thug | 6 | NEW |
 | 9 | Freddie Gibbs | 6 | NEW |
 | 10 | Gunna | 5 | NEW |
 
@@ -35,7 +35,7 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (26), The Alchemist (16), Conway the Machine (9), Benny The Butcher (8), Boldy James (7), Drake (6), Young Thug (6), Kanye West (6), Freddie Gibbs (6), Gunna (5)
+New artists: Westside Gunn (26), The Alchemist (17), Conway the Machine (9), Benny The Butcher (8), Boldy James (7), Kanye West (7), Drake (6), Young Thug (6), Freddie Gibbs (6), Gunna (5)
 
 ## On repeat (3+ plays)
 - Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn - 3x
@@ -43,25 +43,29 @@ New artists: Westside Gunn (26), The Alchemist (16), Conway the Machine (9), Ben
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 14
-Morning (5am-12pm)     ███████ 17
+Morning (5am-12pm)     ██████████ 26
 Afternoon (12pm-5pm)   ████████████ 31
 Evening (5pm-9pm)      ████████████████████ 50
 Night (9pm-12am)       ██████ 16
 
 Mon                    ████████████████████ 80
 Tue                    ████████████ 48
-Wed                     0
+Wed                    ██ 9
 Thu                     0
 Fri                     0
 Sat                     0
 Sun                     0
 ```
 
+## Streaks
+- The Alchemist: 3 days in a row
+- Kanye West: 3 days in a row
+
 ## Eras
-1960s: 1, 1990s: 1, 2000s: 7, 2010s: 47, 2020s: 72
+1960s: 1, 1990s: 1, 2000s: 8, 2010s: 49, 2020s: 78
 
 ## How you listen
-Played from: other 106, playlist 21, album 1
+Played from: other 115, playlist 21, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 128 plays recorded total._
+_Log started 2026-10-26 · 137 plays recorded total._
