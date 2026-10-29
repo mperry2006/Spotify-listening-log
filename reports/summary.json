@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T12:07-04:00",
+  "generated_at": "2026-10-29T13:07-04:00",
   "window": {
     "start": "2026-10-22",
     "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 316,
+  "total_plays_logged": 324,
   "this_week": {
-    "plays": 315,
-    "minutes": 1000,
-    "unique_tracks": 298,
-    "unique_artists": 165
+    "plays": 323,
+    "minutes": 1022,
+    "unique_tracks": 306,
+    "unique_artists": 170
   },
   "last_week": {
     "plays": 0,
@@ -57,50 +57,50 @@
     },
     {
       "rank": 4,
-      "name": "Future",
+      "name": "Young Thug",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Young Thug",
-      "plays": 15,
+      "name": "Future",
+      "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
+      "name": "Quality Control",
+      "plays": 16,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
       "name": "Drake",
       "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Benny The Butcher",
       "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Gunna",
       "plays": 12,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Freddie Gibbs",
       "plays": 12,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 10,
-      "name": "21 Savage",
-      "plays": 11,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -193,12 +193,16 @@
         "plays": 18
       },
       {
+        "name": "Young Thug",
+        "plays": 16
+      },
+      {
         "name": "Future",
         "plays": 16
       },
       {
-        "name": "Young Thug",
-        "plays": 15
+        "name": "Quality Control",
+        "plays": 16
       },
       {
         "name": "Drake",
@@ -215,10 +219,6 @@
       {
         "name": "Freddie Gibbs",
         "plays": 12
-      },
-      {
-        "name": "21 Savage",
-        "plays": 11
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -237,7 +237,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 19,
     "Morning (5am-12pm)": 82,
-    "Afternoon (12pm-5pm)": 102,
+    "Afternoon (12pm-5pm)": 110,
     "Evening (5pm-9pm)": 81,
     "Night (9pm-12am)": 31
   },
@@ -245,7 +245,7 @@
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 53,
+    "Thu": 61,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -278,16 +278,16 @@
     "1980s": 1,
     "1990s": 5,
     "2000s": 20,
-    "2010s": 105,
+    "2010s": 113,
     "2020s": 183
   },
   "listening_style": {
     "played_from": {
       "other": 293,
       "playlist": 21,
-      "album": 1
+      "album": 9
     },
-    "full_album_sessions": 0
+    "full_album_sessions": 2
   },
   "spotify_top_snapshot": {
     "short_term": {
