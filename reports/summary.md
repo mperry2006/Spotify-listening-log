@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-22 to 2026-10-29** · updated 2026-10-29 00:00 ET
+**2026-10-22 to 2026-10-29** · updated 2026-10-29 01:00 ET
 
-**263 plays** (+263 vs last week) · **842 minutes** · 151 artists · 250 songs
+**266 plays** (+266 vs last week) · **852 minutes** · 151 artists · 253 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -10,14 +10,14 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 |---|---|---|---|
 | 1 | Westside Gunn | 31 | NEW |
 | 2 | The Alchemist | 23 | NEW |
-| 3 | Conway the Machine | 15 | NEW |
-| 4 | Future | 15 | NEW |
-| 5 | Young Thug | 14 | NEW |
+| 3 | Young Thug | 15 | NEW |
+| 4 | Conway the Machine | 15 | NEW |
+| 5 | Future | 15 | NEW |
 | 6 | Drake | 13 | NEW |
-| 7 | 21 Savage | 10 | NEW |
-| 8 | J. Cole | 10 | NEW |
-| 9 | Kanye West | 10 | NEW |
-| 10 | Freddie Gibbs | 10 | NEW |
+| 7 | 21 Savage | 11 | NEW |
+| 8 | J. Cole | 11 | NEW |
+| 9 | Gunna | 10 | NEW |
+| 10 | Kanye West | 10 | NEW |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (31), The Alchemist (23), Conway the Machine (15), Future (15), Young Thug (14), Drake (13), 21 Savage (10), J. Cole (10), Kanye West (10), Freddie Gibbs (10)
+New artists: Westside Gunn (31), The Alchemist (23), Young Thug (15), Conway the Machine (15), Future (15), Drake (13), 21 Savage (11), J. Cole (11), Gunna (10), Kanye West (10)
 
 ## On repeat (3+ plays)
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
@@ -46,7 +46,7 @@ New artists: Westside Gunn (31), The Alchemist (23), Conway the Machine (15), Fu
 
 ## When you listen
 ```
-Late night (12am-5am)  ███ 15
+Late night (12am-5am)  ████ 18
 Morning (5am-12pm)     ███████ 36
 Afternoon (12pm-5pm)   ████████████████████ 100
 Evening (5pm-9pm)      ████████████████ 81
@@ -55,24 +55,24 @@ Night (9pm-12am)       ██████ 31
 Mon                    ████████████ 80
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
-Thu                     1
+Thu                    █ 4
 Fri                     0
 Sat                     0
 Sun                     0
 ```
 
 ## Streaks
+- Gunna: 4 days in a row
+- 21 Savage: 4 days in a row
+- Young Thug: 4 days in a row
+- J. Cole: 4 days in a row
 - Drake: 3 days in a row
-- Boldy James: 3 days in a row
-- The Alchemist: 3 days in a row
-- Westside Gunn: 3 days in a row
-- Gunna: 3 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 4, 2000s: 20, 2010s: 90, 2020s: 147
+1960s: 1, 1980s: 1, 1990s: 4, 2000s: 20, 2010s: 92, 2020s: 148
 
 ## How you listen
-Played from: other 241, playlist 21, album 1
+Played from: other 244, playlist 21, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 264 plays recorded total._
+_Log started 2026-10-26 · 267 plays recorded total._
