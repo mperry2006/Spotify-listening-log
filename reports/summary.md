@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-22 to 2026-10-29** · updated 2026-10-29 01:00 ET
+**2026-10-22 to 2026-10-29** · updated 2026-10-29 01:57 ET
 
-**266 plays** (+266 vs last week) · **852 minutes** · 151 artists · 253 songs
+**267 plays** (+267 vs last week) · **856 minutes** · 154 artists · 254 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -46,7 +46,7 @@ New artists: Westside Gunn (31), The Alchemist (23), Young Thug (15), Conway the
 
 ## When you listen
 ```
-Late night (12am-5am)  ████ 18
+Late night (12am-5am)  ████ 19
 Morning (5am-12pm)     ███████ 36
 Afternoon (12pm-5pm)   ████████████████████ 100
 Evening (5pm-9pm)      ████████████████ 81
@@ -55,7 +55,7 @@ Night (9pm-12am)       ██████ 31
 Mon                    ████████████ 80
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
-Thu                    █ 4
+Thu                    █ 5
 Fri                     0
 Sat                     0
 Sun                     0
@@ -69,10 +69,10 @@ Sun                     0
 - Drake: 3 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 4, 2000s: 20, 2010s: 92, 2020s: 148
+1960s: 1, 1980s: 1, 1990s: 4, 2000s: 20, 2010s: 93, 2020s: 148
 
 ## How you listen
-Played from: other 244, playlist 21, album 1
+Played from: other 245, playlist 21, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 267 plays recorded total._
+_Log started 2026-10-26 · 268 plays recorded total._
