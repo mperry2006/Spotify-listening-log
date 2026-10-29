@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T17:56-04:00",
+  "generated_at": "2026-10-29T18:55-04:00",
   "window": {
     "start": "2026-10-22",
     "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 363,
+  "total_plays_logged": 364,
   "this_week": {
-    "plays": 362,
-    "minutes": 1151,
-    "unique_tracks": 339,
-    "unique_artists": 183
+    "plays": 363,
+    "minutes": 1155,
+    "unique_tracks": 340,
+    "unique_artists": 184
   },
   "last_week": {
     "plays": 0,
@@ -64,22 +64,22 @@
     },
     {
       "rank": 5,
-      "name": "Young Thug",
+      "name": "Drake",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Quality Control",
+      "name": "Young Thug",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Drake",
-      "plays": 15,
+      "name": "Quality Control",
+      "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -197,16 +197,16 @@
         "plays": 17
       },
       {
+        "name": "Drake",
+        "plays": 16
+      },
+      {
         "name": "Young Thug",
         "plays": 16
       },
       {
         "name": "Quality Control",
         "plays": 16
-      },
-      {
-        "name": "Drake",
-        "plays": 15
       },
       {
         "name": "J. Cole",
@@ -238,14 +238,14 @@
     "Late night (12am-5am)": 19,
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 142,
-    "Evening (5pm-9pm)": 88,
+    "Evening (5pm-9pm)": 89,
     "Night (9pm-12am)": 31
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 100,
+    "Thu": 101,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -278,12 +278,12 @@
     "1980s": 1,
     "1990s": 6,
     "2000s": 23,
-    "2010s": 129,
+    "2010s": 130,
     "2020s": 202
   },
   "listening_style": {
     "played_from": {
-      "other": 332,
+      "other": 333,
       "playlist": 21,
       "album": 9
     },
