@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T13:07-04:00",
+  "generated_at": "2026-10-29T13:59-04:00",
   "window": {
     "start": "2026-10-22",
     "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 324,
+  "total_plays_logged": 336,
   "this_week": {
-    "plays": 323,
-    "minutes": 1022,
-    "unique_tracks": 306,
-    "unique_artists": 170
+    "plays": 335,
+    "minutes": 1064,
+    "unique_tracks": 317,
+    "unique_artists": 172
   },
   "last_week": {
     "plays": 0,
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 39,
+      "plays": 40,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -57,14 +57,14 @@
     },
     {
       "rank": 4,
-      "name": "Young Thug",
-      "plays": 16,
+      "name": "Future",
+      "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "Young Thug",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
@@ -79,7 +79,7 @@
     {
       "rank": 7,
       "name": "Drake",
-      "plays": 14,
+      "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -92,15 +92,15 @@
     },
     {
       "rank": 9,
-      "name": "Gunna",
-      "plays": 12,
+      "name": "Lil Baby",
+      "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Freddie Gibbs",
-      "plays": 12,
+      "name": "Gunna",
+      "plays": 13,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -182,7 +182,7 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 39
+        "plays": 40
       },
       {
         "name": "The Alchemist",
@@ -193,11 +193,11 @@
         "plays": 18
       },
       {
-        "name": "Young Thug",
-        "plays": 16
+        "name": "Future",
+        "plays": 17
       },
       {
-        "name": "Future",
+        "name": "Young Thug",
         "plays": 16
       },
       {
@@ -206,19 +206,19 @@
       },
       {
         "name": "Drake",
-        "plays": 14
+        "plays": 15
       },
       {
         "name": "Benny The Butcher",
         "plays": 14
       },
       {
-        "name": "Gunna",
-        "plays": 12
+        "name": "Lil Baby",
+        "plays": 14
       },
       {
-        "name": "Freddie Gibbs",
-        "plays": 12
+        "name": "Gunna",
+        "plays": 13
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -237,7 +237,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 19,
     "Morning (5am-12pm)": 82,
-    "Afternoon (12pm-5pm)": 110,
+    "Afternoon (12pm-5pm)": 122,
     "Evening (5pm-9pm)": 81,
     "Night (9pm-12am)": 31
   },
@@ -245,7 +245,7 @@
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 61,
+    "Thu": 73,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -277,13 +277,13 @@
     "1960s": 1,
     "1980s": 1,
     "1990s": 5,
-    "2000s": 20,
-    "2010s": 113,
-    "2020s": 183
+    "2000s": 21,
+    "2010s": 116,
+    "2020s": 191
   },
   "listening_style": {
     "played_from": {
-      "other": 293,
+      "other": 305,
       "playlist": 21,
       "album": 9
     },
