@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-21 to 2026-10-28** · updated 2026-10-28 22:10 ET
+**2026-10-21 to 2026-10-28** · updated 2026-10-28 23:00 ET
 
-**247 plays** (+247 vs last week) · **791 minutes** · 146 artists · 236 songs
+**248 plays** (+248 vs last week) · **796 minutes** · 146 artists · 237 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -50,11 +50,11 @@ Late night (12am-5am)  ███ 14
 Morning (5am-12pm)     ███████ 36
 Afternoon (12pm-5pm)   ████████████████████ 100
 Evening (5pm-9pm)      ████████████████ 81
-Night (9pm-12am)       ███ 16
+Night (9pm-12am)       ███ 17
 
 Mon                    █████████████ 80
 Tue                    ████████ 48
-Wed                    ████████████████████ 119
+Wed                    ████████████████████ 120
 Thu                     0
 Fri                     0
 Sat                     0
@@ -69,10 +69,10 @@ Sun                     0
 - Gunna: 3 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 4, 2000s: 19, 2010s: 84, 2020s: 138
+1960s: 1, 1980s: 1, 1990s: 4, 2000s: 19, 2010s: 85, 2020s: 138
 
 ## How you listen
-Played from: other 225, playlist 21, album 1
+Played from: other 226, playlist 21, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 248 plays recorded total._
+_Log started 2026-10-26 · 249 plays recorded total._
