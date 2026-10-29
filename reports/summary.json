@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T09:16-04:00",
+  "generated_at": "2026-10-29T10:18-04:00",
   "window": {
     "start": "2026-10-22",
     "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 281,
+  "total_plays_logged": 297,
   "this_week": {
-    "plays": 280,
-    "minutes": 902,
-    "unique_tracks": 266,
-    "unique_artists": 158
+    "plays": 296,
+    "minutes": 948,
+    "unique_tracks": 281,
+    "unique_artists": 164
   },
   "last_week": {
     "plays": 0,
@@ -37,27 +37,27 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 33,
+      "plays": 37,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 24,
+      "plays": 29,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
-      "name": "Young Thug",
-      "plays": 15,
+      "name": "Conway the Machine",
+      "plays": 18,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
+      "name": "Young Thug",
       "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
@@ -85,22 +85,22 @@
     },
     {
       "rank": 8,
+      "name": "Benny The Butcher",
+      "plays": 12,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
       "name": "21 Savage",
       "plays": 11,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "J. Cole",
       "plays": 11,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 10,
-      "name": "Gunna",
-      "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -136,42 +136,42 @@
     },
     {
       "rank": 5,
-      "name": "Wouldn't Get Far - The Game",
+      "name": "The Elephant Man's Bones - Roc Marciano",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Solid (feat. Drake) - Young Stoner Life",
+      "name": "Wouldn't Get Far - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "No Charge - Future",
+      "name": "Solid (feat. Drake) - Young Stoner Life",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Perkys Calling - Future",
+      "name": "No Charge - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Magellanic - Quality Control",
+      "name": "Perkys Calling - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Low Down - Lil Baby",
+      "name": "Magellanic - Quality Control",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -182,18 +182,18 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 33
+        "plays": 37
       },
       {
         "name": "The Alchemist",
-        "plays": 24
-      },
-      {
-        "name": "Young Thug",
-        "plays": 15
+        "plays": 29
       },
       {
         "name": "Conway the Machine",
+        "plays": 18
+      },
+      {
+        "name": "Young Thug",
         "plays": 15
       },
       {
@@ -209,16 +209,16 @@
         "plays": 12
       },
       {
+        "name": "Benny The Butcher",
+        "plays": 12
+      },
+      {
         "name": "21 Savage",
         "plays": 11
       },
       {
         "name": "J. Cole",
         "plays": 11
-      },
-      {
-        "name": "Gunna",
-        "plays": 10
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -236,7 +236,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 19,
-    "Morning (5am-12pm)": 49,
+    "Morning (5am-12pm)": 65,
     "Afternoon (12pm-5pm)": 100,
     "Evening (5pm-9pm)": 81,
     "Night (9pm-12am)": 31
@@ -245,7 +245,7 @@
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 18,
+    "Thu": 34,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -254,6 +254,10 @@
   "streaks": [
     {
       "artist": "Drake",
+      "days": 4
+    },
+    {
+      "artist": "Boldy James",
       "days": 4
     },
     {
@@ -267,10 +271,6 @@
     {
       "artist": "Gunna",
       "days": 4
-    },
-    {
-      "artist": "21 Savage",
-      "days": 4
     }
   ],
   "release_eras": {
@@ -278,12 +278,12 @@
     "1980s": 1,
     "1990s": 5,
     "2000s": 20,
-    "2010s": 94,
-    "2020s": 159
+    "2010s": 97,
+    "2020s": 172
   },
   "listening_style": {
     "played_from": {
-      "other": 258,
+      "other": 274,
       "playlist": 21,
       "album": 1
     },
