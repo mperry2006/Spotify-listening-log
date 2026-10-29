@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T15:07-04:00",
+  "generated_at": "2026-10-29T15:59-04:00",
   "window": {
     "start": "2026-10-22",
     "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 355,
+  "total_plays_logged": 356,
   "this_week": {
-    "plays": 354,
-    "minutes": 1127,
+    "plays": 355,
+    "minutes": 1131,
     "unique_tracks": 336,
     "unique_artists": 182
   },
@@ -129,49 +129,49 @@
     },
     {
       "rank": 4,
-      "name": "Ostertag (feat. Stove God Cooks) - Westside Gunn",
+      "name": "Freddie HotSpot - Griselda",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "The Elephant Man's Bones - Roc Marciano",
+      "name": "Ostertag (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Wouldn't Get Far - The Game",
+      "name": "The Elephant Man's Bones - Roc Marciano",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Solid (feat. Drake) - Young Stoner Life",
+      "name": "Wouldn't Get Far - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "No Charge - Future",
+      "name": "Solid (feat. Drake) - Young Stoner Life",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Perkys Calling - Future",
+      "name": "No Charge - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Violation Freestyle - Quality Control",
+      "name": "Perkys Calling - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -237,7 +237,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 19,
     "Morning (5am-12pm)": 82,
-    "Afternoon (12pm-5pm)": 141,
+    "Afternoon (12pm-5pm)": 142,
     "Evening (5pm-9pm)": 81,
     "Night (9pm-12am)": 31
   },
@@ -245,7 +245,7 @@
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 92,
+    "Thu": 93,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -278,12 +278,12 @@
     "1980s": 1,
     "1990s": 6,
     "2000s": 23,
-    "2010s": 126,
+    "2010s": 127,
     "2020s": 197
   },
   "listening_style": {
     "played_from": {
-      "other": 324,
+      "other": 325,
       "playlist": 21,
       "album": 9
     },
