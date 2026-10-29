@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T23:00-04:00",
+  "generated_at": "2026-10-29T00:00-04:00",
   "window": {
-    "start": "2026-10-21",
-    "end": "2026-10-28"
+    "start": "2026-10-22",
+    "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 249,
+  "total_plays_logged": 264,
   "this_week": {
-    "plays": 248,
-    "minutes": 796,
-    "unique_tracks": 237,
-    "unique_artists": 146
+    "plays": 263,
+    "minutes": 842,
+    "unique_tracks": 250,
+    "unique_artists": 151
   },
   "last_week": {
     "plays": 0,
@@ -37,70 +37,70 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 30,
+      "plays": 31,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 22,
+      "plays": 23,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
+      "name": "Conway the Machine",
+      "plays": 15,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
+      "name": "Future",
+      "plays": 15,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 5,
       "name": "Young Thug",
       "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 14,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "name": "Drake",
       "plays": 13,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
-      "name": "Future",
-      "plays": 13,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 7,
-      "name": "Kanye West",
+      "name": "21 Savage",
       "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Freddie Gibbs",
+      "name": "J. Cole",
       "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Benny The Butcher",
+      "name": "Kanye West",
       "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Boldy James",
-      "plays": 9,
+      "name": "Freddie Gibbs",
+      "plays": 10,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -122,57 +122,57 @@
     },
     {
       "rank": 3,
-      "name": "Wouldn't Get Far - The Game",
+      "name": "Ostertag (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Solid (feat. Drake) - Young Stoner Life",
+      "name": "Wouldn't Get Far - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "No Charge - Future",
+      "name": "Solid (feat. Drake) - Young Stoner Life",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Magellanic - Quality Control",
+      "name": "No Charge - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Low Down - Lil Baby",
+      "name": "Perkys Calling - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "have to. - Brent Faiyaz",
+      "name": "Magellanic - Quality Control",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "HEATED - Beyoncé",
+      "name": "Low Down - Lil Baby",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Passionfruit - Drake",
-      "plays": 1,
+      "name": "have to. - Brent Faiyaz",
+      "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -182,18 +182,22 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 30
+        "plays": 31
       },
       {
         "name": "The Alchemist",
-        "plays": 22
-      },
-      {
-        "name": "Young Thug",
-        "plays": 14
+        "plays": 23
       },
       {
         "name": "Conway the Machine",
+        "plays": 15
+      },
+      {
+        "name": "Future",
+        "plays": 15
+      },
+      {
+        "name": "Young Thug",
         "plays": 14
       },
       {
@@ -201,8 +205,12 @@
         "plays": 13
       },
       {
-        "name": "Future",
-        "plays": 13
+        "name": "21 Savage",
+        "plays": 10
+      },
+      {
+        "name": "J. Cole",
+        "plays": 10
       },
       {
         "name": "Kanye West",
@@ -211,14 +219,6 @@
       {
         "name": "Freddie Gibbs",
         "plays": 10
-      },
-      {
-        "name": "Benny The Butcher",
-        "plays": 10
-      },
-      {
-        "name": "Boldy James",
-        "plays": 9
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -235,17 +235,17 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 14,
+    "Late night (12am-5am)": 15,
     "Morning (5am-12pm)": 36,
     "Afternoon (12pm-5pm)": 100,
     "Evening (5pm-9pm)": 81,
-    "Night (9pm-12am)": 17
+    "Night (9pm-12am)": 31
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 120,
-    "Thu": 0,
+    "Wed": 134,
+    "Thu": 1,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -277,13 +277,13 @@
     "1960s": 1,
     "1980s": 1,
     "1990s": 4,
-    "2000s": 19,
-    "2010s": 85,
-    "2020s": 138
+    "2000s": 20,
+    "2010s": 90,
+    "2020s": 147
   },
   "listening_style": {
     "played_from": {
-      "other": 226,
+      "other": 241,
       "playlist": 21,
       "album": 1
     },
