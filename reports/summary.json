@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T16:58-04:00",
+  "generated_at": "2026-10-29T17:56-04:00",
   "window": {
     "start": "2026-10-22",
     "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 356,
+  "total_plays_logged": 363,
   "this_week": {
-    "plays": 355,
-    "minutes": 1131,
-    "unique_tracks": 336,
-    "unique_artists": 182
+    "plays": 362,
+    "minutes": 1151,
+    "unique_tracks": 339,
+    "unique_artists": 183
   },
   "last_week": {
     "plays": 0,
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 42,
+      "plays": 43,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -85,22 +85,22 @@
     },
     {
       "rank": 8,
-      "name": "Benny The Butcher",
+      "name": "J. Cole",
       "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Lil Baby",
+      "name": "Benny The Butcher",
       "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "21 Savage",
-      "plays": 14,
+      "name": "Lil Baby",
+      "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -129,49 +129,49 @@
     },
     {
       "rank": 4,
-      "name": "Freddie HotSpot - Griselda",
+      "name": "Ugly Balenciaga's - Rome Streetz",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Ostertag (feat. Stove God Cooks) - Westside Gunn",
+      "name": "Freddie HotSpot - Griselda",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "The Elephant Man's Bones - Roc Marciano",
+      "name": "Ostertag (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Wouldn't Get Far - The Game",
+      "name": "The Elephant Man's Bones - Roc Marciano",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Solid (feat. Drake) - Young Stoner Life",
+      "name": "Wouldn't Get Far - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "No Charge - Future",
+      "name": "Solid (feat. Drake) - Young Stoner Life",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Perkys Calling - Future",
+      "name": "No Charge - Future",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -182,7 +182,7 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 42
+        "plays": 43
       },
       {
         "name": "The Alchemist",
@@ -209,16 +209,16 @@
         "plays": 15
       },
       {
+        "name": "J. Cole",
+        "plays": 15
+      },
+      {
         "name": "Benny The Butcher",
         "plays": 15
       },
       {
         "name": "Lil Baby",
         "plays": 15
-      },
-      {
-        "name": "21 Savage",
-        "plays": 14
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -238,14 +238,14 @@
     "Late night (12am-5am)": 19,
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 142,
-    "Evening (5pm-9pm)": 81,
+    "Evening (5pm-9pm)": 88,
     "Night (9pm-12am)": 31
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 93,
+    "Thu": 100,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -278,12 +278,12 @@
     "1980s": 1,
     "1990s": 6,
     "2000s": 23,
-    "2010s": 127,
-    "2020s": 197
+    "2010s": 129,
+    "2020s": 202
   },
   "listening_style": {
     "played_from": {
-      "other": 325,
+      "other": 332,
       "playlist": 21,
       "album": 9
     },
