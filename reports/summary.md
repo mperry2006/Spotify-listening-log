@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-21 to 2026-10-28** · updated 2026-10-28 19:50 ET
+**2026-10-21 to 2026-10-28** · updated 2026-10-28 21:15 ET
 
-**245 plays** (+245 vs last week) · **783 minutes** · 145 artists · 235 songs
+**247 plays** (+247 vs last week) · **791 minutes** · 146 artists · 236 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -29,9 +29,9 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | 5 | No Charge - Future | 2 | NEW |
 | 6 | Magellanic - Quality Control | 2 | NEW |
 | 7 | Low Down - Lil Baby | 2 | NEW |
-| 8 | HEATED - Beyoncé | 2 | NEW |
-| 9 | Passionfruit - Drake | 1 | NEW |
-| 10 | Carruth - Boldy James | 1 | NEW |
+| 8 | have to. - Brent Faiyaz | 2 | NEW |
+| 9 | HEATED - Beyoncé | 2 | NEW |
+| 10 | Passionfruit - Drake | 1 | NEW |
 
 ## Discovery
 100% of plays were songs not in your log before this week.
@@ -49,12 +49,12 @@ New artists: Westside Gunn (30), The Alchemist (22), Young Thug (14), Conway the
 Late night (12am-5am)  ███ 14
 Morning (5am-12pm)     ███████ 36
 Afternoon (12pm-5pm)   ████████████████████ 100
-Evening (5pm-9pm)      ████████████████ 79
+Evening (5pm-9pm)      ████████████████ 81
 Night (9pm-12am)       ███ 16
 
-Mon                    ██████████████ 80
+Mon                    █████████████ 80
 Tue                    ████████ 48
-Wed                    ████████████████████ 117
+Wed                    ████████████████████ 119
 Thu                     0
 Fri                     0
 Sat                     0
@@ -69,10 +69,10 @@ Sun                     0
 - Gunna: 3 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 4, 2000s: 18, 2010s: 84, 2020s: 137
+1960s: 1, 1980s: 1, 1990s: 4, 2000s: 19, 2010s: 84, 2020s: 138
 
 ## How you listen
-Played from: other 223, playlist 21, album 1
+Played from: other 225, playlist 21, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 246 plays recorded total._
+_Log started 2026-10-26 · 248 plays recorded total._

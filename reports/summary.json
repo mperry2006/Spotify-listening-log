@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T19:50-04:00",
+  "generated_at": "2026-10-28T21:15-04:00",
   "window": {
     "start": "2026-10-21",
     "end": "2026-10-28"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 246,
+  "total_plays_logged": 248,
   "this_week": {
-    "plays": 245,
-    "minutes": 783,
-    "unique_tracks": 235,
-    "unique_artists": 145
+    "plays": 247,
+    "minutes": 791,
+    "unique_tracks": 236,
+    "unique_artists": 146
   },
   "last_week": {
     "plays": 0,
@@ -157,21 +157,21 @@
     },
     {
       "rank": 8,
-      "name": "HEATED - Beyoncé",
+      "name": "have to. - Brent Faiyaz",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Passionfruit - Drake",
-      "plays": 1,
+      "name": "HEATED - Beyoncé",
+      "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Carruth - Boldy James",
+      "name": "Passionfruit - Drake",
       "plays": 1,
       "last_week_plays": 0,
       "change": "NEW"
@@ -238,13 +238,13 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 36,
     "Afternoon (12pm-5pm)": 100,
-    "Evening (5pm-9pm)": 79,
+    "Evening (5pm-9pm)": 81,
     "Night (9pm-12am)": 16
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
-    "Wed": 117,
+    "Wed": 119,
     "Thu": 0,
     "Fri": 0,
     "Sat": 0,
@@ -277,13 +277,13 @@
     "1960s": 1,
     "1980s": 1,
     "1990s": 4,
-    "2000s": 18,
+    "2000s": 19,
     "2010s": 84,
-    "2020s": 137
+    "2020s": 138
   },
   "listening_style": {
     "played_from": {
-      "other": 223,
+      "other": 225,
       "playlist": 21,
       "album": 1
     },
@@ -293,14 +293,14 @@
     "short_term": {
       "artists": [
         "Westside Gunn",
+        "J. Cole",
         "Future",
         "Lil Baby",
-        "J. Cole",
         "Gunna",
         "Drake",
-        "LUCKI",
-        "Migos",
         "Lil Durk",
+        "Young Thug",
+        "LUCKI",
         "JAŸ-Z"
       ]
     },
@@ -315,7 +315,7 @@
         "Westside Gunn",
         "Curren$y",
         "Gunna",
-        "Young Thug"
+        "Lil Durk"
       ]
     },
     "long_term": {
