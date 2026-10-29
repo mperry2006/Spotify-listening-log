@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T10:18-04:00",
+  "generated_at": "2026-10-29T12:07-04:00",
   "window": {
     "start": "2026-10-22",
     "end": "2026-10-29"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 297,
+  "total_plays_logged": 316,
   "this_week": {
-    "plays": 296,
-    "minutes": 948,
-    "unique_tracks": 281,
-    "unique_artists": 164
+    "plays": 315,
+    "minutes": 1000,
+    "unique_tracks": 298,
+    "unique_artists": 165
   },
   "last_week": {
     "plays": 0,
@@ -37,14 +37,14 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 37,
+      "plays": 39,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -57,14 +57,14 @@
     },
     {
       "rank": 4,
-      "name": "Young Thug",
-      "plays": 15,
+      "name": "Future",
+      "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "Young Thug",
       "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
@@ -78,28 +78,28 @@
     },
     {
       "rank": 7,
-      "name": "Freddie Gibbs",
-      "plays": 12,
+      "name": "Benny The Butcher",
+      "plays": 14,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Benny The Butcher",
+      "name": "Gunna",
       "plays": 12,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "21 Savage",
-      "plays": 11,
+      "name": "Freddie Gibbs",
+      "plays": 12,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "J. Cole",
+      "name": "21 Savage",
       "plays": 11,
       "last_week_plays": 0,
       "change": "NEW"
@@ -171,7 +171,7 @@
     },
     {
       "rank": 10,
-      "name": "Magellanic - Quality Control",
+      "name": "Violation Freestyle - Quality Control",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -182,22 +182,22 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 37
+        "plays": 39
       },
       {
         "name": "The Alchemist",
-        "plays": 29
+        "plays": 30
       },
       {
         "name": "Conway the Machine",
         "plays": 18
       },
       {
-        "name": "Young Thug",
-        "plays": 15
+        "name": "Future",
+        "plays": 16
       },
       {
-        "name": "Future",
+        "name": "Young Thug",
         "plays": 15
       },
       {
@@ -205,19 +205,19 @@
         "plays": 14
       },
       {
+        "name": "Benny The Butcher",
+        "plays": 14
+      },
+      {
+        "name": "Gunna",
+        "plays": 12
+      },
+      {
         "name": "Freddie Gibbs",
         "plays": 12
       },
       {
-        "name": "Benny The Butcher",
-        "plays": 12
-      },
-      {
         "name": "21 Savage",
-        "plays": 11
-      },
-      {
-        "name": "J. Cole",
         "plays": 11
       }
     ],
@@ -236,8 +236,8 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 19,
-    "Morning (5am-12pm)": 65,
-    "Afternoon (12pm-5pm)": 100,
+    "Morning (5am-12pm)": 82,
+    "Afternoon (12pm-5pm)": 102,
     "Evening (5pm-9pm)": 81,
     "Night (9pm-12am)": 31
   },
@@ -245,7 +245,7 @@
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 34,
+    "Thu": 53,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -278,12 +278,12 @@
     "1980s": 1,
     "1990s": 5,
     "2000s": 20,
-    "2010s": 97,
-    "2020s": 172
+    "2010s": 105,
+    "2020s": 183
   },
   "listening_style": {
     "played_from": {
-      "other": 274,
+      "other": 293,
       "playlist": 21,
       "album": 1
     },
