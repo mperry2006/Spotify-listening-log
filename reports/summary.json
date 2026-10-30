@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-30T12:02-04:00",
+  "generated_at": "2026-10-30T12:58-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 399,
+  "total_plays_logged": 401,
   "this_week": {
-    "plays": 398,
-    "minutes": 1261,
-    "unique_tracks": 366,
+    "plays": 400,
+    "minutes": 1266,
+    "unique_tracks": 368,
     "unique_artists": 189
   },
   "last_week": {
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 43,
+      "plays": 44,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -85,21 +85,21 @@
     },
     {
       "rank": 8,
-      "name": "Quality Control",
+      "name": "Gunna",
       "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Drake",
-      "plays": 16,
+      "name": "Quality Control",
+      "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Gunna",
+      "name": "Drake",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
@@ -182,7 +182,7 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 43
+        "plays": 44
       },
       {
         "name": "The Alchemist",
@@ -209,15 +209,15 @@
         "plays": 18
       },
       {
+        "name": "Gunna",
+        "plays": 17
+      },
+      {
         "name": "Quality Control",
         "plays": 17
       },
       {
         "name": "Drake",
-        "plays": 16
-      },
-      {
-        "name": "Gunna",
         "plays": 16
       }
     ],
@@ -245,7 +245,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 99,
-    "Afternoon (12pm-5pm)": 142,
+    "Afternoon (12pm-5pm)": 144,
     "Evening (5pm-9pm)": 90,
     "Night (9pm-12am)": 42
   },
@@ -254,12 +254,16 @@
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 23,
+    "Fri": 25,
     "Sat": 0,
     "Sun": 0
   },
   "busiest_day": "Wed",
   "streaks": [
+    {
+      "artist": "Westside Gunn",
+      "days": 5
+    },
     {
       "artist": "Gunna",
       "days": 5
@@ -275,10 +279,6 @@
     {
       "artist": "EST Gee",
       "days": 5
-    },
-    {
-      "artist": "Drake",
-      "days": 4
     }
   ],
   "release_eras": {
@@ -287,11 +287,11 @@
     "1990s": 6,
     "2000s": 23,
     "2010s": 138,
-    "2020s": 229
+    "2020s": 231
   },
   "listening_style": {
     "played_from": {
-      "other": 356,
+      "other": 358,
       "playlist": 22,
       "album": 20
     },
