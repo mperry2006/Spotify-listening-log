@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T13:54-04:00",
+  "generated_at": "2026-10-30T15:00-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 402,
+  "total_plays_logged": 415,
   "this_week": {
-    "plays": 401,
-    "minutes": 1269,
-    "unique_tracks": 369,
-    "unique_artists": 189
+    "plays": 414,
+    "minutes": 1308,
+    "unique_tracks": 380,
+    "unique_artists": 192
   },
   "last_week": {
     "plays": 0,
@@ -44,7 +44,7 @@
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 31,
+      "plays": 32,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -58,49 +58,49 @@
     {
       "rank": 4,
       "name": "Future",
-      "plays": 22,
+      "plays": 25,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "Conway the Machine",
+      "name": "Gunna",
       "plays": 20,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
+      "name": "Conway the Machine",
+      "plays": 20,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
       "name": "Lil Baby",
       "plays": 19,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "21 Savage",
       "plays": 18,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "Gunna",
-      "plays": 17,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 9,
-      "name": "Quality Control",
+      "name": "Young Thug",
       "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Drake",
-      "plays": 16,
+      "name": "Quality Control",
+      "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -186,7 +186,7 @@
       },
       {
         "name": "The Alchemist",
-        "plays": 31
+        "plays": 32
       },
       {
         "name": "J. Cole",
@@ -194,7 +194,11 @@
       },
       {
         "name": "Future",
-        "plays": 22
+        "plays": 25
+      },
+      {
+        "name": "Gunna",
+        "plays": 20
       },
       {
         "name": "Conway the Machine",
@@ -209,16 +213,12 @@
         "plays": 18
       },
       {
-        "name": "Gunna",
+        "name": "Young Thug",
         "plays": 17
       },
       {
         "name": "Quality Control",
         "plays": 17
-      },
-      {
-        "name": "Drake",
-        "plays": 16
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -245,7 +245,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 99,
-    "Afternoon (12pm-5pm)": 145,
+    "Afternoon (12pm-5pm)": 158,
     "Evening (5pm-9pm)": 90,
     "Night (9pm-12am)": 42
   },
@@ -254,12 +254,20 @@
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 26,
+    "Fri": 39,
     "Sat": 0,
     "Sun": 0
   },
   "busiest_day": "Wed",
   "streaks": [
+    {
+      "artist": "Boldy James",
+      "days": 5
+    },
+    {
+      "artist": "The Alchemist",
+      "days": 5
+    },
     {
       "artist": "Westside Gunn",
       "days": 5
@@ -271,27 +279,19 @@
     {
       "artist": "21 Savage",
       "days": 5
-    },
-    {
-      "artist": "J. Cole",
-      "days": 5
-    },
-    {
-      "artist": "EST Gee",
-      "days": 5
     }
   ],
   "release_eras": {
     "1960s": 1,
     "1980s": 1,
-    "1990s": 6,
-    "2000s": 23,
-    "2010s": 138,
-    "2020s": 232
+    "1990s": 7,
+    "2000s": 24,
+    "2010s": 140,
+    "2020s": 241
   },
   "listening_style": {
     "played_from": {
-      "other": 359,
+      "other": 372,
       "playlist": 22,
       "album": 20
     },
