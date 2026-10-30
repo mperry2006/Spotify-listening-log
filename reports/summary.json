@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-30T09:12-04:00",
+  "generated_at": "2026-10-30T10:13-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 395,
+  "total_plays_logged": 397,
   "this_week": {
-    "plays": 394,
-    "minutes": 1248,
-    "unique_tracks": 362,
+    "plays": 396,
+    "minutes": 1253,
+    "unique_tracks": 364,
     "unique_artists": 189
   },
   "last_week": {
@@ -99,7 +99,7 @@
     },
     {
       "rank": 10,
-      "name": "Young Thug",
+      "name": "Gunna",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
@@ -217,7 +217,7 @@
         "plays": 16
       },
       {
-        "name": "Young Thug",
+        "name": "Gunna",
         "plays": 16
       }
     ],
@@ -244,7 +244,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 25,
-    "Morning (5am-12pm)": 95,
+    "Morning (5am-12pm)": 97,
     "Afternoon (12pm-5pm)": 142,
     "Evening (5pm-9pm)": 90,
     "Night (9pm-12am)": 42
@@ -254,12 +254,16 @@
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 19,
+    "Fri": 21,
     "Sat": 0,
     "Sun": 0
   },
   "busiest_day": "Wed",
   "streaks": [
+    {
+      "artist": "Gunna",
+      "days": 5
+    },
     {
       "artist": "21 Savage",
       "days": 5
@@ -275,10 +279,6 @@
     {
       "artist": "Drake",
       "days": 4
-    },
-    {
-      "artist": "Boldy James",
-      "days": 4
     }
   ],
   "release_eras": {
@@ -286,12 +286,12 @@
     "1980s": 1,
     "1990s": 6,
     "2000s": 23,
-    "2010s": 136,
-    "2020s": 227
+    "2010s": 137,
+    "2020s": 228
   },
   "listening_style": {
     "played_from": {
-      "other": 352,
+      "other": 354,
       "playlist": 22,
       "album": 20
     },
