@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T23:01-04:00",
+  "generated_at": "2026-10-30T00:01-04:00",
   "window": {
-    "start": "2026-10-22",
-    "end": "2026-10-29"
+    "start": "2026-10-23",
+    "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 365,
+  "total_plays_logged": 376,
   "this_week": {
-    "plays": 364,
-    "minutes": 1159,
-    "unique_tracks": 341,
-    "unique_artists": 186
+    "plays": 375,
+    "minutes": 1192,
+    "unique_tracks": 348,
+    "unique_artists": 187
   },
   "last_week": {
     "plays": 0,
@@ -44,62 +44,62 @@
     {
       "rank": 2,
       "name": "The Alchemist",
-      "plays": 30,
+      "plays": 31,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
+      "name": "Future",
+      "plays": 22,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
       "name": "Conway the Machine",
       "plays": 20,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
-      "name": "Future",
+      "rank": 5,
+      "name": "Lil Baby",
       "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "Quality Control",
+      "plays": 17,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
       "name": "Drake",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Young Thug",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
-      "name": "Quality Control",
-      "plays": 16,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 8,
-      "name": "J. Cole",
-      "plays": 15,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 9,
-      "name": "Benny The Butcher",
+      "name": "Gunna",
       "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Lil Baby",
+      "name": "21 Savage",
       "plays": 15,
       "last_week_plays": 0,
       "change": "NEW"
@@ -186,14 +186,22 @@
       },
       {
         "name": "The Alchemist",
-        "plays": 30
+        "plays": 31
+      },
+      {
+        "name": "Future",
+        "plays": 22
       },
       {
         "name": "Conway the Machine",
         "plays": 20
       },
       {
-        "name": "Future",
+        "name": "Lil Baby",
+        "plays": 17
+      },
+      {
+        "name": "Quality Control",
         "plays": 17
       },
       {
@@ -205,19 +213,11 @@
         "plays": 16
       },
       {
-        "name": "Quality Control",
-        "plays": 16
-      },
-      {
-        "name": "J. Cole",
+        "name": "Gunna",
         "plays": 15
       },
       {
-        "name": "Benny The Butcher",
-        "plays": 15
-      },
-      {
-        "name": "Lil Baby",
+        "name": "21 Savage",
         "plays": 15
       }
     ],
@@ -239,13 +239,13 @@
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 142,
     "Evening (5pm-9pm)": 90,
-    "Night (9pm-12am)": 31
+    "Night (9pm-12am)": 42
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
-    "Thu": 102,
+    "Thu": 113,
     "Fri": 0,
     "Sat": 0,
     "Sun": 0
@@ -278,13 +278,13 @@
     "1980s": 1,
     "1990s": 6,
     "2000s": 23,
-    "2010s": 130,
-    "2020s": 203
+    "2010s": 133,
+    "2020s": 211
   },
   "listening_style": {
     "played_from": {
-      "other": 334,
-      "playlist": 21,
+      "other": 344,
+      "playlist": 22,
       "album": 9
     },
     "full_album_sessions": 2

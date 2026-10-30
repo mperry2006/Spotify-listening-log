@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-22 to 2026-10-29** · updated 2026-10-29 23:01 ET
+**2026-10-23 to 2026-10-30** · updated 2026-10-30 00:01 ET
 
-**364 plays** (+364 vs last week) · **1159 minutes** · 186 artists · 341 songs
+**375 plays** (+375 vs last week) · **1192 minutes** · 187 artists · 348 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Westside Gunn | 43 | NEW |
-| 2 | The Alchemist | 30 | NEW |
-| 3 | Conway the Machine | 20 | NEW |
-| 4 | Future | 17 | NEW |
-| 5 | Drake | 16 | NEW |
-| 6 | Young Thug | 16 | NEW |
-| 7 | Quality Control | 16 | NEW |
-| 8 | J. Cole | 15 | NEW |
-| 9 | Benny The Butcher | 15 | NEW |
-| 10 | Lil Baby | 15 | NEW |
+| 2 | The Alchemist | 31 | NEW |
+| 3 | Future | 22 | NEW |
+| 4 | Conway the Machine | 20 | NEW |
+| 5 | Lil Baby | 17 | NEW |
+| 6 | Quality Control | 17 | NEW |
+| 7 | Drake | 16 | NEW |
+| 8 | Young Thug | 16 | NEW |
+| 9 | Gunna | 15 | NEW |
+| 10 | 21 Savage | 15 | NEW |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (43), The Alchemist (30), Conway the Machine (20), Future (17), Drake (16), Young Thug (16), Quality Control (16), J. Cole (15), Benny The Butcher (15), Lil Baby (15)
+New artists: Westside Gunn (43), The Alchemist (31), Future (22), Conway the Machine (20), Lil Baby (17), Quality Control (17), Drake (16), Young Thug (16), Gunna (15), 21 Savage (15)
 
 ## On repeat (3+ plays)
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
@@ -50,12 +50,12 @@ Late night (12am-5am)  ███ 19
 Morning (5am-12pm)     ████████████ 82
 Afternoon (12pm-5pm)   ████████████████████ 142
 Evening (5pm-9pm)      █████████████ 90
-Night (9pm-12am)       ████ 31
+Night (9pm-12am)       ██████ 42
 
 Mon                    ████████████ 80
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
-Thu                    ███████████████ 102
+Thu                    █████████████████ 113
 Fri                     0
 Sat                     0
 Sun                     0
@@ -69,10 +69,10 @@ Sun                     0
 - Gunna: 4 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 130, 2020s: 203
+1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 133, 2020s: 211
 
 ## How you listen
-Played from: other 334, playlist 21, album 9
+Played from: other 344, playlist 22, album 9
 Full-album sessions (4+ tracks in a row): 2
 
-_Log started 2026-10-26 · 365 plays recorded total._
+_Log started 2026-10-26 · 376 plays recorded total._
