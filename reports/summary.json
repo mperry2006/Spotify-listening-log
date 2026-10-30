@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T07:56-04:00",
+  "generated_at": "2026-10-30T09:12-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 382,
+  "total_plays_logged": 395,
   "this_week": {
-    "plays": 381,
-    "minutes": 1208,
-    "unique_tracks": 350,
-    "unique_artists": 187
+    "plays": 394,
+    "minutes": 1248,
+    "unique_tracks": 362,
+    "unique_artists": 189
   },
   "last_week": {
     "plays": 0,
@@ -50,56 +50,56 @@
     },
     {
       "rank": 3,
+      "name": "J. Cole",
+      "plays": 27,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
       "name": "Future",
       "plays": 22,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Conway the Machine",
       "plays": 20,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
-      "name": "21 Savage",
-      "plays": 17,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 6,
-      "name": "Lil Baby",
-      "plays": 17,
+      "name": "21 Savage",
+      "plays": 18,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
+      "name": "Lil Baby",
+      "plays": 18,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
       "name": "Quality Control",
       "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Drake",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Young Thug",
-      "plays": 16,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "J. Cole",
+      "name": "Young Thug",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
@@ -122,56 +122,56 @@
     },
     {
       "rank": 3,
-      "name": "pad lock - 21 Savage",
+      "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
+      "name": "pad lock - 21 Savage",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 5,
       "name": "Vogue cover (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Ugly Balenciaga's - Rome Streetz",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Freddie HotSpot - Griselda",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Ostertag (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "The Elephant Man's Bones - Roc Marciano",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Wouldn't Get Far - The Game",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Solid (feat. Drake) - Young Stoner Life",
+      "name": "Wouldn't Get Far - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -189,6 +189,10 @@
         "plays": 31
       },
       {
+        "name": "J. Cole",
+        "plays": 27
+      },
+      {
         "name": "Future",
         "plays": 22
       },
@@ -198,11 +202,11 @@
       },
       {
         "name": "21 Savage",
-        "plays": 17
+        "plays": 18
       },
       {
         "name": "Lil Baby",
-        "plays": 17
+        "plays": 18
       },
       {
         "name": "Quality Control",
@@ -214,10 +218,6 @@
       },
       {
         "name": "Young Thug",
-        "plays": 16
-      },
-      {
-        "name": "J. Cole",
         "plays": 16
       }
     ],
@@ -234,13 +234,17 @@
       "plays": 3
     },
     {
+      "track": "i n t e r l u d e - J. Cole",
+      "plays": 3
+    },
+    {
       "track": "pad lock - 21 Savage",
       "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 25,
-    "Morning (5am-12pm)": 82,
+    "Morning (5am-12pm)": 95,
     "Afternoon (12pm-5pm)": 142,
     "Evening (5pm-9pm)": 90,
     "Night (9pm-12am)": 42
@@ -250,7 +254,7 @@
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 6,
+    "Fri": 19,
     "Sat": 0,
     "Sun": 0
   },
@@ -265,15 +269,15 @@
       "days": 5
     },
     {
+      "artist": "EST Gee",
+      "days": 5
+    },
+    {
       "artist": "Drake",
       "days": 4
     },
     {
       "artist": "Boldy James",
-      "days": 4
-    },
-    {
-      "artist": "The Alchemist",
       "days": 4
     }
   ],
@@ -283,15 +287,15 @@
     "1990s": 6,
     "2000s": 23,
     "2010s": 136,
-    "2020s": 214
+    "2020s": 227
   },
   "listening_style": {
     "played_from": {
-      "other": 350,
+      "other": 352,
       "playlist": 22,
-      "album": 9
+      "album": 20
     },
-    "full_album_sessions": 2
+    "full_album_sessions": 3
   },
   "spotify_top_snapshot": {
     "short_term": {
