@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-30T01:00-04:00",
+  "generated_at": "2026-10-30T01:58-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 376,
+  "total_plays_logged": 382,
   "this_week": {
-    "plays": 375,
-    "minutes": 1192,
-    "unique_tracks": 348,
+    "plays": 381,
+    "minutes": 1208,
+    "unique_tracks": 350,
     "unique_artists": 187
   },
   "last_week": {
@@ -64,43 +64,43 @@
     },
     {
       "rank": 5,
-      "name": "Lil Baby",
+      "name": "21 Savage",
       "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Quality Control",
+      "name": "Lil Baby",
       "plays": 17,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
+      "name": "Quality Control",
+      "plays": 17,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
       "name": "Drake",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Young Thug",
       "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Gunna",
-      "plays": 15,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "21 Savage",
-      "plays": 15,
+      "name": "J. Cole",
+      "plays": 16,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -122,56 +122,56 @@
     },
     {
       "rank": 3,
+      "name": "pad lock - 21 Savage",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
       "name": "Vogue cover (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Ugly Balenciaga's - Rome Streetz",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Freddie HotSpot - Griselda",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Ostertag (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "The Elephant Man's Bones - Roc Marciano",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Wouldn't Get Far - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Solid (feat. Drake) - Young Stoner Life",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "No Charge - Future",
+      "name": "Solid (feat. Drake) - Young Stoner Life",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -197,6 +197,10 @@
         "plays": 20
       },
       {
+        "name": "21 Savage",
+        "plays": 17
+      },
+      {
         "name": "Lil Baby",
         "plays": 17
       },
@@ -213,12 +217,8 @@
         "plays": 16
       },
       {
-        "name": "Gunna",
-        "plays": 15
-      },
-      {
-        "name": "21 Savage",
-        "plays": 15
+        "name": "J. Cole",
+        "plays": 16
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -232,10 +232,14 @@
     {
       "track": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
       "plays": 3
+    },
+    {
+      "track": "pad lock - 21 Savage",
+      "plays": 3
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 19,
+    "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 142,
     "Evening (5pm-9pm)": 90,
@@ -246,12 +250,20 @@
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 0,
+    "Fri": 6,
     "Sat": 0,
     "Sun": 0
   },
   "busiest_day": "Wed",
   "streaks": [
+    {
+      "artist": "21 Savage",
+      "days": 5
+    },
+    {
+      "artist": "J. Cole",
+      "days": 5
+    },
     {
       "artist": "Drake",
       "days": 4
@@ -263,14 +275,6 @@
     {
       "artist": "The Alchemist",
       "days": 4
-    },
-    {
-      "artist": "Westside Gunn",
-      "days": 4
-    },
-    {
-      "artist": "Gunna",
-      "days": 4
     }
   ],
   "release_eras": {
@@ -278,12 +282,12 @@
     "1980s": 1,
     "1990s": 6,
     "2000s": 23,
-    "2010s": 133,
-    "2020s": 211
+    "2010s": 136,
+    "2020s": 214
   },
   "listening_style": {
     "played_from": {
-      "other": 344,
+      "other": 350,
       "playlist": 22,
       "album": 9
     },
