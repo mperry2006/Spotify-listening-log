@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-22 to 2026-10-29** · updated 2026-10-29 19:51 ET
+**2026-10-22 to 2026-10-29** · updated 2026-10-29 21:18 ET
 
-**363 plays** (+363 vs last week) · **1155 minutes** · 184 artists · 340 songs
+**364 plays** (+364 vs last week) · **1159 minutes** · 186 artists · 341 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -49,13 +49,13 @@ New artists: Westside Gunn (43), The Alchemist (30), Conway the Machine (20), Fu
 Late night (12am-5am)  ███ 19
 Morning (5am-12pm)     ████████████ 82
 Afternoon (12pm-5pm)   ████████████████████ 142
-Evening (5pm-9pm)      █████████████ 89
+Evening (5pm-9pm)      █████████████ 90
 Night (9pm-12am)       ████ 31
 
 Mon                    ████████████ 80
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
-Thu                    ███████████████ 101
+Thu                    ███████████████ 102
 Fri                     0
 Sat                     0
 Sun                     0
@@ -69,10 +69,10 @@ Sun                     0
 - Gunna: 4 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 130, 2020s: 202
+1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 130, 2020s: 203
 
 ## How you listen
-Played from: other 333, playlist 21, album 9
+Played from: other 334, playlist 21, album 9
 Full-album sessions (4+ tracks in a row): 2
 
-_Log started 2026-10-26 · 364 plays recorded total._
+_Log started 2026-10-26 · 365 plays recorded total._
