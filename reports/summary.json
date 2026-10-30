@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T16:55-04:00",
+  "generated_at": "2026-10-30T17:51-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 433,
+  "total_plays_logged": 442,
   "this_week": {
-    "plays": 432,
-    "minutes": 1370,
-    "unique_tracks": 397,
-    "unique_artists": 198
+    "plays": 441,
+    "minutes": 1400,
+    "unique_tracks": 405,
+    "unique_artists": 201
   },
   "last_week": {
     "plays": 0,
@@ -65,42 +65,42 @@
     {
       "rank": 5,
       "name": "Gunna",
-      "plays": 21,
+      "plays": 23,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
+      "name": "Lil Baby",
+      "plays": 21,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
       "name": "Conway the Machine",
       "plays": 20,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
-      "name": "21 Savage",
-      "plays": 19,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 8,
-      "name": "Lil Baby",
+      "name": "Drake",
       "plays": 19,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Drake",
-      "plays": 18,
+      "name": "21 Savage",
+      "plays": 19,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
       "name": "Young Thug",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -198,6 +198,10 @@
       },
       {
         "name": "Gunna",
+        "plays": 23
+      },
+      {
+        "name": "Lil Baby",
         "plays": 21
       },
       {
@@ -205,20 +209,16 @@
         "plays": 20
       },
       {
+        "name": "Drake",
+        "plays": 19
+      },
+      {
         "name": "21 Savage",
         "plays": 19
       },
       {
-        "name": "Lil Baby",
-        "plays": 19
-      },
-      {
-        "name": "Drake",
-        "plays": 18
-      },
-      {
         "name": "Young Thug",
-        "plays": 18
+        "plays": 19
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -246,7 +246,7 @@
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 176,
-    "Evening (5pm-9pm)": 90,
+    "Evening (5pm-9pm)": 99,
     "Night (9pm-12am)": 42
   },
   "day_of_week": {
@@ -254,7 +254,7 @@
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 57,
+    "Fri": 66,
     "Sat": 0,
     "Sun": 0
   },
@@ -286,13 +286,13 @@
     "1980s": 1,
     "1990s": 7,
     "2000s": 25,
-    "2010s": 147,
-    "2020s": 251
+    "2010s": 151,
+    "2020s": 256
   },
   "listening_style": {
     "played_from": {
-      "other": 390,
-      "playlist": 22,
+      "other": 394,
+      "playlist": 27,
       "album": 20
     },
     "full_album_sessions": 3
