@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T15:56-04:00",
+  "generated_at": "2026-10-30T16:55-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 423,
+  "total_plays_logged": 433,
   "this_week": {
-    "plays": 422,
-    "minutes": 1334,
-    "unique_tracks": 387,
-    "unique_artists": 195
+    "plays": 432,
+    "minutes": 1370,
+    "unique_tracks": 397,
+    "unique_artists": 198
   },
   "last_week": {
     "plays": 0,
@@ -51,7 +51,7 @@
     {
       "rank": 3,
       "name": "J. Cole",
-      "plays": 28,
+      "plays": 29,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -65,7 +65,7 @@
     {
       "rank": 5,
       "name": "Gunna",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -93,14 +93,14 @@
     {
       "rank": 9,
       "name": "Drake",
-      "plays": 17,
+      "plays": 18,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
       "name": "Young Thug",
-      "plays": 17,
+      "plays": 18,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -190,7 +190,7 @@
       },
       {
         "name": "J. Cole",
-        "plays": 28
+        "plays": 29
       },
       {
         "name": "Future",
@@ -198,7 +198,7 @@
       },
       {
         "name": "Gunna",
-        "plays": 20
+        "plays": 21
       },
       {
         "name": "Conway the Machine",
@@ -214,11 +214,11 @@
       },
       {
         "name": "Drake",
-        "plays": 17
+        "plays": 18
       },
       {
         "name": "Young Thug",
-        "plays": 17
+        "plays": 18
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -245,7 +245,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 99,
-    "Afternoon (12pm-5pm)": 166,
+    "Afternoon (12pm-5pm)": 176,
     "Evening (5pm-9pm)": 90,
     "Night (9pm-12am)": 42
   },
@@ -254,7 +254,7 @@
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 47,
+    "Fri": 57,
     "Sat": 0,
     "Sun": 0
   },
@@ -285,13 +285,13 @@
     "1960s": 1,
     "1980s": 1,
     "1990s": 7,
-    "2000s": 24,
-    "2010s": 144,
-    "2020s": 245
+    "2000s": 25,
+    "2010s": 147,
+    "2020s": 251
   },
   "listening_style": {
     "played_from": {
-      "other": 380,
+      "other": 390,
       "playlist": 22,
       "album": 20
     },
