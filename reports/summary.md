@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-23 to 2026-10-30** · updated 2026-10-30 12:58 ET
+**2026-10-23 to 2026-10-30** · updated 2026-10-30 13:54 ET
 
-**400 plays** (+400 vs last week) · **1266 minutes** · 189 artists · 368 songs
+**401 plays** (+401 vs last week) · **1269 minutes** · 189 artists · 369 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -50,7 +50,7 @@ New artists: Westside Gunn (44), The Alchemist (31), J. Cole (27), Future (22), 
 ```
 Late night (12am-5am)  ███ 25
 Morning (5am-12pm)     ██████████████ 99
-Afternoon (12pm-5pm)   ████████████████████ 144
+Afternoon (12pm-5pm)   ████████████████████ 145
 Evening (5pm-9pm)      ████████████ 90
 Night (9pm-12am)       ██████ 42
 
@@ -58,7 +58,7 @@ Mon                    ████████████ 80
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
-Fri                    ████ 25
+Fri                    ████ 26
 Sat                     0
 Sun                     0
 ```
@@ -71,10 +71,10 @@ Sun                     0
 - EST Gee: 5 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 138, 2020s: 231
+1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 138, 2020s: 232
 
 ## How you listen
-Played from: other 358, playlist 22, album 20
+Played from: other 359, playlist 22, album 20
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 401 plays recorded total._
+_Log started 2026-10-26 · 402 plays recorded total._
