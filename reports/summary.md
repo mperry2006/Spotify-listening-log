@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-23 to 2026-10-30** · updated 2026-10-30 10:13 ET
+**2026-10-23 to 2026-10-30** · updated 2026-10-30 11:09 ET
 
-**396 plays** (+396 vs last week) · **1253 minutes** · 189 artists · 364 songs
+**398 plays** (+398 vs last week) · **1261 minutes** · 189 artists · 366 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -13,8 +13,8 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | 3 | J. Cole | 27 | NEW |
 | 4 | Future | 22 | NEW |
 | 5 | Conway the Machine | 20 | NEW |
-| 6 | 21 Savage | 18 | NEW |
-| 7 | Lil Baby | 18 | NEW |
+| 6 | Lil Baby | 19 | NEW |
+| 7 | 21 Savage | 18 | NEW |
 | 8 | Quality Control | 17 | NEW |
 | 9 | Drake | 16 | NEW |
 | 10 | Gunna | 16 | NEW |
@@ -35,7 +35,7 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (43), The Alchemist (31), J. Cole (27), Future (22), Conway the Machine (20), 21 Savage (18), Lil Baby (18), Quality Control (17), Drake (16), Gunna (16)
+New artists: Westside Gunn (43), The Alchemist (31), J. Cole (27), Future (22), Conway the Machine (20), Lil Baby (19), 21 Savage (18), Quality Control (17), Drake (16), Gunna (16)
 
 ## On repeat (3+ plays)
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
@@ -49,7 +49,7 @@ New artists: Westside Gunn (43), The Alchemist (31), J. Cole (27), Future (22), 
 ## When you listen
 ```
 Late night (12am-5am)  ████ 25
-Morning (5am-12pm)     ██████████████ 97
+Morning (5am-12pm)     ██████████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 142
 Evening (5pm-9pm)      █████████████ 90
 Night (9pm-12am)       ██████ 42
@@ -58,7 +58,7 @@ Mon                    ████████████ 80
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
-Fri                    ███ 21
+Fri                    ███ 23
 Sat                     0
 Sun                     0
 ```
@@ -71,10 +71,10 @@ Sun                     0
 - Drake: 4 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 137, 2020s: 228
+1960s: 1, 1980s: 1, 1990s: 6, 2000s: 23, 2010s: 138, 2020s: 229
 
 ## How you listen
-Played from: other 354, playlist 22, album 20
+Played from: other 356, playlist 22, album 20
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 397 plays recorded total._
+_Log started 2026-10-26 · 399 plays recorded total._
