@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T13:47-04:00",
+  "generated_at": "2026-10-31T14:58-04:00",
   "window": {
     "start": "2026-10-24",
     "end": "2026-10-31"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 529,
+  "total_plays_logged": 534,
   "this_week": {
-    "plays": 528,
-    "minutes": 1679,
-    "unique_tracks": 473,
-    "unique_artists": 222
+    "plays": 533,
+    "minutes": 1700,
+    "unique_tracks": 478,
+    "unique_artists": 223
   },
   "last_week": {
     "plays": 0,
@@ -72,28 +72,28 @@
     {
       "rank": 6,
       "name": "J. Cole",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
+      "name": "Drake",
+      "plays": 27,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
       "name": "Lil Baby",
       "plays": 26,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "Drake",
-      "plays": 25,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 9,
       "name": "21 Savage",
-      "plays": 23,
+      "plays": 24,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -202,19 +202,19 @@
       },
       {
         "name": "J. Cole",
-        "plays": 29
+        "plays": 30
+      },
+      {
+        "name": "Drake",
+        "plays": 27
       },
       {
         "name": "Lil Baby",
         "plays": 26
       },
       {
-        "name": "Drake",
-        "plays": 25
-      },
-      {
         "name": "21 Savage",
-        "plays": 23
+        "plays": 24
       },
       {
         "name": "Conway the Machine",
@@ -269,7 +269,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 103,
-    "Afternoon (12pm-5pm)": 195,
+    "Afternoon (12pm-5pm)": 200,
     "Evening (5pm-9pm)": 142,
     "Night (9pm-12am)": 63
   },
@@ -279,11 +279,15 @@
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
-    "Sat": 23,
+    "Sat": 28,
     "Sun": 0
   },
   "busiest_day": "Wed",
   "streaks": [
+    {
+      "artist": "Drake",
+      "days": 6
+    },
     {
       "artist": "Boldy James",
       "days": 6
@@ -299,23 +303,19 @@
     {
       "artist": "21 Savage",
       "days": 6
-    },
-    {
-      "artist": "Drake",
-      "days": 5
     }
   ],
   "release_eras": {
     "1960s": 1,
     "1980s": 1,
-    "1990s": 8,
+    "1990s": 9,
     "2000s": 27,
-    "2010s": 180,
-    "2020s": 311
+    "2010s": 183,
+    "2020s": 312
   },
   "listening_style": {
     "played_from": {
-      "other": 416,
+      "other": 421,
       "playlist": 92,
       "album": 20
     },
