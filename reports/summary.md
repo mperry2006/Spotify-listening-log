@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-24 to 2026-10-31** · updated 2026-10-31 17:49 ET
+**2026-10-24 to 2026-10-31** · updated 2026-10-31 18:48 ET
 
-**556 plays** (+556 vs last week) · **1779 minutes** · 232 artists · 497 songs
+**570 plays** (+570 vs last week) · **1820 minutes** · 234 artists · 503 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Westside Gunn | 47 | NEW |
-| 2 | Gunna | 38 | NEW |
-| 3 | The Alchemist | 34 | NEW |
-| 4 | Future | 33 | NEW |
-| 5 | Young Thug | 30 | NEW |
+| 2 | Gunna | 40 | NEW |
+| 3 | Future | 35 | NEW |
+| 4 | The Alchemist | 34 | NEW |
+| 5 | Young Thug | 34 | NEW |
 | 6 | J. Cole | 30 | NEW |
-| 7 | Lil Baby | 28 | NEW |
+| 7 | Lil Baby | 29 | NEW |
 | 8 | Drake | 27 | NEW |
-| 9 | 21 Savage | 24 | NEW |
-| 10 | Conway the Machine | 20 | NEW |
+| 9 | 21 Savage | 25 | NEW |
+| 10 | Quality Control | 21 | NEW |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (47), Gunna (38), The Alchemist (34), Future (33), Young Thug (30), J. Cole (30), Lil Baby (28), Drake (27), 21 Savage (24), Conway the Machine (20)
+New artists: Westside Gunn (47), Gunna (40), Future (35), The Alchemist (34), Young Thug (34), J. Cole (30), Lil Baby (29), Drake (27), 21 Savage (25), Quality Control (21)
 
 ## On repeat (3+ plays)
 - Menace - Migos - 4x
@@ -57,7 +57,7 @@ New artists: Westside Gunn (47), Gunna (38), The Alchemist (34), Future (33), Yo
 Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     ██████████ 103
 Afternoon (12pm-5pm)   ████████████████████ 214
-Evening (5pm-9pm)      ██████████████ 151
+Evening (5pm-9pm)      ███████████████ 165
 Night (9pm-12am)       ██████ 63
 
 Mon                    ████████████ 80
@@ -65,7 +65,7 @@ Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
-Sat                    ████████ 51
+Sat                    ██████████ 65
 Sun                     0
 ```
 
@@ -77,10 +77,10 @@ Sun                     0
 - Gunna: 6 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 14, 2000s: 35, 2010s: 185, 2020s: 320
+1960s: 1, 1980s: 1, 1990s: 14, 2000s: 35, 2010s: 188, 2020s: 331
 
 ## How you listen
-Played from: other 443, playlist 93, album 20
+Played from: other 451, playlist 99, album 20
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 557 plays recorded total._
+_Log started 2026-10-26 · 571 plays recorded total._
