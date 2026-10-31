@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T19:49-04:00",
+  "generated_at": "2026-10-30T21:16-04:00",
   "window": {
     "start": "2026-10-23",
     "end": "2026-10-30"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 467,
+  "total_plays_logged": 489,
   "this_week": {
-    "plays": 466,
-    "minutes": 1473,
-    "unique_tracks": 422,
-    "unique_artists": 205
+    "plays": 488,
+    "minutes": 1541,
+    "unique_tracks": 437,
+    "unique_artists": 208
   },
   "last_week": {
     "plays": 0,
@@ -37,42 +37,42 @@
     {
       "rank": 1,
       "name": "Westside Gunn",
-      "plays": 45,
+      "plays": 46,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
+      "name": "Future",
+      "plays": 33,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
       "name": "The Alchemist",
       "plays": 32,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Gunna",
+      "plays": 32,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 5,
       "name": "J. Cole",
       "plays": 29,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
-      "name": "Future",
-      "plays": 29,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
-      "name": "Gunna",
-      "plays": 26,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 6,
       "name": "Young Thug",
-      "plays": 25,
+      "plays": 28,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -92,15 +92,15 @@
     },
     {
       "rank": 9,
-      "name": "Conway the Machine",
-      "plays": 20,
+      "name": "Drake",
+      "plays": 21,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Drake",
-      "plays": 19,
+      "name": "Conway the Machine",
+      "plays": 20,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -157,21 +157,21 @@
     },
     {
       "rank": 8,
-      "name": "Rocket Ship - Future",
+      "name": "p angels - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Vogue cover (feat. Stove God Cooks) - Westside Gunn",
-      "plays": 2,
+      "name": "Rocket Ship - Future",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Ugly Balenciaga's - Rome Streetz",
+      "name": "Vogue cover (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -182,10 +182,18 @@
     "new_artists": [
       {
         "name": "Westside Gunn",
-        "plays": 45
+        "plays": 46
+      },
+      {
+        "name": "Future",
+        "plays": 33
       },
       {
         "name": "The Alchemist",
+        "plays": 32
+      },
+      {
+        "name": "Gunna",
         "plays": 32
       },
       {
@@ -193,16 +201,8 @@
         "plays": 29
       },
       {
-        "name": "Future",
-        "plays": 29
-      },
-      {
-        "name": "Gunna",
-        "plays": 26
-      },
-      {
         "name": "Young Thug",
-        "plays": 25
+        "plays": 28
       },
       {
         "name": "Lil Baby",
@@ -213,12 +213,12 @@
         "plays": 22
       },
       {
-        "name": "Conway the Machine",
-        "plays": 20
+        "name": "Drake",
+        "plays": 21
       },
       {
-        "name": "Drake",
-        "plays": 19
+        "name": "Conway the Machine",
+        "plays": 20
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -254,6 +254,10 @@
       "plays": 3
     },
     {
+      "track": "p angels - Gunna",
+      "plays": 3
+    },
+    {
       "track": "Rocket Ship - Future",
       "plays": 3
     }
@@ -262,15 +266,15 @@
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 176,
-    "Evening (5pm-9pm)": 124,
-    "Night (9pm-12am)": 42
+    "Evening (5pm-9pm)": 142,
+    "Night (9pm-12am)": 46
   },
   "day_of_week": {
     "Mon": 80,
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
-    "Fri": 91,
+    "Fri": 113,
     "Sat": 0,
     "Sun": 0
   },
@@ -302,13 +306,13 @@
     "1980s": 1,
     "1990s": 7,
     "2000s": 25,
-    "2010s": 162,
-    "2020s": 270
+    "2010s": 168,
+    "2020s": 286
   },
   "listening_style": {
     "played_from": {
       "other": 394,
-      "playlist": 52,
+      "playlist": 74,
       "album": 20
     },
     "full_album_sessions": 3
@@ -317,29 +321,29 @@
     "short_term": {
       "artists": [
         "Westside Gunn",
-        "J. Cole",
         "Future",
-        "Lil Baby",
         "Gunna",
+        "J. Cole",
         "Drake",
         "Lil Durk",
         "Young Thug",
-        "LUCKI",
-        "JAŸ-Z"
+        "Lil Baby",
+        "JAŸ-Z",
+        "LUCKI"
       ]
     },
     "medium_term": {
       "artists": [
+        "J. Cole",
         "LUCKI",
         "Future",
-        "J. Cole",
         "Drake",
         "Lil Baby",
-        "Freddie Gibbs",
         "Westside Gunn",
+        "Freddie Gibbs",
         "Curren$y",
         "Gunna",
-        "Lil Durk"
+        "Young Thug"
       ]
     },
     "long_term": {
@@ -348,8 +352,8 @@
         "Drake",
         "Westside Gunn",
         "Future",
-        "Freddie Gibbs",
         "Lil Baby",
+        "Freddie Gibbs",
         "Kendrick Lamar",
         "Benny The Butcher",
         "Young Thug",

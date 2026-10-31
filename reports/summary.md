@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-23 to 2026-10-30** · updated 2026-10-30 19:49 ET
+**2026-10-23 to 2026-10-30** · updated 2026-10-30 21:16 ET
 
-**466 plays** (+466 vs last week) · **1473 minutes** · 205 artists · 422 songs
+**488 plays** (+488 vs last week) · **1541 minutes** · 208 artists · 437 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Westside Gunn | 45 | NEW |
-| 2 | The Alchemist | 32 | NEW |
-| 3 | J. Cole | 29 | NEW |
-| 4 | Future | 29 | NEW |
-| 5 | Gunna | 26 | NEW |
-| 6 | Young Thug | 25 | NEW |
+| 1 | Westside Gunn | 46 | NEW |
+| 2 | Future | 33 | NEW |
+| 3 | The Alchemist | 32 | NEW |
+| 4 | Gunna | 32 | NEW |
+| 5 | J. Cole | 29 | NEW |
+| 6 | Young Thug | 28 | NEW |
 | 7 | Lil Baby | 23 | NEW |
 | 8 | 21 Savage | 22 | NEW |
-| 9 | Conway the Machine | 20 | NEW |
-| 10 | Drake | 19 | NEW |
+| 9 | Drake | 21 | NEW |
+| 10 | Conway the Machine | 20 | NEW |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -29,13 +29,13 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | 5 | i n t e r l u d e - J. Cole | 3 | NEW |
 | 6 | Diamonds (feat. Gunna) - Young Thug | 3 | NEW |
 | 7 | pad lock - 21 Savage | 3 | NEW |
-| 8 | Rocket Ship - Future | 3 | NEW |
-| 9 | Vogue cover (feat. Stove God Cooks) - Westside Gunn | 2 | NEW |
-| 10 | Ugly Balenciaga's - Rome Streetz | 2 | NEW |
+| 8 | p angels - Gunna | 3 | NEW |
+| 9 | Rocket Ship - Future | 3 | NEW |
+| 10 | Vogue cover (feat. Stove God Cooks) - Westside Gunn | 2 | NEW |
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (45), The Alchemist (32), J. Cole (29), Future (29), Gunna (26), Young Thug (25), Lil Baby (23), 21 Savage (22), Conway the Machine (20), Drake (19)
+New artists: Westside Gunn (46), Future (33), The Alchemist (32), Gunna (32), J. Cole (29), Young Thug (28), Lil Baby (23), 21 Savage (22), Drake (21), Conway the Machine (20)
 
 ## On repeat (3+ plays)
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
@@ -45,6 +45,7 @@ New artists: Westside Gunn (45), The Alchemist (32), J. Cole (29), Future (29), 
 - i n t e r l u d e - J. Cole - 3x
 - Diamonds (feat. Gunna) - Young Thug - 3x
 - pad lock - 21 Savage - 3x
+- p angels - Gunna - 3x
 - Rocket Ship - Future - 3x
 
 ## Most skipped
@@ -55,14 +56,14 @@ New artists: Westside Gunn (45), The Alchemist (32), J. Cole (29), Future (29), 
 Late night (12am-5am)  ███ 25
 Morning (5am-12pm)     ███████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 176
-Evening (5pm-9pm)      ██████████████ 124
-Night (9pm-12am)       █████ 42
+Evening (5pm-9pm)      ████████████████ 142
+Night (9pm-12am)       █████ 46
 
 Mon                    ████████████ 80
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
-Fri                    ██████████████ 91
+Fri                    █████████████████ 113
 Sat                     0
 Sun                     0
 ```
@@ -75,10 +76,10 @@ Sun                     0
 - Gunna: 5 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 7, 2000s: 25, 2010s: 162, 2020s: 270
+1960s: 1, 1980s: 1, 1990s: 7, 2000s: 25, 2010s: 168, 2020s: 286
 
 ## How you listen
-Played from: other 394, playlist 52, album 20
+Played from: other 394, playlist 74, album 20
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 467 plays recorded total._
+_Log started 2026-10-26 · 489 plays recorded total._
