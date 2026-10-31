@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T16:50-04:00",
+  "generated_at": "2026-10-31T17:49-04:00",
   "window": {
     "start": "2026-10-24",
     "end": "2026-10-31"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 546,
+  "total_plays_logged": 557,
   "this_week": {
-    "plays": 545,
-    "minutes": 1747,
-    "unique_tracks": 489,
-    "unique_artists": 228
+    "plays": 556,
+    "minutes": 1779,
+    "unique_tracks": 497,
+    "unique_artists": 232
   },
   "last_week": {
     "plays": 0,
@@ -44,14 +44,14 @@
     {
       "rank": 2,
       "name": "Gunna",
-      "plays": 35,
+      "plays": 38,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
       "name": "The Alchemist",
-      "plays": 33,
+      "plays": 34,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -78,15 +78,15 @@
     },
     {
       "rank": 7,
-      "name": "Drake",
-      "plays": 27,
+      "name": "Lil Baby",
+      "plays": 28,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Lil Baby",
-      "plays": 26,
+      "name": "Drake",
+      "plays": 27,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -108,70 +108,70 @@
   "top_tracks": [
     {
       "rank": 1,
+      "name": "Menace - Migos",
+      "plays": 4,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 2,
       "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "CHICKENS (feat. EST Gee) - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Violation Freestyle - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Back On - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Diamonds (feat. Gunna) - Young Thug",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "pad lock - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "p angels - Gunna",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Rocket Ship - Future",
+      "name": "p angels - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -186,11 +186,11 @@
       },
       {
         "name": "Gunna",
-        "plays": 35
+        "plays": 38
       },
       {
         "name": "The Alchemist",
-        "plays": 33
+        "plays": 34
       },
       {
         "name": "Future",
@@ -205,12 +205,12 @@
         "plays": 30
       },
       {
-        "name": "Drake",
-        "plays": 27
+        "name": "Lil Baby",
+        "plays": 28
       },
       {
-        "name": "Lil Baby",
-        "plays": 26
+        "name": "Drake",
+        "plays": 27
       },
       {
         "name": "21 Savage",
@@ -225,6 +225,10 @@
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
+    {
+      "track": "Menace - Migos",
+      "plays": 4
+    },
     {
       "track": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
       "plays": 3
@@ -260,17 +264,13 @@
     {
       "track": "p angels - Gunna",
       "plays": 3
-    },
-    {
-      "track": "Rocket Ship - Future",
-      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 103,
-    "Afternoon (12pm-5pm)": 212,
-    "Evening (5pm-9pm)": 142,
+    "Afternoon (12pm-5pm)": 214,
+    "Evening (5pm-9pm)": 151,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
@@ -279,7 +279,7 @@
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
-    "Sat": 40,
+    "Sat": 51,
     "Sun": 0
   },
   "busiest_day": "Wed",
@@ -301,21 +301,21 @@
       "days": 6
     },
     {
-      "artist": "21 Savage",
+      "artist": "Gunna",
       "days": 6
     }
   ],
   "release_eras": {
     "1960s": 1,
     "1980s": 1,
-    "1990s": 13,
-    "2000s": 34,
-    "2010s": 183,
-    "2020s": 313
+    "1990s": 14,
+    "2000s": 35,
+    "2010s": 185,
+    "2020s": 320
   },
   "listening_style": {
     "played_from": {
-      "other": 432,
+      "other": 443,
       "playlist": 93,
       "album": 20
     },
