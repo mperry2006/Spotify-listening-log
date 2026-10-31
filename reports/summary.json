@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T18:48-04:00",
+  "generated_at": "2026-10-31T19:47-04:00",
   "window": {
     "start": "2026-10-24",
     "end": "2026-10-31"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 571,
+  "total_plays_logged": 589,
   "this_week": {
-    "plays": 570,
-    "minutes": 1820,
-    "unique_tracks": 503,
-    "unique_artists": 234
+    "plays": 588,
+    "minutes": 1870,
+    "unique_tracks": 515,
+    "unique_artists": 236
   },
   "last_week": {
     "plays": 0,
@@ -44,42 +44,42 @@
     {
       "rank": 2,
       "name": "Gunna",
-      "plays": 40,
+      "plays": 44,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 35,
+      "name": "Young Thug",
+      "plays": 38,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
+      "name": "Future",
+      "plays": 38,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 5,
       "name": "The Alchemist",
       "plays": 34,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
-      "name": "Young Thug",
-      "plays": 34,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 6,
-      "name": "J. Cole",
-      "plays": 30,
+      "name": "Lil Baby",
+      "plays": 33,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Lil Baby",
-      "plays": 29,
+      "name": "J. Cole",
+      "plays": 30,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -100,7 +100,7 @@
     {
       "rank": 10,
       "name": "Quality Control",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -108,70 +108,70 @@
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Menace - Migos",
+      "name": "Back On - Quality Control",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
+      "name": "Menace - Migos",
+      "plays": 4,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
       "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "CHICKENS (feat. EST Gee) - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Violation Freestyle - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
-      "name": "Back On - Quality Control",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 7,
-      "name": "i n t e r l u d e - J. Cole",
+      "name": "Shit Crazy (feat. BIG30) - Gucci Mane",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Diamonds (feat. Gunna) - Young Thug",
+      "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "pad lock - 21 Savage",
+      "name": "Diamonds (feat. Gunna) - Young Thug",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "p angels - Gunna",
+      "name": "pad lock - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -186,27 +186,27 @@
       },
       {
         "name": "Gunna",
-        "plays": 40
+        "plays": 44
+      },
+      {
+        "name": "Young Thug",
+        "plays": 38
       },
       {
         "name": "Future",
-        "plays": 35
+        "plays": 38
       },
       {
         "name": "The Alchemist",
         "plays": 34
       },
       {
-        "name": "Young Thug",
-        "plays": 34
+        "name": "Lil Baby",
+        "plays": 33
       },
       {
         "name": "J. Cole",
         "plays": 30
-      },
-      {
-        "name": "Lil Baby",
-        "plays": 29
       },
       {
         "name": "Drake",
@@ -218,13 +218,17 @@
       },
       {
         "name": "Quality Control",
-        "plays": 21
+        "plays": 22
       }
     ],
     "plays_of_new_tracks_pct": 100,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
+    {
+      "track": "Back On - Quality Control",
+      "plays": 4
+    },
     {
       "track": "Menace - Migos",
       "plays": 4
@@ -246,7 +250,7 @@
       "plays": 3
     },
     {
-      "track": "Back On - Quality Control",
+      "track": "Shit Crazy (feat. BIG30) - Gucci Mane",
       "plays": 3
     },
     {
@@ -260,17 +264,13 @@
     {
       "track": "pad lock - 21 Savage",
       "plays": 3
-    },
-    {
-      "track": "p angels - Gunna",
-      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 103,
     "Afternoon (12pm-5pm)": 214,
-    "Evening (5pm-9pm)": 165,
+    "Evening (5pm-9pm)": 183,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
@@ -279,7 +279,7 @@
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
-    "Sat": 65,
+    "Sat": 83,
     "Sun": 0
   },
   "busiest_day": "Wed",
@@ -310,12 +310,12 @@
     "1980s": 1,
     "1990s": 14,
     "2000s": 35,
-    "2010s": 188,
-    "2020s": 331
+    "2010s": 192,
+    "2020s": 345
   },
   "listening_style": {
     "played_from": {
-      "other": 451,
+      "other": 469,
       "playlist": 99,
       "album": 20
     },
