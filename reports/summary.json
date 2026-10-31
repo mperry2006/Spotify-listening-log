@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T10:49-04:00",
+  "generated_at": "2026-10-31T11:49-04:00",
   "window": {
     "start": "2026-10-24",
     "end": "2026-10-31"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 506,
+  "total_plays_logged": 508,
   "this_week": {
-    "plays": 505,
-    "minutes": 1601,
-    "unique_tracks": 450,
-    "unique_artists": 214
+    "plays": 507,
+    "minutes": 1607,
+    "unique_tracks": 452,
+    "unique_artists": 215
   },
   "last_week": {
     "plays": 0,
@@ -78,14 +78,14 @@
     },
     {
       "rank": 7,
-      "name": "Drake",
-      "plays": 25,
+      "name": "Lil Baby",
+      "plays": 26,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Lil Baby",
+      "name": "Drake",
       "plays": 25,
       "last_week_plays": 0,
       "change": "NEW"
@@ -205,11 +205,11 @@
         "plays": 29
       },
       {
-        "name": "Drake",
-        "plays": 25
+        "name": "Lil Baby",
+        "plays": 26
       },
       {
-        "name": "Lil Baby",
+        "name": "Drake",
         "plays": 25
       },
       {
@@ -268,7 +268,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 25,
-    "Morning (5am-12pm)": 99,
+    "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 176,
     "Evening (5pm-9pm)": 142,
     "Night (9pm-12am)": 63
@@ -279,7 +279,7 @@
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
-    "Sat": 0,
+    "Sat": 2,
     "Sun": 0
   },
   "busiest_day": "Wed",
@@ -309,14 +309,14 @@
     "1960s": 1,
     "1980s": 1,
     "1990s": 7,
-    "2000s": 25,
+    "2000s": 26,
     "2010s": 176,
-    "2020s": 295
+    "2020s": 296
   },
   "listening_style": {
     "played_from": {
-      "other": 394,
-      "playlist": 91,
+      "other": 395,
+      "playlist": 92,
       "album": 20
     },
     "full_album_sessions": 3

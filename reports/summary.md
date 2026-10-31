@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-24 to 2026-10-31** · updated 2026-10-31 10:49 ET
+**2026-10-24 to 2026-10-31** · updated 2026-10-31 11:49 ET
 
-**505 plays** (+505 vs last week) · **1601 minutes** · 214 artists · 450 songs
+**507 plays** (+507 vs last week) · **1607 minutes** · 215 artists · 452 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -14,8 +14,8 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | 4 | The Alchemist | 32 | NEW |
 | 5 | Young Thug | 30 | NEW |
 | 6 | J. Cole | 29 | NEW |
-| 7 | Drake | 25 | NEW |
-| 8 | Lil Baby | 25 | NEW |
+| 7 | Lil Baby | 26 | NEW |
+| 8 | Drake | 25 | NEW |
 | 9 | 21 Savage | 22 | NEW |
 | 10 | Conway the Machine | 20 | NEW |
 
@@ -35,7 +35,7 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Westside Gunn (46), Gunna (35), Future (33), The Alchemist (32), Young Thug (30), J. Cole (29), Drake (25), Lil Baby (25), 21 Savage (22), Conway the Machine (20)
+New artists: Westside Gunn (46), Gunna (35), Future (33), The Alchemist (32), Young Thug (30), J. Cole (29), Lil Baby (26), Drake (25), 21 Savage (22), Conway the Machine (20)
 
 ## On repeat (3+ plays)
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
@@ -55,7 +55,7 @@ New artists: Westside Gunn (46), Gunna (35), Future (33), The Alchemist (32), Yo
 ## When you listen
 ```
 Late night (12am-5am)  ███ 25
-Morning (5am-12pm)     ███████████ 99
+Morning (5am-12pm)     ███████████ 101
 Afternoon (12pm-5pm)   ████████████████████ 176
 Evening (5pm-9pm)      ████████████████ 142
 Night (9pm-12am)       ███████ 63
@@ -65,7 +65,7 @@ Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
-Sat                     0
+Sat                     2
 Sun                     0
 ```
 
@@ -77,10 +77,10 @@ Sun                     0
 - Gunna: 5 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 7, 2000s: 25, 2010s: 176, 2020s: 295
+1960s: 1, 1980s: 1, 1990s: 7, 2000s: 26, 2010s: 176, 2020s: 296
 
 ## How you listen
-Played from: other 394, playlist 91, album 20
+Played from: other 395, playlist 92, album 20
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 506 plays recorded total._
+_Log started 2026-10-26 · 508 plays recorded total._
