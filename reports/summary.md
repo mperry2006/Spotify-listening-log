@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-24 to 2026-10-31** · updated 2026-10-31 14:58 ET
+**2026-10-24 to 2026-10-31** · updated 2026-10-31 15:50 ET
 
-**533 plays** (+533 vs last week) · **1700 minutes** · 223 artists · 478 songs
+**535 plays** (+535 vs last week) · **1707 minutes** · 224 artists · 480 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -56,7 +56,7 @@ New artists: Westside Gunn (47), Gunna (35), The Alchemist (33), Future (33), Yo
 ```
 Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     ██████████ 103
-Afternoon (12pm-5pm)   ████████████████████ 200
+Afternoon (12pm-5pm)   ████████████████████ 202
 Evening (5pm-9pm)      ██████████████ 142
 Night (9pm-12am)       ██████ 63
 
@@ -65,7 +65,7 @@ Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
-Sat                    ████ 28
+Sat                    ████ 30
 Sun                     0
 ```
 
@@ -77,10 +77,10 @@ Sun                     0
 - 21 Savage: 6 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 9, 2000s: 27, 2010s: 183, 2020s: 312
+1960s: 1, 1980s: 1, 1990s: 9, 2000s: 28, 2010s: 183, 2020s: 313
 
 ## How you listen
-Played from: other 421, playlist 92, album 20
+Played from: other 422, playlist 93, album 20
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 534 plays recorded total._
+_Log started 2026-10-26 · 536 plays recorded total._
