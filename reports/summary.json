@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T11:49-04:00",
+  "generated_at": "2026-10-31T12:51-04:00",
   "window": {
     "start": "2026-10-24",
     "end": "2026-10-31"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 508,
+  "total_plays_logged": 518,
   "this_week": {
-    "plays": 507,
-    "minutes": 1607,
-    "unique_tracks": 452,
-    "unique_artists": 215
+    "plays": 517,
+    "minutes": 1640,
+    "unique_tracks": 462,
+    "unique_artists": 216
   },
   "last_week": {
     "plays": 0,
@@ -50,15 +50,15 @@
     },
     {
       "rank": 3,
-      "name": "Future",
+      "name": "The Alchemist",
       "plays": 33,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "The Alchemist",
-      "plays": 32,
+      "name": "Future",
+      "plays": 33,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -93,7 +93,7 @@
     {
       "rank": 9,
       "name": "21 Savage",
-      "plays": 22,
+      "plays": 23,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -189,12 +189,12 @@
         "plays": 35
       },
       {
-        "name": "Future",
+        "name": "The Alchemist",
         "plays": 33
       },
       {
-        "name": "The Alchemist",
-        "plays": 32
+        "name": "Future",
+        "plays": 33
       },
       {
         "name": "Young Thug",
@@ -214,7 +214,7 @@
       },
       {
         "name": "21 Savage",
-        "plays": 22
+        "plays": 23
       },
       {
         "name": "Conway the Machine",
@@ -268,8 +268,8 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 25,
-    "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 176,
+    "Morning (5am-12pm)": 103,
+    "Afternoon (12pm-5pm)": 184,
     "Evening (5pm-9pm)": 142,
     "Night (9pm-12am)": 63
   },
@@ -279,29 +279,29 @@
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
-    "Sat": 2,
+    "Sat": 12,
     "Sun": 0
   },
   "busiest_day": "Wed",
   "streaks": [
     {
+      "artist": "Boldy James",
+      "days": 6
+    },
+    {
+      "artist": "The Alchemist",
+      "days": 6
+    },
+    {
+      "artist": "21 Savage",
+      "days": 6
+    },
+    {
       "artist": "Drake",
       "days": 5
     },
     {
-      "artist": "Boldy James",
-      "days": 5
-    },
-    {
-      "artist": "The Alchemist",
-      "days": 5
-    },
-    {
       "artist": "Westside Gunn",
-      "days": 5
-    },
-    {
-      "artist": "Gunna",
       "days": 5
     }
   ],
@@ -311,11 +311,11 @@
     "1990s": 7,
     "2000s": 26,
     "2010s": 176,
-    "2020s": 296
+    "2020s": 306
   },
   "listening_style": {
     "played_from": {
-      "other": 395,
+      "other": 405,
       "playlist": 92,
       "album": 20
     },
