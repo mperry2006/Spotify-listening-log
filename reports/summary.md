@@ -1,9 +1,9 @@
 # Listening Report
-**2026-10-25 to 2026-11-01** · updated 2026-11-01 12:47 ET
+**2026-10-25 to 2026-11-01** · updated 2026-11-01 13:59 ET
 
-**615 plays** (+615 vs last week) · **1959 minutes** · 239 artists · 528 songs
+**616 plays** (+616 vs last week) · **1962 minutes** · 240 artists · 529 songs
 
-_Counting real listens only. 1 skips left out (0% skip rate)._
+_Counting real listens only. 6 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
@@ -50,13 +50,16 @@ New artists: Gunna (51), Westside Gunn (47), Young Thug (44), Future (39), Lil B
 - pad lock - 21 Savage - 3x
 
 ## Most skipped
+- Flashing Lights - Kanye West - skipped 3x
 - Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff) - Metro Boomin - skipped 1x
+- Soundgasm - Rema - skipped 1x
+- Stronger - Kanye West - skipped 1x
 
 ## When you listen
 ```
 Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     █████████ 103
-Afternoon (12pm-5pm)   ████████████████████ 217
+Afternoon (12pm-5pm)   ████████████████████ 218
 Evening (5pm-9pm)      ██████████████████ 199
 Night (9pm-12am)       ███████ 71
 
@@ -66,7 +69,7 @@ Wed                    ███████████████████
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
 Sat                    ████████████████ 107
-Sun                     3
+Sun                    █ 4
 ```
 
 ## Streaks
@@ -77,10 +80,10 @@ Sun                     3
 - Drake: 6 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 14, 2000s: 35, 2010s: 201, 2020s: 363
+1960s: 1, 1980s: 1, 1990s: 14, 2000s: 35, 2010s: 201, 2020s: 364
 
 ## How you listen
-Played from: other 489, playlist 106, album 20
+Played from: other 489, playlist 107, album 20
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 616 plays recorded total._
+_Log started 2026-10-26 · 622 plays recorded total._
