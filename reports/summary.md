@@ -1,29 +1,29 @@
 # Listening Report
-**2026-10-25 to 2026-11-01** · updated 2026-11-01 15:51 ET
+**2026-10-25 to 2026-11-01** · updated 2026-11-01 16:49 ET
 
-**626 plays** (+626 vs last week) · **1997 minutes** · 242 artists · 539 songs
+**638 plays** (+638 vs last week) · **2029 minutes** · 247 artists · 547 songs
 
 _Counting real listens only. 6 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 51 | NEW |
+| 1 | Gunna | 52 | NEW |
 | 2 | Westside Gunn | 47 | NEW |
 | 3 | Young Thug | 44 | NEW |
 | 4 | Future | 39 | NEW |
-| 5 | Lil Baby | 36 | NEW |
+| 5 | Lil Baby | 38 | NEW |
 | 6 | The Alchemist | 34 | NEW |
 | 7 | J. Cole | 31 | NEW |
 | 8 | Drake | 30 | NEW |
 | 9 | 21 Savage | 28 | NEW |
-| 10 | Migos | 23 | NEW |
+| 10 | Quality Control | 23 | NEW |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Rich Nigga Shit (feat. Young Thug) - 21 Savage | 4 | NEW |
-| 2 | Back On - Quality Control | 4 | NEW |
+| 1 | Back On - Quality Control | 5 | NEW |
+| 2 | Rich Nigga Shit (feat. Young Thug) - 21 Savage | 4 | NEW |
 | 3 | Menace - Migos | 4 | NEW |
 | 4 | Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn | 3 | NEW |
 | 5 | CHICKENS (feat. EST Gee) - Future | 3 | NEW |
@@ -35,11 +35,11 @@ _Counting real listens only. 6 skips left out (1% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Gunna (51), Westside Gunn (47), Young Thug (44), Future (39), Lil Baby (36), The Alchemist (34), J. Cole (31), Drake (30), 21 Savage (28), Migos (23)
+New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil Baby (38), The Alchemist (34), J. Cole (31), Drake (30), 21 Savage (28), Quality Control (23)
 
 ## On repeat (3+ plays)
+- Back On - Quality Control - 5x
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 4x
-- Back On - Quality Control - 4x
 - Menace - Migos - 4x
 - Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn - 3x
 - CHICKENS (feat. EST Gee) - Future - 3x
@@ -59,7 +59,7 @@ New artists: Gunna (51), Westside Gunn (47), Young Thug (44), Future (39), Lil B
 ```
 Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     █████████ 103
-Afternoon (12pm-5pm)   ████████████████████ 228
+Afternoon (12pm-5pm)   ████████████████████ 240
 Evening (5pm-9pm)      █████████████████ 199
 Night (9pm-12am)       ██████ 71
 
@@ -69,7 +69,7 @@ Wed                    ███████████████████
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
 Sat                    ████████████████ 107
-Sun                    ██ 14
+Sun                    ████ 26
 ```
 
 ## Streaks
@@ -80,10 +80,10 @@ Sun                    ██ 14
 - Drake: 6 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 14, 2000s: 37, 2010s: 204, 2020s: 369
+1960s: 1, 1980s: 1, 1990s: 15, 2000s: 39, 2010s: 207, 2020s: 375
 
 ## How you listen
-Played from: other 489, playlist 115, album 22
+Played from: other 497, playlist 118, album 23
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 632 plays recorded total._
+_Log started 2026-10-26 · 644 plays recorded total._
