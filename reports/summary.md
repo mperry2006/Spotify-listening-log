@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-25 to 2026-11-01** · updated 2026-11-01 17:50 ET
+**2026-10-25 to 2026-11-01** · updated 2026-11-01 18:46 ET
 
-**648 plays** (+648 vs last week) · **2064 minutes** · 250 artists · 556 songs
+**649 plays** (+649 vs last week) · **2067 minutes** · 250 artists · 557 songs
 
 _Counting real listens only. 6 skips left out (1% skip rate)._
 
@@ -60,7 +60,7 @@ New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil B
 Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     █████████ 103
 Afternoon (12pm-5pm)   ████████████████████ 242
-Evening (5pm-9pm)      █████████████████ 207
+Evening (5pm-9pm)      █████████████████ 208
 Night (9pm-12am)       ██████ 71
 
 Mon                    ████████████ 80
@@ -69,7 +69,7 @@ Wed                    ███████████████████
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
 Sat                    ████████████████ 107
-Sun                    █████ 36
+Sun                    ██████ 37
 ```
 
 ## Streaks
@@ -80,10 +80,10 @@ Sun                    █████ 36
 - Metro Boomin: 7 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 15, 2000s: 40, 2010s: 210, 2020s: 381
+1960s: 1, 1980s: 1, 1990s: 15, 2000s: 40, 2010s: 211, 2020s: 381
 
 ## How you listen
-Played from: other 507, playlist 118, album 23
+Played from: other 508, playlist 118, album 23
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 654 plays recorded total._
+_Log started 2026-10-26 · 655 plays recorded total._
