@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-25 to 2026-11-01** · updated 2026-11-01 14:51 ET
+**2026-10-25 to 2026-11-01** · updated 2026-11-01 15:51 ET
 
-**620 plays** (+620 vs last week) · **1976 minutes** · 241 artists · 533 songs
+**626 plays** (+626 vs last week) · **1997 minutes** · 242 artists · 539 songs
 
 _Counting real listens only. 6 skips left out (1% skip rate)._
 
@@ -59,8 +59,8 @@ New artists: Gunna (51), Westside Gunn (47), Young Thug (44), Future (39), Lil B
 ```
 Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     █████████ 103
-Afternoon (12pm-5pm)   ████████████████████ 222
-Evening (5pm-9pm)      ██████████████████ 199
+Afternoon (12pm-5pm)   ████████████████████ 228
+Evening (5pm-9pm)      █████████████████ 199
 Night (9pm-12am)       ██████ 71
 
 Mon                    ████████████ 80
@@ -69,7 +69,7 @@ Wed                    ███████████████████
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
 Sat                    ████████████████ 107
-Sun                    █ 8
+Sun                    ██ 14
 ```
 
 ## Streaks
@@ -80,10 +80,10 @@ Sun                    █ 8
 - Drake: 6 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 14, 2000s: 35, 2010s: 203, 2020s: 366
+1960s: 1, 1980s: 1, 1990s: 14, 2000s: 37, 2010s: 204, 2020s: 369
 
 ## How you listen
-Played from: other 489, playlist 109, album 22
+Played from: other 489, playlist 115, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 626 plays recorded total._
+_Log started 2026-10-26 · 632 plays recorded total._
