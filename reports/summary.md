@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-25 to 2026-11-01** · updated 2026-11-01 16:49 ET
+**2026-10-25 to 2026-11-01** · updated 2026-11-01 17:50 ET
 
-**638 plays** (+638 vs last week) · **2029 minutes** · 247 artists · 547 songs
+**648 plays** (+648 vs last week) · **2064 minutes** · 250 artists · 556 songs
 
 _Counting real listens only. 6 skips left out (1% skip rate)._
 
@@ -12,11 +12,11 @@ _Counting real listens only. 6 skips left out (1% skip rate)._
 | 2 | Westside Gunn | 47 | NEW |
 | 3 | Young Thug | 44 | NEW |
 | 4 | Future | 39 | NEW |
-| 5 | Lil Baby | 38 | NEW |
-| 6 | The Alchemist | 34 | NEW |
+| 5 | Lil Baby | 39 | NEW |
+| 6 | The Alchemist | 35 | NEW |
 | 7 | J. Cole | 31 | NEW |
 | 8 | Drake | 30 | NEW |
-| 9 | 21 Savage | 28 | NEW |
+| 9 | 21 Savage | 29 | NEW |
 | 10 | Quality Control | 23 | NEW |
 
 ## Top songs
@@ -35,7 +35,7 @@ _Counting real listens only. 6 skips left out (1% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil Baby (38), The Alchemist (34), J. Cole (31), Drake (30), 21 Savage (28), Quality Control (23)
+New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil Baby (39), The Alchemist (35), J. Cole (31), Drake (30), 21 Savage (29), Quality Control (23)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -59,8 +59,8 @@ New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil B
 ```
 Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     █████████ 103
-Afternoon (12pm-5pm)   ████████████████████ 240
-Evening (5pm-9pm)      █████████████████ 199
+Afternoon (12pm-5pm)   ████████████████████ 242
+Evening (5pm-9pm)      █████████████████ 207
 Night (9pm-12am)       ██████ 71
 
 Mon                    ████████████ 80
@@ -69,21 +69,21 @@ Wed                    ███████████████████
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
 Sat                    ████████████████ 107
-Sun                    ████ 26
+Sun                    █████ 36
 ```
 
 ## Streaks
+- Boldy James: 7 days in a row
+- The Alchemist: 7 days in a row
 - Gunna: 7 days in a row
 - 21 Savage: 7 days in a row
 - Metro Boomin: 7 days in a row
-- Young Thug: 7 days in a row
-- Drake: 6 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 15, 2000s: 39, 2010s: 207, 2020s: 375
+1960s: 1, 1980s: 1, 1990s: 15, 2000s: 40, 2010s: 210, 2020s: 381
 
 ## How you listen
-Played from: other 497, playlist 118, album 23
+Played from: other 507, playlist 118, album 23
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 644 plays recorded total._
+_Log started 2026-10-26 · 654 plays recorded total._

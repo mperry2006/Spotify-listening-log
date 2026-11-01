@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-01T16:49-05:00",
+  "generated_at": "2026-11-01T17:50-05:00",
   "window": {
     "start": "2026-10-25",
     "end": "2026-11-01"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 644,
+  "total_plays_logged": 654,
   "this_week": {
-    "plays": 638,
-    "minutes": 2029,
-    "unique_tracks": 547,
-    "unique_artists": 247
+    "plays": 648,
+    "minutes": 2064,
+    "unique_tracks": 556,
+    "unique_artists": 250
   },
   "last_week": {
     "plays": 0,
@@ -85,14 +85,14 @@
     {
       "rank": 5,
       "name": "Lil Baby",
-      "plays": 38,
+      "plays": 39,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 6,
       "name": "The Alchemist",
-      "plays": 34,
+      "plays": 35,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -113,7 +113,7 @@
     {
       "rank": 9,
       "name": "21 Savage",
-      "plays": 28,
+      "plays": 29,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -218,11 +218,11 @@
       },
       {
         "name": "Lil Baby",
-        "plays": 38
+        "plays": 39
       },
       {
         "name": "The Alchemist",
-        "plays": 34
+        "plays": 35
       },
       {
         "name": "J. Cole",
@@ -234,7 +234,7 @@
       },
       {
         "name": "21 Savage",
-        "plays": 28
+        "plays": 29
       },
       {
         "name": "Quality Control",
@@ -289,8 +289,8 @@
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 103,
-    "Afternoon (12pm-5pm)": 240,
-    "Evening (5pm-9pm)": 199,
+    "Afternoon (12pm-5pm)": 242,
+    "Evening (5pm-9pm)": 207,
     "Night (9pm-12am)": 71
   },
   "day_of_week": {
@@ -300,10 +300,18 @@
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
-    "Sun": 26
+    "Sun": 36
   },
   "busiest_day": "Wed",
   "streaks": [
+    {
+      "artist": "Boldy James",
+      "days": 7
+    },
+    {
+      "artist": "The Alchemist",
+      "days": 7
+    },
     {
       "artist": "Gunna",
       "days": 7
@@ -315,27 +323,19 @@
     {
       "artist": "Metro Boomin",
       "days": 7
-    },
-    {
-      "artist": "Young Thug",
-      "days": 7
-    },
-    {
-      "artist": "Drake",
-      "days": 6
     }
   ],
   "release_eras": {
     "1960s": 1,
     "1980s": 1,
     "1990s": 15,
-    "2000s": 39,
-    "2010s": 207,
-    "2020s": 375
+    "2000s": 40,
+    "2010s": 210,
+    "2020s": 381
   },
   "listening_style": {
     "played_from": {
-      "other": 497,
+      "other": 507,
       "playlist": 118,
       "album": 23
     },
