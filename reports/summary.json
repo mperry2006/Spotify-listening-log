@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-01T11:51-05:00",
+  "generated_at": "2026-11-01T12:47-05:00",
   "window": {
     "start": "2026-10-25",
     "end": "2026-11-01"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 613,
+  "total_plays_logged": 616,
   "this_week": {
-    "plays": 612,
-    "minutes": 1951,
-    "unique_tracks": 526,
+    "plays": 615,
+    "minutes": 1959,
+    "unique_tracks": 528,
     "unique_artists": 239
   },
   "last_week": {
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 50,
+      "plays": 51,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -51,7 +51,7 @@
     {
       "rank": 3,
       "name": "Young Thug",
-      "plays": 43,
+      "plays": 44,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -93,14 +93,14 @@
     {
       "rank": 9,
       "name": "21 Savage",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Quality Control",
-      "plays": 22,
+      "name": "Migos",
+      "plays": 23,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -108,22 +108,22 @@
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Back On - Quality Control",
+      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
-      "name": "Menace - Migos",
+      "name": "Back On - Quality Control",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
-      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
-      "plays": 3,
+      "name": "Menace - Migos",
+      "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -182,7 +182,7 @@
     "new_artists": [
       {
         "name": "Gunna",
-        "plays": 50
+        "plays": 51
       },
       {
         "name": "Westside Gunn",
@@ -190,7 +190,7 @@
       },
       {
         "name": "Young Thug",
-        "plays": 43
+        "plays": 44
       },
       {
         "name": "Future",
@@ -214,11 +214,11 @@
       },
       {
         "name": "21 Savage",
-        "plays": 27
+        "plays": 28
       },
       {
-        "name": "Quality Control",
-        "plays": 22
+        "name": "Migos",
+        "plays": 23
       }
     ],
     "plays_of_new_tracks_pct": 100,
@@ -226,16 +226,16 @@
   },
   "on_repeat": [
     {
+      "track": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
+      "plays": 4
+    },
+    {
       "track": "Back On - Quality Control",
       "plays": 4
     },
     {
       "track": "Menace - Migos",
       "plays": 4
-    },
-    {
-      "track": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
-      "plays": 3
     },
     {
       "track": "Wrestlemania 20 (feat. Anderson .Paak) - Westside Gunn",
@@ -269,7 +269,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 25,
     "Morning (5am-12pm)": 103,
-    "Afternoon (12pm-5pm)": 214,
+    "Afternoon (12pm-5pm)": 217,
     "Evening (5pm-9pm)": 199,
     "Night (9pm-12am)": 71
   },
@@ -280,28 +280,28 @@
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
-    "Sun": 0
+    "Sun": 3
   },
   "busiest_day": "Wed",
   "streaks": [
     {
-      "artist": "Drake",
-      "days": 6
-    },
-    {
-      "artist": "Boldy James",
-      "days": 6
-    },
-    {
-      "artist": "The Alchemist",
-      "days": 6
-    },
-    {
-      "artist": "Westside Gunn",
-      "days": 6
-    },
-    {
       "artist": "Gunna",
+      "days": 7
+    },
+    {
+      "artist": "21 Savage",
+      "days": 7
+    },
+    {
+      "artist": "Metro Boomin",
+      "days": 7
+    },
+    {
+      "artist": "Young Thug",
+      "days": 7
+    },
+    {
+      "artist": "Drake",
       "days": 6
     }
   ],
@@ -310,12 +310,12 @@
     "1980s": 1,
     "1990s": 14,
     "2000s": 35,
-    "2010s": 200,
-    "2020s": 361
+    "2010s": 201,
+    "2020s": 363
   },
   "listening_style": {
     "played_from": {
-      "other": 486,
+      "other": 489,
       "playlist": 106,
       "album": 20
     },
