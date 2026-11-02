@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-02T15:57-05:00",
+  "generated_at": "2026-11-02T16:55-05:00",
   "window": {
     "start": "2026-10-26",
     "end": "2026-11-02"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 691,
+  "total_plays_logged": 693,
   "this_week": {
-    "plays": 639,
-    "minutes": 2034,
-    "unique_tracks": 543,
+    "plays": 641,
+    "minutes": 2043,
+    "unique_tracks": 545,
     "unique_artists": 242
   },
   "last_week": {
@@ -72,7 +72,7 @@
     {
       "rank": 2,
       "name": "Westside Gunn",
-      "plays": 46,
+      "plays": 47,
       "last_week_plays": 7,
       "change": "-1"
     },
@@ -100,7 +100,7 @@
     {
       "rank": 6,
       "name": "The Alchemist",
-      "plays": 32,
+      "plays": 33,
       "last_week_plays": 6,
       "change": "-4"
     },
@@ -127,10 +127,10 @@
     },
     {
       "rank": 10,
-      "name": "Quality Control",
+      "name": "Conway the Machine",
       "plays": 23,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 2,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -297,12 +297,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 27,
     "Morning (5am-12pm)": 91,
-    "Afternoon (12pm-5pm)": 241,
+    "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 208,
     "Night (9pm-12am)": 72
   },
   "day_of_week": {
-    "Mon": 69,
+    "Mon": 71,
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
@@ -338,12 +338,12 @@
     "1990s": 15,
     "2000s": 41,
     "2010s": 213,
-    "2020s": 369
+    "2020s": 371
   },
   "listening_style": {
     "played_from": {
       "other": 480,
-      "playlist": 136,
+      "playlist": 138,
       "album": 23
     },
     "full_album_sessions": 3

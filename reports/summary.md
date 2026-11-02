@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-26 to 2026-11-02** · updated 2026-11-02 15:57 ET
+**2026-10-26 to 2026-11-02** · updated 2026-11-02 16:55 ET
 
-**639 plays** (+594 vs last week) · **2034 minutes** · 242 artists · 543 songs
+**641 plays** (+596 vs last week) · **2043 minutes** · 242 artists · 545 songs
 
 _Counting real listens only. 7 skips left out (1% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 7 skips left out (1% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 52 | +15 |
-| 2 | Westside Gunn | 46 | -1 |
+| 2 | Westside Gunn | 47 | -1 |
 | 3 | Young Thug | 43 | +15 |
 | 4 | Future | 40 | NEW |
 | 5 | Lil Baby | 39 | NEW |
-| 6 | The Alchemist | 32 | -4 |
+| 6 | The Alchemist | 33 | -4 |
 | 7 | Drake | 30 | -2 |
 | 8 | J. Cole | 29 | -1 |
 | 9 | 21 Savage | 27 | -3 |
-| 10 | Quality Control | 23 | NEW |
+| 10 | Conway the Machine | 23 | = |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -59,12 +59,12 @@ New artists: Future (40), Lil Baby (39), Quality Control (23), Migos (23), Lil D
 ## When you listen
 ```
 Late night (12am-5am)  ██ 27
-Morning (5am-12pm)     ████████ 91
-Afternoon (12pm-5pm)   ████████████████████ 241
+Morning (5am-12pm)     ███████ 91
+Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      █████████████████ 208
 Night (9pm-12am)       ██████ 72
 
-Mon                    ██████████ 69
+Mon                    ███████████ 71
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - 21 Savage: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 15, 2000s: 41, 2010s: 213, 2020s: 369
+1980s: 1, 1990s: 15, 2000s: 41, 2010s: 213, 2020s: 371
 
 ## How you listen
-Played from: other 480, playlist 136, album 23
+Played from: other 480, playlist 138, album 23
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 691 plays recorded total._
+_Log started 2026-10-26 · 693 plays recorded total._
