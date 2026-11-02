@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-26 to 2026-11-02** · updated 2026-11-02 14:12 ET
+**2026-10-26 to 2026-11-02** · updated 2026-11-02 15:02 ET
 
-**639 plays** (+607 vs last week) · **2031 minutes** · 247 artists · 543 songs
+**638 plays** (+600 vs last week) · **2032 minutes** · 246 artists · 544 songs
 
 _Counting real listens only. 7 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 52 | +13 |
-| 2 | Westside Gunn | 47 | +1 |
-| 3 | Young Thug | 43 | +13 |
+| 1 | Gunna | 52 | +14 |
+| 2 | Westside Gunn | 45 | = |
+| 3 | Young Thug | 43 | +14 |
 | 4 | Future | 40 | NEW |
 | 5 | Lil Baby | 39 | NEW |
-| 6 | The Alchemist | 31 | -5 |
-| 7 | Drake | 30 | -5 |
-| 8 | J. Cole | 29 | -3 |
-| 9 | 21 Savage | 27 | -5 |
-| 10 | Quality Control | 23 | NEW |
+| 6 | The Alchemist | 32 | -5 |
+| 7 | Drake | 30 | -4 |
+| 8 | J. Cole | 29 | -2 |
+| 9 | 21 Savage | 27 | -4 |
+| 10 | Conway the Machine | 23 | +16 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 7 skips left out (1% skip rate)._
 
 ## Discovery
 99% of plays were songs not in your log before this week.
-New artists: Future (40), Lil Baby (39), Quality Control (23), Migos (23), Lil Durk (20), JAŸ-Z (15), LUCKI (14), EST Gee (13), Travis Scott (13), Rome Streetz (12)
+New artists: Future (40), Lil Baby (39), Quality Control (23), Migos (23), Lil Durk (20), JAŸ-Z (15), EST Gee (13), Travis Scott (13), Brent Faiyaz (11), Takeoff (10)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -60,11 +60,11 @@ New artists: Future (40), Lil Baby (39), Quality Control (23), Migos (23), Lil D
 ```
 Late night (12am-5am)  ██ 27
 Morning (5am-12pm)     ████████ 91
-Afternoon (12pm-5pm)   ████████████████████ 241
+Afternoon (12pm-5pm)   ████████████████████ 240
 Evening (5pm-9pm)      █████████████████ 208
 Night (9pm-12am)       ██████ 72
 
-Mon                    ██████████ 69
+Mon                    ██████████ 68
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - 21 Savage: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 15, 2000s: 41, 2010s: 211, 2020s: 371
+1980s: 1, 1990s: 15, 2000s: 41, 2010s: 211, 2020s: 370
 
 ## How you listen
-Played from: other 493, playlist 123, album 23
+Played from: other 487, playlist 128, album 23
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 678 plays recorded total._
+_Log started 2026-10-26 · 683 plays recorded total._

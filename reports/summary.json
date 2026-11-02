@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-02T14:12-05:00",
+  "generated_at": "2026-11-02T15:02-05:00",
   "window": {
     "start": "2026-10-26",
     "end": "2026-11-02"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 678,
+  "total_plays_logged": 683,
   "this_week": {
-    "plays": 639,
-    "minutes": 2031,
-    "unique_tracks": 543,
-    "unique_artists": 247
+    "plays": 638,
+    "minutes": 2032,
+    "unique_tracks": 544,
+    "unique_artists": 246
   },
   "last_week": {
-    "plays": 32,
-    "minutes": 107
+    "plays": 38,
+    "minutes": 123
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -67,21 +67,21 @@
       "name": "Gunna",
       "plays": 52,
       "last_week_plays": 1,
-      "change": "+13"
+      "change": "+14"
     },
     {
       "rank": 2,
       "name": "Westside Gunn",
-      "plays": 47,
-      "last_week_plays": 3,
-      "change": "+1"
+      "plays": 45,
+      "last_week_plays": 5,
+      "change": "="
     },
     {
       "rank": 3,
       "name": "Young Thug",
       "plays": 43,
       "last_week_plays": 1,
-      "change": "+13"
+      "change": "+14"
     },
     {
       "rank": 4,
@@ -100,7 +100,7 @@
     {
       "rank": 6,
       "name": "The Alchemist",
-      "plays": 31,
+      "plays": 32,
       "last_week_plays": 5,
       "change": "-5"
     },
@@ -109,28 +109,28 @@
       "name": "Drake",
       "plays": 30,
       "last_week_plays": 3,
-      "change": "-5"
+      "change": "-4"
     },
     {
       "rank": 8,
       "name": "J. Cole",
       "plays": 29,
       "last_week_plays": 2,
-      "change": "-3"
+      "change": "-2"
     },
     {
       "rank": 9,
       "name": "21 Savage",
       "plays": 27,
       "last_week_plays": 2,
-      "change": "-5"
+      "change": "-4"
     },
     {
       "rank": 10,
-      "name": "Quality Control",
+      "name": "Conway the Machine",
       "plays": 23,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+16"
     }
   ],
   "top_tracks": [
@@ -233,10 +233,6 @@
         "plays": 15
       },
       {
-        "name": "LUCKI",
-        "plays": 14
-      },
-      {
         "name": "EST Gee",
         "plays": 13
       },
@@ -245,8 +241,12 @@
         "plays": 13
       },
       {
-        "name": "Rome Streetz",
-        "plays": 12
+        "name": "Brent Faiyaz",
+        "plays": 11
+      },
+      {
+        "name": "Takeoff",
+        "plays": 10
       }
     ],
     "plays_of_new_tracks_pct": 99,
@@ -297,12 +297,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 27,
     "Morning (5am-12pm)": 91,
-    "Afternoon (12pm-5pm)": 241,
+    "Afternoon (12pm-5pm)": 240,
     "Evening (5pm-9pm)": 208,
     "Night (9pm-12am)": 72
   },
   "day_of_week": {
-    "Mon": 69,
+    "Mon": 68,
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
@@ -338,12 +338,12 @@
     "1990s": 15,
     "2000s": 41,
     "2010s": 211,
-    "2020s": 371
+    "2020s": 370
   },
   "listening_style": {
     "played_from": {
-      "other": 493,
-      "playlist": 123,
+      "other": 487,
+      "playlist": 128,
       "album": 23
     },
     "full_album_sessions": 3
