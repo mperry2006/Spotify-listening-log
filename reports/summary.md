@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-25 to 2026-11-01** · updated 2026-11-01 22:04 ET
+**2026-10-25 to 2026-11-01** · updated 2026-11-01 23:12 ET
 
-**649 plays** (+649 vs last week) · **2067 minutes** · 250 artists · 557 songs
+**650 plays** (+650 vs last week) · **2071 minutes** · 250 artists · 557 songs
 
 _Counting real listens only. 6 skips left out (1% skip rate)._
 
@@ -14,8 +14,8 @@ _Counting real listens only. 6 skips left out (1% skip rate)._
 | 4 | Future | 39 | NEW |
 | 5 | Lil Baby | 39 | NEW |
 | 6 | The Alchemist | 35 | NEW |
-| 7 | J. Cole | 31 | NEW |
-| 8 | Drake | 30 | NEW |
+| 7 | Drake | 31 | NEW |
+| 8 | J. Cole | 31 | NEW |
 | 9 | 21 Savage | 29 | NEW |
 | 10 | Quality Control | 23 | NEW |
 
@@ -35,7 +35,7 @@ _Counting real listens only. 6 skips left out (1% skip rate)._
 
 ## Discovery
 100% of plays were songs not in your log before this week.
-New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil Baby (39), The Alchemist (35), J. Cole (31), Drake (30), 21 Savage (29), Quality Control (23)
+New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil Baby (39), The Alchemist (35), Drake (31), J. Cole (31), 21 Savage (29), Quality Control (23)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -61,7 +61,7 @@ Late night (12am-5am)  ██ 25
 Morning (5am-12pm)     █████████ 103
 Afternoon (12pm-5pm)   ████████████████████ 242
 Evening (5pm-9pm)      █████████████████ 208
-Night (9pm-12am)       ██████ 71
+Night (9pm-12am)       ██████ 72
 
 Mon                    ████████████ 80
 Tue                    ███████ 48
@@ -69,21 +69,21 @@ Wed                    ███████████████████
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
 Sat                    ████████████████ 107
-Sun                    ██████ 37
+Sun                    ██████ 38
 ```
 
 ## Streaks
+- Drake: 7 days in a row
 - Boldy James: 7 days in a row
 - The Alchemist: 7 days in a row
 - Gunna: 7 days in a row
 - 21 Savage: 7 days in a row
-- Metro Boomin: 7 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 15, 2000s: 40, 2010s: 211, 2020s: 381
+1960s: 1, 1980s: 1, 1990s: 15, 2000s: 40, 2010s: 211, 2020s: 382
 
 ## How you listen
-Played from: other 508, playlist 118, album 23
+Played from: other 509, playlist 118, album 23
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 655 plays recorded total._
+_Log started 2026-10-26 · 656 plays recorded total._

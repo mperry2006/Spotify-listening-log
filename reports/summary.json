@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-01T22:04-05:00",
+  "generated_at": "2026-11-01T23:12-05:00",
   "window": {
     "start": "2026-10-25",
     "end": "2026-11-01"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 655,
+  "total_plays_logged": 656,
   "this_week": {
-    "plays": 649,
-    "minutes": 2067,
+    "plays": 650,
+    "minutes": 2071,
     "unique_tracks": 557,
     "unique_artists": 250
   },
@@ -98,15 +98,15 @@
     },
     {
       "rank": 7,
-      "name": "J. Cole",
+      "name": "Drake",
       "plays": 31,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Drake",
-      "plays": 30,
+      "name": "J. Cole",
+      "plays": 31,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -225,12 +225,12 @@
         "plays": 35
       },
       {
-        "name": "J. Cole",
+        "name": "Drake",
         "plays": 31
       },
       {
-        "name": "Drake",
-        "plays": 30
+        "name": "J. Cole",
+        "plays": 31
       },
       {
         "name": "21 Savage",
@@ -291,7 +291,7 @@
     "Morning (5am-12pm)": 103,
     "Afternoon (12pm-5pm)": 242,
     "Evening (5pm-9pm)": 208,
-    "Night (9pm-12am)": 71
+    "Night (9pm-12am)": 72
   },
   "day_of_week": {
     "Mon": 80,
@@ -300,10 +300,14 @@
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
-    "Sun": 37
+    "Sun": 38
   },
   "busiest_day": "Wed",
   "streaks": [
+    {
+      "artist": "Drake",
+      "days": 7
+    },
     {
       "artist": "Boldy James",
       "days": 7
@@ -319,10 +323,6 @@
     {
       "artist": "21 Savage",
       "days": 7
-    },
-    {
-      "artist": "Metro Boomin",
-      "days": 7
     }
   ],
   "release_eras": {
@@ -331,11 +331,11 @@
     "1990s": 15,
     "2000s": 40,
     "2010s": 211,
-    "2020s": 381
+    "2020s": 382
   },
   "listening_style": {
     "played_from": {
-      "other": 508,
+      "other": 509,
       "playlist": 118,
       "album": 23
     },
