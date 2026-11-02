@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-26 to 2026-11-02** · updated 2026-11-02 02:41 ET
+**2026-10-26 to 2026-11-02** · updated 2026-11-02 04:21 ET
 
-**651 plays** (+651 vs last week) · **2075 minutes** · 251 artists · 558 songs
+**652 plays** (+652 vs last week) · **2079 minutes** · 251 artists · 558 songs
 
 _Counting real listens only. 6 skips left out (1% skip rate)._
 
@@ -57,13 +57,13 @@ New artists: Gunna (52), Westside Gunn (47), Young Thug (44), Future (39), Lil B
 
 ## When you listen
 ```
-Late night (12am-5am)  ██ 26
+Late night (12am-5am)  ██ 27
 Morning (5am-12pm)     █████████ 103
 Afternoon (12pm-5pm)   ████████████████████ 242
 Evening (5pm-9pm)      █████████████████ 208
 Night (9pm-12am)       ██████ 72
 
-Mon                    ████████████ 81
+Mon                    ████████████ 82
 Tue                    ███████ 48
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
@@ -80,10 +80,10 @@ Sun                    ██████ 38
 - 21 Savage: 7 days in a row
 
 ## Eras
-1960s: 1, 1980s: 1, 1990s: 15, 2000s: 41, 2010s: 211, 2020s: 382
+1960s: 1, 1980s: 1, 1990s: 15, 2000s: 42, 2010s: 211, 2020s: 382
 
 ## How you listen
-Played from: other 510, playlist 118, album 23
+Played from: other 511, playlist 118, album 23
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 657 plays recorded total._
+_Log started 2026-10-26 · 658 plays recorded total._
