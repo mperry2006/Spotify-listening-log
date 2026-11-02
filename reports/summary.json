@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-02T12:19-05:00",
+  "generated_at": "2026-11-02T14:12-05:00",
   "window": {
     "start": "2026-10-26",
     "end": "2026-11-02"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 669,
+  "total_plays_logged": 678,
   "this_week": {
-    "plays": 641,
-    "minutes": 2041,
-    "unique_tracks": 545,
-    "unique_artists": 248
+    "plays": 639,
+    "minutes": 2031,
+    "unique_tracks": 543,
+    "unique_artists": 247
   },
   "last_week": {
-    "plays": 21,
-    "minutes": 70
+    "plays": 32,
+    "minutes": 107
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -67,13 +67,13 @@
       "name": "Gunna",
       "plays": 52,
       "last_week_plays": 1,
-      "change": "+8"
+      "change": "+13"
     },
     {
       "rank": 2,
       "name": "Westside Gunn",
-      "plays": 45,
-      "last_week_plays": 2,
+      "plays": 47,
+      "last_week_plays": 3,
       "change": "+1"
     },
     {
@@ -81,7 +81,7 @@
       "name": "Young Thug",
       "plays": 43,
       "last_week_plays": 1,
-      "change": "+8"
+      "change": "+13"
     },
     {
       "rank": 4,
@@ -100,23 +100,23 @@
     {
       "rank": 6,
       "name": "The Alchemist",
-      "plays": 32,
-      "last_week_plays": 3,
+      "plays": 31,
+      "last_week_plays": 5,
       "change": "-5"
     },
     {
       "rank": 7,
       "name": "Drake",
-      "plays": 31,
-      "last_week_plays": 2,
+      "plays": 30,
+      "last_week_plays": 3,
       "change": "-5"
     },
     {
       "rank": 8,
       "name": "J. Cole",
-      "plays": 30,
-      "last_week_plays": 1,
-      "change": "+5"
+      "plays": 29,
+      "last_week_plays": 2,
+      "change": "-3"
     },
     {
       "rank": 9,
@@ -229,10 +229,6 @@
         "plays": 20
       },
       {
-        "name": "Benny The Butcher",
-        "plays": 17
-      },
-      {
         "name": "JAŸ-Z",
         "plays": 15
       },
@@ -247,6 +243,10 @@
       {
         "name": "Travis Scott",
         "plays": 13
+      },
+      {
+        "name": "Rome Streetz",
+        "plays": 12
       }
     ],
     "plays_of_new_tracks_pct": 99,
@@ -297,12 +297,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 27,
     "Morning (5am-12pm)": 91,
-    "Afternoon (12pm-5pm)": 243,
+    "Afternoon (12pm-5pm)": 241,
     "Evening (5pm-9pm)": 208,
     "Night (9pm-12am)": 72
   },
   "day_of_week": {
-    "Mon": 71,
+    "Mon": 69,
     "Tue": 48,
     "Wed": 134,
     "Thu": 113,
@@ -317,15 +317,15 @@
       "days": 8
     },
     {
+      "artist": "The Alchemist",
+      "days": 8
+    },
+    {
       "artist": "Gunna",
       "days": 8
     },
     {
       "artist": "Boldy James",
-      "days": 7
-    },
-    {
-      "artist": "The Alchemist",
       "days": 7
     },
     {
@@ -336,14 +336,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 15,
-    "2000s": 42,
-    "2010s": 208,
-    "2020s": 375
+    "2000s": 41,
+    "2010s": 211,
+    "2020s": 371
   },
   "listening_style": {
     "played_from": {
-      "other": 500,
-      "playlist": 118,
+      "other": 493,
+      "playlist": 123,
       "album": 23
     },
     "full_album_sessions": 3
