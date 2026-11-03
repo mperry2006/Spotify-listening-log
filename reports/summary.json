@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-02T23:06-05:00",
+  "generated_at": "2026-11-03T00:09-05:00",
   "window": {
-    "start": "2026-10-26",
-    "end": "2026-11-02"
+    "start": "2026-10-27",
+    "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 722,
   "this_week": {
-    "plays": 640,
-    "minutes": 2056,
-    "unique_tracks": 548,
+    "plays": 634,
+    "minutes": 2035,
+    "unique_tracks": 545,
     "unique_artists": 251
   },
   "last_week": {
-    "plays": 75,
-    "minutes": 243
+    "plays": 81,
+    "minutes": 264
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -65,23 +65,23 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 52,
-      "last_week_plays": 1,
-      "change": "+20"
+      "plays": 51,
+      "last_week_plays": 2,
+      "change": "+14"
     },
     {
       "rank": 2,
       "name": "Young Thug",
-      "plays": 43,
-      "last_week_plays": 1,
-      "change": "+21"
+      "plays": 42,
+      "last_week_plays": 2,
+      "change": "+15"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 40,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "plays": 39,
+      "last_week_plays": 1,
+      "change": "+58"
     },
     {
       "rank": 4,
@@ -93,9 +93,9 @@
     {
       "rank": 5,
       "name": "Drake",
-      "plays": 35,
-      "last_week_plays": 3,
-      "change": "+5"
+      "plays": 34,
+      "last_week_plays": 4,
+      "change": "+3"
     },
     {
       "rank": 6,
@@ -109,14 +109,14 @@
       "name": "J. Cole",
       "plays": 30,
       "last_week_plays": 2,
-      "change": "+8"
+      "change": "+11"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 27,
       "last_week_plays": 2,
-      "change": "+6"
+      "change": "+8"
     },
     {
       "rank": 9,
@@ -157,49 +157,49 @@
     },
     {
       "rank": 4,
-      "name": "CHICKENS (feat. EST Gee) - Future",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "Violation Freestyle - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+2"
+      "change": "+3"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Shit Crazy (feat. BIG30) - Gucci Mane",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Diamonds (feat. Gunna) - Young Thug",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "pad lock - 21 Savage",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -208,10 +208,6 @@
   "dropped_off": [],
   "discovery": {
     "new_artists": [
-      {
-        "name": "Future",
-        "plays": 40
-      },
       {
         "name": "Lil Baby",
         "plays": 39
@@ -229,16 +225,8 @@
         "plays": 20
       },
       {
-        "name": "JAŸ-Z",
-        "plays": 15
-      },
-      {
         "name": "Travis Scott",
         "plays": 14
-      },
-      {
-        "name": "EST Gee",
-        "plays": 13
       },
       {
         "name": "Brent Faiyaz",
@@ -247,9 +235,21 @@
       {
         "name": "Kendrick Lamar",
         "plays": 11
+      },
+      {
+        "name": "Takeoff",
+        "plays": 10
+      },
+      {
+        "name": "Veeze",
+        "plays": 10
+      },
+      {
+        "name": "Lil Uzi Vert",
+        "plays": 10
       }
     ],
-    "plays_of_new_tracks_pct": 98,
+    "plays_of_new_tracks_pct": 97,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -264,10 +264,6 @@
     {
       "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 4
-    },
-    {
-      "track": "CHICKENS (feat. EST Gee) - Future",
-      "plays": 3
     },
     {
       "track": "Violation Freestyle - Quality Control",
@@ -292,18 +288,22 @@
     {
       "track": "pad lock - 21 Savage",
       "plays": 3
+    },
+    {
+      "track": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
+      "plays": 3
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 27,
+    "Late night (12am-5am)": 26,
     "Morning (5am-12pm)": 91,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 211,
-    "Night (9pm-12am)": 68
+    "Night (9pm-12am)": 63
   },
   "day_of_week": {
-    "Mon": 70,
-    "Tue": 48,
+    "Mon": 65,
+    "Tue": 47,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -325,24 +325,24 @@
       "days": 8
     },
     {
-      "artist": "Boldy James",
+      "artist": "Brent Faiyaz",
       "days": 7
     },
     {
-      "artist": "21 Savage",
-      "days": 7
+      "artist": "Travis Scott",
+      "days": 6
     }
   ],
   "release_eras": {
     "1980s": 1,
     "1990s": 17,
-    "2000s": 42,
-    "2010s": 204,
-    "2020s": 376
+    "2000s": 39,
+    "2010s": 203,
+    "2020s": 374
   },
   "listening_style": {
     "played_from": {
-      "other": 479,
+      "other": 473,
       "playlist": 139,
       "album": 22
     },
