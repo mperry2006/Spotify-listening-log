@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-03T15:04-05:00",
+  "generated_at": "2026-11-03T16:00-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 741,
+  "total_plays_logged": 751,
   "this_week": {
-    "plays": 637,
-    "minutes": 2055,
-    "unique_tracks": 544,
+    "plays": 644,
+    "minutes": 2078,
+    "unique_tracks": 549,
     "unique_artists": 250
   },
   "last_week": {
-    "plays": 95,
-    "minutes": 299
+    "plays": 97,
+    "minutes": 308
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 1,
-    "skipped_plays": 9,
+    "skip_rate_pct": 2,
+    "skipped_plays": 10,
     "most_skipped_tracks": [
       {
         "track": "Flashing Lights - Kanye West",
@@ -76,7 +76,7 @@
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 40,
+      "plays": 41,
       "last_week_plays": 1,
       "change": "+63"
     },
@@ -89,17 +89,17 @@
     },
     {
       "rank": 4,
-      "name": "Westside Gunn",
-      "plays": 36,
-      "last_week_plays": 21,
-      "change": "-3"
+      "name": "Future",
+      "plays": 37,
+      "last_week_plays": 4,
+      "change": "+10"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 36,
-      "last_week_plays": 4,
-      "change": "+9"
+      "name": "Westside Gunn",
+      "plays": 35,
+      "last_week_plays": 22,
+      "change": "-4"
     },
     {
       "rank": 6,
@@ -111,16 +111,16 @@
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 32,
+      "plays": 33,
       "last_week_plays": 2,
-      "change": "+13"
+      "change": "+14"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 28,
       "last_week_plays": 2,
-      "change": "+10"
+      "change": "+11"
     },
     {
       "rank": 9,
@@ -218,7 +218,7 @@
       },
       {
         "name": "Lil Durk",
-        "plays": 21
+        "plays": 22
       },
       {
         "name": "Travis Scott",
@@ -237,16 +237,16 @@
         "plays": 11
       },
       {
+        "name": "Lil Wayne",
+        "plays": 10
+      },
+      {
         "name": "Lil Uzi Vert",
         "plays": 10
       },
       {
         "name": "Leon Thomas",
         "plays": 10
-      },
-      {
-        "name": "Lil Wayne",
-        "plays": 9
       },
       {
         "name": "Pooh Shiesty",
@@ -301,13 +301,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 99,
-    "Afternoon (12pm-5pm)": 250,
+    "Afternoon (12pm-5pm)": 257,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 50,
+    "Tue": 57,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -340,14 +340,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 17,
-    "2000s": 40,
-    "2010s": 201,
-    "2020s": 378
+    "2000s": 42,
+    "2010s": 202,
+    "2020s": 382
   },
   "listening_style": {
     "played_from": {
       "other": 475,
-      "playlist": 140,
+      "playlist": 147,
       "album": 22
     },
     "full_album_sessions": 3
