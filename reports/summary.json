@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-03T11:07-05:00",
+  "generated_at": "2026-11-03T12:12-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 732,
+  "total_plays_logged": 733,
   "this_week": {
-    "plays": 629,
-    "minutes": 2030,
-    "unique_tracks": 541,
+    "plays": 630,
+    "minutes": 2034,
+    "unique_tracks": 542,
     "unique_artists": 249
   },
   "last_week": {
@@ -132,7 +132,7 @@
     {
       "rank": 10,
       "name": "Migos",
-      "plays": 23,
+      "plays": 24,
       "last_week_plays": 0,
       "change": "NEW"
     }
@@ -214,7 +214,7 @@
     "new_artists": [
       {
         "name": "Migos",
-        "plays": 23
+        "plays": 24
       },
       {
         "name": "Lil Durk",
@@ -300,14 +300,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 98,
+    "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 42,
+    "Tue": 43,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -341,12 +341,12 @@
     "1980s": 1,
     "1990s": 17,
     "2000s": 40,
-    "2010s": 198,
+    "2010s": 199,
     "2020s": 373
   },
   "listening_style": {
     "played_from": {
-      "other": 467,
+      "other": 468,
       "playlist": 140,
       "album": 22
     },
