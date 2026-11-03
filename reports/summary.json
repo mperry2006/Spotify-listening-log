@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-03T10:03-05:00",
+  "generated_at": "2026-11-03T11:07-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 729,
+  "total_plays_logged": 732,
   "this_week": {
-    "plays": 626,
-    "minutes": 2021,
-    "unique_tracks": 539,
-    "unique_artists": 248
+    "plays": 629,
+    "minutes": 2030,
+    "unique_tracks": 541,
+    "unique_artists": 249
   },
   "last_week": {
     "plays": 94,
@@ -111,7 +111,7 @@
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 30,
+      "plays": 31,
       "last_week_plays": 2,
       "change": "+13"
     },
@@ -300,14 +300,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 95,
+    "Morning (5am-12pm)": 98,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 39,
+    "Tue": 42,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -340,13 +340,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 17,
-    "2000s": 39,
+    "2000s": 40,
     "2010s": 198,
-    "2020s": 371
+    "2020s": 373
   },
   "listening_style": {
     "played_from": {
-      "other": 464,
+      "other": 467,
       "playlist": 140,
       "album": 22
     },

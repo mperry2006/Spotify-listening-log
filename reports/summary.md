@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 10:03 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 11:07 ET
 
-**626 plays** (+532 vs last week) · **2021 minutes** · 248 artists · 539 songs
+**629 plays** (+535 vs last week) · **2030 minutes** · 249 artists · 541 songs
 
 _Counting real listens only. 9 skips left out (1% skip rate)._
 
@@ -14,7 +14,7 @@ _Counting real listens only. 9 skips left out (1% skip rate)._
 | 4 | Westside Gunn | 36 | -3 |
 | 5 | Future | 36 | +9 |
 | 6 | Drake | 33 | = |
-| 7 | J. Cole | 30 | +13 |
+| 7 | J. Cole | 31 | +13 |
 | 8 | 21 Savage | 27 | +10 |
 | 9 | The Alchemist | 26 | -7 |
 | 10 | Migos | 23 | NEW |
@@ -59,13 +59,13 @@ New artists: Migos (23), Lil Durk (21), Travis Scott (14), Brent Faiyaz (13), Ke
 ## When you listen
 ```
 Late night (12am-5am)  █ 14
-Morning (5am-12pm)     ████████ 95
+Morning (5am-12pm)     ████████ 98
 Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      █████████████████ 211
 Night (9pm-12am)       █████ 63
 
 Mon                    ██████████ 65
-Tue                    ██████ 39
+Tue                    ██████ 42
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 17, 2000s: 39, 2010s: 198, 2020s: 371
+1980s: 1, 1990s: 17, 2000s: 40, 2010s: 198, 2020s: 373
 
 ## How you listen
-Played from: other 464, playlist 140, album 22
+Played from: other 467, playlist 140, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 729 plays recorded total._
+_Log started 2026-10-26 · 732 plays recorded total._
