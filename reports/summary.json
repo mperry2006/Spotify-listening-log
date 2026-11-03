@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-03T16:59-05:00",
+  "generated_at": "2026-11-03T17:58-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 754,
+  "total_plays_logged": 774,
   "this_week": {
-    "plays": 647,
-    "minutes": 2087,
-    "unique_tracks": 552,
-    "unique_artists": 251
+    "plays": 665,
+    "minutes": 2133,
+    "unique_tracks": 565,
+    "unique_artists": 255
   },
   "last_week": {
-    "plays": 97,
-    "minutes": 308
+    "plays": 99,
+    "minutes": 313
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 2,
+    "skip_rate_pct": 1,
     "skipped_plays": 10,
     "most_skipped_tracks": [
       {
@@ -111,22 +111,22 @@
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 33,
-      "last_week_plays": 2,
-      "change": "+14"
+      "plays": 32,
+      "last_week_plays": 3,
+      "change": "+9"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 28,
       "last_week_plays": 2,
-      "change": "+11"
+      "change": "+12"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 26,
-      "last_week_plays": 13,
+      "plays": 25,
+      "last_week_plays": 14,
       "change": "-7"
     },
     {
@@ -221,6 +221,10 @@
         "plays": 22
       },
       {
+        "name": "Veeze",
+        "plays": 15
+      },
+      {
         "name": "Travis Scott",
         "plays": 14
       },
@@ -229,12 +233,16 @@
         "plays": 13
       },
       {
-        "name": "Veeze",
-        "plays": 12
+        "name": "Pooh Shiesty",
+        "plays": 13
       },
       {
         "name": "Kendrick Lamar",
-        "plays": 11
+        "plays": 12
+      },
+      {
+        "name": "Gucci Mane",
+        "plays": 10
       },
       {
         "name": "Lil Wayne",
@@ -243,14 +251,6 @@
       {
         "name": "Lil Uzi Vert",
         "plays": 10
-      },
-      {
-        "name": "Leon Thomas",
-        "plays": 10
-      },
-      {
-        "name": "Pooh Shiesty",
-        "plays": 9
       }
     ],
     "plays_of_new_tracks_pct": 96,
@@ -302,12 +302,12 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 260,
-    "Evening (5pm-9pm)": 211,
+    "Evening (5pm-9pm)": 229,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 60,
+    "Tue": 78,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -341,13 +341,13 @@
     "1980s": 1,
     "1990s": 17,
     "2000s": 42,
-    "2010s": 202,
-    "2020s": 385
+    "2010s": 204,
+    "2020s": 401
   },
   "listening_style": {
     "played_from": {
       "other": 475,
-      "playlist": 150,
+      "playlist": 168,
       "album": 22
     },
     "full_album_sessions": 3

@@ -1,9 +1,9 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 16:59 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 17:58 ET
 
-**647 plays** (+550 vs last week) · **2087 minutes** · 251 artists · 552 songs
+**665 plays** (+566 vs last week) · **2133 minutes** · 255 artists · 565 songs
 
-_Counting real listens only. 10 skips left out (2% skip rate)._
+_Counting real listens only. 10 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
@@ -14,9 +14,9 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 4 | Future | 37 | +10 |
 | 5 | Westside Gunn | 35 | -4 |
 | 6 | Drake | 34 | = |
-| 7 | J. Cole | 33 | +14 |
-| 8 | 21 Savage | 28 | +11 |
-| 9 | The Alchemist | 26 | -7 |
+| 7 | J. Cole | 32 | +9 |
+| 8 | 21 Savage | 28 | +12 |
+| 9 | The Alchemist | 25 | -7 |
 | 10 | Migos | 24 | NEW |
 
 ## Top songs
@@ -35,7 +35,7 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Discovery
 96% of plays were songs not in your log before this week.
-New artists: Migos (24), Lil Durk (22), Travis Scott (14), Brent Faiyaz (13), Veeze (12), Kendrick Lamar (11), Lil Wayne (10), Lil Uzi Vert (10), Leon Thomas (10), Pooh Shiesty (9)
+New artists: Migos (24), Lil Durk (22), Veeze (15), Travis Scott (14), Brent Faiyaz (13), Pooh Shiesty (13), Kendrick Lamar (12), Gucci Mane (10), Lil Wayne (10), Lil Uzi Vert (10)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 6x
@@ -61,11 +61,11 @@ New artists: Migos (24), Lil Durk (22), Travis Scott (14), Brent Faiyaz (13), Ve
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 260
-Evening (5pm-9pm)      ████████████████ 211
+Evening (5pm-9pm)      ██████████████████ 229
 Night (9pm-12am)       █████ 63
 
 Mon                    ██████████ 65
-Tue                    █████████ 60
+Tue                    ████████████ 78
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 17, 2000s: 42, 2010s: 202, 2020s: 385
+1980s: 1, 1990s: 17, 2000s: 42, 2010s: 204, 2020s: 401
 
 ## How you listen
-Played from: other 475, playlist 150, album 22
+Played from: other 475, playlist 168, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 754 plays recorded total._
+_Log started 2026-10-26 · 774 plays recorded total._
