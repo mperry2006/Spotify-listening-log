@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-03T14:11-05:00",
+  "generated_at": "2026-11-03T15:04-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 734,
+  "total_plays_logged": 741,
   "this_week": {
-    "plays": 630,
-    "minutes": 2034,
-    "unique_tracks": 541,
-    "unique_artists": 248
+    "plays": 637,
+    "minutes": 2055,
+    "unique_tracks": 544,
+    "unique_artists": 250
   },
   "last_week": {
     "plays": 95,
@@ -104,21 +104,21 @@
     {
       "rank": 6,
       "name": "Drake",
-      "plays": 33,
+      "plays": 34,
       "last_week_plays": 5,
       "change": "="
     },
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 31,
+      "plays": 32,
       "last_week_plays": 2,
       "change": "+13"
     },
     {
       "rank": 8,
       "name": "21 Savage",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 2,
       "change": "+10"
     },
@@ -154,28 +154,28 @@
     },
     {
       "rank": 3,
-      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "name": "i n t e r l u d e - J. Cole",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+4"
-    },
-    {
-      "rank": 5,
-      "name": "Shit Crazy (feat. BIG30) - Gucci Mane",
-      "plays": 3,
+      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
+      "rank": 5,
+      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+3"
+    },
+    {
       "rank": 6,
-      "name": "i n t e r l u d e - J. Cole",
+      "name": "Shit Crazy (feat. BIG30) - Gucci Mane",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -229,12 +229,12 @@
         "plays": 13
       },
       {
-        "name": "Kendrick Lamar",
+        "name": "Veeze",
         "plays": 11
       },
       {
-        "name": "Veeze",
-        "plays": 10
+        "name": "Kendrick Lamar",
+        "plays": 11
       },
       {
         "name": "Lil Uzi Vert",
@@ -249,8 +249,8 @@
         "plays": 9
       },
       {
-        "name": "Gucci Mane",
-        "plays": 8
+        "name": "Pooh Shiesty",
+        "plays": 9
       }
     ],
     "plays_of_new_tracks_pct": 96,
@@ -266,6 +266,10 @@
       "plays": 4
     },
     {
+      "track": "i n t e r l u d e - J. Cole",
+      "plays": 4
+    },
+    {
       "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 4
     },
@@ -275,10 +279,6 @@
     },
     {
       "track": "Shit Crazy (feat. BIG30) - Gucci Mane",
-      "plays": 3
-    },
-    {
-      "track": "i n t e r l u d e - J. Cole",
       "plays": 3
     },
     {
@@ -301,13 +301,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 99,
-    "Afternoon (12pm-5pm)": 243,
+    "Afternoon (12pm-5pm)": 250,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 43,
+    "Tue": 50,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -318,7 +318,7 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 8
+      "days": 9
     },
     {
       "artist": "The Alchemist",
@@ -341,12 +341,12 @@
     "1980s": 1,
     "1990s": 17,
     "2000s": 40,
-    "2010s": 199,
-    "2020s": 373
+    "2010s": 201,
+    "2020s": 378
   },
   "listening_style": {
     "played_from": {
-      "other": 468,
+      "other": 475,
       "playlist": 140,
       "album": 22
     },
