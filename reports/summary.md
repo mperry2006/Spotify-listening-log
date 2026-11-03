@@ -1,16 +1,16 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 17:58 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 18:52 ET
 
-**665 plays** (+566 vs last week) · **2133 minutes** · 255 artists · 565 songs
+**664 plays** (+564 vs last week) · **2131 minutes** · 255 artists · 565 songs
 
 _Counting real listens only. 10 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 50 | +9 |
+| 1 | Gunna | 49 | +6 |
 | 2 | Lil Baby | 41 | +63 |
-| 3 | Young Thug | 39 | +4 |
+| 3 | Young Thug | 39 | +5 |
 | 4 | Future | 37 | +10 |
 | 5 | Westside Gunn | 35 | -4 |
 | 6 | Drake | 34 | = |
@@ -61,11 +61,11 @@ New artists: Migos (24), Lil Durk (22), Veeze (15), Travis Scott (14), Brent Fai
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 260
-Evening (5pm-9pm)      ██████████████████ 229
+Evening (5pm-9pm)      ██████████████████ 228
 Night (9pm-12am)       █████ 63
 
 Mon                    ██████████ 65
-Tue                    ████████████ 78
+Tue                    ███████████ 77
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 17, 2000s: 42, 2010s: 204, 2020s: 401
+1980s: 1, 1990s: 17, 2000s: 42, 2010s: 203, 2020s: 401
 
 ## How you listen
-Played from: other 475, playlist 168, album 22
+Played from: other 475, playlist 167, album 22
 Full-album sessions (4+ tracks in a row): 3
 
 _Log started 2026-10-26 · 774 plays recorded total._

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:58-05:00",
+  "generated_at": "2026-11-03T18:52-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 774,
   "this_week": {
-    "plays": 665,
-    "minutes": 2133,
+    "plays": 664,
+    "minutes": 2131,
     "unique_tracks": 565,
     "unique_artists": 255
   },
   "last_week": {
-    "plays": 99,
-    "minutes": 313
+    "plays": 100,
+    "minutes": 316
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,9 +69,9 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 50,
-      "last_week_plays": 4,
-      "change": "+9"
+      "plays": 49,
+      "last_week_plays": 5,
+      "change": "+6"
     },
     {
       "rank": 2,
@@ -85,7 +85,7 @@
       "name": "Young Thug",
       "plays": 39,
       "last_week_plays": 5,
-      "change": "+4"
+      "change": "+5"
     },
     {
       "rank": 4,
@@ -302,12 +302,12 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 260,
-    "Evening (5pm-9pm)": 229,
+    "Evening (5pm-9pm)": 228,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 78,
+    "Tue": 77,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -341,13 +341,13 @@
     "1980s": 1,
     "1990s": 17,
     "2000s": 42,
-    "2010s": 204,
+    "2010s": 203,
     "2020s": 401
   },
   "listening_style": {
     "played_from": {
       "other": 475,
-      "playlist": 168,
+      "playlist": 167,
       "album": 22
     },
     "full_album_sessions": 3
