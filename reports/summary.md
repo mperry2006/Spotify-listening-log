@@ -1,18 +1,18 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 08:23 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 10:03 ET
 
-**622 plays** (+528 vs last week) · **2007 minutes** · 247 artists · 538 songs
+**626 plays** (+532 vs last week) · **2021 minutes** · 248 artists · 539 songs
 
-_Counting real listens only. 7 skips left out (1% skip rate)._
+_Counting real listens only. 9 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 49 | +9 |
-| 2 | Young Thug | 39 | +5 |
-| 3 | Lil Baby | 38 | +62 |
-| 4 | Future | 36 | +10 |
-| 5 | Westside Gunn | 35 | -4 |
+| 2 | Lil Baby | 39 | +63 |
+| 3 | Young Thug | 39 | +4 |
+| 4 | Westside Gunn | 36 | -3 |
+| 5 | Future | 36 | +9 |
 | 6 | Drake | 33 | = |
 | 7 | J. Cole | 30 | +13 |
 | 8 | 21 Savage | 27 | +10 |
@@ -35,7 +35,7 @@ _Counting real listens only. 7 skips left out (1% skip rate)._
 
 ## Discovery
 96% of plays were songs not in your log before this week.
-New artists: Migos (23), Lil Durk (20), Travis Scott (14), Brent Faiyaz (13), Kendrick Lamar (11), Veeze (10), Lil Uzi Vert (10), Leon Thomas (10), Lil Wayne (9), Gucci Mane (8)
+New artists: Migos (23), Lil Durk (21), Travis Scott (14), Brent Faiyaz (13), Kendrick Lamar (11), Veeze (10), Lil Uzi Vert (10), Leon Thomas (10), Lil Wayne (9), Gucci Mane (8)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -59,13 +59,13 @@ New artists: Migos (23), Lil Durk (20), Travis Scott (14), Brent Faiyaz (13), Ke
 ## When you listen
 ```
 Late night (12am-5am)  █ 14
-Morning (5am-12pm)     ███████ 91
+Morning (5am-12pm)     ████████ 95
 Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      █████████████████ 211
 Night (9pm-12am)       █████ 63
 
 Mon                    ██████████ 65
-Tue                    █████ 35
+Tue                    ██████ 39
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -78,13 +78,13 @@ Sun                    ██████ 38
 - The Alchemist: 8 days in a row
 - Gunna: 8 days in a row
 - Brent Faiyaz: 7 days in a row
-- Travis Scott: 6 days in a row
+- Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 17, 2000s: 39, 2010s: 196, 2020s: 369
+1980s: 1, 1990s: 17, 2000s: 39, 2010s: 198, 2020s: 371
 
 ## How you listen
-Played from: other 460, playlist 140, album 22
+Played from: other 464, playlist 140, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 723 plays recorded total._
+_Log started 2026-10-26 · 729 plays recorded total._

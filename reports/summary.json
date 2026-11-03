@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-03T08:23-05:00",
+  "generated_at": "2026-11-03T10:03-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 723,
+  "total_plays_logged": 729,
   "this_week": {
-    "plays": 622,
-    "minutes": 2007,
-    "unique_tracks": 538,
-    "unique_artists": 247
+    "plays": 626,
+    "minutes": 2021,
+    "unique_tracks": 539,
+    "unique_artists": 248
   },
   "last_week": {
     "plays": 94,
@@ -19,7 +19,7 @@
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 1,
-    "skipped_plays": 7,
+    "skipped_plays": 9,
     "most_skipped_tracks": [
       {
         "track": "Flashing Lights - Kanye West",
@@ -45,7 +45,7 @@
     "most_skipped_artists": [
       {
         "artist": "Kanye West",
-        "skips": 4
+        "skips": 5
       },
       {
         "artist": "Metro Boomin",
@@ -57,6 +57,10 @@
       },
       {
         "artist": "J. Cole",
+        "skips": 1
+      },
+      {
+        "artist": "21 Savage",
         "skips": 1
       }
     ]
@@ -71,31 +75,31 @@
     },
     {
       "rank": 2,
-      "name": "Young Thug",
+      "name": "Lil Baby",
       "plays": 39,
-      "last_week_plays": 5,
-      "change": "+5"
+      "last_week_plays": 1,
+      "change": "+63"
     },
     {
       "rank": 3,
-      "name": "Lil Baby",
-      "plays": 38,
-      "last_week_plays": 1,
-      "change": "+62"
+      "name": "Young Thug",
+      "plays": 39,
+      "last_week_plays": 5,
+      "change": "+4"
     },
     {
       "rank": 4,
-      "name": "Future",
+      "name": "Westside Gunn",
       "plays": 36,
-      "last_week_plays": 4,
-      "change": "+10"
+      "last_week_plays": 21,
+      "change": "-3"
     },
     {
       "rank": 5,
-      "name": "Westside Gunn",
-      "plays": 35,
-      "last_week_plays": 21,
-      "change": "-4"
+      "name": "Future",
+      "plays": 36,
+      "last_week_plays": 4,
+      "change": "+9"
     },
     {
       "rank": 6,
@@ -214,7 +218,7 @@
       },
       {
         "name": "Lil Durk",
-        "plays": 20
+        "plays": 21
       },
       {
         "name": "Travis Scott",
@@ -296,14 +300,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 91,
+    "Morning (5am-12pm)": 95,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 35,
+    "Tue": 39,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -329,20 +333,20 @@
       "days": 7
     },
     {
-      "artist": "Travis Scott",
-      "days": 6
+      "artist": "Lil Durk",
+      "days": 7
     }
   ],
   "release_eras": {
     "1980s": 1,
     "1990s": 17,
     "2000s": 39,
-    "2010s": 196,
-    "2020s": 369
+    "2010s": 198,
+    "2020s": 371
   },
   "listening_style": {
     "played_from": {
-      "other": 460,
+      "other": 464,
       "playlist": 140,
       "album": 22
     },
