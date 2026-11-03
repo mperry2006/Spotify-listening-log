@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 13:00 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 14:11 ET
 
-**630 plays** (+536 vs last week) · **2034 minutes** · 249 artists · 542 songs
+**630 plays** (+535 vs last week) · **2034 minutes** · 248 artists · 541 songs
 
 _Counting real listens only. 9 skips left out (1% skip rate)._
 
@@ -9,7 +9,7 @@ _Counting real listens only. 9 skips left out (1% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 49 | +9 |
-| 2 | Lil Baby | 39 | +63 |
+| 2 | Lil Baby | 40 | +63 |
 | 3 | Young Thug | 39 | +4 |
 | 4 | Westside Gunn | 36 | -3 |
 | 5 | Future | 36 | +9 |
@@ -22,7 +22,7 @@ _Counting real listens only. 9 skips left out (1% skip rate)._
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Back On - Quality Control | 5 | NEW |
+| 1 | Back On - Quality Control | 6 | NEW |
 | 2 | Menace - Migos | 4 | NEW |
 | 3 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 4 | NEW |
 | 4 | Rich Nigga Shit (feat. Young Thug) - 21 Savage | 3 | +4 |
@@ -38,7 +38,7 @@ _Counting real listens only. 9 skips left out (1% skip rate)._
 New artists: Migos (24), Lil Durk (21), Travis Scott (14), Brent Faiyaz (13), Kendrick Lamar (11), Veeze (10), Lil Uzi Vert (10), Leon Thomas (10), Lil Wayne (9), Gucci Mane (8)
 
 ## On repeat (3+ plays)
-- Back On - Quality Control - 5x
+- Back On - Quality Control - 6x
 - Menace - Migos - 4x
 - Ugly (feat. Gucci Mane) - Pooh Shiesty - 4x
 - Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
@@ -87,4 +87,4 @@ Sun                    ██████ 38
 Played from: other 468, playlist 140, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 733 plays recorded total._
+_Log started 2026-10-26 · 734 plays recorded total._
