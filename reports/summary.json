@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-03T16:00-05:00",
+  "generated_at": "2026-11-03T16:59-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 751,
+  "total_plays_logged": 754,
   "this_week": {
-    "plays": 644,
-    "minutes": 2078,
-    "unique_tracks": 549,
-    "unique_artists": 250
+    "plays": 647,
+    "minutes": 2087,
+    "unique_tracks": 552,
+    "unique_artists": 251
   },
   "last_week": {
     "plays": 97,
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 49,
+      "plays": 50,
       "last_week_plays": 4,
       "change": "+9"
     },
@@ -230,7 +230,7 @@
       },
       {
         "name": "Veeze",
-        "plays": 11
+        "plays": 12
       },
       {
         "name": "Kendrick Lamar",
@@ -301,13 +301,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 99,
-    "Afternoon (12pm-5pm)": 257,
+    "Afternoon (12pm-5pm)": 260,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 57,
+    "Tue": 60,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -321,11 +321,11 @@
       "days": 9
     },
     {
-      "artist": "The Alchemist",
-      "days": 8
+      "artist": "Gunna",
+      "days": 9
     },
     {
-      "artist": "Gunna",
+      "artist": "The Alchemist",
       "days": 8
     },
     {
@@ -342,12 +342,12 @@
     "1990s": 17,
     "2000s": 42,
     "2010s": 202,
-    "2020s": 382
+    "2020s": 385
   },
   "listening_style": {
     "played_from": {
       "other": 475,
-      "playlist": 147,
+      "playlist": 150,
       "album": 22
     },
     "full_album_sessions": 3

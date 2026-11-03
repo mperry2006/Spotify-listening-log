@@ -1,14 +1,14 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 16:00 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 16:59 ET
 
-**644 plays** (+547 vs last week) · **2078 minutes** · 250 artists · 549 songs
+**647 plays** (+550 vs last week) · **2087 minutes** · 251 artists · 552 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 49 | +9 |
+| 1 | Gunna | 50 | +9 |
 | 2 | Lil Baby | 41 | +63 |
 | 3 | Young Thug | 39 | +4 |
 | 4 | Future | 37 | +10 |
@@ -35,7 +35,7 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Discovery
 96% of plays were songs not in your log before this week.
-New artists: Migos (24), Lil Durk (22), Travis Scott (14), Brent Faiyaz (13), Veeze (11), Kendrick Lamar (11), Lil Wayne (10), Lil Uzi Vert (10), Leon Thomas (10), Pooh Shiesty (9)
+New artists: Migos (24), Lil Durk (22), Travis Scott (14), Brent Faiyaz (13), Veeze (12), Kendrick Lamar (11), Lil Wayne (10), Lil Uzi Vert (10), Leon Thomas (10), Pooh Shiesty (9)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 6x
@@ -60,12 +60,12 @@ New artists: Migos (24), Lil Durk (22), Travis Scott (14), Brent Faiyaz (13), Ve
 ```
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 99
-Afternoon (12pm-5pm)   ████████████████████ 257
+Afternoon (12pm-5pm)   ████████████████████ 260
 Evening (5pm-9pm)      ████████████████ 211
 Night (9pm-12am)       █████ 63
 
 Mon                    ██████████ 65
-Tue                    █████████ 57
+Tue                    █████████ 60
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -75,16 +75,16 @@ Sun                    ██████ 38
 
 ## Streaks
 - Drake: 9 days in a row
+- Gunna: 9 days in a row
 - The Alchemist: 8 days in a row
-- Gunna: 8 days in a row
 - Brent Faiyaz: 7 days in a row
 - Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 17, 2000s: 42, 2010s: 202, 2020s: 382
+1980s: 1, 1990s: 17, 2000s: 42, 2010s: 202, 2020s: 385
 
 ## How you listen
-Played from: other 475, playlist 147, album 22
+Played from: other 475, playlist 150, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 751 plays recorded total._
+_Log started 2026-10-26 · 754 plays recorded total._
