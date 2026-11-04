@@ -1,22 +1,22 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 18:52 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 20:23 ET
 
-**664 plays** (+564 vs last week) · **2131 minutes** · 255 artists · 565 songs
+**660 plays** (+544 vs last week) · **2118 minutes** · 253 artists · 564 songs
 
 _Counting real listens only. 10 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 49 | +6 |
-| 2 | Lil Baby | 41 | +63 |
-| 3 | Young Thug | 39 | +5 |
-| 4 | Future | 37 | +10 |
+| 1 | Gunna | 49 | +8 |
+| 2 | Lil Baby | 40 | +29 |
+| 3 | Young Thug | 38 | +4 |
+| 4 | Future | 36 | +8 |
 | 5 | Westside Gunn | 35 | -4 |
-| 6 | Drake | 34 | = |
-| 7 | J. Cole | 32 | +9 |
-| 8 | 21 Savage | 28 | +12 |
-| 9 | The Alchemist | 25 | -7 |
+| 6 | Drake | 33 | -1 |
+| 7 | J. Cole | 32 | +11 |
+| 8 | 21 Savage | 27 | +8 |
+| 9 | The Alchemist | 26 | -7 |
 | 10 | Migos | 24 | NEW |
 
 ## Top songs
@@ -26,28 +26,28 @@ _Counting real listens only. 10 skips left out (1% skip rate)._
 | 2 | Menace - Migos | 4 | NEW |
 | 3 | i n t e r l u d e - J. Cole | 4 | NEW |
 | 4 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 4 | NEW |
-| 5 | Rich Nigga Shit (feat. Young Thug) - 21 Savage | 3 | +3 |
-| 6 | Shit Crazy (feat. BIG30) - Gucci Mane | 3 | NEW |
-| 7 | Diamonds (feat. Gunna) - Young Thug | 3 | NEW |
-| 8 | pad lock - 21 Savage | 3 | NEW |
-| 9 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 3 | NEW |
-| 10 | p angels - Gunna | 3 | NEW |
+| 5 | Shit Crazy (feat. BIG30) - Gucci Mane | 3 | NEW |
+| 6 | Diamonds (feat. Gunna) - Young Thug | 3 | NEW |
+| 7 | pad lock - 21 Savage | 3 | NEW |
+| 8 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 3 | NEW |
+| 9 | p angels - Gunna | 3 | NEW |
+| 10 | Rocket Ship - Future | 3 | NEW |
 
 ## Discovery
 96% of plays were songs not in your log before this week.
-New artists: Migos (24), Lil Durk (22), Veeze (15), Travis Scott (14), Brent Faiyaz (13), Pooh Shiesty (13), Kendrick Lamar (12), Gucci Mane (10), Lil Wayne (10), Lil Uzi Vert (10)
+New artists: Migos (24), Lil Durk (22), Travis Scott (14), Pooh Shiesty (13), Gucci Mane (10), Lil Wayne (10), Lil Uzi Vert (10), Babyface Ray (10), Leon Thomas (10), BIG30 (9)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 6x
 - Menace - Migos - 4x
 - i n t e r l u d e - J. Cole - 4x
 - Ugly (feat. Gucci Mane) - Pooh Shiesty - 4x
-- Rich Nigga Shit (feat. Young Thug) - 21 Savage - 3x
 - Shit Crazy (feat. BIG30) - Gucci Mane - 3x
 - Diamonds (feat. Gunna) - Young Thug - 3x
 - pad lock - 21 Savage - 3x
 - Ensalada (feat. Anderson .Paak) - Freddie Gibbs - 3x
 - p angels - Gunna - 3x
+- Rocket Ship - Future - 3x
 
 ## Most skipped
 - Flashing Lights - Kanye West - skipped 3x
@@ -61,11 +61,11 @@ New artists: Migos (24), Lil Durk (22), Veeze (15), Travis Scott (14), Brent Fai
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 260
-Evening (5pm-9pm)      ██████████████████ 228
+Evening (5pm-9pm)      █████████████████ 224
 Night (9pm-12am)       █████ 63
 
 Mon                    ██████████ 65
-Tue                    ███████████ 77
+Tue                    ███████████ 73
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -75,16 +75,16 @@ Sun                    ██████ 38
 
 ## Streaks
 - Drake: 9 days in a row
+- The Alchemist: 9 days in a row
 - Gunna: 9 days in a row
-- The Alchemist: 8 days in a row
 - Brent Faiyaz: 7 days in a row
 - Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 17, 2000s: 42, 2010s: 203, 2020s: 401
+1980s: 1, 1990s: 17, 2000s: 41, 2010s: 204, 2020s: 397
 
 ## How you listen
-Played from: other 475, playlist 167, album 22
+Played from: other 483, playlist 155, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 774 plays recorded total._
+_Log started 2026-10-26 · 786 plays recorded total._

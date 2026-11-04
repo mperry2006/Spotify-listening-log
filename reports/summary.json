@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-03T18:52-05:00",
+  "generated_at": "2026-11-03T20:23-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 774,
+  "total_plays_logged": 786,
   "this_week": {
-    "plays": 664,
-    "minutes": 2131,
-    "unique_tracks": 565,
-    "unique_artists": 255
+    "plays": 660,
+    "minutes": 2118,
+    "unique_tracks": 564,
+    "unique_artists": 253
   },
   "last_week": {
-    "plays": 100,
-    "minutes": 316
+    "plays": 116,
+    "minutes": 371
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -71,28 +71,28 @@
       "name": "Gunna",
       "plays": 49,
       "last_week_plays": 5,
-      "change": "+6"
+      "change": "+8"
     },
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 41,
-      "last_week_plays": 1,
-      "change": "+63"
+      "plays": 40,
+      "last_week_plays": 2,
+      "change": "+29"
     },
     {
       "rank": 3,
       "name": "Young Thug",
-      "plays": 39,
-      "last_week_plays": 5,
-      "change": "+5"
+      "plays": 38,
+      "last_week_plays": 6,
+      "change": "+4"
     },
     {
       "rank": 4,
       "name": "Future",
-      "plays": 37,
-      "last_week_plays": 4,
-      "change": "+10"
+      "plays": 36,
+      "last_week_plays": 5,
+      "change": "+8"
     },
     {
       "rank": 5,
@@ -104,28 +104,28 @@
     {
       "rank": 6,
       "name": "Drake",
-      "plays": 34,
-      "last_week_plays": 5,
-      "change": "="
+      "plays": 33,
+      "last_week_plays": 6,
+      "change": "-1"
     },
     {
       "rank": 7,
       "name": "J. Cole",
       "plays": 32,
       "last_week_plays": 3,
-      "change": "+9"
+      "change": "+11"
     },
     {
       "rank": 8,
       "name": "21 Savage",
-      "plays": 28,
-      "last_week_plays": 2,
-      "change": "+12"
+      "plays": 27,
+      "last_week_plays": 3,
+      "change": "+8"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 25,
+      "plays": 26,
       "last_week_plays": 14,
       "change": "-7"
     },
@@ -168,42 +168,42 @@
     },
     {
       "rank": 5,
-      "name": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+3"
-    },
-    {
-      "rank": 6,
       "name": "Shit Crazy (feat. BIG30) - Gucci Mane",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Diamonds (feat. Gunna) - Young Thug",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "pad lock - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "p angels - Gunna",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Rocket Ship - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -221,24 +221,12 @@
         "plays": 22
       },
       {
-        "name": "Veeze",
-        "plays": 15
-      },
-      {
         "name": "Travis Scott",
         "plays": 14
       },
       {
-        "name": "Brent Faiyaz",
-        "plays": 13
-      },
-      {
         "name": "Pooh Shiesty",
         "plays": 13
-      },
-      {
-        "name": "Kendrick Lamar",
-        "plays": 12
       },
       {
         "name": "Gucci Mane",
@@ -251,6 +239,18 @@
       {
         "name": "Lil Uzi Vert",
         "plays": 10
+      },
+      {
+        "name": "Babyface Ray",
+        "plays": 10
+      },
+      {
+        "name": "Leon Thomas",
+        "plays": 10
+      },
+      {
+        "name": "BIG30",
+        "plays": 9
       }
     ],
     "plays_of_new_tracks_pct": 96,
@@ -274,10 +274,6 @@
       "plays": 4
     },
     {
-      "track": "Rich Nigga Shit (feat. Young Thug) - 21 Savage",
-      "plays": 3
-    },
-    {
       "track": "Shit Crazy (feat. BIG30) - Gucci Mane",
       "plays": 3
     },
@@ -296,18 +292,22 @@
     {
       "track": "p angels - Gunna",
       "plays": 3
+    },
+    {
+      "track": "Rocket Ship - Future",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 260,
-    "Evening (5pm-9pm)": 228,
+    "Evening (5pm-9pm)": 224,
     "Night (9pm-12am)": 63
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 77,
+    "Tue": 73,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -321,12 +321,12 @@
       "days": 9
     },
     {
-      "artist": "Gunna",
+      "artist": "The Alchemist",
       "days": 9
     },
     {
-      "artist": "The Alchemist",
-      "days": 8
+      "artist": "Gunna",
+      "days": 9
     },
     {
       "artist": "Brent Faiyaz",
@@ -340,14 +340,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 17,
-    "2000s": 42,
-    "2010s": 203,
-    "2020s": 401
+    "2000s": 41,
+    "2010s": 204,
+    "2020s": 397
   },
   "listening_style": {
     "played_from": {
-      "other": 475,
-      "playlist": 167,
+      "other": 483,
+      "playlist": 155,
       "album": 22
     },
     "full_album_sessions": 3
@@ -358,13 +358,13 @@
         "Westside Gunn",
         "Gunna",
         "Future",
-        "J. Cole",
         "Lil Durk",
+        "J. Cole",
         "Drake",
         "Lil Baby",
         "Young Thug",
         "Migos",
-        "JAŸ-Z"
+        "LUCKI"
       ]
     },
     "medium_term": {
