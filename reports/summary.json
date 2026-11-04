@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:15-05:00",
+  "generated_at": "2026-11-04T15:12-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 829,
   "this_week": {
-    "plays": 641,
-    "minutes": 2067,
-    "unique_tracks": 542,
-    "unique_artists": 246
+    "plays": 627,
+    "minutes": 2019,
+    "unique_tracks": 531,
+    "unique_artists": 242
   },
   "last_week": {
-    "plays": 178,
-    "minutes": 570
+    "plays": 192,
+    "minutes": 618
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -71,70 +71,70 @@
       "name": "Gunna",
       "plays": 48,
       "last_week_plays": 6,
-      "change": "+10"
+      "change": "+11"
     },
     {
       "rank": 2,
       "name": "Lil Baby",
       "plays": 39,
       "last_week_plays": 4,
-      "change": "+19"
+      "change": "+20"
     },
     {
       "rank": 3,
       "name": "Westside Gunn",
-      "plays": 38,
-      "last_week_plays": 27,
+      "plays": 37,
+      "last_week_plays": 28,
       "change": "-2"
     },
     {
       "rank": 4,
-      "name": "Drake",
+      "name": "Future",
       "plays": 36,
-      "last_week_plays": 8,
+      "last_week_plays": 9,
       "change": "+3"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 36,
-      "last_week_plays": 9,
-      "change": "+1"
-    },
-    {
-      "rank": 6,
       "name": "Young Thug",
       "plays": 36,
       "last_week_plays": 9,
-      "change": "-3"
+      "change": "="
+    },
+    {
+      "rank": 6,
+      "name": "Drake",
+      "plays": 35,
+      "last_week_plays": 9,
+      "change": "-2"
     },
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 29,
-      "last_week_plays": 6,
-      "change": "+5"
+      "plays": 28,
+      "last_week_plays": 7,
+      "change": "+3"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 27,
       "last_week_plays": 4,
-      "change": "+9"
+      "change": "+10"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 26,
-      "last_week_plays": 18,
+      "plays": 25,
+      "last_week_plays": 19,
       "change": "-7"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
-      "plays": 25,
-      "last_week_plays": 9,
-      "change": "-6"
+      "plays": 24,
+      "last_week_plays": 10,
+      "change": "-7"
     }
   ],
   "top_tracks": [
@@ -154,56 +154,56 @@
     },
     {
       "rank": 3,
-      "name": "i n t e r l u d e - J. Cole",
-      "plays": 4,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "Diamonds (feat. Gunna) - Young Thug",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "pad lock - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "p angels - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Rocket Ship - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "I Suppose - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Real Flex - Babyfxce E",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Ridin Strikers - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -212,10 +212,6 @@
   "dropped_off": [],
   "discovery": {
     "new_artists": [
-      {
-        "name": "Pooh Shiesty",
-        "plays": 14
-      },
       {
         "name": "Babyfxce E",
         "plays": 7
@@ -241,19 +237,23 @@
         "plays": 5
       },
       {
-        "name": "A Boogie Wit da Hoodie",
-        "plays": 4
-      },
-      {
-        "name": "Mobb Deep",
-        "plays": 4
-      },
-      {
         "name": "Bas",
+        "plays": 4
+      },
+      {
+        "name": "Quavo",
+        "plays": 4
+      },
+      {
+        "name": "G Herbo",
+        "plays": 4
+      },
+      {
+        "name": "Nas",
         "plays": 4
       }
     ],
-    "plays_of_new_tracks_pct": 93,
+    "plays_of_new_tracks_pct": 92,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -264,10 +264,6 @@
     {
       "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 5
-    },
-    {
-      "track": "i n t e r l u d e - J. Cole",
-      "plays": 4
     },
     {
       "track": "Diamonds (feat. Gunna) - Young Thug",
@@ -296,19 +292,23 @@
     {
       "track": "Real Flex - Babyfxce E",
       "plays": 3
+    },
+    {
+      "track": "Ridin Strikers - Future",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 83,
-    "Afternoon (12pm-5pm)": 250,
+    "Afternoon (12pm-5pm)": 236,
     "Evening (5pm-9pm)": 226,
     "Night (9pm-12am)": 68
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
-    "Wed": 108,
+    "Wed": 94,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 18,
-    "2000s": 38,
-    "2010s": 199,
-    "2020s": 385
+    "1990s": 17,
+    "2000s": 37,
+    "2010s": 195,
+    "2020s": 377
   },
   "listening_style": {
     "played_from": {
-      "other": 450,
+      "other": 436,
       "playlist": 169,
       "album": 22
     },
