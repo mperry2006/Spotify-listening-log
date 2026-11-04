@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-04T10:05-05:00",
+  "generated_at": "2026-11-04T11:08-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 804,
+  "total_plays_logged": 806,
   "this_week": {
-    "plays": 659,
-    "minutes": 2116,
-    "unique_tracks": 561,
+    "plays": 651,
+    "minutes": 2093,
+    "unique_tracks": 554,
     "unique_artists": 256
   },
   "last_week": {
-    "plays": 135,
-    "minutes": 430
+    "plays": 145,
+    "minutes": 459
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 1,
+    "skip_rate_pct": 2,
     "skipped_plays": 10,
     "most_skipped_tracks": [
       {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 49,
-      "last_week_plays": 5,
+      "plays": 48,
+      "last_week_plays": 6,
       "change": "+9"
     },
     {
@@ -83,23 +83,23 @@
     {
       "rank": 3,
       "name": "Future",
-      "plays": 39,
-      "last_week_plays": 5,
-      "change": "+10"
+      "plays": 37,
+      "last_week_plays": 7,
+      "change": "+5"
     },
     {
       "rank": 4,
       "name": "Young Thug",
-      "plays": 38,
-      "last_week_plays": 6,
-      "change": "+3"
+      "plays": 37,
+      "last_week_plays": 8,
+      "change": "="
     },
     {
       "rank": 5,
       "name": "Drake",
-      "plays": 34,
+      "plays": 35,
       "last_week_plays": 6,
-      "change": "+1"
+      "change": "+4"
     },
     {
       "rank": 6,
@@ -118,9 +118,9 @@
     {
       "rank": 8,
       "name": "21 Savage",
-      "plays": 28,
-      "last_week_plays": 3,
-      "change": "+11"
+      "plays": 27,
+      "last_week_plays": 4,
+      "change": "+7"
     },
     {
       "rank": 9,
@@ -131,10 +131,10 @@
     },
     {
       "rank": 10,
-      "name": "Lil Durk",
+      "name": "Migos",
       "plays": 22,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 2,
+      "change": "+28"
     }
   ],
   "top_tracks": [
@@ -213,28 +213,8 @@
   "discovery": {
     "new_artists": [
       {
-        "name": "Lil Durk",
-        "plays": 22
-      },
-      {
-        "name": "Travis Scott",
-        "plays": 14
-      },
-      {
         "name": "Pooh Shiesty",
         "plays": 14
-      },
-      {
-        "name": "Lil Wayne",
-        "plays": 10
-      },
-      {
-        "name": "Lil Uzi Vert",
-        "plays": 10
-      },
-      {
-        "name": "Babyface Ray",
-        "plays": 10
       },
       {
         "name": "Leon Thomas",
@@ -251,6 +231,26 @@
       {
         "name": "Pusha T",
         "plays": 6
+      },
+      {
+        "name": "Don Toliver",
+        "plays": 6
+      },
+      {
+        "name": "Lil Yachty",
+        "plays": 6
+      },
+      {
+        "name": "42 Dugg",
+        "plays": 5
+      },
+      {
+        "name": "50 Cent",
+        "plays": 5
+      },
+      {
+        "name": "Meek Mill",
+        "plays": 4
       }
     ],
     "plays_of_new_tracks_pct": 94,
@@ -300,15 +300,15 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 92,
+    "Morning (5am-12pm)": 83,
     "Afternoon (12pm-5pm)": 260,
     "Evening (5pm-9pm)": 226,
-    "Night (9pm-12am)": 67
+    "Night (9pm-12am)": 68
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 79,
-    "Wed": 127,
+    "Tue": 80,
+    "Wed": 118,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -340,14 +340,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 19,
-    "2000s": 41,
-    "2010s": 204,
-    "2020s": 394
+    "2000s": 40,
+    "2010s": 200,
+    "2020s": 391
   },
   "listening_style": {
     "played_from": {
-      "other": 484,
-      "playlist": 153,
+      "other": 474,
+      "playlist": 155,
       "album": 22
     },
     "full_album_sessions": 3

@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 10:05 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 11:08 ET
 
-**659 plays** (+524 vs last week) · **2116 minutes** · 256 artists · 561 songs
+**651 plays** (+506 vs last week) · **2093 minutes** · 256 artists · 554 songs
 
-_Counting real listens only. 10 skips left out (1% skip rate)._
+_Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 49 | +9 |
+| 1 | Gunna | 48 | +9 |
 | 2 | Lil Baby | 40 | +25 |
-| 3 | Future | 39 | +10 |
-| 4 | Young Thug | 38 | +3 |
-| 5 | Drake | 34 | +1 |
+| 3 | Future | 37 | +5 |
+| 4 | Young Thug | 37 | = |
+| 5 | Drake | 35 | +4 |
 | 6 | Westside Gunn | 33 | -5 |
 | 7 | J. Cole | 32 | +14 |
-| 8 | 21 Savage | 28 | +11 |
+| 8 | 21 Savage | 27 | +7 |
 | 9 | The Alchemist | 24 | -7 |
-| 10 | Lil Durk | 22 | NEW |
+| 10 | Migos | 22 | +28 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 10 skips left out (1% skip rate)._
 
 ## Discovery
 94% of plays were songs not in your log before this week.
-New artists: Lil Durk (22), Travis Scott (14), Pooh Shiesty (14), Lil Wayne (10), Lil Uzi Vert (10), Babyface Ray (10), Leon Thomas (10), Rick Ross (8), Babyfxce E (7), Pusha T (6)
+New artists: Pooh Shiesty (14), Leon Thomas (10), Rick Ross (8), Babyfxce E (7), Pusha T (6), Don Toliver (6), Lil Yachty (6), 42 Dugg (5), 50 Cent (5), Meek Mill (4)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -59,14 +59,14 @@ New artists: Lil Durk (22), Travis Scott (14), Pooh Shiesty (14), Lil Wayne (10)
 ## When you listen
 ```
 Late night (12am-5am)  █ 14
-Morning (5am-12pm)     ███████ 92
+Morning (5am-12pm)     ██████ 83
 Afternoon (12pm-5pm)   ████████████████████ 260
 Evening (5pm-9pm)      █████████████████ 226
-Night (9pm-12am)       █████ 67
+Night (9pm-12am)       █████ 68
 
 Mon                    ██████████ 65
-Tue                    ████████████ 79
-Wed                    ████████████████████ 127
+Tue                    ████████████ 80
+Wed                    ██████████████████ 118
 Thu                    █████████████████ 113
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Conway the Machine: 3 days in a row
 
 ## Eras
-1980s: 1, 1990s: 19, 2000s: 41, 2010s: 204, 2020s: 394
+1980s: 1, 1990s: 19, 2000s: 40, 2010s: 200, 2020s: 391
 
 ## How you listen
-Played from: other 484, playlist 153, album 22
+Played from: other 474, playlist 155, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 804 plays recorded total._
+_Log started 2026-10-26 · 806 plays recorded total._
