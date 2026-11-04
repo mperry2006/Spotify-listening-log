@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-04T11:08-05:00",
+  "generated_at": "2026-11-04T12:10-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 806,
+  "total_plays_logged": 810,
   "this_week": {
     "plays": 651,
-    "minutes": 2093,
-    "unique_tracks": 554,
-    "unique_artists": 256
+    "minutes": 2095,
+    "unique_tracks": 553,
+    "unique_artists": 255
   },
   "last_week": {
-    "plays": 145,
-    "minutes": 459
+    "plays": 149,
+    "minutes": 471
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -71,49 +71,49 @@
       "name": "Gunna",
       "plays": 48,
       "last_week_plays": 6,
-      "change": "+9"
+      "change": "+10"
     },
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 40,
-      "last_week_plays": 3,
-      "change": "+25"
+      "plays": 39,
+      "last_week_plays": 4,
+      "change": "+19"
     },
     {
       "rank": 3,
+      "name": "Drake",
+      "plays": 37,
+      "last_week_plays": 6,
+      "change": "+7"
+    },
+    {
+      "rank": 4,
       "name": "Future",
       "plays": 37,
       "last_week_plays": 7,
       "change": "+5"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Young Thug",
       "plays": 37,
       "last_week_plays": 8,
-      "change": "="
-    },
-    {
-      "rank": 5,
-      "name": "Drake",
-      "plays": 35,
-      "last_week_plays": 6,
-      "change": "+4"
+      "change": "-1"
     },
     {
       "rank": 6,
       "name": "Westside Gunn",
-      "plays": 33,
+      "plays": 34,
       "last_week_plays": 26,
       "change": "-5"
     },
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 32,
-      "last_week_plays": 3,
-      "change": "+14"
+      "plays": 31,
+      "last_week_plays": 4,
+      "change": "+10"
     },
     {
       "rank": 8,
@@ -134,7 +134,7 @@
       "name": "Migos",
       "plays": 22,
       "last_week_plays": 2,
-      "change": "+28"
+      "change": "+29"
     }
   ],
   "top_tracks": [
@@ -229,10 +229,6 @@
         "plays": 7
       },
       {
-        "name": "Pusha T",
-        "plays": 6
-      },
-      {
         "name": "Don Toliver",
         "plays": 6
       },
@@ -250,6 +246,10 @@
       },
       {
         "name": "Meek Mill",
+        "plays": 4
+      },
+      {
+        "name": "A Boogie Wit da Hoodie",
         "plays": 4
       }
     ],
@@ -318,7 +318,7 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 9
+      "days": 10
     },
     {
       "artist": "The Alchemist",
@@ -334,7 +334,7 @@
     },
     {
       "artist": "Conway the Machine",
-      "days": 3
+      "days": 4
     }
   ],
   "release_eras": {
@@ -346,8 +346,8 @@
   },
   "listening_style": {
     "played_from": {
-      "other": 474,
-      "playlist": 155,
+      "other": 470,
+      "playlist": 159,
       "album": 22
     },
     "full_album_sessions": 3

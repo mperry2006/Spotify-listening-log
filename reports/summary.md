@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 11:08 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 12:10 ET
 
-**651 plays** (+506 vs last week) · **2093 minutes** · 256 artists · 554 songs
+**651 plays** (+502 vs last week) · **2095 minutes** · 255 artists · 553 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 48 | +9 |
-| 2 | Lil Baby | 40 | +25 |
-| 3 | Future | 37 | +5 |
-| 4 | Young Thug | 37 | = |
-| 5 | Drake | 35 | +4 |
-| 6 | Westside Gunn | 33 | -5 |
-| 7 | J. Cole | 32 | +14 |
+| 1 | Gunna | 48 | +10 |
+| 2 | Lil Baby | 39 | +19 |
+| 3 | Drake | 37 | +7 |
+| 4 | Future | 37 | +5 |
+| 5 | Young Thug | 37 | -1 |
+| 6 | Westside Gunn | 34 | -5 |
+| 7 | J. Cole | 31 | +10 |
 | 8 | 21 Savage | 27 | +7 |
 | 9 | The Alchemist | 24 | -7 |
-| 10 | Migos | 22 | +28 |
+| 10 | Migos | 22 | +29 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Discovery
 94% of plays were songs not in your log before this week.
-New artists: Pooh Shiesty (14), Leon Thomas (10), Rick Ross (8), Babyfxce E (7), Pusha T (6), Don Toliver (6), Lil Yachty (6), 42 Dugg (5), 50 Cent (5), Meek Mill (4)
+New artists: Pooh Shiesty (14), Leon Thomas (10), Rick Ross (8), Babyfxce E (7), Don Toliver (6), Lil Yachty (6), 42 Dugg (5), 50 Cent (5), Meek Mill (4), A Boogie Wit da Hoodie (4)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -74,17 +74,17 @@ Sun                    ██████ 38
 ```
 
 ## Streaks
-- Drake: 9 days in a row
+- Drake: 10 days in a row
 - The Alchemist: 9 days in a row
 - Gunna: 9 days in a row
 - Lil Durk: 7 days in a row
-- Conway the Machine: 3 days in a row
+- Conway the Machine: 4 days in a row
 
 ## Eras
 1980s: 1, 1990s: 19, 2000s: 40, 2010s: 200, 2020s: 391
 
 ## How you listen
-Played from: other 474, playlist 155, album 22
+Played from: other 470, playlist 159, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 806 plays recorded total._
+_Log started 2026-10-26 · 810 plays recorded total._
