@@ -1,5 +1,5 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 23:10 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 00:12 ET
 
 **666 plays** (+538 vs last week) · **2136 minutes** · 256 artists · 564 songs
 
@@ -77,8 +77,8 @@ Sun                    ██████ 38
 - Drake: 9 days in a row
 - The Alchemist: 9 days in a row
 - Gunna: 9 days in a row
-- Brent Faiyaz: 7 days in a row
 - Lil Durk: 7 days in a row
+- Conway the Machine: 3 days in a row
 
 ## Eras
 1980s: 1, 1990s: 19, 2000s: 41, 2010s: 206, 2020s: 399
