@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 16:59 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 17:59 ET
 
-**610 plays** (+394 vs last week) · **1970 minutes** · 241 artists · 517 songs
+**597 plays** (+368 vs last week) · **1925 minutes** · 240 artists · 509 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 47 | +11 |
-| 2 | Lil Baby | 37 | +15 |
+| 1 | Gunna | 46 | +10 |
+| 2 | Lil Baby | 37 | +16 |
 | 3 | Westside Gunn | 36 | -2 |
-| 4 | Young Thug | 34 | = |
-| 5 | Drake | 34 | +1 |
-| 6 | Future | 34 | -1 |
-| 7 | J. Cole | 27 | +2 |
-| 8 | 21 Savage | 26 | +10 |
-| 9 | Conway the Machine | 22 | -6 |
-| 10 | The Alchemist | 22 | -8 |
+| 4 | Future | 34 | +2 |
+| 5 | Young Thug | 33 | = |
+| 6 | Drake | 32 | -2 |
+| 7 | J. Cole | 27 | +6 |
+| 8 | 21 Savage | 24 | +6 |
+| 9 | The Alchemist | 22 | -7 |
+| 10 | Conway the Machine | 21 | -7 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -59,14 +59,14 @@ New artists: Babyfxce E (7), Don Toliver (6), Lil Yachty (6), Tyler, The Creator
 ## When you listen
 ```
 Late night (12am-5am)  █ 14
-Morning (5am-12pm)     ███████ 83
-Afternoon (12pm-5pm)   ███████████████████ 219
-Evening (5pm-9pm)      ████████████████████ 226
+Morning (5am-12pm)     ████████ 83
+Afternoon (12pm-5pm)   ████████████████████ 219
+Evening (5pm-9pm)      ███████████████████ 213
 Night (9pm-12am)       ██████ 68
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
-Wed                    ████████████ 77
+Wed                    ██████████ 64
 Thu                    █████████████████ 113
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Conway the Machine: 4 days in a row
 
 ## Eras
-1990s: 17, 2000s: 35, 2010s: 191, 2020s: 367
+1990s: 16, 2000s: 34, 2010s: 186, 2020s: 361
 
 ## How you listen
-Played from: other 419, playlist 169, album 22
+Played from: other 406, playlist 169, album 22
 Full-album sessions (4+ tracks in a row): 3
 
 _Log started 2026-10-26 · 836 plays recorded total._
