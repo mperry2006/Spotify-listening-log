@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 13:04 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 14:15 ET
 
-**644 plays** (+481 vs last week) · **2077 minutes** · 248 artists · 545 songs
+**641 plays** (+463 vs last week) · **2067 minutes** · 246 artists · 542 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
@@ -10,14 +10,14 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 |---|---|---|---|
 | 1 | Gunna | 48 | +10 |
 | 2 | Lil Baby | 39 | +19 |
-| 3 | Future | 37 | +7 |
-| 4 | Young Thug | 37 | = |
-| 5 | Drake | 36 | +1 |
-| 6 | Westside Gunn | 34 | -5 |
-| 7 | J. Cole | 30 | +5 |
-| 8 | 21 Savage | 27 | +8 |
-| 9 | The Alchemist | 25 | -7 |
-| 10 | Conway the Machine | 24 | -7 |
+| 3 | Westside Gunn | 38 | -2 |
+| 4 | Drake | 36 | +3 |
+| 5 | Future | 36 | +1 |
+| 6 | Young Thug | 36 | -3 |
+| 7 | J. Cole | 29 | +5 |
+| 8 | 21 Savage | 27 | +9 |
+| 9 | The Alchemist | 26 | -7 |
+| 10 | Conway the Machine | 25 | -6 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -34,8 +34,8 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 10 | Real Flex - Babyfxce E | 3 | NEW |
 
 ## Discovery
-94% of plays were songs not in your log before this week.
-New artists: Pooh Shiesty (14), Babyfxce E (7), Don Toliver (6), Lil Yachty (6), 42 Dugg (5), 50 Cent (5), Meek Mill (4), A Boogie Wit da Hoodie (4), Mobb Deep (4), Bas (4)
+93% of plays were songs not in your log before this week.
+New artists: Pooh Shiesty (14), Babyfxce E (7), Don Toliver (6), Lil Yachty (6), 42 Dugg (5), Tyler, The Creator (5), 50 Cent (5), A Boogie Wit da Hoodie (4), Mobb Deep (4), Bas (4)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -60,13 +60,13 @@ New artists: Pooh Shiesty (14), Babyfxce E (7), Don Toliver (6), Lil Yachty (6),
 ```
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ███████ 83
-Afternoon (12pm-5pm)   ████████████████████ 253
+Afternoon (12pm-5pm)   ████████████████████ 250
 Evening (5pm-9pm)      ██████████████████ 226
 Night (9pm-12am)       █████ 68
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
-Wed                    █████████████████ 111
+Wed                    █████████████████ 108
 Thu                    █████████████████ 113
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Conway the Machine: 4 days in a row
 
 ## Eras
-1980s: 1, 1990s: 19, 2000s: 38, 2010s: 199, 2020s: 387
+1980s: 1, 1990s: 18, 2000s: 38, 2010s: 199, 2020s: 385
 
 ## How you listen
-Played from: other 456, playlist 166, album 22
+Played from: other 450, playlist 169, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 817 plays recorded total._
+_Log started 2026-10-26 · 829 plays recorded total._

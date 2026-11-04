@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-04T13:04-05:00",
+  "generated_at": "2026-11-04T14:15-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 817,
+  "total_plays_logged": 829,
   "this_week": {
-    "plays": 644,
-    "minutes": 2077,
-    "unique_tracks": 545,
-    "unique_artists": 248
+    "plays": 641,
+    "minutes": 2067,
+    "unique_tracks": 542,
+    "unique_artists": 246
   },
   "last_week": {
-    "plays": 163,
-    "minutes": 518
+    "plays": 178,
+    "minutes": 570
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -82,37 +82,37 @@
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 37,
-      "last_week_plays": 7,
-      "change": "+7"
+      "name": "Westside Gunn",
+      "plays": 38,
+      "last_week_plays": 27,
+      "change": "-2"
     },
     {
       "rank": 4,
-      "name": "Young Thug",
-      "plays": 37,
+      "name": "Drake",
+      "plays": 36,
       "last_week_plays": 8,
-      "change": "="
+      "change": "+3"
     },
     {
       "rank": 5,
-      "name": "Drake",
+      "name": "Future",
       "plays": 36,
-      "last_week_plays": 7,
+      "last_week_plays": 9,
       "change": "+1"
     },
     {
       "rank": 6,
-      "name": "Westside Gunn",
-      "plays": 34,
-      "last_week_plays": 27,
-      "change": "-5"
+      "name": "Young Thug",
+      "plays": 36,
+      "last_week_plays": 9,
+      "change": "-3"
     },
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 30,
-      "last_week_plays": 5,
+      "plays": 29,
+      "last_week_plays": 6,
       "change": "+5"
     },
     {
@@ -120,21 +120,21 @@
       "name": "21 Savage",
       "plays": 27,
       "last_week_plays": 4,
-      "change": "+8"
+      "change": "+9"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 25,
-      "last_week_plays": 17,
+      "plays": 26,
+      "last_week_plays": 18,
       "change": "-7"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
-      "plays": 24,
+      "plays": 25,
       "last_week_plays": 9,
-      "change": "-7"
+      "change": "-6"
     }
   ],
   "top_tracks": [
@@ -233,12 +233,12 @@
         "plays": 5
       },
       {
-        "name": "50 Cent",
+        "name": "Tyler, The Creator",
         "plays": 5
       },
       {
-        "name": "Meek Mill",
-        "plays": 4
+        "name": "50 Cent",
+        "plays": 5
       },
       {
         "name": "A Boogie Wit da Hoodie",
@@ -253,7 +253,7 @@
         "plays": 4
       }
     ],
-    "plays_of_new_tracks_pct": 94,
+    "plays_of_new_tracks_pct": 93,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -301,14 +301,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 83,
-    "Afternoon (12pm-5pm)": 253,
+    "Afternoon (12pm-5pm)": 250,
     "Evening (5pm-9pm)": 226,
     "Night (9pm-12am)": 68
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
-    "Wed": 111,
+    "Wed": 108,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -339,15 +339,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 19,
+    "1990s": 18,
     "2000s": 38,
     "2010s": 199,
-    "2020s": 387
+    "2020s": 385
   },
   "listening_style": {
     "played_from": {
-      "other": 456,
-      "playlist": 166,
+      "other": 450,
+      "playlist": 169,
       "album": 22
     },
     "full_album_sessions": 3
