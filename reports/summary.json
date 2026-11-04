@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-04T12:10-05:00",
+  "generated_at": "2026-11-04T13:04-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 810,
+  "total_plays_logged": 817,
   "this_week": {
-    "plays": 651,
-    "minutes": 2095,
-    "unique_tracks": 553,
-    "unique_artists": 255
+    "plays": 644,
+    "minutes": 2077,
+    "unique_tracks": 545,
+    "unique_artists": 248
   },
   "last_week": {
-    "plays": 149,
-    "minutes": 471
+    "plays": 163,
+    "minutes": 518
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -82,59 +82,59 @@
     },
     {
       "rank": 3,
-      "name": "Drake",
+      "name": "Future",
       "plays": 37,
-      "last_week_plays": 6,
+      "last_week_plays": 7,
       "change": "+7"
     },
     {
       "rank": 4,
-      "name": "Future",
-      "plays": 37,
-      "last_week_plays": 7,
-      "change": "+5"
-    },
-    {
-      "rank": 5,
       "name": "Young Thug",
       "plays": 37,
       "last_week_plays": 8,
-      "change": "-1"
+      "change": "="
+    },
+    {
+      "rank": 5,
+      "name": "Drake",
+      "plays": 36,
+      "last_week_plays": 7,
+      "change": "+1"
     },
     {
       "rank": 6,
       "name": "Westside Gunn",
       "plays": 34,
-      "last_week_plays": 26,
+      "last_week_plays": 27,
       "change": "-5"
     },
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 31,
-      "last_week_plays": 4,
-      "change": "+10"
+      "plays": 30,
+      "last_week_plays": 5,
+      "change": "+5"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 27,
       "last_week_plays": 4,
-      "change": "+7"
+      "change": "+8"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 24,
+      "plays": 25,
       "last_week_plays": 17,
       "change": "-7"
     },
     {
       "rank": 10,
-      "name": "Migos",
-      "plays": 22,
-      "last_week_plays": 2,
-      "change": "+29"
+      "name": "Conway the Machine",
+      "plays": 24,
+      "last_week_plays": 9,
+      "change": "-7"
     }
   ],
   "top_tracks": [
@@ -217,14 +217,6 @@
         "plays": 14
       },
       {
-        "name": "Leon Thomas",
-        "plays": 10
-      },
-      {
-        "name": "Rick Ross",
-        "plays": 8
-      },
-      {
         "name": "Babyfxce E",
         "plays": 7
       },
@@ -250,6 +242,14 @@
       },
       {
         "name": "A Boogie Wit da Hoodie",
+        "plays": 4
+      },
+      {
+        "name": "Mobb Deep",
+        "plays": 4
+      },
+      {
+        "name": "Bas",
         "plays": 4
       }
     ],
@@ -301,14 +301,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 83,
-    "Afternoon (12pm-5pm)": 260,
+    "Afternoon (12pm-5pm)": 253,
     "Evening (5pm-9pm)": 226,
     "Night (9pm-12am)": 68
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
-    "Wed": 118,
+    "Wed": 111,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -322,7 +322,7 @@
     },
     {
       "artist": "The Alchemist",
-      "days": 9
+      "days": 10
     },
     {
       "artist": "Gunna",
@@ -340,14 +340,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 19,
-    "2000s": 40,
-    "2010s": 200,
-    "2020s": 391
+    "2000s": 38,
+    "2010s": 199,
+    "2020s": 387
   },
   "listening_style": {
     "played_from": {
-      "other": 470,
-      "playlist": 159,
+      "other": 456,
+      "playlist": 166,
       "album": 22
     },
     "full_album_sessions": 3
