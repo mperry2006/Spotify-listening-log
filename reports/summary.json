@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:03-05:00",
+  "generated_at": "2026-11-03T23:10-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 804,
   "this_week": {
-    "plays": 670,
-    "minutes": 2150,
-    "unique_tracks": 568,
+    "plays": 666,
+    "minutes": 2136,
+    "unique_tracks": 564,
     "unique_artists": 256
   },
   "last_week": {
-    "plays": 124,
-    "minutes": 397
+    "plays": 128,
+    "minutes": 411
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -71,7 +71,7 @@
       "name": "Gunna",
       "plays": 49,
       "last_week_plays": 5,
-      "change": "+8"
+      "change": "+9"
     },
     {
       "rank": 2,
@@ -96,37 +96,37 @@
     },
     {
       "rank": 5,
-      "name": "Westside Gunn",
-      "plays": 35,
-      "last_week_plays": 24,
-      "change": "-4"
-    },
-    {
-      "rank": 6,
       "name": "Drake",
       "plays": 34,
       "last_week_plays": 6,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 6,
+      "name": "Westside Gunn",
+      "plays": 33,
+      "last_week_plays": 26,
+      "change": "-5"
     },
     {
       "rank": 7,
       "name": "J. Cole",
       "plays": 32,
       "last_week_plays": 3,
-      "change": "+12"
+      "change": "+13"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 28,
       "last_week_plays": 3,
-      "change": "+9"
+      "change": "+10"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 26,
-      "last_week_plays": 15,
+      "plays": 25,
+      "last_week_plays": 16,
       "change": "-7"
     },
     {
@@ -303,11 +303,11 @@
     "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 260,
     "Evening (5pm-9pm)": 226,
-    "Night (9pm-12am)": 71
+    "Night (9pm-12am)": 67
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 83,
+    "Tue": 79,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -341,12 +341,12 @@
     "1980s": 1,
     "1990s": 19,
     "2000s": 41,
-    "2010s": 207,
-    "2020s": 402
+    "2010s": 206,
+    "2020s": 399
   },
   "listening_style": {
     "played_from": {
-      "other": 495,
+      "other": 491,
       "playlist": 153,
       "album": 22
     },

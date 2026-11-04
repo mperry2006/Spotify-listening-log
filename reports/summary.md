@@ -1,22 +1,22 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 22:03 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 23:10 ET
 
-**670 plays** (+546 vs last week) · **2150 minutes** · 256 artists · 568 songs
+**666 plays** (+538 vs last week) · **2136 minutes** · 256 artists · 564 songs
 
 _Counting real listens only. 10 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 49 | +8 |
+| 1 | Gunna | 49 | +9 |
 | 2 | Lil Baby | 41 | +29 |
 | 3 | Future | 39 | +10 |
 | 4 | Young Thug | 38 | +3 |
-| 5 | Westside Gunn | 35 | -4 |
-| 6 | Drake | 34 | = |
-| 7 | J. Cole | 32 | +12 |
-| 8 | 21 Savage | 28 | +9 |
-| 9 | The Alchemist | 26 | -7 |
+| 5 | Drake | 34 | +1 |
+| 6 | Westside Gunn | 33 | -5 |
+| 7 | J. Cole | 32 | +13 |
+| 8 | 21 Savage | 28 | +10 |
+| 9 | The Alchemist | 25 | -7 |
 | 10 | Migos | 24 | NEW |
 
 ## Top songs
@@ -62,10 +62,10 @@ Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 260
 Evening (5pm-9pm)      █████████████████ 226
-Night (9pm-12am)       █████ 71
+Night (9pm-12am)       █████ 67
 
 Mon                    ██████████ 65
-Tue                    ████████████ 83
+Tue                    ████████████ 79
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 19, 2000s: 41, 2010s: 207, 2020s: 402
+1980s: 1, 1990s: 19, 2000s: 41, 2010s: 206, 2020s: 399
 
 ## How you listen
-Played from: other 495, playlist 153, album 22
+Played from: other 491, playlist 153, album 22
 Full-album sessions (4+ tracks in a row): 3
 
 _Log started 2026-10-26 · 804 plays recorded total._
