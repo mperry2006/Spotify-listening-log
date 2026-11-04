@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:25-05:00",
+  "generated_at": "2026-11-04T10:05-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 804,
   "this_week": {
-    "plays": 665,
-    "minutes": 2132,
-    "unique_tracks": 563,
+    "plays": 659,
+    "minutes": 2116,
+    "unique_tracks": 561,
     "unique_artists": 256
   },
   "last_week": {
-    "plays": 129,
-    "minutes": 414
+    "plays": 135,
+    "minutes": 430
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,9 +76,9 @@
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 41,
-      "last_week_plays": 2,
-      "change": "+29"
+      "plays": 40,
+      "last_week_plays": 3,
+      "change": "+25"
     },
     {
       "rank": 3,
@@ -113,37 +113,37 @@
       "name": "J. Cole",
       "plays": 32,
       "last_week_plays": 3,
-      "change": "+13"
+      "change": "+14"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 28,
       "last_week_plays": 3,
-      "change": "+10"
+      "change": "+11"
     },
     {
       "rank": 9,
-      "name": "Migos",
-      "plays": 24,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 10,
       "name": "The Alchemist",
       "plays": 24,
       "last_week_plays": 17,
-      "change": "-8"
+      "change": "-7"
+    },
+    {
+      "rank": 10,
+      "name": "Lil Durk",
+      "plays": 22,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
       "name": "Back On - Quality Control",
-      "plays": 6,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "plays": 5,
+      "last_week_plays": 1,
+      "change": "+126"
     },
     {
       "rank": 2,
@@ -154,56 +154,56 @@
     },
     {
       "rank": 3,
-      "name": "Menace - Migos",
-      "plays": 4,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "i n t e r l u d e - J. Cole",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
-      "name": "Shit Crazy (feat. BIG30) - Gucci Mane",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "Diamonds (feat. Gunna) - Young Thug",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "pad lock - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "p angels - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Rocket Ship - Future",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "I Suppose - Quality Control",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Real Flex - Babyfxce E",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -212,10 +212,6 @@
   "dropped_off": [],
   "discovery": {
     "new_artists": [
-      {
-        "name": "Migos",
-        "plays": 24
-      },
       {
         "name": "Lil Durk",
         "plays": 22
@@ -227,10 +223,6 @@
       {
         "name": "Pooh Shiesty",
         "plays": 14
-      },
-      {
-        "name": "Gucci Mane",
-        "plays": 11
       },
       {
         "name": "Lil Wayne",
@@ -249,33 +241,33 @@
         "plays": 10
       },
       {
-        "name": "BIG30",
-        "plays": 9
+        "name": "Rick Ross",
+        "plays": 8
+      },
+      {
+        "name": "Babyfxce E",
+        "plays": 7
+      },
+      {
+        "name": "Pusha T",
+        "plays": 6
       }
     ],
-    "plays_of_new_tracks_pct": 96,
+    "plays_of_new_tracks_pct": 94,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
       "track": "Back On - Quality Control",
-      "plays": 6
+      "plays": 5
     },
     {
       "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 5
     },
     {
-      "track": "Menace - Migos",
-      "plays": 4
-    },
-    {
       "track": "i n t e r l u d e - J. Cole",
       "plays": 4
-    },
-    {
-      "track": "Shit Crazy (feat. BIG30) - Gucci Mane",
-      "plays": 3
     },
     {
       "track": "Diamonds (feat. Gunna) - Young Thug",
@@ -296,11 +288,19 @@
     {
       "track": "Rocket Ship - Future",
       "plays": 3
+    },
+    {
+      "track": "I Suppose - Quality Control",
+      "plays": 3
+    },
+    {
+      "track": "Real Flex - Babyfxce E",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 98,
+    "Morning (5am-12pm)": 92,
     "Afternoon (12pm-5pm)": 260,
     "Evening (5pm-9pm)": 226,
     "Night (9pm-12am)": 67
@@ -308,13 +308,13 @@
   "day_of_week": {
     "Mon": 65,
     "Tue": 79,
-    "Wed": 133,
+    "Wed": 127,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
   },
-  "busiest_day": "Wed",
+  "busiest_day": "Fri",
   "streaks": [
     {
       "artist": "Drake",
@@ -341,12 +341,12 @@
     "1980s": 1,
     "1990s": 19,
     "2000s": 41,
-    "2010s": 206,
-    "2020s": 398
+    "2010s": 204,
+    "2020s": 394
   },
   "listening_style": {
     "played_from": {
-      "other": 490,
+      "other": 484,
       "playlist": 153,
       "album": 22
     },
