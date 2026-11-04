@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 05:22 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 07:02 ET
 
-**666 plays** (+538 vs last week) · **2136 minutes** · 256 artists · 564 songs
+**665 plays** (+536 vs last week) · **2132 minutes** · 256 artists · 563 songs
 
 _Counting real listens only. 10 skips left out (1% skip rate)._
 
@@ -16,8 +16,8 @@ _Counting real listens only. 10 skips left out (1% skip rate)._
 | 6 | Westside Gunn | 33 | -5 |
 | 7 | J. Cole | 32 | +13 |
 | 8 | 21 Savage | 28 | +10 |
-| 9 | The Alchemist | 25 | -7 |
-| 10 | Migos | 24 | NEW |
+| 9 | Migos | 24 | NEW |
+| 10 | The Alchemist | 24 | -8 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -59,16 +59,16 @@ New artists: Migos (24), Lil Durk (22), Travis Scott (14), Pooh Shiesty (14), Gu
 ## When you listen
 ```
 Late night (12am-5am)  █ 14
-Morning (5am-12pm)     ████████ 99
+Morning (5am-12pm)     ████████ 98
 Afternoon (12pm-5pm)   ████████████████████ 260
 Evening (5pm-9pm)      █████████████████ 226
 Night (9pm-12am)       █████ 67
 
 Mon                    ██████████ 65
 Tue                    ████████████ 79
-Wed                    ████████████████████ 134
+Wed                    ████████████████████ 133
 Thu                    █████████████████ 113
-Fri                    ███████████████████ 130
+Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
 ```
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Conway the Machine: 3 days in a row
 
 ## Eras
-1980s: 1, 1990s: 19, 2000s: 41, 2010s: 206, 2020s: 399
+1980s: 1, 1990s: 19, 2000s: 41, 2010s: 206, 2020s: 398
 
 ## How you listen
-Played from: other 491, playlist 153, album 22
+Played from: other 490, playlist 153, album 22
 Full-album sessions (4+ tracks in a row): 3
 
 _Log started 2026-10-26 · 804 plays recorded total._

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T05:22-05:00",
+  "generated_at": "2026-11-04T07:02-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 804,
   "this_week": {
-    "plays": 666,
-    "minutes": 2136,
-    "unique_tracks": 564,
+    "plays": 665,
+    "minutes": 2132,
+    "unique_tracks": 563,
     "unique_artists": 256
   },
   "last_week": {
-    "plays": 128,
-    "minutes": 411
+    "plays": 129,
+    "minutes": 414
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 25,
-      "last_week_plays": 16,
-      "change": "-7"
-    },
-    {
-      "rank": 10,
       "name": "Migos",
       "plays": 24,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "The Alchemist",
+      "plays": 24,
+      "last_week_plays": 17,
+      "change": "-8"
     }
   ],
   "top_tracks": [
@@ -300,7 +300,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 14,
-    "Morning (5am-12pm)": 99,
+    "Morning (5am-12pm)": 98,
     "Afternoon (12pm-5pm)": 260,
     "Evening (5pm-9pm)": 226,
     "Night (9pm-12am)": 67
@@ -308,7 +308,7 @@
   "day_of_week": {
     "Mon": 65,
     "Tue": 79,
-    "Wed": 134,
+    "Wed": 133,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -342,11 +342,11 @@
     "1990s": 19,
     "2000s": 41,
     "2010s": 206,
-    "2020s": 399
+    "2020s": 398
   },
   "listening_style": {
     "played_from": {
-      "other": 491,
+      "other": 490,
       "playlist": 153,
       "album": 22
     },
