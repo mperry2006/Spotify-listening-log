@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-27 to 2026-11-03** · updated 2026-11-03 20:23 ET
+**2026-10-27 to 2026-11-03** · updated 2026-11-03 22:03 ET
 
-**660 plays** (+544 vs last week) · **2118 minutes** · 253 artists · 564 songs
+**670 plays** (+546 vs last week) · **2150 minutes** · 256 artists · 568 songs
 
 _Counting real listens only. 10 skips left out (1% skip rate)._
 
@@ -9,13 +9,13 @@ _Counting real listens only. 10 skips left out (1% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 49 | +8 |
-| 2 | Lil Baby | 40 | +29 |
-| 3 | Young Thug | 38 | +4 |
-| 4 | Future | 36 | +8 |
+| 2 | Lil Baby | 41 | +29 |
+| 3 | Future | 39 | +10 |
+| 4 | Young Thug | 38 | +3 |
 | 5 | Westside Gunn | 35 | -4 |
-| 6 | Drake | 33 | -1 |
-| 7 | J. Cole | 32 | +11 |
-| 8 | 21 Savage | 27 | +8 |
+| 6 | Drake | 34 | = |
+| 7 | J. Cole | 32 | +12 |
+| 8 | 21 Savage | 28 | +9 |
 | 9 | The Alchemist | 26 | -7 |
 | 10 | Migos | 24 | NEW |
 
@@ -23,9 +23,9 @@ _Counting real listens only. 10 skips left out (1% skip rate)._
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Back On - Quality Control | 6 | NEW |
-| 2 | Menace - Migos | 4 | NEW |
-| 3 | i n t e r l u d e - J. Cole | 4 | NEW |
-| 4 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 4 | NEW |
+| 2 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 5 | NEW |
+| 3 | Menace - Migos | 4 | NEW |
+| 4 | i n t e r l u d e - J. Cole | 4 | NEW |
 | 5 | Shit Crazy (feat. BIG30) - Gucci Mane | 3 | NEW |
 | 6 | Diamonds (feat. Gunna) - Young Thug | 3 | NEW |
 | 7 | pad lock - 21 Savage | 3 | NEW |
@@ -35,13 +35,13 @@ _Counting real listens only. 10 skips left out (1% skip rate)._
 
 ## Discovery
 96% of plays were songs not in your log before this week.
-New artists: Migos (24), Lil Durk (22), Travis Scott (14), Pooh Shiesty (13), Gucci Mane (10), Lil Wayne (10), Lil Uzi Vert (10), Babyface Ray (10), Leon Thomas (10), BIG30 (9)
+New artists: Migos (24), Lil Durk (22), Travis Scott (14), Pooh Shiesty (14), Gucci Mane (11), Lil Wayne (10), Lil Uzi Vert (10), Babyface Ray (10), Leon Thomas (10), BIG30 (9)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 6x
+- Ugly (feat. Gucci Mane) - Pooh Shiesty - 5x
 - Menace - Migos - 4x
 - i n t e r l u d e - J. Cole - 4x
-- Ugly (feat. Gucci Mane) - Pooh Shiesty - 4x
 - Shit Crazy (feat. BIG30) - Gucci Mane - 3x
 - Diamonds (feat. Gunna) - Young Thug - 3x
 - pad lock - 21 Savage - 3x
@@ -61,11 +61,11 @@ New artists: Migos (24), Lil Durk (22), Travis Scott (14), Pooh Shiesty (13), Gu
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 260
-Evening (5pm-9pm)      █████████████████ 224
-Night (9pm-12am)       █████ 63
+Evening (5pm-9pm)      █████████████████ 226
+Night (9pm-12am)       █████ 71
 
 Mon                    ██████████ 65
-Tue                    ███████████ 73
+Tue                    ████████████ 83
 Wed                    ████████████████████ 134
 Thu                    █████████████████ 113
 Fri                    ███████████████████ 130
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Lil Durk: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 17, 2000s: 41, 2010s: 204, 2020s: 397
+1980s: 1, 1990s: 19, 2000s: 41, 2010s: 207, 2020s: 402
 
 ## How you listen
-Played from: other 483, playlist 155, album 22
+Played from: other 495, playlist 153, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 786 plays recorded total._
+_Log started 2026-10-26 · 804 plays recorded total._

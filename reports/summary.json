@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-03T20:23-05:00",
+  "generated_at": "2026-11-03T22:03-05:00",
   "window": {
     "start": "2026-10-27",
     "end": "2026-11-03"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 786,
+  "total_plays_logged": 804,
   "this_week": {
-    "plays": 660,
-    "minutes": 2118,
-    "unique_tracks": 564,
-    "unique_artists": 253
+    "plays": 670,
+    "minutes": 2150,
+    "unique_tracks": 568,
+    "unique_artists": 256
   },
   "last_week": {
-    "plays": 116,
-    "minutes": 371
+    "plays": 124,
+    "minutes": 397
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,57 +76,57 @@
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 40,
+      "plays": 41,
       "last_week_plays": 2,
       "change": "+29"
     },
     {
       "rank": 3,
-      "name": "Young Thug",
-      "plays": 38,
-      "last_week_plays": 6,
-      "change": "+4"
+      "name": "Future",
+      "plays": 39,
+      "last_week_plays": 5,
+      "change": "+10"
     },
     {
       "rank": 4,
-      "name": "Future",
-      "plays": 36,
-      "last_week_plays": 5,
-      "change": "+8"
+      "name": "Young Thug",
+      "plays": 38,
+      "last_week_plays": 6,
+      "change": "+3"
     },
     {
       "rank": 5,
       "name": "Westside Gunn",
       "plays": 35,
-      "last_week_plays": 22,
+      "last_week_plays": 24,
       "change": "-4"
     },
     {
       "rank": 6,
       "name": "Drake",
-      "plays": 33,
+      "plays": 34,
       "last_week_plays": 6,
-      "change": "-1"
+      "change": "="
     },
     {
       "rank": 7,
       "name": "J. Cole",
       "plays": 32,
       "last_week_plays": 3,
-      "change": "+11"
+      "change": "+12"
     },
     {
       "rank": 8,
       "name": "21 Savage",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 3,
-      "change": "+8"
+      "change": "+9"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
       "plays": 26,
-      "last_week_plays": 14,
+      "last_week_plays": 15,
       "change": "-7"
     },
     {
@@ -147,21 +147,21 @@
     },
     {
       "rank": 2,
+      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 5,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
       "name": "Menace - Migos",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
-      "name": "i n t e r l u d e - J. Cole",
-      "plays": 4,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 4,
-      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "name": "i n t e r l u d e - J. Cole",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
@@ -226,11 +226,11 @@
       },
       {
         "name": "Pooh Shiesty",
-        "plays": 13
+        "plays": 14
       },
       {
         "name": "Gucci Mane",
-        "plays": 10
+        "plays": 11
       },
       {
         "name": "Lil Wayne",
@@ -262,15 +262,15 @@
       "plays": 6
     },
     {
+      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 5
+    },
+    {
       "track": "Menace - Migos",
       "plays": 4
     },
     {
       "track": "i n t e r l u d e - J. Cole",
-      "plays": 4
-    },
-    {
-      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 4
     },
     {
@@ -302,12 +302,12 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 260,
-    "Evening (5pm-9pm)": 224,
-    "Night (9pm-12am)": 63
+    "Evening (5pm-9pm)": 226,
+    "Night (9pm-12am)": 71
   },
   "day_of_week": {
     "Mon": 65,
-    "Tue": 73,
+    "Tue": 83,
     "Wed": 134,
     "Thu": 113,
     "Fri": 130,
@@ -339,15 +339,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 17,
+    "1990s": 19,
     "2000s": 41,
-    "2010s": 204,
-    "2020s": 397
+    "2010s": 207,
+    "2020s": 402
   },
   "listening_style": {
     "played_from": {
-      "other": 483,
-      "playlist": 155,
+      "other": 495,
+      "playlist": 153,
       "album": 22
     },
     "full_album_sessions": 3
