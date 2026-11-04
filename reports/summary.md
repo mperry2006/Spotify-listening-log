@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 17:59 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 18:54 ET
 
-**597 plays** (+368 vs last week) · **1925 minutes** · 240 artists · 509 songs
+**590 plays** (+346 vs last week) · **1903 minutes** · 239 artists · 501 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 46 | +10 |
+| 1 | Gunna | 45 | +10 |
 | 2 | Lil Baby | 37 | +16 |
-| 3 | Westside Gunn | 36 | -2 |
-| 4 | Future | 34 | +2 |
-| 5 | Young Thug | 33 | = |
-| 6 | Drake | 32 | -2 |
-| 7 | J. Cole | 27 | +6 |
-| 8 | 21 Savage | 24 | +6 |
-| 9 | The Alchemist | 22 | -7 |
-| 10 | Conway the Machine | 21 | -7 |
+| 3 | Westside Gunn | 35 | -2 |
+| 4 | Future | 32 | +2 |
+| 5 | Young Thug | 31 | -2 |
+| 6 | Drake | 31 | -1 |
+| 7 | J. Cole | 26 | +5 |
+| 8 | 21 Savage | 23 | +5 |
+| 9 | The Alchemist | 23 | -7 |
+| 10 | Conway the Machine | 20 | -6 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -34,8 +34,8 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 10 | i n t e r l u d e - J. Cole | 3 | +167 |
 
 ## Discovery
-91% of plays were songs not in your log before this week.
-New artists: Babyfxce E (7), Don Toliver (6), Lil Yachty (6), Tyler, The Creator (5), 50 Cent (5), Bas (4), Quavo (4), G Herbo (4), Nas (4), Cash Cobain (4)
+90% of plays were songs not in your log before this week.
+New artists: Don Toliver (7), Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5), Bas (4), Quavo (4), G Herbo (4), Nas (4), Cash Cobain (4)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -61,12 +61,12 @@ New artists: Babyfxce E (7), Don Toliver (6), Lil Yachty (6), Tyler, The Creator
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 83
 Afternoon (12pm-5pm)   ████████████████████ 219
-Evening (5pm-9pm)      ███████████████████ 213
+Evening (5pm-9pm)      ███████████████████ 206
 Night (9pm-12am)       ██████ 68
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
-Wed                    ██████████ 64
+Wed                    █████████ 57
 Thu                    █████████████████ 113
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Conway the Machine: 4 days in a row
 
 ## Eras
-1990s: 16, 2000s: 34, 2010s: 186, 2020s: 361
+1990s: 17, 2000s: 33, 2010s: 183, 2020s: 357
 
 ## How you listen
-Played from: other 406, playlist 169, album 22
+Played from: other 399, playlist 169, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 836 plays recorded total._
+_Log started 2026-10-26 · 844 plays recorded total._

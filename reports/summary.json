@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-04T17:59-05:00",
+  "generated_at": "2026-11-04T18:54-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 836,
+  "total_plays_logged": 844,
   "this_week": {
-    "plays": 597,
-    "minutes": 1925,
-    "unique_tracks": 509,
-    "unique_artists": 240
+    "plays": 590,
+    "minutes": 1903,
+    "unique_tracks": 501,
+    "unique_artists": 239
   },
   "last_week": {
-    "plays": 229,
-    "minutes": 734
+    "plays": 244,
+    "minutes": 780
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 46,
-      "last_week_plays": 8,
+      "plays": 45,
+      "last_week_plays": 9,
       "change": "+10"
     },
     {
@@ -83,58 +83,58 @@
     {
       "rank": 3,
       "name": "Westside Gunn",
-      "plays": 36,
-      "last_week_plays": 29,
+      "plays": 35,
+      "last_week_plays": 30,
       "change": "-2"
     },
     {
       "rank": 4,
       "name": "Future",
-      "plays": 34,
-      "last_week_plays": 11,
+      "plays": 32,
+      "last_week_plays": 13,
       "change": "+2"
     },
     {
       "rank": 5,
       "name": "Young Thug",
-      "plays": 33,
-      "last_week_plays": 12,
-      "change": "="
+      "plays": 31,
+      "last_week_plays": 14,
+      "change": "-2"
     },
     {
       "rank": 6,
       "name": "Drake",
-      "plays": 32,
-      "last_week_plays": 12,
-      "change": "-2"
+      "plays": 31,
+      "last_week_plays": 13,
+      "change": "-1"
     },
     {
       "rank": 7,
       "name": "J. Cole",
-      "plays": 27,
-      "last_week_plays": 8,
-      "change": "+6"
+      "plays": 26,
+      "last_week_plays": 9,
+      "change": "+5"
     },
     {
       "rank": 8,
       "name": "21 Savage",
-      "plays": 24,
-      "last_week_plays": 7,
-      "change": "+6"
+      "plays": 23,
+      "last_week_plays": 8,
+      "change": "+5"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 22,
+      "plays": 23,
       "last_week_plays": 22,
       "change": "-7"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
-      "plays": 21,
-      "last_week_plays": 13,
-      "change": "-7"
+      "plays": 20,
+      "last_week_plays": 14,
+      "change": "-6"
     }
   ],
   "top_tracks": [
@@ -213,16 +213,16 @@
   "discovery": {
     "new_artists": [
       {
-        "name": "Babyfxce E",
+        "name": "Don Toliver",
         "plays": 7
       },
       {
-        "name": "Don Toliver",
-        "plays": 6
+        "name": "Lil Yachty",
+        "plays": 7
       },
       {
-        "name": "Lil Yachty",
-        "plays": 6
+        "name": "Babyfxce E",
+        "plays": 7
       },
       {
         "name": "Tyler, The Creator",
@@ -253,7 +253,7 @@
         "plays": 4
       }
     ],
-    "plays_of_new_tracks_pct": 91,
+    "plays_of_new_tracks_pct": 90,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -302,13 +302,13 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 83,
     "Afternoon (12pm-5pm)": 219,
-    "Evening (5pm-9pm)": 213,
+    "Evening (5pm-9pm)": 206,
     "Night (9pm-12am)": 68
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
-    "Wed": 64,
+    "Wed": 57,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -338,14 +338,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 16,
-    "2000s": 34,
-    "2010s": 186,
-    "2020s": 361
+    "1990s": 17,
+    "2000s": 33,
+    "2010s": 183,
+    "2020s": 357
   },
   "listening_style": {
     "played_from": {
-      "other": 406,
+      "other": 399,
       "playlist": 169,
       "album": 22
     },
