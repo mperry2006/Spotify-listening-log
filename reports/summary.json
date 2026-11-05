@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-05T14:13-05:00",
+  "generated_at": "2026-11-05T15:06-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 878,
+  "total_plays_logged": 879,
   "this_week": {
-    "plays": 524,
-    "minutes": 1696,
-    "unique_tracks": 445,
-    "unique_artists": 227
+    "plays": 510,
+    "minutes": 1651,
+    "unique_tracks": 433,
+    "unique_artists": 219
   },
   "last_week": {
-    "plays": 338,
-    "minutes": 1074
+    "plays": 353,
+    "minutes": 1122
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -71,7 +71,7 @@
       "name": "Gunna",
       "plays": 42,
       "last_week_plays": 13,
-      "change": "+10"
+      "change": "+11"
     },
     {
       "rank": 2,
@@ -82,59 +82,59 @@
     },
     {
       "rank": 3,
-      "name": "Lil Baby",
-      "plays": 30,
-      "last_week_plays": 14,
-      "change": "+7"
-    },
-    {
-      "rank": 4,
       "name": "Young Thug",
       "plays": 30,
       "last_week_plays": 16,
-      "change": "+1"
-    },
-    {
-      "rank": 5,
-      "name": "Future",
-      "plays": 29,
-      "last_week_plays": 17,
-      "change": "-1"
-    },
-    {
-      "rank": 6,
-      "name": "Westside Gunn",
-      "plays": 25,
-      "last_week_plays": 41,
-      "change": "-5"
-    },
-    {
-      "rank": 7,
-      "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 14,
       "change": "+2"
     },
     {
-      "rank": 8,
-      "name": "21 Savage",
-      "plays": 19,
-      "last_week_plays": 12,
+      "rank": 4,
+      "name": "Future",
+      "plays": 29,
+      "last_week_plays": 17,
+      "change": "="
+    },
+    {
+      "rank": 5,
+      "name": "Lil Baby",
+      "plays": 29,
+      "last_week_plays": 15,
+      "change": "+4"
+    },
+    {
+      "rank": 6,
+      "name": "J. Cole",
+      "plays": 25,
+      "last_week_plays": 14,
       "change": "+5"
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "name": "Westside Gunn",
+      "plays": 24,
+      "last_week_plays": 42,
+      "change": "-6"
+    },
+    {
+      "rank": 8,
       "name": "Migos",
       "plays": 18,
       "last_week_plays": 6,
-      "change": "+17"
+      "change": "+19"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "The Alchemist",
       "plays": 17,
       "last_week_plays": 30,
-      "change": "-8"
+      "change": "-7"
+    },
+    {
+      "rank": 10,
+      "name": "21 Savage",
+      "plays": 17,
+      "last_week_plays": 14,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -221,14 +221,6 @@
         "plays": 5
       },
       {
-        "name": "G Herbo",
-        "plays": 4
-      },
-      {
-        "name": "Nas",
-        "plays": 4
-      },
-      {
         "name": "Cash Cobain",
         "plays": 4
       },
@@ -251,9 +243,17 @@
       {
         "name": "Knxwledge",
         "plays": 3
+      },
+      {
+        "name": "Nao",
+        "plays": 3
+      },
+      {
+        "name": "Rich The Kid",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 86,
+    "plays_of_new_tracks_pct": 85,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 9,
     "Morning (5am-12pm)": 37,
-    "Afternoon (12pm-5pm)": 215,
+    "Afternoon (12pm-5pm)": 201,
     "Evening (5pm-9pm)": 207,
     "Night (9pm-12am)": 56
   },
@@ -309,7 +309,7 @@
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 58,
+    "Thu": 44,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 16,
-    "2000s": 32,
-    "2010s": 160,
-    "2020s": 316
+    "2000s": 30,
+    "2010s": 151,
+    "2020s": 313
   },
   "listening_style": {
     "played_from": {
-      "other": 337,
+      "other": 323,
       "playlist": 173,
       "album": 14
     },

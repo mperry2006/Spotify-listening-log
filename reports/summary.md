@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 14:13 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 15:06 ET
 
-**524 plays** (+186 vs last week) · **1696 minutes** · 227 artists · 445 songs
+**510 plays** (+157 vs last week) · **1651 minutes** · 219 artists · 433 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 42 | +10 |
+| 1 | Gunna | 42 | +11 |
 | 2 | Drake | 32 | +5 |
-| 3 | Lil Baby | 30 | +7 |
-| 4 | Young Thug | 30 | +1 |
-| 5 | Future | 29 | -1 |
-| 6 | Westside Gunn | 25 | -5 |
-| 7 | J. Cole | 25 | +2 |
-| 8 | 21 Savage | 19 | +5 |
-| 9 | Migos | 18 | +17 |
-| 10 | The Alchemist | 17 | -8 |
+| 3 | Young Thug | 30 | +2 |
+| 4 | Future | 29 | = |
+| 5 | Lil Baby | 29 | +4 |
+| 6 | J. Cole | 25 | +5 |
+| 7 | Westside Gunn | 24 | -6 |
+| 8 | Migos | 18 | +19 |
+| 9 | The Alchemist | 17 | -7 |
+| 10 | 21 Savage | 17 | = |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -34,8 +34,8 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 | 10 | Wine & Dine - YoungBoy Never Broke Again | 3 | NEW |
 
 ## Discovery
-86% of plays were songs not in your log before this week.
-New artists: Tyler, The Creator (5), 50 Cent (5), G Herbo (4), Nas (4), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3)
+85% of plays were songs not in your log before this week.
+New artists: Tyler, The Creator (5), 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3), Nao (3), Rich The Kid (2)
 
 ## On repeat (3+ plays)
 - Ugly (feat. Gucci Mane) - Pooh Shiesty - 4x
@@ -59,15 +59,15 @@ New artists: Tyler, The Creator (5), 50 Cent (5), G Herbo (4), Nas (4), Cash Cob
 ## When you listen
 ```
 Late night (12am-5am)  █ 9
-Morning (5am-12pm)     ███ 37
-Afternoon (12pm-5pm)   ████████████████████ 215
-Evening (5pm-9pm)      ███████████████████ 207
+Morning (5am-12pm)     ████ 37
+Afternoon (12pm-5pm)   ███████████████████ 201
+Evening (5pm-9pm)      ████████████████████ 207
 Night (9pm-12am)       █████ 56
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    █████████ 58
+Thu                    ███████ 44
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Kanye West: 4 days in a row
 
 ## Eras
-1990s: 16, 2000s: 32, 2010s: 160, 2020s: 316
+1990s: 16, 2000s: 30, 2010s: 151, 2020s: 313
 
 ## How you listen
-Played from: other 337, playlist 173, album 14
+Played from: other 323, playlist 173, album 14
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 878 plays recorded total._
+_Log started 2026-10-26 · 879 plays recorded total._
