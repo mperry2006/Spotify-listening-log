@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-05T11:21-05:00",
+  "generated_at": "2026-11-05T12:59-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 857,
+  "total_plays_logged": 869,
   "this_week": {
-    "plays": 534,
-    "minutes": 1724,
-    "unique_tracks": 452,
-    "unique_artists": 227
+    "plays": 533,
+    "minutes": 1728,
+    "unique_tracks": 454,
+    "unique_artists": 228
   },
   "last_week": {
-    "plays": 307,
-    "minutes": 980
+    "plays": 320,
+    "minutes": 1014
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,71 +70,71 @@
       "rank": 1,
       "name": "Gunna",
       "plays": 43,
-      "last_week_plays": 11,
+      "last_week_plays": 12,
       "change": "+8"
     },
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 35,
-      "last_week_plays": 9,
-      "change": "+15"
+      "plays": 32,
+      "last_week_plays": 12,
+      "change": "+9"
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 30,
-      "last_week_plays": 15,
-      "change": "+2"
+      "name": "Drake",
+      "plays": 31,
+      "last_week_plays": 14,
+      "change": "+3"
     },
     {
       "rank": 4,
-      "name": "Young Thug",
+      "name": "Future",
       "plays": 30,
-      "last_week_plays": 15,
-      "change": "="
-    },
-    {
-      "rank": 5,
-      "name": "Drake",
-      "plays": 30,
-      "last_week_plays": 14,
+      "last_week_plays": 16,
       "change": "+1"
     },
     {
+      "rank": 5,
+      "name": "Young Thug",
+      "plays": 30,
+      "last_week_plays": 16,
+      "change": "-1"
+    },
+    {
       "rank": 6,
-      "name": "Westside Gunn",
-      "plays": 26,
-      "last_week_plays": 39,
-      "change": "-5"
+      "name": "J. Cole",
+      "plays": 27,
+      "last_week_plays": 11,
+      "change": "+7"
     },
     {
       "rank": 7,
-      "name": "J. Cole",
-      "plays": 24,
-      "last_week_plays": 11,
-      "change": "+4"
+      "name": "Westside Gunn",
+      "plays": 26,
+      "last_week_plays": 39,
+      "change": "-6"
     },
     {
       "rank": 8,
       "name": "Migos",
       "plays": 20,
       "last_week_plays": 4,
-      "change": "+26"
+      "change": "+28"
     },
     {
       "rank": 9,
       "name": "21 Savage",
       "plays": 20,
       "last_week_plays": 11,
-      "change": "+1"
+      "change": "+3"
     },
     {
       "rank": 10,
-      "name": "Quality Control",
-      "plays": 19,
-      "last_week_plays": 6,
-      "change": "+14"
+      "name": "Conway the Machine",
+      "plays": 17,
+      "last_week_plays": 18,
+      "change": "-7"
     }
   ],
   "top_tracks": [
@@ -150,60 +150,60 @@
       "name": "Back On - Quality Control",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+12"
+      "change": "+13"
     },
     {
       "rank": 3,
-      "name": "Rocket Ship - Future",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
-      "name": "I Suppose - Quality Control",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "Real Flex - Babyfxce E",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Ridin Strikers - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+170"
+      "change": "+172"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Jane - Migos",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "STREET SWEEPER (feat. Future) - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "8am in Charlotte - Drake",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "Menace - Migos",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+119"
+    },
+    {
+      "rank": 10,
+      "name": "Slam the Door - Young Stoner Life",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -229,10 +229,6 @@
         "plays": 5
       },
       {
-        "name": "Quavo",
-        "plays": 4
-      },
-      {
         "name": "G Herbo",
         "plays": 4
       },
@@ -245,15 +241,19 @@
         "plays": 4
       },
       {
-        "name": "Rylo Rodriguez",
+        "name": "6LACK",
         "plays": 3
       },
       {
-        "name": "6LACK",
+        "name": "A$AP Rocky",
+        "plays": 3
+      },
+      {
+        "name": "Lil Double 0",
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 88,
+    "plays_of_new_tracks_pct": 86,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -264,14 +264,6 @@
     {
       "track": "Back On - Quality Control",
       "plays": 4
-    },
-    {
-      "track": "Rocket Ship - Future",
-      "plays": 3
-    },
-    {
-      "track": "I Suppose - Quality Control",
-      "plays": 3
     },
     {
       "track": "Real Flex - Babyfxce E",
@@ -296,12 +288,20 @@
     {
       "track": "8am in Charlotte - Drake",
       "plays": 3
+    },
+    {
+      "track": "Menace - Migos",
+      "plays": 3
+    },
+    {
+      "track": "Slam the Door - Young Stoner Life",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 9,
-    "Morning (5am-12pm)": 43,
-    "Afternoon (12pm-5pm)": 219,
+    "Morning (5am-12pm)": 37,
+    "Afternoon (12pm-5pm)": 224,
     "Evening (5pm-9pm)": 207,
     "Night (9pm-12am)": 56
   },
@@ -309,7 +309,7 @@
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 68,
+    "Thu": 67,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -318,38 +318,38 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 10
+      "days": 11
     },
     {
       "artist": "The Alchemist",
-      "days": 10
+      "days": 11
     },
     {
       "artist": "Conway the Machine",
-      "days": 4
+      "days": 5
     },
     {
       "artist": "Kanye West",
       "days": 4
     },
     {
-      "artist": "Westside Gunn",
-      "days": 3
+      "artist": "Future",
+      "days": 4
     }
   ],
   "release_eras": {
     "1990s": 16,
-    "2000s": 31,
-    "2010s": 170,
-    "2020s": 317
+    "2000s": 33,
+    "2010s": 164,
+    "2020s": 320
   },
   "listening_style": {
     "played_from": {
-      "other": 339,
+      "other": 343,
       "playlist": 173,
-      "album": 22
+      "album": 17
     },
-    "full_album_sessions": 3
+    "full_album_sessions": 1
   },
   "spotify_top_snapshot": {
     "short_term": {
