@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:13-05:00",
+  "generated_at": "2026-11-05T11:21-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 857,
   "this_week": {
-    "plays": 547,
-    "minutes": 1760,
-    "unique_tracks": 460,
-    "unique_artists": 228
+    "plays": 534,
+    "minutes": 1724,
+    "unique_tracks": 452,
+    "unique_artists": 227
   },
   "last_week": {
-    "plays": 294,
-    "minutes": 943
+    "plays": 307,
+    "minutes": 980
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,16 +69,16 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 44,
-      "last_week_plays": 10,
-      "change": "+11"
+      "plays": 43,
+      "last_week_plays": 11,
+      "change": "+8"
     },
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 37,
-      "last_week_plays": 7,
-      "change": "+18"
+      "plays": 35,
+      "last_week_plays": 9,
+      "change": "+15"
     },
     {
       "rank": 3,
@@ -104,8 +104,8 @@
     {
       "rank": 6,
       "name": "Westside Gunn",
-      "plays": 29,
-      "last_week_plays": 36,
+      "plays": 26,
+      "last_week_plays": 39,
       "change": "-5"
     },
     {
@@ -113,97 +113,97 @@
       "name": "J. Cole",
       "plays": 24,
       "last_week_plays": 11,
-      "change": "+3"
+      "change": "+4"
     },
     {
       "rank": 8,
-      "name": "Quality Control",
-      "plays": 20,
-      "last_week_plays": 5,
-      "change": "+19"
-    },
-    {
-      "rank": 9,
       "name": "Migos",
       "plays": 20,
       "last_week_plays": 4,
-      "change": "+23"
+      "change": "+26"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "21 Savage",
       "plays": 20,
       "last_week_plays": 11,
-      "change": "-1"
+      "change": "+1"
+    },
+    {
+      "rank": 10,
+      "name": "Quality Control",
+      "plays": 19,
+      "last_week_plays": 6,
+      "change": "+14"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Back On - Quality Control",
-      "plays": 5,
+      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 4,
       "last_week_plays": 1,
-      "change": "+126"
+      "change": "+290"
     },
     {
       "rank": 2,
-      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
-      "plays": 5,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "name": "Back On - Quality Control",
+      "plays": 4,
+      "last_week_plays": 2,
+      "change": "+12"
     },
     {
       "rank": 3,
-      "name": "p angels - Gunna",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "Rocket Ship - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "I Suppose - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Real Flex - Babyfxce E",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Ridin Strikers - Future",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+169"
+      "change": "+170"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Jane - Migos",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "STREET SWEEPER (feat. Future) - Gunna",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "8am in Charlotte - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -253,21 +253,17 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 89,
+    "plays_of_new_tracks_pct": 88,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
-      "track": "Back On - Quality Control",
-      "plays": 5
-    },
-    {
       "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
-      "plays": 5
+      "plays": 4
     },
     {
-      "track": "p angels - Gunna",
-      "plays": 3
+      "track": "Back On - Quality Control",
+      "plays": 4
     },
     {
       "track": "Rocket Ship - Future",
@@ -296,11 +292,15 @@
     {
       "track": "STREET SWEEPER (feat. Future) - Gunna",
       "plays": 3
+    },
+    {
+      "track": "8am in Charlotte - Drake",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 9,
-    "Morning (5am-12pm)": 56,
+    "Morning (5am-12pm)": 43,
     "Afternoon (12pm-5pm)": 219,
     "Evening (5pm-9pm)": 207,
     "Night (9pm-12am)": 56
@@ -309,7 +309,7 @@
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 81,
+    "Thu": 68,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 16,
     "2000s": 31,
-    "2010s": 174,
-    "2020s": 326
+    "2010s": 170,
+    "2020s": 317
   },
   "listening_style": {
     "played_from": {
-      "other": 352,
+      "other": 339,
       "playlist": 173,
       "album": 22
     },
