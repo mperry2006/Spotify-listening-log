@@ -1,9 +1,9 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 18:54 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 20:25 ET
 
-**590 plays** (+346 vs last week) · **1903 minutes** · 239 artists · 501 songs
+**591 plays** (+344 vs last week) · **1902 minutes** · 240 artists · 500 songs
 
-_Counting real listens only. 10 skips left out (2% skip rate)._
+_Counting real listens only. 15 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
@@ -50,8 +50,8 @@ New artists: Don Toliver (7), Lil Yachty (7), Babyfxce E (7), Tyler, The Creator
 - i n t e r l u d e - J. Cole - 3x
 
 ## Most skipped
+- Drive and Disconnect - Nao - skipped 6x
 - Flashing Lights - Kanye West - skipped 3x
-- Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff) - Metro Boomin - skipped 1x
 - Soundgasm - Rema - skipped 1x
 - Stronger - Kanye West - skipped 1x
 - t h e . c l i m b . b a c k - J. Cole - skipped 1x
@@ -61,12 +61,12 @@ New artists: Don Toliver (7), Lil Yachty (7), Babyfxce E (7), Tyler, The Creator
 Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 83
 Afternoon (12pm-5pm)   ████████████████████ 219
-Evening (5pm-9pm)      ███████████████████ 206
+Evening (5pm-9pm)      ███████████████████ 207
 Night (9pm-12am)       ██████ 68
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
-Wed                    █████████ 57
+Wed                    █████████ 58
 Thu                    █████████████████ 113
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Conway the Machine: 4 days in a row
 
 ## Eras
-1990s: 17, 2000s: 33, 2010s: 183, 2020s: 357
+1990s: 17, 2000s: 32, 2010s: 185, 2020s: 357
 
 ## How you listen
-Played from: other 399, playlist 169, album 22
+Played from: other 397, playlist 172, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 844 plays recorded total._
+_Log started 2026-10-26 · 854 plays recorded total._

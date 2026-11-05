@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-04T18:54-05:00",
+  "generated_at": "2026-11-04T20:25-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 844,
+  "total_plays_logged": 854,
   "this_week": {
-    "plays": 590,
-    "minutes": 1903,
-    "unique_tracks": 501,
-    "unique_artists": 239
+    "plays": 591,
+    "minutes": 1902,
+    "unique_tracks": 500,
+    "unique_artists": 240
   },
   "last_week": {
-    "plays": 244,
-    "minutes": 780
+    "plays": 247,
+    "minutes": 791
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 2,
-    "skipped_plays": 10,
+    "skipped_plays": 15,
     "most_skipped_tracks": [
+      {
+        "track": "Drive and Disconnect - Nao",
+        "skips": 6
+      },
       {
         "track": "Flashing Lights - Kanye West",
         "skips": 3
-      },
-      {
-        "track": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff) - Metro Boomin",
-        "skips": 1
       },
       {
         "track": "Soundgasm - Rema",
@@ -44,12 +44,12 @@
     ],
     "most_skipped_artists": [
       {
-        "artist": "Kanye West",
-        "skips": 5
+        "artist": "Nao",
+        "skips": 6
       },
       {
-        "artist": "Metro Boomin",
-        "skips": 1
+        "artist": "Kanye West",
+        "skips": 5
       },
       {
         "artist": "Rema",
@@ -302,13 +302,13 @@
     "Late night (12am-5am)": 14,
     "Morning (5am-12pm)": 83,
     "Afternoon (12pm-5pm)": 219,
-    "Evening (5pm-9pm)": 206,
+    "Evening (5pm-9pm)": 207,
     "Night (9pm-12am)": 68
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
-    "Wed": 57,
+    "Wed": 58,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1990s": 17,
-    "2000s": 33,
-    "2010s": 183,
+    "2000s": 32,
+    "2010s": 185,
     "2020s": 357
   },
   "listening_style": {
     "played_from": {
-      "other": 399,
-      "playlist": 169,
+      "other": 397,
+      "playlist": 172,
       "album": 22
     },
     "full_album_sessions": 3
@@ -357,13 +357,13 @@
         "Westside Gunn",
         "Gunna",
         "Future",
-        "Lil Durk",
         "J. Cole",
         "Drake",
+        "Lil Durk",
         "Lil Baby",
-        "Young Thug",
         "Migos",
-        "LUCKI"
+        "Young Thug",
+        "Freddie Gibbs"
       ]
     },
     "medium_term": {
