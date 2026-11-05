@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-05T16:59-05:00",
+  "generated_at": "2026-11-05T17:59-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 888,
+  "total_plays_logged": 890,
   "this_week": {
-    "plays": 517,
-    "minutes": 1672,
-    "unique_tracks": 438,
-    "unique_artists": 220
+    "plays": 512,
+    "minutes": 1660,
+    "unique_tracks": 436,
+    "unique_artists": 219
   },
   "last_week": {
-    "plays": 355,
-    "minutes": 1131
+    "plays": 362,
+    "minutes": 1151
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -92,7 +92,7 @@
       "name": "Lil Baby",
       "plays": 30,
       "last_week_plays": 15,
-      "change": "+5"
+      "change": "+6"
     },
     {
       "rank": 5,
@@ -104,53 +104,53 @@
     {
       "rank": 6,
       "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 14,
-      "change": "+5"
+      "plays": 24,
+      "last_week_plays": 15,
+      "change": "+2"
     },
     {
       "rank": 7,
       "name": "Westside Gunn",
-      "plays": 25,
-      "last_week_plays": 42,
+      "plays": 24,
+      "last_week_plays": 43,
       "change": "-6"
     },
     {
       "rank": 8,
-      "name": "Migos",
-      "plays": 18,
-      "last_week_plays": 6,
-      "change": "+19"
+      "name": "The Alchemist",
+      "plays": 19,
+      "last_week_plays": 30,
+      "change": "-6"
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 17,
-      "last_week_plays": 30,
-      "change": "-7"
+      "name": "Migos",
+      "plays": 18,
+      "last_week_plays": 6,
+      "change": "+18"
     },
     {
       "rank": 10,
-      "name": "21 Savage",
+      "name": "Freddie Gibbs",
       "plays": 17,
-      "last_week_plays": 14,
-      "change": "="
+      "last_week_plays": 13,
+      "change": "+3"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
-      "plays": 4,
-      "last_week_plays": 1,
-      "change": "+290"
-    },
-    {
-      "rank": 2,
       "name": "Back On - Quality Control",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+14"
+      "change": "+16"
+    },
+    {
+      "rank": 2,
+      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+256"
     },
     {
       "rank": 3,
@@ -164,7 +164,7 @@
       "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+174"
+      "change": "+176"
     },
     {
       "rank": 5,
@@ -192,7 +192,7 @@
       "name": "Menace - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+121"
+      "change": "+124"
     },
     {
       "rank": 9,
@@ -203,19 +203,15 @@
     },
     {
       "rank": 10,
-      "name": "Wine & Dine - YoungBoy Never Broke Again",
+      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 2,
+      "change": "+11"
     }
   ],
   "dropped_off": [],
   "discovery": {
     "new_artists": [
-      {
-        "name": "Tyler, The Creator",
-        "plays": 5
-      },
       {
         "name": "50 Cent",
         "plays": 5
@@ -251,19 +247,23 @@
       {
         "name": "Nao",
         "plays": 3
+      },
+      {
+        "name": "Rich The Kid",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 85,
+    "plays_of_new_tracks_pct": 86,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
-      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "track": "Back On - Quality Control",
       "plays": 4
     },
     {
-      "track": "Back On - Quality Control",
-      "plays": 4
+      "track": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
+      "plays": 3
     },
     {
       "track": "Ridin Strikers - Future",
@@ -294,7 +294,7 @@
       "plays": 3
     },
     {
-      "track": "Wine & Dine - YoungBoy Never Broke Again",
+      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 3
     }
   ],
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 9,
     "Morning (5am-12pm)": 37,
     "Afternoon (12pm-5pm)": 208,
-    "Evening (5pm-9pm)": 207,
+    "Evening (5pm-9pm)": 202,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 51,
+    "Thu": 46,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 16,
     "2000s": 30,
-    "2010s": 154,
-    "2020s": 317
+    "2010s": 152,
+    "2020s": 314
   },
   "listening_style": {
     "played_from": {
-      "other": 330,
+      "other": 325,
       "playlist": 173,
       "album": 14
     },

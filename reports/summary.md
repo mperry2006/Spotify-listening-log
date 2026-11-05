@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 16:59 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 17:59 ET
 
-**517 plays** (+162 vs last week) · **1672 minutes** · 220 artists · 438 songs
+**512 plays** (+150 vs last week) · **1660 minutes** · 219 artists · 436 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
@@ -11,35 +11,35 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 | 1 | Gunna | 42 | +11 |
 | 2 | Drake | 34 | +5 |
 | 3 | Future | 31 | +1 |
-| 4 | Lil Baby | 30 | +5 |
+| 4 | Lil Baby | 30 | +6 |
 | 5 | Young Thug | 30 | = |
-| 6 | J. Cole | 25 | +5 |
-| 7 | Westside Gunn | 25 | -6 |
-| 8 | Migos | 18 | +19 |
-| 9 | The Alchemist | 17 | -7 |
-| 10 | 21 Savage | 17 | = |
+| 6 | J. Cole | 24 | +2 |
+| 7 | Westside Gunn | 24 | -6 |
+| 8 | The Alchemist | 19 | -6 |
+| 9 | Migos | 18 | +18 |
+| 10 | Freddie Gibbs | 17 | +3 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 4 | +290 |
-| 2 | Back On - Quality Control | 4 | +14 |
+| 1 | Back On - Quality Control | 4 | +16 |
+| 2 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 3 | +256 |
 | 3 | Ridin Strikers - Future | 3 | NEW |
-| 4 | i n t e r l u d e - J. Cole | 3 | +174 |
+| 4 | i n t e r l u d e - J. Cole | 3 | +176 |
 | 5 | Jane - Migos | 3 | NEW |
 | 6 | STREET SWEEPER (feat. Future) - Gunna | 3 | NEW |
 | 7 | 8am in Charlotte - Drake | 3 | NEW |
-| 8 | Menace - Migos | 3 | +121 |
+| 8 | Menace - Migos | 3 | +124 |
 | 9 | Slam the Door - Young Stoner Life | 3 | NEW |
-| 10 | Wine & Dine - YoungBoy Never Broke Again | 3 | NEW |
+| 10 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 3 | +11 |
 
 ## Discovery
-85% of plays were songs not in your log before this week.
-New artists: Tyler, The Creator (5), 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3), Baby Keem (3), Nao (3)
+86% of plays were songs not in your log before this week.
+New artists: 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3), Baby Keem (3), Nao (3), Rich The Kid (2)
 
 ## On repeat (3+ plays)
-- Ugly (feat. Gucci Mane) - Pooh Shiesty - 4x
 - Back On - Quality Control - 4x
+- Ensalada (feat. Anderson .Paak) - Freddie Gibbs - 3x
 - Ridin Strikers - Future - 3x
 - i n t e r l u d e - J. Cole - 3x
 - Jane - Migos - 3x
@@ -47,7 +47,7 @@ New artists: Tyler, The Creator (5), 50 Cent (5), Cash Cobain (4), 6LACK (3), A$
 - 8am in Charlotte - Drake - 3x
 - Menace - Migos - 3x
 - Slam the Door - Young Stoner Life - 3x
-- Wine & Dine - YoungBoy Never Broke Again - 3x
+- Ugly (feat. Gucci Mane) - Pooh Shiesty - 3x
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
@@ -61,13 +61,13 @@ New artists: Tyler, The Creator (5), 50 Cent (5), Cash Cobain (4), 6LACK (3), A$
 Late night (12am-5am)  █ 9
 Morning (5am-12pm)     ████ 37
 Afternoon (12pm-5pm)   ████████████████████ 208
-Evening (5pm-9pm)      ████████████████████ 207
+Evening (5pm-9pm)      ███████████████████ 202
 Night (9pm-12am)       █████ 56
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    ████████ 51
+Thu                    ███████ 46
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Kanye West: 4 days in a row
 
 ## Eras
-1990s: 16, 2000s: 30, 2010s: 154, 2020s: 317
+1990s: 16, 2000s: 30, 2010s: 152, 2020s: 314
 
 ## How you listen
-Played from: other 330, playlist 173, album 14
+Played from: other 325, playlist 173, album 14
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 888 plays recorded total._
+_Log started 2026-10-26 · 890 plays recorded total._
