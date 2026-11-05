@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:28-05:00",
+  "generated_at": "2026-11-05T10:13-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 857,
   "this_week": {
-    "plays": 569,
-    "minutes": 1831,
-    "unique_tracks": 482,
-    "unique_artists": 237
+    "plays": 547,
+    "minutes": 1760,
+    "unique_tracks": 460,
+    "unique_artists": 228
   },
   "last_week": {
-    "plays": 272,
-    "minutes": 873
+    "plays": 294,
+    "minutes": 943
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -71,70 +71,70 @@
       "name": "Gunna",
       "plays": 44,
       "last_week_plays": 10,
-      "change": "+9"
+      "change": "+11"
     },
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 38,
-      "last_week_plays": 6,
+      "plays": 37,
+      "last_week_plays": 7,
       "change": "+18"
     },
     {
       "rank": 3,
-      "name": "Westside Gunn",
-      "plays": 34,
-      "last_week_plays": 31,
-      "change": "-2"
-    },
-    {
-      "rank": 4,
-      "name": "Drake",
-      "plays": 31,
-      "last_week_plays": 13,
+      "name": "Future",
+      "plays": 30,
+      "last_week_plays": 15,
       "change": "+2"
     },
     {
-      "rank": 5,
-      "name": "Future",
+      "rank": 4,
+      "name": "Young Thug",
       "plays": 30,
       "last_week_plays": 15,
       "change": "="
     },
     {
-      "rank": 6,
-      "name": "Young Thug",
+      "rank": 5,
+      "name": "Drake",
       "plays": 30,
-      "last_week_plays": 15,
-      "change": "-3"
+      "last_week_plays": 14,
+      "change": "+1"
+    },
+    {
+      "rank": 6,
+      "name": "Westside Gunn",
+      "plays": 29,
+      "last_week_plays": 36,
+      "change": "-5"
     },
     {
       "rank": 7,
       "name": "J. Cole",
       "plays": 24,
       "last_week_plays": 11,
-      "change": "+1"
+      "change": "+3"
     },
     {
       "rank": 8,
-      "name": "The Alchemist",
-      "plays": 21,
-      "last_week_plays": 24,
-      "change": "-6"
-    },
-    {
-      "rank": 9,
       "name": "Quality Control",
       "plays": 20,
       "last_week_plays": 5,
-      "change": "+15"
+      "change": "+19"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Migos",
       "plays": 20,
       "last_week_plays": 4,
-      "change": "+21"
+      "change": "+23"
+    },
+    {
+      "rank": 10,
+      "name": "21 Savage",
+      "plays": 20,
+      "last_week_plays": 11,
+      "change": "-1"
     }
   ],
   "top_tracks": [
@@ -245,11 +245,11 @@
         "plays": 4
       },
       {
-        "name": "Daringer",
+        "name": "Rylo Rodriguez",
         "plays": 3
       },
       {
-        "name": "Rylo Rodriguez",
+        "name": "6LACK",
         "plays": 3
       }
     ],
@@ -300,7 +300,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 9,
-    "Morning (5am-12pm)": 78,
+    "Morning (5am-12pm)": 56,
     "Afternoon (12pm-5pm)": 219,
     "Evening (5pm-9pm)": 207,
     "Night (9pm-12am)": 56
@@ -309,7 +309,7 @@
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 103,
+    "Thu": 81,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -338,14 +338,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 17,
+    "1990s": 16,
     "2000s": 31,
-    "2010s": 178,
-    "2020s": 343
+    "2010s": 174,
+    "2020s": 326
   },
   "listening_style": {
     "played_from": {
-      "other": 374,
+      "other": 352,
       "playlist": 173,
       "album": 22
     },

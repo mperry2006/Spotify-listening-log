@@ -1,23 +1,23 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 08:28 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 10:13 ET
 
-**569 plays** (+297 vs last week) · **1831 minutes** · 237 artists · 482 songs
+**547 plays** (+253 vs last week) · **1760 minutes** · 228 artists · 460 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 44 | +9 |
-| 2 | Lil Baby | 38 | +18 |
-| 3 | Westside Gunn | 34 | -2 |
-| 4 | Drake | 31 | +2 |
-| 5 | Future | 30 | = |
-| 6 | Young Thug | 30 | -3 |
-| 7 | J. Cole | 24 | +1 |
-| 8 | The Alchemist | 21 | -6 |
-| 9 | Quality Control | 20 | +15 |
-| 10 | Migos | 20 | +21 |
+| 1 | Gunna | 44 | +11 |
+| 2 | Lil Baby | 37 | +18 |
+| 3 | Future | 30 | +2 |
+| 4 | Young Thug | 30 | = |
+| 5 | Drake | 30 | +1 |
+| 6 | Westside Gunn | 29 | -5 |
+| 7 | J. Cole | 24 | +3 |
+| 8 | Quality Control | 20 | +19 |
+| 9 | Migos | 20 | +23 |
+| 10 | 21 Savage | 20 | -1 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Discovery
 89% of plays were songs not in your log before this week.
-New artists: Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5), Quavo (4), G Herbo (4), Nas (4), Cash Cobain (4), Daringer (3), Rylo Rodriguez (3)
+New artists: Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5), Quavo (4), G Herbo (4), Nas (4), Cash Cobain (4), Rylo Rodriguez (3), 6LACK (3)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 5x
@@ -59,7 +59,7 @@ New artists: Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5)
 ## When you listen
 ```
 Late night (12am-5am)  █ 9
-Morning (5am-12pm)     ███████ 78
+Morning (5am-12pm)     █████ 56
 Afternoon (12pm-5pm)   ████████████████████ 219
 Evening (5pm-9pm)      ███████████████████ 207
 Night (9pm-12am)       █████ 56
@@ -67,7 +67,7 @@ Night (9pm-12am)       █████ 56
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    ████████████████ 103
+Thu                    ████████████ 81
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Westside Gunn: 3 days in a row
 
 ## Eras
-1990s: 17, 2000s: 31, 2010s: 178, 2020s: 343
+1990s: 16, 2000s: 31, 2010s: 174, 2020s: 326
 
 ## How you listen
-Played from: other 374, playlist 173, album 22
+Played from: other 352, playlist 173, album 22
 Full-album sessions (4+ tracks in a row): 3
 
 _Log started 2026-10-26 · 857 plays recorded total._
