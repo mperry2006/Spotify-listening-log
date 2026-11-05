@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-05T15:06-05:00",
+  "generated_at": "2026-11-05T16:03-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 879,
+  "total_plays_logged": 887,
   "this_week": {
-    "plays": 510,
-    "minutes": 1651,
-    "unique_tracks": 433,
-    "unique_artists": 219
+    "plays": 516,
+    "minutes": 1669,
+    "unique_tracks": 438,
+    "unique_artists": 220
   },
   "last_week": {
-    "plays": 353,
-    "minutes": 1122
+    "plays": 355,
+    "minutes": 1131
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,30 +76,30 @@
     {
       "rank": 2,
       "name": "Drake",
-      "plays": 32,
+      "plays": 34,
       "last_week_plays": 15,
       "change": "+5"
     },
     {
       "rank": 3,
-      "name": "Young Thug",
-      "plays": 30,
-      "last_week_plays": 16,
-      "change": "+2"
+      "name": "Future",
+      "plays": 31,
+      "last_week_plays": 17,
+      "change": "+1"
     },
     {
       "rank": 4,
-      "name": "Future",
-      "plays": 29,
-      "last_week_plays": 17,
-      "change": "="
+      "name": "Lil Baby",
+      "plays": 30,
+      "last_week_plays": 15,
+      "change": "+5"
     },
     {
       "rank": 5,
-      "name": "Lil Baby",
-      "plays": 29,
-      "last_week_plays": 15,
-      "change": "+4"
+      "name": "Young Thug",
+      "plays": 30,
+      "last_week_plays": 16,
+      "change": "="
     },
     {
       "rank": 6,
@@ -150,7 +150,7 @@
       "name": "Back On - Quality Control",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+13"
+      "change": "+14"
     },
     {
       "rank": 3,
@@ -245,12 +245,12 @@
         "plays": 3
       },
       {
-        "name": "Nao",
+        "name": "Baby Keem",
         "plays": 3
       },
       {
-        "name": "Rich The Kid",
-        "plays": 2
+        "name": "Nao",
+        "plays": 3
       }
     ],
     "plays_of_new_tracks_pct": 85,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 9,
     "Morning (5am-12pm)": 37,
-    "Afternoon (12pm-5pm)": 201,
+    "Afternoon (12pm-5pm)": 207,
     "Evening (5pm-9pm)": 207,
     "Night (9pm-12am)": 56
   },
@@ -309,7 +309,7 @@
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 44,
+    "Thu": 50,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 16,
     "2000s": 30,
-    "2010s": 151,
-    "2020s": 313
+    "2010s": 153,
+    "2020s": 317
   },
   "listening_style": {
     "played_from": {
-      "other": 323,
+      "other": 329,
       "playlist": 173,
       "album": 14
     },
