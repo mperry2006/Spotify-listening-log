@@ -1,46 +1,45 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 12:59 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 14:13 ET
 
-**533 plays** (+213 vs last week) · **1728 minutes** · 228 artists · 454 songs
+**524 plays** (+186 vs last week) · **1696 minutes** · 227 artists · 445 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 43 | +8 |
-| 2 | Lil Baby | 32 | +9 |
-| 3 | Drake | 31 | +3 |
-| 4 | Future | 30 | +1 |
-| 5 | Young Thug | 30 | -1 |
-| 6 | J. Cole | 27 | +7 |
-| 7 | Westside Gunn | 26 | -6 |
-| 8 | Migos | 20 | +28 |
-| 9 | 21 Savage | 20 | +3 |
-| 10 | Conway the Machine | 17 | -7 |
+| 1 | Gunna | 42 | +10 |
+| 2 | Drake | 32 | +5 |
+| 3 | Lil Baby | 30 | +7 |
+| 4 | Young Thug | 30 | +1 |
+| 5 | Future | 29 | -1 |
+| 6 | Westside Gunn | 25 | -5 |
+| 7 | J. Cole | 25 | +2 |
+| 8 | 21 Savage | 19 | +5 |
+| 9 | Migos | 18 | +17 |
+| 10 | The Alchemist | 17 | -8 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 4 | +290 |
 | 2 | Back On - Quality Control | 4 | +13 |
-| 3 | Real Flex - Babyfxce E | 3 | NEW |
-| 4 | Ridin Strikers - Future | 3 | NEW |
-| 5 | i n t e r l u d e - J. Cole | 3 | +172 |
-| 6 | Jane - Migos | 3 | NEW |
-| 7 | STREET SWEEPER (feat. Future) - Gunna | 3 | NEW |
-| 8 | 8am in Charlotte - Drake | 3 | NEW |
-| 9 | Menace - Migos | 3 | +119 |
-| 10 | Slam the Door - Young Stoner Life | 3 | NEW |
+| 3 | Ridin Strikers - Future | 3 | NEW |
+| 4 | i n t e r l u d e - J. Cole | 3 | +174 |
+| 5 | Jane - Migos | 3 | NEW |
+| 6 | STREET SWEEPER (feat. Future) - Gunna | 3 | NEW |
+| 7 | 8am in Charlotte - Drake | 3 | NEW |
+| 8 | Menace - Migos | 3 | +121 |
+| 9 | Slam the Door - Young Stoner Life | 3 | NEW |
+| 10 | Wine & Dine - YoungBoy Never Broke Again | 3 | NEW |
 
 ## Discovery
 86% of plays were songs not in your log before this week.
-New artists: Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5), G Herbo (4), Nas (4), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double 0 (3)
+New artists: Tyler, The Creator (5), 50 Cent (5), G Herbo (4), Nas (4), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3)
 
 ## On repeat (3+ plays)
 - Ugly (feat. Gucci Mane) - Pooh Shiesty - 4x
 - Back On - Quality Control - 4x
-- Real Flex - Babyfxce E - 3x
 - Ridin Strikers - Future - 3x
 - i n t e r l u d e - J. Cole - 3x
 - Jane - Migos - 3x
@@ -48,6 +47,7 @@ New artists: Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5)
 - 8am in Charlotte - Drake - 3x
 - Menace - Migos - 3x
 - Slam the Door - Young Stoner Life - 3x
+- Wine & Dine - YoungBoy Never Broke Again - 3x
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
@@ -60,14 +60,14 @@ New artists: Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5)
 ```
 Late night (12am-5am)  █ 9
 Morning (5am-12pm)     ███ 37
-Afternoon (12pm-5pm)   ████████████████████ 224
-Evening (5pm-9pm)      ██████████████████ 207
+Afternoon (12pm-5pm)   ████████████████████ 215
+Evening (5pm-9pm)      ███████████████████ 207
 Night (9pm-12am)       █████ 56
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    ██████████ 67
+Thu                    █████████ 58
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -77,14 +77,14 @@ Sun                    ██████ 38
 - Drake: 11 days in a row
 - The Alchemist: 11 days in a row
 - Conway the Machine: 5 days in a row
+- Westside Gunn: 4 days in a row
 - Kanye West: 4 days in a row
-- Future: 4 days in a row
 
 ## Eras
-1990s: 16, 2000s: 33, 2010s: 164, 2020s: 320
+1990s: 16, 2000s: 32, 2010s: 160, 2020s: 316
 
 ## How you listen
-Played from: other 343, playlist 173, album 17
+Played from: other 337, playlist 173, album 14
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 869 plays recorded total._
+_Log started 2026-10-26 · 878 plays recorded total._
