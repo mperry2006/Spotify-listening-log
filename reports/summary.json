@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-05T17:59-05:00",
+  "generated_at": "2026-11-05T18:55-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 890,
+  "total_plays_logged": 895,
   "this_week": {
-    "plays": 512,
-    "minutes": 1660,
-    "unique_tracks": 436,
-    "unique_artists": 219
+    "plays": 516,
+    "minutes": 1673,
+    "unique_tracks": 440,
+    "unique_artists": 220
   },
   "last_week": {
-    "plays": 362,
-    "minutes": 1151
+    "plays": 363,
+    "minutes": 1155
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,9 +76,9 @@
     {
       "rank": 2,
       "name": "Drake",
-      "plays": 34,
-      "last_week_plays": 15,
-      "change": "+5"
+      "plays": 33,
+      "last_week_plays": 16,
+      "change": "+3"
     },
     {
       "rank": 3,
@@ -99,12 +99,12 @@
       "name": "Young Thug",
       "plays": 30,
       "last_week_plays": 16,
-      "change": "="
+      "change": "+1"
     },
     {
       "rank": 6,
       "name": "J. Cole",
-      "plays": 24,
+      "plays": 25,
       "last_week_plays": 15,
       "change": "+2"
     },
@@ -118,23 +118,23 @@
     {
       "rank": 8,
       "name": "The Alchemist",
-      "plays": 19,
+      "plays": 20,
       "last_week_plays": 30,
       "change": "-6"
     },
     {
       "rank": 9,
-      "name": "Migos",
+      "name": "Freddie Gibbs",
       "plays": 18,
-      "last_week_plays": 6,
-      "change": "+18"
+      "last_week_plays": 13,
+      "change": "+4"
     },
     {
       "rank": 10,
-      "name": "Freddie Gibbs",
-      "plays": 17,
-      "last_week_plays": 13,
-      "change": "+3"
+      "name": "Migos",
+      "plays": 18,
+      "last_week_plays": 6,
+      "change": "+17"
     }
   ],
   "top_tracks": [
@@ -229,6 +229,10 @@
         "plays": 3
       },
       {
+        "name": "JID",
+        "plays": 3
+      },
+      {
         "name": "Lil Double 0",
         "plays": 3
       },
@@ -247,10 +251,6 @@
       {
         "name": "Nao",
         "plays": 3
-      },
-      {
-        "name": "Rich The Kid",
-        "plays": 2
       }
     ],
     "plays_of_new_tracks_pct": 86,
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 9,
     "Morning (5am-12pm)": 37,
     "Afternoon (12pm-5pm)": 208,
-    "Evening (5pm-9pm)": 202,
+    "Evening (5pm-9pm)": 206,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 46,
+    "Thu": 50,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -341,11 +341,11 @@
     "1990s": 16,
     "2000s": 30,
     "2010s": 152,
-    "2020s": 314
+    "2020s": 318
   },
   "listening_style": {
     "played_from": {
-      "other": 325,
+      "other": 329,
       "playlist": 173,
       "album": 14
     },

@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 17:59 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 18:55 ET
 
-**512 plays** (+150 vs last week) · **1660 minutes** · 219 artists · 436 songs
+**516 plays** (+153 vs last week) · **1673 minutes** · 220 artists · 440 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 42 | +11 |
-| 2 | Drake | 34 | +5 |
+| 2 | Drake | 33 | +3 |
 | 3 | Future | 31 | +1 |
 | 4 | Lil Baby | 30 | +6 |
-| 5 | Young Thug | 30 | = |
-| 6 | J. Cole | 24 | +2 |
+| 5 | Young Thug | 30 | +1 |
+| 6 | J. Cole | 25 | +2 |
 | 7 | Westside Gunn | 24 | -6 |
-| 8 | The Alchemist | 19 | -6 |
-| 9 | Migos | 18 | +18 |
-| 10 | Freddie Gibbs | 17 | +3 |
+| 8 | The Alchemist | 20 | -6 |
+| 9 | Freddie Gibbs | 18 | +4 |
+| 10 | Migos | 18 | +17 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Discovery
 86% of plays were songs not in your log before this week.
-New artists: 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3), Baby Keem (3), Nao (3), Rich The Kid (2)
+New artists: 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), JID (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3), Baby Keem (3), Nao (3)
 
 ## On repeat (3+ plays)
 - Back On - Quality Control - 4x
@@ -61,13 +61,13 @@ New artists: 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), Lil Double
 Late night (12am-5am)  █ 9
 Morning (5am-12pm)     ████ 37
 Afternoon (12pm-5pm)   ████████████████████ 208
-Evening (5pm-9pm)      ███████████████████ 202
+Evening (5pm-9pm)      ████████████████████ 206
 Night (9pm-12am)       █████ 56
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    ███████ 46
+Thu                    ████████ 50
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Kanye West: 4 days in a row
 
 ## Eras
-1990s: 16, 2000s: 30, 2010s: 152, 2020s: 314
+1990s: 16, 2000s: 30, 2010s: 152, 2020s: 318
 
 ## How you listen
-Played from: other 325, playlist 173, album 14
+Played from: other 329, playlist 173, album 14
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 890 plays recorded total._
+_Log started 2026-10-26 · 895 plays recorded total._
