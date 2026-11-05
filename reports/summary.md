@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 01:18 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 03:27 ET
 
-**575 plays** (+309 vs last week) · **1852 minutes** · 241 artists · 487 songs
+**574 plays** (+307 vs last week) · **1848 minutes** · 238 artists · 486 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
@@ -58,7 +58,7 @@ New artists: Lil Yachty (7), Babyfxce E (7), Tyler, The Creator (5), 50 Cent (5)
 
 ## When you listen
 ```
-Late night (12am-5am)  █ 10
+Late night (12am-5am)  █ 9
 Morning (5am-12pm)     ████████ 83
 Afternoon (12pm-5pm)   ████████████████████ 219
 Evening (5pm-9pm)      ███████████████████ 207
@@ -67,7 +67,7 @@ Night (9pm-12am)       █████ 56
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    █████████████████ 109
+Thu                    █████████████████ 108
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Westside Gunn: 3 days in a row
 
 ## Eras
-1990s: 17, 2000s: 31, 2010s: 179, 2020s: 348
+1990s: 17, 2000s: 31, 2010s: 178, 2020s: 348
 
 ## How you listen
-Played from: other 380, playlist 173, album 22
+Played from: other 379, playlist 173, album 22
 Full-album sessions (4+ tracks in a row): 3
 
 _Log started 2026-10-26 · 857 plays recorded total._
