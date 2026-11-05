@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-28 to 2026-11-04** · updated 2026-11-04 20:25 ET
+**2026-10-28 to 2026-11-04** · updated 2026-11-04 22:04 ET
 
-**591 plays** (+344 vs last week) · **1902 minutes** · 240 artists · 500 songs
+**593 plays** (+346 vs last week) · **1909 minutes** · 242 artists · 502 songs
 
 _Counting real listens only. 15 skips left out (2% skip rate)._
 
@@ -9,7 +9,7 @@ _Counting real listens only. 15 skips left out (2% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 45 | +10 |
-| 2 | Lil Baby | 37 | +16 |
+| 2 | Lil Baby | 38 | +16 |
 | 3 | Westside Gunn | 35 | -2 |
 | 4 | Future | 32 | +2 |
 | 5 | Young Thug | 31 | -2 |
@@ -62,11 +62,11 @@ Late night (12am-5am)  █ 14
 Morning (5am-12pm)     ████████ 83
 Afternoon (12pm-5pm)   ████████████████████ 219
 Evening (5pm-9pm)      ███████████████████ 207
-Night (9pm-12am)       ██████ 68
+Night (9pm-12am)       ██████ 70
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
-Wed                    █████████ 58
+Wed                    █████████ 60
 Thu                    █████████████████ 113
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Conway the Machine: 4 days in a row
 
 ## Eras
-1990s: 17, 2000s: 32, 2010s: 185, 2020s: 357
+1990s: 17, 2000s: 32, 2010s: 187, 2020s: 357
 
 ## How you listen
-Played from: other 397, playlist 172, album 22
+Played from: other 398, playlist 173, album 22
 Full-album sessions (4+ tracks in a row): 3
 
-_Log started 2026-10-26 · 854 plays recorded total._
+_Log started 2026-10-26 · 856 plays recorded total._

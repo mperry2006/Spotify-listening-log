@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-04T20:25-05:00",
+  "generated_at": "2026-11-04T22:04-05:00",
   "window": {
     "start": "2026-10-28",
     "end": "2026-11-04"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 854,
+  "total_plays_logged": 856,
   "this_week": {
-    "plays": 591,
-    "minutes": 1902,
-    "unique_tracks": 500,
-    "unique_artists": 240
+    "plays": 593,
+    "minutes": 1909,
+    "unique_tracks": 502,
+    "unique_artists": 242
   },
   "last_week": {
     "plays": 247,
@@ -76,7 +76,7 @@
     {
       "rank": 2,
       "name": "Lil Baby",
-      "plays": 37,
+      "plays": 38,
       "last_week_plays": 6,
       "change": "+16"
     },
@@ -303,12 +303,12 @@
     "Morning (5am-12pm)": 83,
     "Afternoon (12pm-5pm)": 219,
     "Evening (5pm-9pm)": 207,
-    "Night (9pm-12am)": 68
+    "Night (9pm-12am)": 70
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
-    "Wed": 58,
+    "Wed": 60,
     "Thu": 113,
     "Fri": 130,
     "Sat": 107,
@@ -340,13 +340,13 @@
   "release_eras": {
     "1990s": 17,
     "2000s": 32,
-    "2010s": 185,
+    "2010s": 187,
     "2020s": 357
   },
   "listening_style": {
     "played_from": {
-      "other": 397,
-      "playlist": 172,
+      "other": 398,
+      "playlist": 173,
       "album": 22
     },
     "full_album_sessions": 3
