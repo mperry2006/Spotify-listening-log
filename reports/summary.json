@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:00-05:00",
+  "generated_at": "2026-11-06T15:59-05:00",
   "window": {
     "start": "2026-10-30",
     "end": "2026-11-06"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 937,
   "this_week": {
-    "plays": 507,
-    "minutes": 1667,
-    "unique_tracks": 433,
-    "unique_artists": 223
+    "plays": 498,
+    "minutes": 1636,
+    "unique_tracks": 425,
+    "unique_artists": 219
   },
   "last_week": {
-    "plays": 414,
-    "minutes": 1308
+    "plays": 423,
+    "minutes": 1339
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,22 +69,22 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 41,
-      "last_week_plays": 20,
+      "plays": 40,
+      "last_week_plays": 21,
       "change": "+4"
     },
     {
       "rank": 2,
       "name": "Drake",
-      "plays": 37,
-      "last_week_plays": 16,
-      "change": "+9"
+      "plays": 36,
+      "last_week_plays": 17,
+      "change": "+8"
     },
     {
       "rank": 3,
       "name": "Young Thug",
-      "plays": 30,
-      "last_week_plays": 17,
+      "plays": 29,
+      "last_week_plays": 18,
       "change": "+6"
     },
     {
@@ -92,7 +92,7 @@
       "name": "Lil Baby",
       "plays": 27,
       "last_week_plays": 19,
-      "change": "+3"
+      "change": "+4"
     },
     {
       "rank": 5,
@@ -104,8 +104,8 @@
     {
       "rank": 6,
       "name": "Westside Gunn",
-      "plays": 23,
-      "last_week_plays": 44,
+      "plays": 22,
+      "last_week_plays": 45,
       "change": "-5"
     },
     {
@@ -113,7 +113,7 @@
       "name": "Migos",
       "plays": 19,
       "last_week_plays": 8,
-      "change": "+16"
+      "change": "+17"
     },
     {
       "rank": 8,
@@ -131,10 +131,10 @@
     },
     {
       "rank": 10,
-      "name": "21 Savage",
+      "name": "Conway the Machine",
       "plays": 16,
-      "last_week_plays": 18,
-      "change": "-2"
+      "last_week_plays": 20,
+      "change": "-4"
     }
   ],
   "top_tracks": [
@@ -157,7 +157,7 @@
       "name": "Back On - Quality Control",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+17"
+      "change": "+18"
     },
     {
       "rank": 4,
@@ -185,7 +185,7 @@
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+21"
+      "change": "+22"
     },
     {
       "rank": 8,
@@ -233,14 +233,6 @@
         "plays": 4
       },
       {
-        "name": "A$AP Rocky",
-        "plays": 3
-      },
-      {
-        "name": "JID",
-        "plays": 3
-      },
-      {
         "name": "Lil Double 0",
         "plays": 3
       },
@@ -251,9 +243,17 @@
       {
         "name": "Baby Keem",
         "plays": 3
+      },
+      {
+        "name": "Nao",
+        "plays": 3
+      },
+      {
+        "name": "Lil Keed",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 85,
+    "plays_of_new_tracks_pct": 84,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 42,
-    "Afternoon (12pm-5pm)": 193,
+    "Afternoon (12pm-5pm)": 184,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 58
   },
@@ -310,11 +310,11 @@
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
-    "Fri": 114,
+    "Fri": 105,
     "Sat": 107,
     "Sun": 38
   },
-  "busiest_day": "Fri",
+  "busiest_day": "Sat",
   "streaks": [
     {
       "artist": "Drake",
@@ -341,12 +341,12 @@
     "1970s": 1,
     "1990s": 16,
     "2000s": 33,
-    "2010s": 154,
-    "2020s": 303
+    "2010s": 150,
+    "2020s": 298
   },
   "listening_style": {
     "played_from": {
-      "other": 313,
+      "other": 304,
       "playlist": 190,
       "album": 3,
       "artist": 1
