@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:54-05:00",
+  "generated_at": "2026-11-06T17:55-05:00",
   "window": {
     "start": "2026-10-30",
     "end": "2026-11-06"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 937,
   "this_week": {
-    "plays": 489,
-    "minutes": 1605,
-    "unique_tracks": 416,
-    "unique_artists": 215
+    "plays": 478,
+    "minutes": 1570,
+    "unique_tracks": 407,
+    "unique_artists": 212
   },
   "last_week": {
-    "plays": 432,
-    "minutes": 1370
+    "plays": 443,
+    "minutes": 1405
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,37 +69,37 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 40,
-      "last_week_plays": 21,
+      "plays": 38,
+      "last_week_plays": 23,
       "change": "+4"
     },
     {
       "rank": 2,
       "name": "Drake",
-      "plays": 35,
-      "last_week_plays": 18,
-      "change": "+7"
+      "plays": 34,
+      "last_week_plays": 19,
+      "change": "+6"
     },
     {
       "rank": 3,
       "name": "Young Thug",
-      "plays": 29,
-      "last_week_plays": 18,
+      "plays": 28,
+      "last_week_plays": 19,
       "change": "+7"
     },
     {
       "rank": 4,
-      "name": "Lil Baby",
-      "plays": 27,
-      "last_week_plays": 19,
-      "change": "+4"
-    },
-    {
-      "rank": 5,
       "name": "Future",
       "plays": 25,
       "last_week_plays": 25,
-      "change": "-1"
+      "change": "="
+    },
+    {
+      "rank": 5,
+      "name": "Lil Baby",
+      "plays": 25,
+      "last_week_plays": 21,
+      "change": "+1"
     },
     {
       "rank": 6,
@@ -110,17 +110,17 @@
     },
     {
       "rank": 7,
-      "name": "Migos",
-      "plays": 19,
-      "last_week_plays": 8,
-      "change": "+18"
-    },
-    {
-      "rank": 8,
       "name": "The Alchemist",
       "plays": 18,
       "last_week_plays": 32,
-      "change": "-6"
+      "change": "-5"
+    },
+    {
+      "rank": 8,
+      "name": "Migos",
+      "plays": 17,
+      "last_week_plays": 10,
+      "change": "+12"
     },
     {
       "rank": 9,
@@ -134,7 +134,7 @@
       "name": "Conway the Machine",
       "plays": 16,
       "last_week_plays": 20,
-      "change": "-4"
+      "change": "-3"
     }
   ],
   "top_tracks": [
@@ -147,59 +147,59 @@
     },
     {
       "rank": 2,
-      "name": "8am in Charlotte - Drake",
-      "plays": 4,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 3,
       "name": "Back On - Quality Control",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+18"
+      "change": "+19"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Menace - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+136"
+      "change": "+139"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Never Recover (Lil Baby & Gunna, Drake) - Lil Baby",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Slam the Door - Young Stoner Life",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+22"
+      "change": "+23"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "sakpase - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
+      "rank": 8,
+      "name": "8am in Charlotte - Drake",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+392"
+    },
+    {
       "rank": 9,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+214"
+      "change": "+216"
     },
     {
       "rank": 10,
@@ -249,21 +249,17 @@
         "plays": 3
       },
       {
-        "name": "Lil Keed",
+        "name": "Rob49",
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 84,
+    "plays_of_new_tracks_pct": 83,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
       "track": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 5
-    },
-    {
-      "track": "8am in Charlotte - Drake",
-      "plays": 4
     },
     {
       "track": "Back On - Quality Control",
@@ -290,6 +286,10 @@
       "plays": 3
     },
     {
+      "track": "8am in Charlotte - Drake",
+      "plays": 3
+    },
+    {
       "track": "Brand New Draco - 21 Savage",
       "plays": 3
     },
@@ -302,7 +302,7 @@
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 42,
     "Afternoon (12pm-5pm)": 175,
-    "Evening (5pm-9pm)": 211,
+    "Evening (5pm-9pm)": 200,
     "Night (9pm-12am)": 58
   },
   "day_of_week": {
@@ -310,7 +310,7 @@
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
-    "Fri": 96,
+    "Fri": 85,
     "Sat": 107,
     "Sun": 38
   },
@@ -341,13 +341,13 @@
     "1970s": 1,
     "1990s": 16,
     "2000s": 32,
-    "2010s": 147,
-    "2020s": 293
+    "2010s": 141,
+    "2020s": 288
   },
   "listening_style": {
     "played_from": {
-      "other": 295,
-      "playlist": 190,
+      "other": 291,
+      "playlist": 183,
       "album": 3,
       "artist": 1
     },

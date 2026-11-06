@@ -1,51 +1,51 @@
 # Listening Report
-**2026-10-30 to 2026-11-06** · updated 2026-11-06 16:54 ET
+**2026-10-30 to 2026-11-06** · updated 2026-11-06 17:55 ET
 
-**489 plays** (+57 vs last week) · **1605 minutes** · 215 artists · 416 songs
+**478 plays** (+35 vs last week) · **1570 minutes** · 212 artists · 407 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 40 | +4 |
-| 2 | Drake | 35 | +7 |
-| 3 | Young Thug | 29 | +7 |
-| 4 | Lil Baby | 27 | +4 |
-| 5 | Future | 25 | -1 |
+| 1 | Gunna | 38 | +4 |
+| 2 | Drake | 34 | +6 |
+| 3 | Young Thug | 28 | +7 |
+| 4 | Future | 25 | = |
+| 5 | Lil Baby | 25 | +1 |
 | 6 | Westside Gunn | 22 | -5 |
-| 7 | Migos | 19 | +18 |
-| 8 | The Alchemist | 18 | -6 |
+| 7 | The Alchemist | 18 | -5 |
+| 8 | Migos | 17 | +12 |
 | 9 | Freddie Gibbs | 17 | +4 |
-| 10 | Conway the Machine | 16 | -4 |
+| 10 | Conway the Machine | 16 | -3 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Wine & Dine - YoungBoy Never Broke Again | 5 | NEW |
-| 2 | 8am in Charlotte - Drake | 4 | NEW |
-| 3 | Back On - Quality Control | 4 | +18 |
-| 4 | Menace - Migos | 3 | +136 |
-| 5 | Never Recover (Lil Baby & Gunna, Drake) - Lil Baby | 3 | NEW |
-| 6 | Slam the Door - Young Stoner Life | 3 | NEW |
-| 7 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 3 | +22 |
-| 8 | sakpase - Gunna | 3 | NEW |
-| 9 | Brand New Draco - 21 Savage | 3 | +214 |
+| 2 | Back On - Quality Control | 4 | +19 |
+| 3 | Menace - Migos | 3 | +139 |
+| 4 | Never Recover (Lil Baby & Gunna, Drake) - Lil Baby | 3 | NEW |
+| 5 | Slam the Door - Young Stoner Life | 3 | NEW |
+| 6 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 3 | +23 |
+| 7 | sakpase - Gunna | 3 | NEW |
+| 8 | 8am in Charlotte - Drake | 3 | +392 |
+| 9 | Brand New Draco - 21 Savage | 3 | +216 |
 | 10 | Drive and Disconnect - Nao | 3 | NEW |
 
 ## Discovery
-84% of plays were songs not in your log before this week.
-New artists: PARTYNEXTDOOR (5), 50 Cent (5), Cash Cobain (4), NxWorries (4), Knxwledge (4), Lil Double 0 (3), Young Dolph (3), Baby Keem (3), Nao (3), Lil Keed (2)
+83% of plays were songs not in your log before this week.
+New artists: PARTYNEXTDOOR (5), 50 Cent (5), Cash Cobain (4), NxWorries (4), Knxwledge (4), Lil Double 0 (3), Young Dolph (3), Baby Keem (3), Nao (3), Rob49 (2)
 
 ## On repeat (3+ plays)
 - Wine & Dine - YoungBoy Never Broke Again - 5x
-- 8am in Charlotte - Drake - 4x
 - Back On - Quality Control - 4x
 - Menace - Migos - 3x
 - Never Recover (Lil Baby & Gunna, Drake) - Lil Baby - 3x
 - Slam the Door - Young Stoner Life - 3x
 - Ugly (feat. Gucci Mane) - Pooh Shiesty - 3x
 - sakpase - Gunna - 3x
+- 8am in Charlotte - Drake - 3x
 - Brand New Draco - 21 Savage - 3x
 - Drive and Disconnect - Nao - 3x
 
@@ -60,15 +60,15 @@ New artists: PARTYNEXTDOOR (5), 50 Cent (5), Cash Cobain (4), NxWorries (4), Knx
 ```
 Late night (12am-5am)   3
 Morning (5am-12pm)     ████ 42
-Afternoon (12pm-5pm)   █████████████████ 175
-Evening (5pm-9pm)      ████████████████████ 211
-Night (9pm-12am)       █████ 58
+Afternoon (12pm-5pm)   ██████████████████ 175
+Evening (5pm-9pm)      ████████████████████ 200
+Night (9pm-12am)       ██████ 58
 
 Mon                    ████████████ 65
 Tue                    ███████████████ 80
 Wed                    █████████ 46
 Thu                    ███████████ 57
-Fri                    ██████████████████ 96
+Fri                    ████████████████ 85
 Sat                    ████████████████████ 107
 Sun                    ███████ 38
 ```
@@ -81,10 +81,10 @@ Sun                    ███████ 38
 - Freddie Gibbs: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 32, 2010s: 147, 2020s: 293
+1970s: 1, 1990s: 16, 2000s: 32, 2010s: 141, 2020s: 288
 
 ## How you listen
-Played from: other 295, playlist 190, album 3, artist 1
+Played from: other 291, playlist 183, album 3, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 937 plays recorded total._
