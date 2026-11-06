@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-05T23:09-05:00",
+  "generated_at": "2026-11-06T00:14-05:00",
   "window": {
-    "start": "2026-10-29",
-    "end": "2026-11-05"
+    "start": "2026-10-30",
+    "end": "2026-11-06"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 908,
+  "total_plays_logged": 914,
   "this_week": {
-    "plays": 528,
-    "minutes": 1713,
-    "unique_tracks": 448,
+    "plays": 523,
+    "minutes": 1701,
+    "unique_tracks": 447,
     "unique_artists": 221
   },
   "last_week": {
-    "plays": 364,
-    "minutes": 1159
+    "plays": 375,
+    "minutes": 1192
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,43 +70,43 @@
       "rank": 1,
       "name": "Gunna",
       "plays": 45,
-      "last_week_plays": 13,
-      "change": "+11"
+      "last_week_plays": 15,
+      "change": "+8"
     },
     {
       "rank": 2,
       "name": "Drake",
-      "plays": 34,
+      "plays": 35,
       "last_week_plays": 16,
-      "change": "+3"
+      "change": "+5"
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 32,
-      "last_week_plays": 17,
-      "change": "+1"
+      "name": "Young Thug",
+      "plays": 31,
+      "last_week_plays": 16,
+      "change": "+5"
     },
     {
       "rank": 4,
       "name": "Lil Baby",
-      "plays": 30,
-      "last_week_plays": 15,
-      "change": "+6"
+      "plays": 29,
+      "last_week_plays": 17,
+      "change": "+1"
     },
     {
       "rank": 5,
-      "name": "Young Thug",
-      "plays": 30,
-      "last_week_plays": 16,
-      "change": "+1"
+      "name": "Future",
+      "plays": 27,
+      "last_week_plays": 22,
+      "change": "-2"
     },
     {
       "rank": 6,
       "name": "J. Cole",
       "plays": 25,
       "last_week_plays": 15,
-      "change": "+2"
+      "change": "+5"
     },
     {
       "rank": 7,
@@ -117,24 +117,24 @@
     },
     {
       "rank": 8,
-      "name": "The Alchemist",
-      "plays": 20,
-      "last_week_plays": 30,
-      "change": "-6"
+      "name": "Migos",
+      "plays": 19,
+      "last_week_plays": 6,
+      "change": "+20"
     },
     {
       "rank": 9,
-      "name": "Freddie Gibbs",
-      "plays": 18,
-      "last_week_plays": 13,
-      "change": "+4"
+      "name": "The Alchemist",
+      "plays": 19,
+      "last_week_plays": 31,
+      "change": "-7"
     },
     {
       "rank": 10,
-      "name": "Migos",
-      "plays": 18,
-      "last_week_plays": 6,
-      "change": "+17"
+      "name": "21 Savage",
+      "plays": 17,
+      "last_week_plays": 15,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -161,52 +161,52 @@
     },
     {
       "rank": 4,
-      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+254"
-    },
-    {
-      "rank": 5,
-      "name": "Ridin Strikers - Future",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
       "name": "i n t e r l u d e - J. Cole",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+174"
+      "change": "+180"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Jane - Migos",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "STREET SWEEPER (feat. Future) - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Menace - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+123"
+      "change": "+129"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "name": "Never Recover (Lil Baby & Gunna, Drake) - Lil Baby",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
       "name": "Slam the Door - Young Stoner Life",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 3,
+      "last_week_plays": 2,
+      "change": "+13"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 86,
+    "plays_of_new_tracks_pct": 85,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -268,14 +268,6 @@
     {
       "track": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4
-    },
-    {
-      "track": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
-      "plays": 3
-    },
-    {
-      "track": "Ridin Strikers - Future",
-      "plays": 3
     },
     {
       "track": "i n t e r l u d e - J. Cole",
@@ -294,7 +286,15 @@
       "plays": 3
     },
     {
+      "track": "Never Recover (Lil Baby & Gunna, Drake) - Lil Baby",
+      "plays": 3
+    },
+    {
       "track": "Slam the Door - Young Stoner Life",
+      "plays": 3
+    },
+    {
+      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 3
     }
   ],
@@ -303,13 +303,13 @@
     "Morning (5am-12pm)": 37,
     "Afternoon (12pm-5pm)": 208,
     "Evening (5pm-9pm)": 211,
-    "Night (9pm-12am)": 63
+    "Night (9pm-12am)": 58
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 62,
+    "Thu": 57,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -329,25 +329,25 @@
       "days": 5
     },
     {
-      "artist": "Westside Gunn",
-      "days": 4
+      "artist": "Kanye West",
+      "days": 5
     },
     {
-      "artist": "Kanye West",
+      "artist": "Westside Gunn",
       "days": 4
     }
   ],
   "release_eras": {
     "1970s": 1,
     "1990s": 17,
-    "2000s": 31,
+    "2000s": 32,
     "2010s": 155,
-    "2020s": 324
+    "2020s": 318
   },
   "listening_style": {
     "played_from": {
-      "other": 340,
-      "playlist": 173,
+      "other": 331,
+      "playlist": 177,
       "album": 14,
       "artist": 1
     },
