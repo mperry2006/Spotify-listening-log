@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 20:27 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 22:04 ET
 
-**520 plays** (+156 vs last week) · **1688 minutes** · 218 artists · 443 songs
+**521 plays** (+157 vs last week) · **1692 minutes** · 219 artists · 444 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
@@ -61,13 +61,13 @@ New artists: 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), JID (3), L
 Late night (12am-5am)  █ 9
 Morning (5am-12pm)     ████ 37
 Afternoon (12pm-5pm)   ████████████████████ 208
-Evening (5pm-9pm)      ████████████████████ 210
+Evening (5pm-9pm)      ████████████████████ 211
 Night (9pm-12am)       █████ 56
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    ████████ 54
+Thu                    ████████ 55
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Kanye West: 4 days in a row
 
 ## Eras
-1990s: 17, 2000s: 30, 2010s: 154, 2020s: 319
+1990s: 17, 2000s: 30, 2010s: 155, 2020s: 319
 
 ## How you listen
-Played from: other 333, playlist 173, album 14
+Played from: other 334, playlist 173, album 14
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 900 plays recorded total._
+_Log started 2026-10-26 · 901 plays recorded total._
