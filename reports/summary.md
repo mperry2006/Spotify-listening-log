@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-30 to 2026-11-06** · updated 2026-11-06 15:59 ET
+**2026-10-30 to 2026-11-06** · updated 2026-11-06 16:54 ET
 
-**498 plays** (+75 vs last week) · **1636 minutes** · 219 artists · 425 songs
+**489 plays** (+57 vs last week) · **1605 minutes** · 215 artists · 416 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
@@ -9,14 +9,14 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 40 | +4 |
-| 2 | Drake | 36 | +8 |
-| 3 | Young Thug | 29 | +6 |
+| 2 | Drake | 35 | +7 |
+| 3 | Young Thug | 29 | +7 |
 | 4 | Lil Baby | 27 | +4 |
 | 5 | Future | 25 | -1 |
 | 6 | Westside Gunn | 22 | -5 |
-| 7 | Migos | 19 | +17 |
-| 8 | Freddie Gibbs | 18 | +5 |
-| 9 | The Alchemist | 18 | -7 |
+| 7 | Migos | 19 | +18 |
+| 8 | The Alchemist | 18 | -6 |
+| 9 | Freddie Gibbs | 17 | +4 |
 | 10 | Conway the Machine | 16 | -4 |
 
 ## Top songs
@@ -60,7 +60,7 @@ New artists: PARTYNEXTDOOR (5), 50 Cent (5), Cash Cobain (4), NxWorries (4), Knx
 ```
 Late night (12am-5am)   3
 Morning (5am-12pm)     ████ 42
-Afternoon (12pm-5pm)   █████████████████ 184
+Afternoon (12pm-5pm)   █████████████████ 175
 Evening (5pm-9pm)      ████████████████████ 211
 Night (9pm-12am)       █████ 58
 
@@ -68,7 +68,7 @@ Mon                    ████████████ 65
 Tue                    ███████████████ 80
 Wed                    █████████ 46
 Thu                    ███████████ 57
-Fri                    ████████████████████ 105
+Fri                    ██████████████████ 96
 Sat                    ████████████████████ 107
 Sun                    ███████ 38
 ```
@@ -81,10 +81,10 @@ Sun                    ███████ 38
 - Freddie Gibbs: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 33, 2010s: 150, 2020s: 298
+1970s: 1, 1990s: 16, 2000s: 32, 2010s: 147, 2020s: 293
 
 ## How you listen
-Played from: other 304, playlist 190, album 3, artist 1
+Played from: other 295, playlist 190, album 3, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 937 plays recorded total._
