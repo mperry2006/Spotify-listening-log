@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-05T18:55-05:00",
+  "generated_at": "2026-11-05T20:27-05:00",
   "window": {
     "start": "2026-10-29",
     "end": "2026-11-05"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 895,
+  "total_plays_logged": 900,
   "this_week": {
-    "plays": 516,
-    "minutes": 1673,
-    "unique_tracks": 440,
-    "unique_artists": 220
+    "plays": 520,
+    "minutes": 1688,
+    "unique_tracks": 443,
+    "unique_artists": 218
   },
   "last_week": {
-    "plays": 363,
-    "minutes": 1155
+    "plays": 364,
+    "minutes": 1159
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -83,7 +83,7 @@
     {
       "rank": 3,
       "name": "Future",
-      "plays": 31,
+      "plays": 32,
       "last_week_plays": 17,
       "change": "+1"
     },
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 9,
     "Morning (5am-12pm)": 37,
     "Afternoon (12pm-5pm)": 208,
-    "Evening (5pm-9pm)": 206,
+    "Evening (5pm-9pm)": 210,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
-    "Thu": 50,
+    "Thu": 54,
     "Fri": 130,
     "Sat": 107,
     "Sun": 38
@@ -338,14 +338,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 16,
+    "1990s": 17,
     "2000s": 30,
-    "2010s": 152,
-    "2020s": 318
+    "2010s": 154,
+    "2020s": 319
   },
   "listening_style": {
     "played_from": {
-      "other": 329,
+      "other": 333,
       "playlist": 173,
       "album": 14
     },
@@ -356,10 +356,10 @@
       "artists": [
         "Westside Gunn",
         "Gunna",
-        "Future",
         "J. Cole",
         "Drake",
         "Lil Durk",
+        "Future",
         "Lil Baby",
         "Migos",
         "Young Thug",
