@@ -1,15 +1,15 @@
 # Listening Report
-**2026-10-29 to 2026-11-05** · updated 2026-11-05 22:04 ET
+**2026-10-29 to 2026-11-05** · updated 2026-11-05 23:09 ET
 
-**521 plays** (+157 vs last week) · **1692 minutes** · 219 artists · 444 songs
+**528 plays** (+164 vs last week) · **1713 minutes** · 221 artists · 448 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Gunna | 42 | +11 |
-| 2 | Drake | 33 | +3 |
+| 1 | Gunna | 45 | +11 |
+| 2 | Drake | 34 | +3 |
 | 3 | Future | 32 | +1 |
 | 4 | Lil Baby | 30 | +6 |
 | 5 | Young Thug | 30 | +1 |
@@ -22,32 +22,32 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Back On - Quality Control | 4 | +16 |
-| 2 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 3 | +256 |
-| 3 | Ridin Strikers - Future | 3 | NEW |
-| 4 | i n t e r l u d e - J. Cole | 3 | +176 |
-| 5 | Jane - Migos | 3 | NEW |
-| 6 | STREET SWEEPER (feat. Future) - Gunna | 3 | NEW |
-| 7 | 8am in Charlotte - Drake | 3 | NEW |
-| 8 | Menace - Migos | 3 | +124 |
-| 9 | Slam the Door - Young Stoner Life | 3 | NEW |
-| 10 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 3 | +11 |
+| 1 | 8am in Charlotte - Drake | 4 | NEW |
+| 2 | Back On - Quality Control | 4 | +15 |
+| 3 | Wine & Dine - YoungBoy Never Broke Again | 4 | NEW |
+| 4 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 3 | +254 |
+| 5 | Ridin Strikers - Future | 3 | NEW |
+| 6 | i n t e r l u d e - J. Cole | 3 | +174 |
+| 7 | Jane - Migos | 3 | NEW |
+| 8 | STREET SWEEPER (feat. Future) - Gunna | 3 | NEW |
+| 9 | Menace - Migos | 3 | +123 |
+| 10 | Slam the Door - Young Stoner Life | 3 | NEW |
 
 ## Discovery
 86% of plays were songs not in your log before this week.
 New artists: 50 Cent (5), Cash Cobain (4), 6LACK (3), A$AP Rocky (3), JID (3), Lil Double 0 (3), NxWorries (3), Knxwledge (3), Baby Keem (3), Nao (3)
 
 ## On repeat (3+ plays)
+- 8am in Charlotte - Drake - 4x
 - Back On - Quality Control - 4x
+- Wine & Dine - YoungBoy Never Broke Again - 4x
 - Ensalada (feat. Anderson .Paak) - Freddie Gibbs - 3x
 - Ridin Strikers - Future - 3x
 - i n t e r l u d e - J. Cole - 3x
 - Jane - Migos - 3x
 - STREET SWEEPER (feat. Future) - Gunna - 3x
-- 8am in Charlotte - Drake - 3x
 - Menace - Migos - 3x
 - Slam the Door - Young Stoner Life - 3x
-- Ugly (feat. Gucci Mane) - Pooh Shiesty - 3x
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
@@ -62,12 +62,12 @@ Late night (12am-5am)  █ 9
 Morning (5am-12pm)     ████ 37
 Afternoon (12pm-5pm)   ████████████████████ 208
 Evening (5pm-9pm)      ████████████████████ 211
-Night (9pm-12am)       █████ 56
+Night (9pm-12am)       ██████ 63
 
 Mon                    ██████████ 65
 Tue                    ████████████ 80
 Wed                    ███████ 46
-Thu                    ████████ 55
+Thu                    ██████████ 62
 Fri                    ████████████████████ 130
 Sat                    ████████████████ 107
 Sun                    ██████ 38
@@ -81,10 +81,10 @@ Sun                    ██████ 38
 - Kanye West: 4 days in a row
 
 ## Eras
-1990s: 17, 2000s: 30, 2010s: 155, 2020s: 319
+1970s: 1, 1990s: 17, 2000s: 31, 2010s: 155, 2020s: 324
 
 ## How you listen
-Played from: other 334, playlist 173, album 14
+Played from: other 340, playlist 173, album 14, artist 1
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 901 plays recorded total._
+_Log started 2026-10-26 · 908 plays recorded total._
