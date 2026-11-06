@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-30 to 2026-11-06** · updated 2026-11-06 17:55 ET
+**2026-10-30 to 2026-11-06** · updated 2026-11-06 18:50 ET
 
-**478 plays** (+35 vs last week) · **1570 minutes** · 212 artists · 407 songs
+**467 plays** (+13 vs last week) · **1539 minutes** · 210 artists · 397 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
@@ -9,33 +9,33 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Gunna | 38 | +4 |
-| 2 | Drake | 34 | +6 |
-| 3 | Young Thug | 28 | +7 |
-| 4 | Future | 25 | = |
-| 5 | Lil Baby | 25 | +1 |
+| 2 | Drake | 34 | +8 |
+| 3 | Young Thug | 27 | +5 |
+| 4 | Lil Baby | 24 | +2 |
+| 5 | Future | 22 | -1 |
 | 6 | Westside Gunn | 22 | -5 |
 | 7 | The Alchemist | 18 | -5 |
 | 8 | Migos | 17 | +12 |
 | 9 | Freddie Gibbs | 17 | +4 |
-| 10 | Conway the Machine | 16 | -3 |
+| 10 | Conway the Machine | 16 | -1 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Wine & Dine - YoungBoy Never Broke Again | 5 | NEW |
 | 2 | Back On - Quality Control | 4 | +19 |
-| 3 | Menace - Migos | 3 | +139 |
+| 3 | Menace - Migos | 3 | +140 |
 | 4 | Never Recover (Lil Baby & Gunna, Drake) - Lil Baby | 3 | NEW |
 | 5 | Slam the Door - Young Stoner Life | 3 | NEW |
 | 6 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 3 | +23 |
 | 7 | sakpase - Gunna | 3 | NEW |
 | 8 | 8am in Charlotte - Drake | 3 | +392 |
-| 9 | Brand New Draco - 21 Savage | 3 | +216 |
+| 9 | Brand New Draco - 21 Savage | 3 | +217 |
 | 10 | Drive and Disconnect - Nao | 3 | NEW |
 
 ## Discovery
-83% of plays were songs not in your log before this week.
-New artists: PARTYNEXTDOOR (5), 50 Cent (5), Cash Cobain (4), NxWorries (4), Knxwledge (4), Lil Double 0 (3), Young Dolph (3), Baby Keem (3), Nao (3), Rob49 (2)
+84% of plays were songs not in your log before this week.
+New artists: PARTYNEXTDOOR (5), 50 Cent (5), Cash Cobain (4), NxWorries (4), Knxwledge (4), Young Dolph (3), Baby Keem (3), Nao (3), Popcaan (2), Jhené Aiko (2)
 
 ## On repeat (3+ plays)
 - Wine & Dine - YoungBoy Never Broke Again - 5x
@@ -60,15 +60,15 @@ New artists: PARTYNEXTDOOR (5), 50 Cent (5), Cash Cobain (4), NxWorries (4), Knx
 ```
 Late night (12am-5am)   3
 Morning (5am-12pm)     ████ 42
-Afternoon (12pm-5pm)   ██████████████████ 175
-Evening (5pm-9pm)      ████████████████████ 200
+Afternoon (12pm-5pm)   ███████████████████ 175
+Evening (5pm-9pm)      ████████████████████ 189
 Night (9pm-12am)       ██████ 58
 
 Mon                    ████████████ 65
 Tue                    ███████████████ 80
 Wed                    █████████ 46
 Thu                    ███████████ 57
-Fri                    ████████████████ 85
+Fri                    ██████████████ 74
 Sat                    ████████████████████ 107
 Sun                    ███████ 38
 ```
@@ -81,10 +81,10 @@ Sun                    ███████ 38
 - Freddie Gibbs: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 32, 2010s: 141, 2020s: 288
+1970s: 1, 1990s: 16, 2000s: 32, 2010s: 138, 2020s: 280
 
 ## How you listen
-Played from: other 291, playlist 183, album 3, artist 1
+Played from: other 291, playlist 172, album 3, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 937 plays recorded total._
