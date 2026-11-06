@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-06T11:01-05:00",
+  "generated_at": "2026-11-06T12:06-05:00",
   "window": {
     "start": "2026-10-30",
     "end": "2026-11-06"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 927,
+  "total_plays_logged": 937,
   "this_week": {
-    "plays": 514,
-    "minutes": 1683,
-    "unique_tracks": 439,
-    "unique_artists": 222
+    "plays": 523,
+    "minutes": 1714,
+    "unique_tracks": 445,
+    "unique_artists": 226
   },
   "last_week": {
-    "plays": 397,
-    "minutes": 1258
+    "plays": 398,
+    "minutes": 1261
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -89,17 +89,17 @@
     },
     {
       "rank": 4,
-      "name": "Lil Baby",
+      "name": "Future",
       "plays": 28,
-      "last_week_plays": 18,
-      "change": "+3"
+      "last_week_plays": 22,
+      "change": "="
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "Lil Baby",
       "plays": 27,
-      "last_week_plays": 22,
-      "change": "-1"
+      "last_week_plays": 19,
+      "change": "+1"
     },
     {
       "rank": 6,
@@ -118,14 +118,14 @@
     {
       "rank": 8,
       "name": "Migos",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 8,
       "change": "+14"
     },
     {
       "rank": 9,
       "name": "Freddie Gibbs",
-      "plays": 17,
+      "plays": 18,
       "last_week_plays": 14,
       "change": "+4"
     },
@@ -134,7 +134,7 @@
       "name": "21 Savage",
       "plays": 16,
       "last_week_plays": 18,
-      "change": "-4"
+      "change": "-3"
     }
   ],
   "top_tracks": [
@@ -213,11 +213,23 @@
   "discovery": {
     "new_artists": [
       {
+        "name": "PARTYNEXTDOOR",
+        "plays": 5
+      },
+      {
         "name": "50 Cent",
         "plays": 5
       },
       {
         "name": "Cash Cobain",
+        "plays": 4
+      },
+      {
+        "name": "NxWorries",
+        "plays": 4
+      },
+      {
+        "name": "Knxwledge",
         "plays": 4
       },
       {
@@ -233,19 +245,7 @@
         "plays": 3
       },
       {
-        "name": "PARTYNEXTDOOR",
-        "plays": 3
-      },
-      {
         "name": "Young Dolph",
-        "plays": 3
-      },
-      {
-        "name": "NxWorries",
-        "plays": 3
-      },
-      {
-        "name": "Knxwledge",
         "plays": 3
       },
       {
@@ -300,8 +300,8 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 3,
-    "Morning (5am-12pm)": 34,
-    "Afternoon (12pm-5pm)": 208,
+    "Morning (5am-12pm)": 42,
+    "Afternoon (12pm-5pm)": 209,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 58
   },
@@ -310,7 +310,7 @@
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
-    "Fri": 121,
+    "Fri": 130,
     "Sat": 107,
     "Sun": 38
   },
@@ -333,21 +333,21 @@
       "days": 5
     },
     {
-      "artist": "Westside Gunn",
-      "days": 4
+      "artist": "Freddie Gibbs",
+      "days": 5
     }
   ],
   "release_eras": {
     "1970s": 1,
     "1990s": 17,
     "2000s": 34,
-    "2010s": 155,
-    "2020s": 307
+    "2010s": 156,
+    "2020s": 315
   },
   "listening_style": {
     "played_from": {
-      "other": 327,
-      "playlist": 183,
+      "other": 329,
+      "playlist": 190,
       "album": 3,
       "artist": 1
     },
