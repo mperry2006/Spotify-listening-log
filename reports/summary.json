@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:06-05:00",
+  "generated_at": "2026-11-06T12:58-05:00",
   "window": {
     "start": "2026-10-30",
     "end": "2026-11-06"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 937,
   "this_week": {
-    "plays": 523,
-    "minutes": 1714,
-    "unique_tracks": 445,
+    "plays": 521,
+    "minutes": 1709,
+    "unique_tracks": 444,
     "unique_artists": 226
   },
   "last_week": {
-    "plays": 398,
-    "minutes": 1261
+    "plays": 400,
+    "minutes": 1266
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,16 +69,16 @@
     {
       "rank": 1,
       "name": "Gunna",
-      "plays": 45,
-      "last_week_plays": 16,
-      "change": "+9"
+      "plays": 44,
+      "last_week_plays": 17,
+      "change": "+7"
     },
     {
       "rank": 2,
       "name": "Drake",
       "plays": 37,
       "last_week_plays": 16,
-      "change": "+7"
+      "change": "+8"
     },
     {
       "rank": 3,
@@ -104,8 +104,8 @@
     {
       "rank": 6,
       "name": "Westside Gunn",
-      "plays": 24,
-      "last_week_plays": 43,
+      "plays": 23,
+      "last_week_plays": 44,
       "change": "-5"
     },
     {
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 42,
-    "Afternoon (12pm-5pm)": 209,
+    "Afternoon (12pm-5pm)": 207,
     "Evening (5pm-9pm)": 211,
     "Night (9pm-12am)": 58
   },
@@ -310,7 +310,7 @@
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
-    "Fri": 130,
+    "Fri": 128,
     "Sat": 107,
     "Sun": 38
   },
@@ -342,11 +342,11 @@
     "1990s": 17,
     "2000s": 34,
     "2010s": 156,
-    "2020s": 315
+    "2020s": 313
   },
   "listening_style": {
     "played_from": {
-      "other": 329,
+      "other": 327,
       "playlist": 190,
       "album": 3,
       "artist": 1
