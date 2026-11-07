@@ -1,21 +1,21 @@
 # Listening Report
-**2026-10-31 to 2026-11-07** · updated 2026-11-07 14:00 ET
+**2026-10-31 to 2026-11-07** · updated 2026-11-07 14:54 ET
 
-**419 plays** (-109 vs last week) · **1398 minutes** · 199 artists · 364 songs
+**419 plays** (-114 vs last week) · **1396 minutes** · 199 artists · 365 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 39 | +7 |
+| 1 | Drake | 37 | +6 |
 | 2 | Gunna | 28 | = |
-| 3 | Lil Baby | 21 | +4 |
+| 3 | Lil Baby | 21 | +5 |
 | 4 | Westside Gunn | 21 | -3 |
-| 5 | Freddie Gibbs | 19 | +9 |
-| 6 | The Alchemist | 19 | -3 |
+| 5 | Freddie Gibbs | 20 | +10 |
+| 6 | The Alchemist | 20 | -3 |
 | 7 | Future | 19 | -3 |
-| 8 | Young Thug | 17 | -3 |
+| 8 | Young Thug | 18 | -3 |
 | 9 | Conway the Machine | 17 | +1 |
 | 10 | J. Cole | 14 | -4 |
 
@@ -30,12 +30,12 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 | 6 | 8am in Charlotte - Drake | 3 | +394 |
 | 7 | Brand New Draco - 21 Savage | 3 | +224 |
 | 8 | Drive and Disconnect - Nao | 3 | NEW |
-| 9 | From Time - Drake | 2 | NEW |
-| 10 | Feelin' It - JAŸ-Z | 2 | NEW |
+| 9 | Feelin' It - JAŸ-Z | 2 | NEW |
+| 10 | Menace - Migos | 2 | +19 |
 
 ## Discovery
 80% of plays were songs not in your log before this week.
-New artists: 50 Cent (5), Jhené Aiko (3), Baby Keem (3), Nao (3), Mecca (2), Only The Family (2), Lil Crix (2), Jae Stephens (2), Frank Ocean (2), DJ Premier (2)
+New artists: 50 Cent (5), Baby Keem (3), Nao (3), Mecca (2), Only The Family (2), Lil Crix (2), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2)
 
 ## On repeat (3+ plays)
 - Wine & Dine - YoungBoy Never Broke Again - 5x
@@ -79,10 +79,10 @@ Sun                    ███████ 38
 - Brent Faiyaz: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 15, 2000s: 31, 2010s: 124, 2020s: 248
+1970s: 1, 1990s: 14, 2000s: 31, 2010s: 123, 2020s: 250
 
 ## How you listen
 Played from: other 293, playlist 121, album 4, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 963 plays recorded total._
+_Log started 2026-10-26 · 968 plays recorded total._
