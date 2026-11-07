@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:02-05:00",
+  "generated_at": "2026-11-06T23:04-05:00",
   "window": {
     "start": "2026-10-30",
     "end": "2026-11-06"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 938,
   "this_week": {
-    "plays": 422,
-    "minutes": 1395,
-    "unique_tracks": 369,
-    "unique_artists": 205
+    "plays": 417,
+    "minutes": 1379,
+    "unique_tracks": 366,
+    "unique_artists": 203
   },
   "last_week": {
-    "plays": 500,
-    "minutes": 1584
+    "plays": 505,
+    "minutes": 1601
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 29,
-      "last_week_plays": 24,
+      "plays": 28,
+      "last_week_plays": 25,
       "change": "+6"
     },
     {
@@ -83,8 +83,8 @@
     {
       "rank": 3,
       "name": "Lil Baby",
-      "plays": 22,
-      "last_week_plays": 24,
+      "plays": 21,
+      "last_week_plays": 25,
       "change": "+5"
     },
     {
@@ -131,10 +131,10 @@
     },
     {
       "rank": 10,
-      "name": "Migos",
+      "name": "LUCKI",
       "plays": 13,
-      "last_week_plays": 14,
-      "change": "+4"
+      "last_week_plays": 8,
+      "change": "+15"
     }
   ],
   "top_tracks": [
@@ -147,17 +147,17 @@
     },
     {
       "rank": 2,
-      "name": "Back On - Quality Control",
-      "plays": 4,
-      "last_week_plays": 2,
-      "change": "+26"
-    },
-    {
-      "rank": 3,
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+33"
+      "change": "+34"
+    },
+    {
+      "rank": 3,
+      "name": "Back On - Quality Control",
+      "plays": 3,
+      "last_week_plays": 3,
+      "change": "+2"
     },
     {
       "rank": 4,
@@ -189,21 +189,21 @@
     },
     {
       "rank": 8,
-      "name": "Kelly Price (feat. Travis Scott) - Migos",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 9,
       "name": "Preach - Young Dolph",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "From Time - Drake",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Feelin' It - JAŸ-Z",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -262,11 +262,11 @@
       "plays": 5
     },
     {
-      "track": "Back On - Quality Control",
-      "plays": 4
+      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 3
     },
     {
-      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "track": "Back On - Quality Control",
       "plays": 3
     },
     {
@@ -291,14 +291,14 @@
     "Morning (5am-12pm)": 42,
     "Afternoon (12pm-5pm)": 176,
     "Evening (5pm-9pm)": 159,
-    "Night (9pm-12am)": 42
+    "Night (9pm-12am)": 37
   },
   "day_of_week": {
     "Mon": 65,
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
-    "Fri": 29,
+    "Fri": 24,
     "Sat": 107,
     "Sun": 38
   },
@@ -329,13 +329,13 @@
     "1970s": 1,
     "1990s": 16,
     "2000s": 32,
-    "2010s": 122,
-    "2020s": 251
+    "2010s": 119,
+    "2020s": 249
   },
   "listening_style": {
     "played_from": {
       "other": 291,
-      "playlist": 127,
+      "playlist": 122,
       "album": 3,
       "artist": 1
     },
