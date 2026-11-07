@@ -1,17 +1,17 @@
 # Listening Report
-**2026-10-31 to 2026-11-07** · updated 2026-11-07 10:52 ET
+**2026-10-31 to 2026-11-07** · updated 2026-11-07 11:53 ET
 
-**418 plays** (-87 vs last week) · **1383 minutes** · 203 artists · 366 songs
+**419 plays** (-89 vs last week) · **1390 minutes** · 202 artists · 367 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 29 | +6 |
+| 1 | Drake | 30 | +7 |
 | 2 | Gunna | 26 | = |
-| 3 | Lil Baby | 21 | +5 |
-| 4 | Westside Gunn | 21 | -3 |
+| 3 | Westside Gunn | 21 | -2 |
+| 4 | Lil Baby | 20 | +3 |
 | 5 | The Alchemist | 18 | -1 |
 | 6 | Freddie Gibbs | 17 | +7 |
 | 7 | Future | 17 | -4 |
@@ -56,17 +56,17 @@ New artists: 50 Cent (5), NxWorries (4), Knxwledge (4), Young Dolph (3), Jhené 
 ## When you listen
 ```
 Late night (12am-5am)   3
-Morning (5am-12pm)     █████ 43
+Morning (5am-12pm)     █████ 44
 Afternoon (12pm-5pm)   ████████████████████ 176
 Evening (5pm-9pm)      ██████████████████ 159
 Night (9pm-12am)       ████ 37
 
 Mon                    ████████████ 65
 Tue                    ███████████████ 80
-Wed                    █████████ 46
-Thu                    ███████████ 57
+Wed                    ████████ 46
+Thu                    ██████████ 57
 Fri                    ████ 24
-Sat                    ████████████████████ 108
+Sat                    ████████████████████ 109
 Sun                    ███████ 38
 ```
 
@@ -75,13 +75,13 @@ Sun                    ███████ 38
 - Freddie Gibbs: 5 days in a row
 - Anderson .Paak: 5 days in a row
 - Future: 5 days in a row
-- Brent Faiyaz: 3 days in a row
+- Leon Thomas: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 32, 2010s: 119, 2020s: 250
+1970s: 1, 1990s: 16, 2000s: 31, 2010s: 120, 2020s: 251
 
 ## How you listen
-Played from: other 292, playlist 122, album 3, artist 1
+Played from: other 293, playlist 121, album 4, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 939 plays recorded total._
+_Log started 2026-10-26 · 943 plays recorded total._

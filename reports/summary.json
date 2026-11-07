@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-07T10:52-05:00",
+  "generated_at": "2026-11-07T11:53-05:00",
   "window": {
     "start": "2026-10-31",
     "end": "2026-11-07"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 939,
+  "total_plays_logged": 943,
   "this_week": {
-    "plays": 418,
-    "minutes": 1383,
-    "unique_tracks": 366,
-    "unique_artists": 203
+    "plays": 419,
+    "minutes": 1390,
+    "unique_tracks": 367,
+    "unique_artists": 202
   },
   "last_week": {
-    "plays": 505,
-    "minutes": 1601
+    "plays": 508,
+    "minutes": 1610
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,9 +69,9 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 25,
-      "change": "+6"
+      "change": "+7"
     },
     {
       "rank": 2,
@@ -82,17 +82,17 @@
     },
     {
       "rank": 3,
-      "name": "Lil Baby",
-      "plays": 21,
-      "last_week_plays": 25,
-      "change": "+5"
-    },
-    {
-      "rank": 4,
       "name": "Westside Gunn",
       "plays": 21,
       "last_week_plays": 46,
-      "change": "-3"
+      "change": "-2"
+    },
+    {
+      "rank": 4,
+      "name": "Lil Baby",
+      "plays": 20,
+      "last_week_plays": 26,
+      "change": "+3"
     },
     {
       "rank": 5,
@@ -288,7 +288,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 3,
-    "Morning (5am-12pm)": 43,
+    "Morning (5am-12pm)": 44,
     "Afternoon (12pm-5pm)": 176,
     "Evening (5pm-9pm)": 159,
     "Night (9pm-12am)": 37
@@ -299,7 +299,7 @@
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
-    "Sat": 108,
+    "Sat": 109,
     "Sun": 38
   },
   "busiest_day": "Sat",
@@ -321,22 +321,22 @@
       "days": 5
     },
     {
-      "artist": "Brent Faiyaz",
-      "days": 3
+      "artist": "Leon Thomas",
+      "days": 4
     }
   ],
   "release_eras": {
     "1970s": 1,
     "1990s": 16,
-    "2000s": 32,
-    "2010s": 119,
-    "2020s": 250
+    "2000s": 31,
+    "2010s": 120,
+    "2020s": 251
   },
   "listening_style": {
     "played_from": {
-      "other": 292,
-      "playlist": 122,
-      "album": 3,
+      "other": 293,
+      "playlist": 121,
+      "album": 4,
       "artist": 1
     },
     "full_album_sessions": 0
