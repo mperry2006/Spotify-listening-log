@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-07T05:56-05:00",
+  "generated_at": "2026-11-07T06:52-05:00",
   "window": {
     "start": "2026-10-31",
     "end": "2026-11-07"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 938,
+  "total_plays_logged": 939,
   "this_week": {
-    "plays": 417,
-    "minutes": 1379,
+    "plays": 418,
+    "minutes": 1383,
     "unique_tracks": 366,
     "unique_artists": 203
   },
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 28,
+      "plays": 29,
       "last_week_plays": 25,
       "change": "+6"
     },
@@ -288,7 +288,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 3,
-    "Morning (5am-12pm)": 42,
+    "Morning (5am-12pm)": 43,
     "Afternoon (12pm-5pm)": 176,
     "Evening (5pm-9pm)": 159,
     "Night (9pm-12am)": 37
@@ -299,14 +299,14 @@
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
-    "Sat": 107,
+    "Sat": 108,
     "Sun": 38
   },
   "busiest_day": "Sat",
   "streaks": [
     {
       "artist": "Drake",
-      "days": 12
+      "days": 13
     },
     {
       "artist": "Freddie Gibbs",
@@ -330,11 +330,11 @@
     "1990s": 16,
     "2000s": 32,
     "2010s": 119,
-    "2020s": 249
+    "2020s": 250
   },
   "listening_style": {
     "played_from": {
-      "other": 291,
+      "other": 292,
       "playlist": 122,
       "album": 3,
       "artist": 1

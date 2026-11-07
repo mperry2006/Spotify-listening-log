@@ -1,14 +1,14 @@
 # Listening Report
-**2026-10-31 to 2026-11-07** · updated 2026-11-07 05:56 ET
+**2026-10-31 to 2026-11-07** · updated 2026-11-07 06:52 ET
 
-**417 plays** (-88 vs last week) · **1379 minutes** · 203 artists · 366 songs
+**418 plays** (-87 vs last week) · **1383 minutes** · 203 artists · 366 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 28 | +6 |
+| 1 | Drake | 29 | +6 |
 | 2 | Gunna | 26 | = |
 | 3 | Lil Baby | 21 | +5 |
 | 4 | Westside Gunn | 21 | -3 |
@@ -56,7 +56,7 @@ New artists: 50 Cent (5), NxWorries (4), Knxwledge (4), Young Dolph (3), Jhené 
 ## When you listen
 ```
 Late night (12am-5am)   3
-Morning (5am-12pm)     █████ 42
+Morning (5am-12pm)     █████ 43
 Afternoon (12pm-5pm)   ████████████████████ 176
 Evening (5pm-9pm)      ██████████████████ 159
 Night (9pm-12am)       ████ 37
@@ -66,22 +66,22 @@ Tue                    ███████████████ 80
 Wed                    █████████ 46
 Thu                    ███████████ 57
 Fri                    ████ 24
-Sat                    ████████████████████ 107
+Sat                    ████████████████████ 108
 Sun                    ███████ 38
 ```
 
 ## Streaks
-- Drake: 12 days in a row
+- Drake: 13 days in a row
 - Freddie Gibbs: 5 days in a row
 - Anderson .Paak: 5 days in a row
 - Future: 5 days in a row
 - Brent Faiyaz: 3 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 32, 2010s: 119, 2020s: 249
+1970s: 1, 1990s: 16, 2000s: 32, 2010s: 119, 2020s: 250
 
 ## How you listen
-Played from: other 291, playlist 122, album 3, artist 1
+Played from: other 292, playlist 122, album 3, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 938 plays recorded total._
+_Log started 2026-10-26 · 939 plays recorded total._
