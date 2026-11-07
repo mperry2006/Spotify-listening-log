@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-07T17:51-05:00",
+  "generated_at": "2026-11-07T18:48-05:00",
   "window": {
     "start": "2026-10-31",
     "end": "2026-11-07"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 980,
+  "total_plays_logged": 988,
   "this_week": {
-    "plays": 407,
-    "minutes": 1353,
-    "unique_tracks": 356,
-    "unique_artists": 188
+    "plays": 402,
+    "minutes": 1348,
+    "unique_tracks": 353,
+    "unique_artists": 189
   },
   "last_week": {
-    "plays": 557,
-    "minutes": 1782
+    "plays": 570,
+    "minutes": 1820
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,21 +69,21 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 39,
+      "plays": 40,
       "last_week_plays": 27,
       "change": "+7"
     },
     {
       "rank": 2,
       "name": "Gunna",
-      "plays": 26,
-      "last_week_plays": 38,
+      "plays": 25,
+      "last_week_plays": 40,
       "change": "="
     },
     {
       "rank": 3,
       "name": "Westside Gunn",
-      "plays": 22,
+      "plays": 24,
       "last_week_plays": 47,
       "change": "-2"
     },
@@ -91,8 +91,8 @@
       "rank": 4,
       "name": "Future",
       "plays": 21,
-      "last_week_plays": 33,
-      "change": "="
+      "last_week_plays": 35,
+      "change": "-1"
     },
     {
       "rank": 5,
@@ -106,35 +106,35 @@
       "name": "The Alchemist",
       "plays": 20,
       "last_week_plays": 34,
-      "change": "-3"
+      "change": "-2"
     },
     {
       "rank": 7,
       "name": "Freddie Gibbs",
       "plays": 20,
       "last_week_plays": 16,
-      "change": "+7"
+      "change": "+8"
     },
     {
       "rank": 8,
-      "name": "Young Thug",
-      "plays": 19,
+      "name": "J. Cole",
+      "plays": 17,
       "last_week_plays": 30,
-      "change": "-3"
+      "change": "-2"
     },
     {
       "rank": 9,
       "name": "Conway the Machine",
       "plays": 17,
       "last_week_plays": 20,
-      "change": "+1"
+      "change": "+2"
     },
     {
       "rank": 10,
-      "name": "J. Cole",
-      "plays": 15,
-      "last_week_plays": 30,
-      "change": "-4"
+      "name": "Young Thug",
+      "plays": 16,
+      "last_week_plays": 34,
+      "change": "-5"
     }
   ],
   "top_tracks": [
@@ -147,66 +147,66 @@
     },
     {
       "rank": 2,
-      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
-      "plays": 3,
-      "last_week_plays": 2,
-      "change": "+35"
-    },
-    {
-      "rank": 3,
       "name": "Back On - Quality Control",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+3"
+      "change": "+4"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Bunce Road Blues (with Future & Tems) - J. Cole",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "sakpase - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "8am in Charlotte - Drake",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+395"
+      "change": "+399"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+225"
+      "change": "+230"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Drive and Disconnect - Nao",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
+      "rank": 8,
+      "name": "Real Flex - Babyfxce E",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+320"
+    },
+    {
       "rank": 9,
-      "name": "Hellcats & Trackhawks - Only The Family",
+      "name": "Trackhawk - Babyfxce E",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Real Flex - Babyfxce E",
+      "name": "House Money - Baby Keem",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+314"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -219,10 +219,6 @@
       {
         "name": "Nao",
         "plays": 3
-      },
-      {
-        "name": "Only The Family",
-        "plays": 2
       },
       {
         "name": "Lil Crix",
@@ -251,19 +247,19 @@
       {
         "name": "SiR",
         "plays": 2
+      },
+      {
+        "name": "BashfortheWorld",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 80,
+    "plays_of_new_tracks_pct": 81,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
       "track": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 5
-    },
-    {
-      "track": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
-      "plays": 3
     },
     {
       "track": "Back On - Quality Control",
@@ -294,7 +290,7 @@
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 43,
     "Afternoon (12pm-5pm)": 164,
-    "Evening (5pm-9pm)": 160,
+    "Evening (5pm-9pm)": 155,
     "Night (9pm-12am)": 37
   },
   "day_of_week": {
@@ -303,7 +299,7 @@
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
-    "Sat": 97,
+    "Sat": 92,
     "Sun": 38
   },
   "busiest_day": "Sat",
@@ -332,14 +328,14 @@
   "release_eras": {
     "1970s": 1,
     "1990s": 9,
-    "2000s": 23,
-    "2010s": 126,
-    "2020s": 248
+    "2000s": 24,
+    "2010s": 123,
+    "2020s": 245
   },
   "listening_style": {
     "played_from": {
-      "other": 282,
-      "playlist": 120,
+      "other": 283,
+      "playlist": 114,
       "album": 4,
       "artist": 1
     },
