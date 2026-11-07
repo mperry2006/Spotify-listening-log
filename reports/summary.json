@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-07T16:50-05:00",
+  "generated_at": "2026-11-07T17:51-05:00",
   "window": {
     "start": "2026-10-31",
     "end": "2026-11-07"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 968,
+  "total_plays_logged": 980,
   "this_week": {
     "plays": 407,
-    "minutes": 1349,
-    "unique_tracks": 354,
-    "unique_artists": 191
+    "minutes": 1353,
+    "unique_tracks": 356,
+    "unique_artists": 188
   },
   "last_week": {
-    "plays": 545,
-    "minutes": 1747
+    "plays": 557,
+    "minutes": 1782
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,56 +69,56 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 37,
+      "plays": 39,
       "last_week_plays": 27,
-      "change": "+6"
+      "change": "+7"
     },
     {
       "rank": 2,
       "name": "Gunna",
-      "plays": 28,
-      "last_week_plays": 35,
+      "plays": 26,
+      "last_week_plays": 38,
       "change": "="
     },
     {
       "rank": 3,
-      "name": "Lil Baby",
-      "plays": 21,
-      "last_week_plays": 26,
-      "change": "+5"
+      "name": "Westside Gunn",
+      "plays": 22,
+      "last_week_plays": 47,
+      "change": "-2"
     },
     {
       "rank": 4,
-      "name": "Westside Gunn",
+      "name": "Future",
       "plays": 21,
-      "last_week_plays": 47,
-      "change": "-3"
+      "last_week_plays": 33,
+      "change": "="
     },
     {
       "rank": 5,
-      "name": "Freddie Gibbs",
+      "name": "Lil Baby",
       "plays": 20,
-      "last_week_plays": 15,
-      "change": "+10"
+      "last_week_plays": 29,
+      "change": "+2"
     },
     {
       "rank": 6,
       "name": "The Alchemist",
       "plays": 20,
-      "last_week_plays": 33,
+      "last_week_plays": 34,
       "change": "-3"
     },
     {
       "rank": 7,
-      "name": "Future",
-      "plays": 19,
-      "last_week_plays": 33,
-      "change": "-3"
+      "name": "Freddie Gibbs",
+      "plays": 20,
+      "last_week_plays": 16,
+      "change": "+7"
     },
     {
       "rank": 8,
       "name": "Young Thug",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 30,
       "change": "-3"
     },
@@ -132,7 +132,7 @@
     {
       "rank": 10,
       "name": "J. Cole",
-      "plays": 14,
+      "plays": 15,
       "last_week_plays": 30,
       "change": "-4"
     }
@@ -150,14 +150,14 @@
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+34"
+      "change": "+35"
     },
     {
       "rank": 3,
       "name": "Back On - Quality Control",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+2"
+      "change": "+3"
     },
     {
       "rank": 4,
@@ -196,17 +196,17 @@
     },
     {
       "rank": 9,
-      "name": "Menace - Migos",
-      "plays": 2,
-      "last_week_plays": 2,
-      "change": "+20"
-    },
-    {
-      "rank": 10,
-      "name": "Heatin Up (feat. Gunna) - Lil Baby",
+      "name": "Hellcats & Trackhawks - Only The Family",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Real Flex - Babyfxce E",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+314"
     }
   ],
   "dropped_off": [],
@@ -293,8 +293,8 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 43,
-    "Afternoon (12pm-5pm)": 165,
-    "Evening (5pm-9pm)": 159,
+    "Afternoon (12pm-5pm)": 164,
+    "Evening (5pm-9pm)": 160,
     "Night (9pm-12am)": 37
   },
   "day_of_week": {
@@ -331,10 +331,10 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 10,
-    "2000s": 24,
-    "2010s": 123,
-    "2020s": 249
+    "1990s": 9,
+    "2000s": 23,
+    "2010s": 126,
+    "2020s": 248
   },
   "listening_style": {
     "played_from": {
