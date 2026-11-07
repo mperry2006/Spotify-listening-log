@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-31 to 2026-11-07** · updated 2026-11-07 14:54 ET
+**2026-10-31 to 2026-11-07** · updated 2026-11-07 15:52 ET
 
-**419 plays** (-114 vs last week) · **1396 minutes** · 199 artists · 365 songs
+**416 plays** (-120 vs last week) · **1385 minutes** · 196 artists · 362 songs
 
 _Counting real listens only. 15 skips left out (3% skip rate)._
 
@@ -35,7 +35,7 @@ _Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Discovery
 80% of plays were songs not in your log before this week.
-New artists: 50 Cent (5), Baby Keem (3), Nao (3), Mecca (2), Only The Family (2), Lil Crix (2), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2)
+New artists: Baby Keem (3), Nao (3), Mecca (2), Only The Family (2), Lil Crix (2), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2), Lelo (2)
 
 ## On repeat (3+ plays)
 - Wine & Dine - YoungBoy Never Broke Again - 5x
@@ -58,16 +58,16 @@ New artists: 50 Cent (5), Baby Keem (3), Nao (3), Mecca (2), Only The Family (2)
 ```
 Late night (12am-5am)   3
 Morning (5am-12pm)     █████ 43
-Afternoon (12pm-5pm)   ████████████████████ 177
+Afternoon (12pm-5pm)   ████████████████████ 174
 Evening (5pm-9pm)      ██████████████████ 159
 Night (9pm-12am)       ████ 37
 
 Mon                    ████████████ 65
 Tue                    ███████████████ 80
-Wed                    ████████ 46
-Thu                    ██████████ 57
-Fri                    ████ 24
-Sat                    ████████████████████ 109
+Wed                    █████████ 46
+Thu                    ███████████ 57
+Fri                    █████ 24
+Sat                    ████████████████████ 106
 Sun                    ███████ 38
 ```
 
@@ -79,10 +79,10 @@ Sun                    ███████ 38
 - Brent Faiyaz: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 14, 2000s: 31, 2010s: 123, 2020s: 250
+1970s: 1, 1990s: 14, 2000s: 29, 2010s: 123, 2020s: 249
 
 ## How you listen
-Played from: other 293, playlist 121, album 4, artist 1
+Played from: other 291, playlist 120, album 4, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 968 plays recorded total._
