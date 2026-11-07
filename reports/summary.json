@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-07T12:48-05:00",
+  "generated_at": "2026-11-07T14:00-05:00",
   "window": {
     "start": "2026-10-31",
     "end": "2026-11-07"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 945,
+  "total_plays_logged": 963,
   "this_week": {
-    "plays": 412,
-    "minutes": 1369,
-    "unique_tracks": 359,
-    "unique_artists": 202
+    "plays": 419,
+    "minutes": 1398,
+    "unique_tracks": 364,
+    "unique_artists": 199
   },
   "last_week": {
-    "plays": 517,
-    "minutes": 1640
+    "plays": 528,
+    "minutes": 1679
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 4,
+    "skip_rate_pct": 3,
     "skipped_plays": 15,
     "most_skipped_tracks": [
       {
@@ -69,51 +69,51 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 32,
+      "plays": 39,
       "last_week_plays": 25,
       "change": "+7"
     },
     {
       "rank": 2,
       "name": "Gunna",
-      "plays": 26,
+      "plays": 28,
       "last_week_plays": 35,
       "change": "="
     },
     {
       "rank": 3,
-      "name": "Westside Gunn",
+      "name": "Lil Baby",
       "plays": 21,
-      "last_week_plays": 46,
-      "change": "-2"
+      "last_week_plays": 26,
+      "change": "+4"
     },
     {
       "rank": 4,
-      "name": "Lil Baby",
-      "plays": 20,
-      "last_week_plays": 26,
-      "change": "+3"
+      "name": "Westside Gunn",
+      "plays": 21,
+      "last_week_plays": 47,
+      "change": "-3"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 18,
-      "last_week_plays": 33,
-      "change": "-1"
+      "name": "Freddie Gibbs",
+      "plays": 19,
+      "last_week_plays": 15,
+      "change": "+9"
     },
     {
       "rank": 6,
-      "name": "Freddie Gibbs",
-      "plays": 17,
-      "last_week_plays": 15,
-      "change": "+8"
+      "name": "The Alchemist",
+      "plays": 19,
+      "last_week_plays": 33,
+      "change": "-3"
     },
     {
       "rank": 7,
-      "name": "The Alchemist",
-      "plays": 17,
+      "name": "Future",
+      "plays": 19,
       "last_week_plays": 33,
-      "change": "-4"
+      "change": "-3"
     },
     {
       "rank": 8,
@@ -125,16 +125,16 @@
     {
       "rank": 9,
       "name": "Conway the Machine",
-      "plays": 16,
+      "plays": 17,
       "last_week_plays": 20,
       "change": "+1"
     },
     {
       "rank": 10,
-      "name": "LUCKI",
-      "plays": 13,
-      "last_week_plays": 8,
-      "change": "+15"
+      "name": "J. Cole",
+      "plays": 14,
+      "last_week_plays": 29,
+      "change": "-4"
     }
   ],
   "top_tracks": [
@@ -161,36 +161,36 @@
     },
     {
       "rank": 4,
-      "name": "sakpase - Gunna",
+      "name": "Bunce Road Blues (with Future & Tems) - J. Cole",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "8am in Charlotte - Drake",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+395"
-    },
-    {
-      "rank": 6,
-      "name": "Brand New Draco - 21 Savage",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+225"
-    },
-    {
-      "rank": 7,
-      "name": "Drive and Disconnect - Nao",
+      "name": "sakpase - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
+      "rank": 6,
+      "name": "8am in Charlotte - Drake",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+394"
+    },
+    {
+      "rank": 7,
+      "name": "Brand New Draco - 21 Savage",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+224"
+    },
+    {
       "rank": 8,
-      "name": "Preach - Young Dolph",
-      "plays": 2,
+      "name": "Drive and Disconnect - Nao",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -217,18 +217,6 @@
         "plays": 5
       },
       {
-        "name": "NxWorries",
-        "plays": 4
-      },
-      {
-        "name": "Knxwledge",
-        "plays": 4
-      },
-      {
-        "name": "Young Dolph",
-        "plays": 3
-      },
-      {
         "name": "Jhené Aiko",
         "plays": 3
       },
@@ -251,9 +239,21 @@
       {
         "name": "Lil Crix",
         "plays": 2
+      },
+      {
+        "name": "Jae Stephens",
+        "plays": 2
+      },
+      {
+        "name": "Frank Ocean",
+        "plays": 2
+      },
+      {
+        "name": "DJ Premier",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 81,
+    "plays_of_new_tracks_pct": 80,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -267,6 +267,10 @@
     },
     {
       "track": "Back On - Quality Control",
+      "plays": 3
+    },
+    {
+      "track": "Bunce Road Blues (with Future & Tems) - J. Cole",
       "plays": 3
     },
     {
@@ -289,7 +293,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 43,
-    "Afternoon (12pm-5pm)": 170,
+    "Afternoon (12pm-5pm)": 177,
     "Evening (5pm-9pm)": 159,
     "Night (9pm-12am)": 37
   },
@@ -299,7 +303,7 @@
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
-    "Sat": 102,
+    "Sat": 109,
     "Sun": 38
   },
   "busiest_day": "Sat",
@@ -309,32 +313,32 @@
       "days": 13
     },
     {
-      "artist": "Future",
+      "artist": "Freddie Gibbs",
       "days": 6
     },
     {
-      "artist": "Freddie Gibbs",
-      "days": 5
+      "artist": "Future",
+      "days": 6
     },
     {
       "artist": "Anderson .Paak",
       "days": 5
     },
     {
-      "artist": "Leon Thomas",
+      "artist": "Brent Faiyaz",
       "days": 4
     }
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 16,
+    "1990s": 15,
     "2000s": 31,
-    "2010s": 121,
-    "2020s": 243
+    "2010s": 124,
+    "2020s": 248
   },
   "listening_style": {
     "played_from": {
-      "other": 286,
+      "other": 293,
       "playlist": 121,
       "album": 4,
       "artist": 1
