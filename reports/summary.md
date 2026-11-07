@@ -1,5 +1,5 @@
 # Listening Report
-**2026-10-30 to 2026-11-06** · updated 2026-11-06 23:04 ET
+**2026-10-31 to 2026-11-07** · updated 2026-11-07 00:04 ET
 
 **417 plays** (-88 vs last week) · **1379 minutes** · 203 artists · 366 songs
 
@@ -72,10 +72,10 @@ Sun                    ███████ 38
 
 ## Streaks
 - Drake: 12 days in a row
-- The Alchemist: 11 days in a row
-- Conway the Machine: 5 days in a row
-- Kanye West: 5 days in a row
 - Freddie Gibbs: 5 days in a row
+- Anderson .Paak: 5 days in a row
+- Future: 5 days in a row
+- Brent Faiyaz: 3 days in a row
 
 ## Eras
 1970s: 1, 1990s: 16, 2000s: 32, 2010s: 119, 2020s: 249

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T23:04-05:00",
+  "generated_at": "2026-11-07T00:04-05:00",
   "window": {
-    "start": "2026-10-30",
-    "end": "2026-11-06"
+    "start": "2026-10-31",
+    "end": "2026-11-07"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 938,
@@ -309,20 +309,20 @@
       "days": 12
     },
     {
-      "artist": "The Alchemist",
-      "days": 11
-    },
-    {
-      "artist": "Conway the Machine",
-      "days": 5
-    },
-    {
-      "artist": "Kanye West",
-      "days": 5
-    },
-    {
       "artist": "Freddie Gibbs",
       "days": 5
+    },
+    {
+      "artist": "Anderson .Paak",
+      "days": 5
+    },
+    {
+      "artist": "Future",
+      "days": 5
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "days": 3
     }
   ],
   "release_eras": {
