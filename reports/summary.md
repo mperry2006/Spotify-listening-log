@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-01 to 2026-11-08** · updated 2026-11-08 13:59 ET
+**2026-11-01 to 2026-11-08** · updated 2026-11-08 14:56 ET
 
-**433 plays** (-183 vs last week) · **1474 minutes** · 207 artists · 391 songs
+**435 plays** (-186 vs last week) · **1480 minutes** · 208 artists · 392 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
@@ -11,9 +11,9 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 1 | Drake | 46 | +7 |
 | 2 | Westside Gunn | 30 | = |
 | 3 | Freddie Gibbs | 23 | +12 |
-| 4 | Conway the Machine | 21 | +8 |
-| 5 | Future | 21 | -1 |
-| 6 | Kanye West | 20 | +16 |
+| 4 | Kanye West | 21 | +18 |
+| 5 | Conway the Machine | 21 | +7 |
+| 6 | Future | 21 | -2 |
 | 7 | The Alchemist | 20 | -1 |
 | 8 | J. Cole | 20 | -1 |
 | 9 | Gunna | 19 | -8 |
@@ -27,15 +27,15 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 3 | Brand New Draco - 21 Savage | 3 | +247 |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
 | 5 | Jesus Walks - Kanye West | 2 | NEW |
-| 6 | Back On - Quality Control | 2 | -4 |
-| 7 | Losing My Cool - Rod Wave | 2 | NEW |
-| 8 | Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin | 2 | NEW |
-| 9 | Everything I Am - Kanye West | 2 | NEW |
-| 10 | sakpase - Gunna | 2 | +518 |
+| 6 | New Choppa - Playboi Carti | 2 | NEW |
+| 7 | Back On - Quality Control | 2 | -5 |
+| 8 | Losing My Cool - Rod Wave | 2 | NEW |
+| 9 | Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin | 2 | NEW |
+| 10 | Everything I Am - Kanye West | 2 | NEW |
 
 ## Discovery
 81% of plays were songs not in your log before this week.
-New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2), Lelo (2), SiR (2), Key Glock (2), GT (2), BashfortheWorld (2)
+New artists: Nao (3), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2), Lelo (2), SiR (2), Key Glock (2), GT (2), BashfortheWorld (2), MIKE (2)
 
 ## On repeat (3+ plays)
 - Wine & Dine - YoungBoy Never Broke Again - 5x
@@ -53,8 +53,8 @@ New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel 
 ## When you listen
 ```
 Late night (12am-5am)   3
-Morning (5am-12pm)     ████████ 66
-Afternoon (12pm-5pm)   ████████████████████ 175
+Morning (5am-12pm)     ███████ 66
+Afternoon (12pm-5pm)   ████████████████████ 177
 Evening (5pm-9pm)      █████████████████ 152
 Night (9pm-12am)       ████ 37
 
@@ -64,7 +64,7 @@ Wed                    ██████████ 46
 Thu                    █████████████ 57
 Fri                    █████ 24
 Sat                    ████████████████████ 89
-Sun                    ████████████████ 72
+Sun                    █████████████████ 74
 ```
 
 ## Streaks
@@ -75,10 +75,10 @@ Sun                    ████████████████ 72
 - Metro Boomin: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 11, 2000s: 36, 2010s: 133, 2020s: 252
+1970s: 1, 1990s: 11, 2000s: 38, 2010s: 133, 2020s: 252
 
 ## How you listen
-Played from: other 322, playlist 106, album 4, artist 1
+Played from: other 322, playlist 109, album 3, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1065 plays recorded total._
+_Log started 2026-10-26 · 1072 plays recorded total._

@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-08T13:59-05:00",
+  "generated_at": "2026-11-08T14:56-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1065,
+  "total_plays_logged": 1072,
   "this_week": {
-    "plays": 433,
-    "minutes": 1474,
-    "unique_tracks": 391,
-    "unique_artists": 207
+    "plays": 435,
+    "minutes": 1480,
+    "unique_tracks": 392,
+    "unique_artists": 208
   },
   "last_week": {
-    "plays": 616,
-    "minutes": 1962
+    "plays": 621,
+    "minutes": 1979
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -89,24 +89,24 @@
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
+      "name": "Kanye West",
       "plays": 21,
-      "last_week_plays": 20,
-      "change": "+8"
+      "last_week_plays": 10,
+      "change": "+18"
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "Conway the Machine",
       "plays": 21,
-      "last_week_plays": 39,
-      "change": "-1"
+      "last_week_plays": 20,
+      "change": "+7"
     },
     {
       "rank": 6,
-      "name": "Kanye West",
-      "plays": 20,
-      "last_week_plays": 10,
-      "change": "+16"
+      "name": "Future",
+      "plays": 21,
+      "last_week_plays": 39,
+      "change": "-2"
     },
     {
       "rank": 7,
@@ -175,38 +175,38 @@
     },
     {
       "rank": 6,
-      "name": "Back On - Quality Control",
+      "name": "New Choppa - Playboi Carti",
       "plays": 2,
-      "last_week_plays": 4,
-      "change": "-4"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 7,
+      "name": "Back On - Quality Control",
+      "plays": 2,
+      "last_week_plays": 4,
+      "change": "-5"
+    },
+    {
+      "rank": 8,
       "name": "Losing My Cool - Rod Wave",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Everything I Am - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
-    },
-    {
-      "rank": 10,
-      "name": "sakpase - Gunna",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+518"
     }
   ],
   "dropped_off": [],
@@ -215,10 +215,6 @@
       {
         "name": "Nao",
         "plays": 3
-      },
-      {
-        "name": "Jae Stephens",
-        "plays": 2
       },
       {
         "name": "Frank Ocean",
@@ -251,6 +247,10 @@
       {
         "name": "BashfortheWorld",
         "plays": 2
+      },
+      {
+        "name": "MIKE",
+        "plays": 2
       }
     ],
     "plays_of_new_tracks_pct": 81,
@@ -277,7 +277,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 66,
-    "Afternoon (12pm-5pm)": 175,
+    "Afternoon (12pm-5pm)": 177,
     "Evening (5pm-9pm)": 152,
     "Night (9pm-12am)": 37
   },
@@ -288,7 +288,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 72
+    "Sun": 74
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -316,15 +316,15 @@
   "release_eras": {
     "1970s": 1,
     "1990s": 11,
-    "2000s": 36,
+    "2000s": 38,
     "2010s": 133,
     "2020s": 252
   },
   "listening_style": {
     "played_from": {
       "other": 322,
-      "playlist": 106,
-      "album": 4,
+      "playlist": 109,
+      "album": 3,
       "artist": 1
     },
     "full_album_sessions": 0
