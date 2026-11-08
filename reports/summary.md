@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-01 to 2026-11-08** · updated 2026-11-08 10:51 ET
+**2026-11-01 to 2026-11-08** · updated 2026-11-08 11:53 ET
 
-**406 plays** (-206 vs last week) · **1380 minutes** · 196 artists · 367 songs
+**420 plays** (-192 vs last week) · **1428 minutes** · 200 artists · 379 songs
 
-_Counting real listens only. 15 skips left out (4% skip rate)._
+_Counting real listens only. 15 skips left out (3% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 44 | +7 |
-| 2 | Westside Gunn | 26 | = |
-| 3 | Freddie Gibbs | 21 | +12 |
+| 1 | Drake | 45 | +7 |
+| 2 | Westside Gunn | 29 | = |
+| 3 | Freddie Gibbs | 22 | +12 |
 | 4 | Gunna | 20 | -3 |
-| 5 | The Alchemist | 20 | +1 |
-| 6 | Future | 19 | -2 |
-| 7 | Kanye West | 18 | +15 |
-| 8 | Conway the Machine | 17 | +4 |
-| 9 | J. Cole | 17 | -2 |
-| 10 | 21 Savage | 16 | -1 |
+| 5 | Kanye West | 20 | +17 |
+| 6 | Conway the Machine | 20 | +6 |
+| 7 | The Alchemist | 20 | -1 |
+| 8 | Future | 20 | -4 |
+| 9 | J. Cole | 18 | -2 |
+| 10 | 21 Savage | 17 | -1 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -34,7 +34,7 @@ _Counting real listens only. 15 skips left out (4% skip rate)._
 | 10 | Everything I Am - Kanye West | 2 | NEW |
 
 ## Discovery
-82% of plays were songs not in your log before this week.
+81% of plays were songs not in your log before this week.
 New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2), Lelo (2), SiR (2), BashfortheWorld (2), Wizkid (2), Bruno Mars (2)
 
 ## On repeat (3+ plays)
@@ -54,7 +54,7 @@ New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel 
 ## When you listen
 ```
 Late night (12am-5am)   3
-Morning (5am-12pm)     ██████ 50
+Morning (5am-12pm)     ████████ 64
 Afternoon (12pm-5pm)   ████████████████████ 164
 Evening (5pm-9pm)      ███████████████████ 152
 Night (9pm-12am)       █████ 37
@@ -65,21 +65,21 @@ Wed                    ██████████ 46
 Thu                    █████████████ 57
 Fri                    █████ 24
 Sat                    ████████████████████ 89
-Sun                    ██████████ 45
+Sun                    █████████████ 59
 ```
 
 ## Streaks
-- Drake: 13 days in a row
-- Freddie Gibbs: 6 days in a row
-- Future: 6 days in a row
-- Brent Faiyaz: 4 days in a row
-- Travis Scott: 4 days in a row
+- Drake: 14 days in a row
+- Freddie Gibbs: 7 days in a row
+- Future: 7 days in a row
+- 21 Savage: 4 days in a row
+- J. Cole: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 11, 2000s: 31, 2010s: 124, 2020s: 239
+1970s: 1, 1990s: 11, 2000s: 32, 2010s: 130, 2020s: 246
 
 ## How you listen
-Played from: other 294, playlist 107, album 4, artist 1
+Played from: other 308, playlist 107, album 4, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1034 plays recorded total._
+_Log started 2026-10-26 · 1048 plays recorded total._
