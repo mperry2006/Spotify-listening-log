@@ -1,7 +1,7 @@
 # Listening Report
-**2026-10-31 to 2026-11-07** · updated 2026-11-07 22:04 ET
+**2026-10-31 to 2026-11-07** · updated 2026-11-07 23:08 ET
 
-**400 plays** (-211 vs last week) · **1355 minutes** · 193 artists · 362 songs
+**399 plays** (-213 vs last week) · **1353 minutes** · 191 artists · 361 songs
 
 _Counting real listens only. 15 skips left out (4% skip rate)._
 
@@ -34,7 +34,7 @@ _Counting real listens only. 15 skips left out (4% skip rate)._
 | 10 | Everything I Am - Kanye West | 2 | NEW |
 
 ## Discovery
-82% of plays were songs not in your log before this week.
+81% of plays were songs not in your log before this week.
 New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2), Lelo (2), SiR (2), BashfortheWorld (2), Wizkid (2), Gunaviani (2)
 
 ## On repeat (3+ plays)
@@ -57,15 +57,15 @@ Late night (12am-5am)   3
 Morning (5am-12pm)     █████ 43
 Afternoon (12pm-5pm)   ████████████████████ 164
 Evening (5pm-9pm)      ███████████████████ 152
-Night (9pm-12am)       █████ 38
+Night (9pm-12am)       █████ 37
 
-Mon                    ██████████████ 65
+Mon                    ███████████████ 65
 Tue                    ██████████████████ 80
 Wed                    ██████████ 46
 Thu                    █████████████ 57
 Fri                    █████ 24
-Sat                    ████████████████████ 90
-Sun                    ████████ 38
+Sat                    ████████████████████ 89
+Sun                    █████████ 38
 ```
 
 ## Streaks
@@ -76,10 +76,10 @@ Sun                    ████████ 38
 - Brent Faiyaz: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 10, 2000s: 29, 2010s: 123, 2020s: 237
+1970s: 1, 1990s: 10, 2000s: 29, 2010s: 123, 2020s: 236
 
 ## How you listen
-Played from: other 288, playlist 107, album 4, artist 1
+Played from: other 287, playlist 107, album 4, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1027 plays recorded total._

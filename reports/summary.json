@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:04-05:00",
+  "generated_at": "2026-11-07T23:08-05:00",
   "window": {
     "start": "2026-10-31",
     "end": "2026-11-07"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1027,
   "this_week": {
-    "plays": 400,
-    "minutes": 1355,
-    "unique_tracks": 362,
-    "unique_artists": 193
+    "plays": 399,
+    "minutes": 1353,
+    "unique_tracks": 361,
+    "unique_artists": 191
   },
   "last_week": {
-    "plays": 611,
-    "minutes": 1948
+    "plays": 612,
+    "minutes": 1951
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 82,
+    "plays_of_new_tracks_pct": 81,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -283,7 +283,7 @@
     "Morning (5am-12pm)": 43,
     "Afternoon (12pm-5pm)": 164,
     "Evening (5pm-9pm)": 152,
-    "Night (9pm-12am)": 38
+    "Night (9pm-12am)": 37
   },
   "day_of_week": {
     "Mon": 65,
@@ -291,7 +291,7 @@
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
-    "Sat": 90,
+    "Sat": 89,
     "Sun": 38
   },
   "busiest_day": "Sat",
@@ -322,11 +322,11 @@
     "1990s": 10,
     "2000s": 29,
     "2010s": 123,
-    "2020s": 237
+    "2020s": 236
   },
   "listening_style": {
     "played_from": {
-      "other": 288,
+      "other": 287,
       "playlist": 107,
       "album": 4,
       "artist": 1
