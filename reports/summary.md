@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-01 to 2026-11-08** · updated 2026-11-08 09:53 ET
+**2026-11-01 to 2026-11-08** · updated 2026-11-08 10:51 ET
 
-**399 plays** (-213 vs last week) · **1353 minutes** · 191 artists · 361 songs
+**406 plays** (-206 vs last week) · **1380 minutes** · 196 artists · 367 songs
 
 _Counting real listens only. 15 skips left out (4% skip rate)._
 
@@ -34,8 +34,8 @@ _Counting real listens only. 15 skips left out (4% skip rate)._
 | 10 | Everything I Am - Kanye West | 2 | NEW |
 
 ## Discovery
-81% of plays were songs not in your log before this week.
-New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2), Lelo (2), SiR (2), BashfortheWorld (2), Wizkid (2), Gunaviani (2)
+82% of plays were songs not in your log before this week.
+New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel Caesar (2), Lelo (2), SiR (2), BashfortheWorld (2), Wizkid (2), Bruno Mars (2)
 
 ## On repeat (3+ plays)
 - Wine & Dine - YoungBoy Never Broke Again - 5x
@@ -54,7 +54,7 @@ New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel 
 ## When you listen
 ```
 Late night (12am-5am)   3
-Morning (5am-12pm)     █████ 43
+Morning (5am-12pm)     ██████ 50
 Afternoon (12pm-5pm)   ████████████████████ 164
 Evening (5pm-9pm)      ███████████████████ 152
 Night (9pm-12am)       █████ 37
@@ -65,7 +65,7 @@ Wed                    ██████████ 46
 Thu                    █████████████ 57
 Fri                    █████ 24
 Sat                    ████████████████████ 89
-Sun                    █████████ 38
+Sun                    ██████████ 45
 ```
 
 ## Streaks
@@ -73,13 +73,13 @@ Sun                    █████████ 38
 - Freddie Gibbs: 6 days in a row
 - Future: 6 days in a row
 - Brent Faiyaz: 4 days in a row
-- Leon Thomas: 4 days in a row
+- Travis Scott: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 10, 2000s: 29, 2010s: 123, 2020s: 236
+1970s: 1, 1990s: 11, 2000s: 31, 2010s: 124, 2020s: 239
 
 ## How you listen
-Played from: other 287, playlist 107, album 4, artist 1
+Played from: other 294, playlist 107, album 4, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1027 plays recorded total._
+_Log started 2026-10-26 · 1034 plays recorded total._

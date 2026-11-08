@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-08T09:53-05:00",
+  "generated_at": "2026-11-08T10:51-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1027,
+  "total_plays_logged": 1034,
   "this_week": {
-    "plays": 399,
-    "minutes": 1353,
-    "unique_tracks": 361,
-    "unique_artists": 191
+    "plays": 406,
+    "minutes": 1380,
+    "unique_tracks": 367,
+    "unique_artists": 196
   },
   "last_week": {
     "plays": 612,
@@ -249,11 +249,11 @@
         "plays": 2
       },
       {
-        "name": "Gunaviani",
+        "name": "Bruno Mars",
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 81,
+    "plays_of_new_tracks_pct": 82,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -280,7 +280,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 3,
-    "Morning (5am-12pm)": 43,
+    "Morning (5am-12pm)": 50,
     "Afternoon (12pm-5pm)": 164,
     "Evening (5pm-9pm)": 152,
     "Night (9pm-12am)": 37
@@ -292,7 +292,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 38
+    "Sun": 45
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -313,20 +313,20 @@
       "days": 4
     },
     {
-      "artist": "Leon Thomas",
+      "artist": "Travis Scott",
       "days": 4
     }
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 10,
-    "2000s": 29,
-    "2010s": 123,
-    "2020s": 236
+    "1990s": 11,
+    "2000s": 31,
+    "2010s": 124,
+    "2020s": 239
   },
   "listening_style": {
     "played_from": {
-      "other": 287,
+      "other": 294,
       "playlist": 107,
       "album": 4,
       "artist": 1
