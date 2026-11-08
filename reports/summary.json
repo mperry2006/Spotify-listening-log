@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-08T11:53-05:00",
+  "generated_at": "2026-11-08T12:48-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1048,
+  "total_plays_logged": 1063,
   "this_week": {
-    "plays": 420,
-    "minutes": 1428,
-    "unique_tracks": 379,
-    "unique_artists": 200
+    "plays": 432,
+    "minutes": 1467,
+    "unique_tracks": 390,
+    "unique_artists": 208
   },
   "last_week": {
-    "plays": 612,
-    "minutes": 1951
+    "plays": 615,
+    "minutes": 1959
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,37 +76,37 @@
     {
       "rank": 2,
       "name": "Westside Gunn",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 47,
       "change": "="
     },
     {
       "rank": 3,
       "name": "Freddie Gibbs",
-      "plays": 22,
+      "plays": 23,
       "last_week_plays": 16,
       "change": "+12"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 20,
-      "last_week_plays": 50,
-      "change": "-3"
+      "name": "Conway the Machine",
+      "plays": 21,
+      "last_week_plays": 20,
+      "change": "+8"
     },
     {
       "rank": 5,
-      "name": "Kanye West",
-      "plays": 20,
-      "last_week_plays": 10,
-      "change": "+17"
+      "name": "Future",
+      "plays": 21,
+      "last_week_plays": 39,
+      "change": "-1"
     },
     {
       "rank": 6,
-      "name": "Conway the Machine",
+      "name": "Kanye West",
       "plays": 20,
-      "last_week_plays": 20,
-      "change": "+6"
+      "last_week_plays": 10,
+      "change": "+16"
     },
     {
       "rank": 7,
@@ -117,23 +117,23 @@
     },
     {
       "rank": 8,
-      "name": "Future",
+      "name": "J. Cole",
       "plays": 20,
-      "last_week_plays": 39,
-      "change": "-4"
+      "last_week_plays": 31,
+      "change": "-1"
     },
     {
       "rank": 9,
-      "name": "J. Cole",
-      "plays": 18,
-      "last_week_plays": 31,
-      "change": "-2"
+      "name": "Gunna",
+      "plays": 19,
+      "last_week_plays": 51,
+      "change": "-8"
     },
     {
       "rank": 10,
       "name": "21 Savage",
       "plays": 17,
-      "last_week_plays": 27,
+      "last_week_plays": 28,
       "change": "-1"
     }
   ],
@@ -147,66 +147,66 @@
     },
     {
       "rank": 2,
-      "name": "sakpase - Gunna",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 3,
       "name": "8am in Charlotte - Drake",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+411"
+      "change": "+412"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+246"
+      "change": "+247"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Drive and Disconnect - Nao",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
-      "name": "Handsome And Wealthy - Migos",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "name": "Jesus Walks - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Back On - Quality Control",
       "plays": 2,
       "last_week_plays": 4,
-      "change": "-7"
+      "change": "-4"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Losing My Cool - Rod Wave",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
       "name": "Everything I Am - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "sakpase - Gunna",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+518"
     }
   ],
   "dropped_off": [],
@@ -241,15 +241,15 @@
         "plays": 2
       },
       {
+        "name": "Key Glock",
+        "plays": 2
+      },
+      {
+        "name": "GT",
+        "plays": 2
+      },
+      {
         "name": "BashfortheWorld",
-        "plays": 2
-      },
-      {
-        "name": "Wizkid",
-        "plays": 2
-      },
-      {
-        "name": "Bruno Mars",
         "plays": 2
       }
     ],
@@ -260,10 +260,6 @@
     {
       "track": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 5
-    },
-    {
-      "track": "sakpase - Gunna",
-      "plays": 3
     },
     {
       "track": "8am in Charlotte - Drake",
@@ -280,8 +276,8 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 3,
-    "Morning (5am-12pm)": 64,
-    "Afternoon (12pm-5pm)": 164,
+    "Morning (5am-12pm)": 66,
+    "Afternoon (12pm-5pm)": 174,
     "Evening (5pm-9pm)": 152,
     "Night (9pm-12am)": 37
   },
@@ -292,7 +288,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 59
+    "Sun": 71
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -313,20 +309,20 @@
       "days": 4
     },
     {
-      "artist": "J. Cole",
+      "artist": "Metro Boomin",
       "days": 4
     }
   ],
   "release_eras": {
     "1970s": 1,
     "1990s": 11,
-    "2000s": 32,
-    "2010s": 130,
-    "2020s": 246
+    "2000s": 35,
+    "2010s": 133,
+    "2020s": 252
   },
   "listening_style": {
     "played_from": {
-      "other": 308,
+      "other": 320,
       "playlist": 107,
       "album": 4,
       "artist": 1
