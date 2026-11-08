@@ -1,5 +1,5 @@
 # Listening Report
-**2026-10-31 to 2026-11-07** · updated 2026-11-07 23:08 ET
+**2026-11-01 to 2026-11-08** · updated 2026-11-08 00:06 ET
 
 **399 plays** (-213 vs last week) · **1353 minutes** · 191 artists · 361 songs
 
@@ -72,8 +72,8 @@ Sun                    █████████ 38
 - Drake: 13 days in a row
 - Freddie Gibbs: 6 days in a row
 - Future: 6 days in a row
-- Anderson .Paak: 5 days in a row
 - Brent Faiyaz: 4 days in a row
+- Leon Thomas: 4 days in a row
 
 ## Eras
 1970s: 1, 1990s: 10, 2000s: 29, 2010s: 123, 2020s: 236

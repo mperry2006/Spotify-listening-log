@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T23:08-05:00",
+  "generated_at": "2026-11-08T00:06-05:00",
   "window": {
-    "start": "2026-10-31",
-    "end": "2026-11-07"
+    "start": "2026-11-01",
+    "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 1027,
@@ -309,11 +309,11 @@
       "days": 6
     },
     {
-      "artist": "Anderson .Paak",
-      "days": 5
+      "artist": "Brent Faiyaz",
+      "days": 4
     },
     {
-      "artist": "Brent Faiyaz",
+      "artist": "Leon Thomas",
       "days": 4
     }
   ],
