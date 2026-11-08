@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-08T15:51-05:00",
+  "generated_at": "2026-11-08T16:51-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1077,
+  "total_plays_logged": 1080,
   "this_week": {
-    "plays": 434,
-    "minutes": 1479,
-    "unique_tracks": 392,
-    "unique_artists": 212
+    "plays": 426,
+    "minutes": 1461,
+    "unique_tracks": 385,
+    "unique_artists": 206
   },
   "last_week": {
-    "plays": 627,
-    "minutes": 1999
+    "plays": 638,
+    "minutes": 2029
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -89,24 +89,24 @@
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 21,
-      "last_week_plays": 20,
-      "change": "+8"
-    },
-    {
-      "rank": 5,
       "name": "Future",
       "plays": 21,
       "last_week_plays": 39,
-      "change": "-1"
+      "change": "="
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "The Alchemist",
       "plays": 20,
       "last_week_plays": 34,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 6,
+      "name": "Conway the Machine",
+      "plays": 20,
+      "last_week_plays": 21,
+      "change": "+6"
     },
     {
       "rank": 7,
@@ -117,17 +117,17 @@
     },
     {
       "rank": 8,
-      "name": "Gunna",
-      "plays": 19,
-      "last_week_plays": 51,
-      "change": "-7"
-    },
-    {
-      "rank": 9,
       "name": "Kanye West",
       "plays": 19,
       "last_week_plays": 12,
-      "change": "+10"
+      "change": "+12"
+    },
+    {
+      "rank": 9,
+      "name": "Gunna",
+      "plays": 18,
+      "last_week_plays": 52,
+      "change": "-8"
     },
     {
       "rank": 10,
@@ -141,23 +141,23 @@
     {
       "rank": 1,
       "name": "Wine & Dine - YoungBoy Never Broke Again",
-      "plays": 5,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "plays": 4,
+      "last_week_plays": 1,
+      "change": "+543"
     },
     {
       "rank": 2,
       "name": "8am in Charlotte - Drake",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+412"
+      "change": "+414"
     },
     {
       "rank": 3,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+247"
+      "change": "+249"
     },
     {
       "rank": 4,
@@ -168,45 +168,45 @@
     },
     {
       "rank": 5,
-      "name": "Back On - Quality Control",
-      "plays": 2,
-      "last_week_plays": 4,
-      "change": "-3"
-    },
-    {
-      "rank": 6,
       "name": "Losing My Cool - Rod Wave",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "NEW DROP - Don Toliver",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Everything I Am - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "sakpase - Gunna",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+518"
+      "change": "+519"
+    },
+    {
+      "rank": 10,
+      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 2,
+      "last_week_plays": 3,
+      "change": "+2"
     }
   ],
   "dropped_off": [],
@@ -253,13 +253,13 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 80,
+    "plays_of_new_tracks_pct": 79,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
       "track": "Wine & Dine - YoungBoy Never Broke Again",
-      "plays": 5
+      "plays": 4
     },
     {
       "track": "8am in Charlotte - Drake",
@@ -277,7 +277,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 66,
-    "Afternoon (12pm-5pm)": 176,
+    "Afternoon (12pm-5pm)": 168,
     "Evening (5pm-9pm)": 152,
     "Night (9pm-12am)": 37
   },
@@ -288,7 +288,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 73
+    "Sun": 65
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -315,16 +315,16 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 11,
-    "2000s": 38,
-    "2010s": 132,
-    "2020s": 252
+    "1990s": 12,
+    "2000s": 36,
+    "2010s": 130,
+    "2020s": 247
   },
   "listening_style": {
     "played_from": {
-      "other": 322,
-      "playlist": 108,
-      "album": 3,
+      "other": 317,
+      "playlist": 106,
+      "album": 2,
       "artist": 1
     },
     "full_album_sessions": 0
