@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-08T16:51-05:00",
+  "generated_at": "2026-11-08T17:51-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1080,
+  "total_plays_logged": 1092,
   "this_week": {
-    "plays": 426,
-    "minutes": 1461,
+    "plays": 427,
+    "minutes": 1465,
     "unique_tracks": 385,
-    "unique_artists": 206
+    "unique_artists": 204
   },
   "last_week": {
-    "plays": 638,
-    "minutes": 2029
+    "plays": 648,
+    "minutes": 2064
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 2,
-    "skipped_plays": 10,
+    "skip_rate_pct": 3,
+    "skipped_plays": 11,
     "most_skipped_tracks": [
       {
         "track": "Drive and Disconnect - Nao",
@@ -83,57 +83,57 @@
     {
       "rank": 3,
       "name": "Freddie Gibbs",
-      "plays": 23,
+      "plays": 24,
       "last_week_plays": 16,
-      "change": "+12"
+      "change": "+13"
     },
     {
       "rank": 4,
       "name": "Future",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 39,
       "change": "="
     },
     {
       "rank": 5,
-      "name": "The Alchemist",
-      "plays": 20,
-      "last_week_plays": 34,
-      "change": "+1"
+      "name": "Conway the Machine",
+      "plays": 21,
+      "last_week_plays": 21,
+      "change": "+7"
     },
     {
       "rank": 6,
-      "name": "Conway the Machine",
-      "plays": 20,
-      "last_week_plays": 21,
-      "change": "+6"
-    },
-    {
-      "rank": 7,
       "name": "J. Cole",
       "plays": 20,
       "last_week_plays": 31,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 7,
+      "name": "The Alchemist",
+      "plays": 19,
+      "last_week_plays": 35,
+      "change": "-1"
     },
     {
       "rank": 8,
-      "name": "Kanye West",
-      "plays": 19,
-      "last_week_plays": 12,
-      "change": "+12"
-    },
-    {
-      "rank": 9,
       "name": "Gunna",
       "plays": 18,
       "last_week_plays": 52,
-      "change": "-8"
+      "change": "-7"
+    },
+    {
+      "rank": 9,
+      "name": "Kanye West",
+      "plays": 17,
+      "last_week_plays": 14,
+      "change": "+8"
     },
     {
       "rank": 10,
       "name": "21 Savage",
-      "plays": 17,
-      "last_week_plays": 28,
+      "plays": 16,
+      "last_week_plays": 29,
       "change": "-1"
     }
   ],
@@ -168,45 +168,45 @@
     },
     {
       "rank": 5,
-      "name": "Losing My Cool - Rod Wave",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
-      "name": "NEW DROP - Don Toliver",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
-      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 8,
       "name": "Everything I Am - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "name": "sakpase - Gunna",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+519"
+      "change": "+522"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 2,
       "last_week_plays": 3,
-      "change": "+2"
+      "change": "+5"
+    },
+    {
+      "rank": 8,
+      "name": "Primetime - JAŸ-Z",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "WESTSIDE - Westside Gunn",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+96"
+    },
+    {
+      "rank": 10,
+      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
+      "plays": 2,
+      "last_week_plays": 2,
+      "change": "+36"
     }
   ],
   "dropped_off": [],
@@ -217,15 +217,19 @@
         "plays": 3
       },
       {
-        "name": "Frank Ocean",
-        "plays": 2
-      },
-      {
         "name": "DJ Premier",
         "plays": 2
       },
       {
         "name": "Daniel Caesar",
+        "plays": 2
+      },
+      {
+        "name": "Snoop Dogg",
+        "plays": 2
+      },
+      {
+        "name": "October London",
         "plays": 2
       },
       {
@@ -247,13 +251,9 @@
       {
         "name": "BashfortheWorld",
         "plays": 2
-      },
-      {
-        "name": "MIKE",
-        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 79,
+    "plays_of_new_tracks_pct": 78,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -277,8 +277,8 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 66,
-    "Afternoon (12pm-5pm)": 168,
-    "Evening (5pm-9pm)": 152,
+    "Afternoon (12pm-5pm)": 167,
+    "Evening (5pm-9pm)": 154,
     "Night (9pm-12am)": 37
   },
   "day_of_week": {
@@ -288,7 +288,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 65
+    "Sun": 66
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -318,11 +318,11 @@
     "1990s": 12,
     "2000s": 36,
     "2010s": 130,
-    "2020s": 247
+    "2020s": 248
   },
   "listening_style": {
     "played_from": {
-      "other": 317,
+      "other": 318,
       "playlist": 106,
       "album": 2,
       "artist": 1
