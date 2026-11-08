@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-08T14:56-05:00",
+  "generated_at": "2026-11-08T15:51-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1072,
+  "total_plays_logged": 1077,
   "this_week": {
-    "plays": 435,
-    "minutes": 1480,
+    "plays": 434,
+    "minutes": 1479,
     "unique_tracks": 392,
-    "unique_artists": 208
+    "unique_artists": 212
   },
   "last_week": {
-    "plays": 621,
-    "minutes": 1979
+    "plays": 627,
+    "minutes": 1999
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -89,45 +89,45 @@
     },
     {
       "rank": 4,
-      "name": "Kanye West",
-      "plays": 21,
-      "last_week_plays": 10,
-      "change": "+18"
-    },
-    {
-      "rank": 5,
       "name": "Conway the Machine",
       "plays": 21,
       "last_week_plays": 20,
-      "change": "+7"
+      "change": "+8"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Future",
       "plays": 21,
       "last_week_plays": 39,
-      "change": "-2"
+      "change": "-1"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "The Alchemist",
       "plays": 20,
       "last_week_plays": 34,
-      "change": "-1"
+      "change": "="
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "J. Cole",
       "plays": 20,
       "last_week_plays": 31,
-      "change": "-1"
+      "change": "="
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Gunna",
       "plays": 19,
       "last_week_plays": 51,
-      "change": "-8"
+      "change": "-7"
+    },
+    {
+      "rank": 9,
+      "name": "Kanye West",
+      "plays": 19,
+      "last_week_plays": 12,
+      "change": "+10"
     },
     {
       "rank": 10,
@@ -168,45 +168,45 @@
     },
     {
       "rank": 5,
-      "name": "Jesus Walks - Kanye West",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
-      "name": "New Choppa - Playboi Carti",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
       "name": "Back On - Quality Control",
       "plays": 2,
       "last_week_plays": 4,
-      "change": "-5"
+      "change": "-3"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Losing My Cool - Rod Wave",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "name": "NEW DROP - Don Toliver",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Everything I Am - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "sakpase - Gunna",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+518"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 81,
+    "plays_of_new_tracks_pct": 80,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -277,7 +277,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 66,
-    "Afternoon (12pm-5pm)": 177,
+    "Afternoon (12pm-5pm)": 176,
     "Evening (5pm-9pm)": 152,
     "Night (9pm-12am)": 37
   },
@@ -288,7 +288,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 74
+    "Sun": 73
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -305,11 +305,11 @@
       "days": 7
     },
     {
-      "artist": "21 Savage",
-      "days": 4
+      "artist": "Brent Faiyaz",
+      "days": 5
     },
     {
-      "artist": "Metro Boomin",
+      "artist": "21 Savage",
       "days": 4
     }
   ],
@@ -317,13 +317,13 @@
     "1970s": 1,
     "1990s": 11,
     "2000s": 38,
-    "2010s": 133,
+    "2010s": 132,
     "2020s": 252
   },
   "listening_style": {
     "played_from": {
       "other": 322,
-      "playlist": 109,
+      "playlist": 108,
       "album": 3,
       "artist": 1
     },
