@@ -1,9 +1,9 @@
 # Listening Report
-**2026-11-01 to 2026-11-08** · updated 2026-11-08 17:51 ET
+**2026-11-01 to 2026-11-08** · updated 2026-11-08 18:49 ET
 
-**427 plays** (-221 vs last week) · **1465 minutes** · 204 artists · 385 songs
+**445 plays** (-204 vs last week) · **1518 minutes** · 213 artists · 398 songs
 
-_Counting real listens only. 11 skips left out (3% skip rate)._
+_Counting real listens only. 11 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
@@ -12,9 +12,9 @@ _Counting real listens only. 11 skips left out (3% skip rate)._
 | 2 | Westside Gunn | 30 | = |
 | 3 | Freddie Gibbs | 24 | +13 |
 | 4 | Future | 22 | = |
-| 5 | Conway the Machine | 21 | +7 |
-| 6 | J. Cole | 20 | +1 |
-| 7 | The Alchemist | 19 | -1 |
+| 5 | Conway the Machine | 22 | +7 |
+| 6 | The Alchemist | 20 | = |
+| 7 | J. Cole | 20 | = |
 | 8 | Gunna | 18 | -7 |
 | 9 | Kanye West | 17 | +8 |
 | 10 | 21 Savage | 16 | -1 |
@@ -35,7 +35,7 @@ _Counting real listens only. 11 skips left out (3% skip rate)._
 
 ## Discovery
 78% of plays were songs not in your log before this week.
-New artists: Nao (3), DJ Premier (2), Daniel Caesar (2), Snoop Dogg (2), October London (2), Lelo (2), SiR (2), Key Glock (2), GT (2), BashfortheWorld (2)
+New artists: MIKE (3), Nao (3), DJ Premier (2), Daniel Caesar (2), Snoop Dogg (2), October London (2), Lelo (2), ScHoolboy Q (2), SiR (2), Conductor Williams (2)
 
 ## On repeat (3+ plays)
 - Wine & Dine - YoungBoy Never Broke Again - 4x
@@ -54,8 +54,8 @@ New artists: Nao (3), DJ Premier (2), Daniel Caesar (2), Snoop Dogg (2), October
 ```
 Late night (12am-5am)   3
 Morning (5am-12pm)     ████████ 66
-Afternoon (12pm-5pm)   ████████████████████ 167
-Evening (5pm-9pm)      ██████████████████ 154
+Afternoon (12pm-5pm)   ███████████████████ 167
+Evening (5pm-9pm)      ████████████████████ 172
 Night (9pm-12am)       ████ 37
 
 Mon                    ███████████████ 65
@@ -64,7 +64,7 @@ Wed                    ██████████ 46
 Thu                    █████████████ 57
 Fri                    █████ 24
 Sat                    ████████████████████ 89
-Sun                    ███████████████ 66
+Sun                    ███████████████████ 84
 ```
 
 ## Streaks
@@ -72,13 +72,13 @@ Sun                    ███████████████ 66
 - Freddie Gibbs: 7 days in a row
 - Future: 7 days in a row
 - Brent Faiyaz: 5 days in a row
-- 21 Savage: 4 days in a row
+- Leon Thomas: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 12, 2000s: 36, 2010s: 130, 2020s: 248
+1970s: 1, 1990s: 12, 2000s: 37, 2010s: 134, 2020s: 261
 
 ## How you listen
-Played from: other 318, playlist 106, album 2, artist 1
+Played from: other 336, playlist 106, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1092 plays recorded total._
+_Log started 2026-10-26 · 1111 plays recorded total._

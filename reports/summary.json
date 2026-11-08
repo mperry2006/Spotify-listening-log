@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-08T17:51-05:00",
+  "generated_at": "2026-11-08T18:49-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1092,
+  "total_plays_logged": 1111,
   "this_week": {
-    "plays": 427,
-    "minutes": 1465,
-    "unique_tracks": 385,
-    "unique_artists": 204
+    "plays": 445,
+    "minutes": 1518,
+    "unique_tracks": 398,
+    "unique_artists": 213
   },
   "last_week": {
-    "plays": 648,
-    "minutes": 2064
+    "plays": 649,
+    "minutes": 2067
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 3,
+    "skip_rate_pct": 2,
     "skipped_plays": 11,
     "most_skipped_tracks": [
       {
@@ -97,23 +97,23 @@
     {
       "rank": 5,
       "name": "Conway the Machine",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 21,
       "change": "+7"
     },
     {
       "rank": 6,
-      "name": "J. Cole",
+      "name": "The Alchemist",
       "plays": 20,
-      "last_week_plays": 31,
-      "change": "+1"
+      "last_week_plays": 35,
+      "change": "="
     },
     {
       "rank": 7,
-      "name": "The Alchemist",
-      "plays": 19,
-      "last_week_plays": 35,
-      "change": "-1"
+      "name": "J. Cole",
+      "plays": 20,
+      "last_week_plays": 31,
+      "change": "="
     },
     {
       "rank": 8,
@@ -213,6 +213,10 @@
   "discovery": {
     "new_artists": [
       {
+        "name": "MIKE",
+        "plays": 3
+      },
+      {
         "name": "Nao",
         "plays": 3
       },
@@ -237,19 +241,15 @@
         "plays": 2
       },
       {
+        "name": "ScHoolboy Q",
+        "plays": 2
+      },
+      {
         "name": "SiR",
         "plays": 2
       },
       {
-        "name": "Key Glock",
-        "plays": 2
-      },
-      {
-        "name": "GT",
-        "plays": 2
-      },
-      {
-        "name": "BashfortheWorld",
+        "name": "Conductor Williams",
         "plays": 2
       }
     ],
@@ -278,7 +278,7 @@
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 66,
     "Afternoon (12pm-5pm)": 167,
-    "Evening (5pm-9pm)": 154,
+    "Evening (5pm-9pm)": 172,
     "Night (9pm-12am)": 37
   },
   "day_of_week": {
@@ -288,7 +288,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 66
+    "Sun": 84
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -309,20 +309,20 @@
       "days": 5
     },
     {
-      "artist": "21 Savage",
-      "days": 4
+      "artist": "Leon Thomas",
+      "days": 5
     }
   ],
   "release_eras": {
     "1970s": 1,
     "1990s": 12,
-    "2000s": 36,
-    "2010s": 130,
-    "2020s": 248
+    "2000s": 37,
+    "2010s": 134,
+    "2020s": 261
   },
   "listening_style": {
     "played_from": {
-      "other": 318,
+      "other": 336,
       "playlist": 106,
       "album": 2,
       "artist": 1
