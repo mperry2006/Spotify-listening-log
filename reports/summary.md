@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-01 to 2026-11-08** · updated 2026-11-08 12:48 ET
+**2026-11-01 to 2026-11-08** · updated 2026-11-08 13:59 ET
 
-**432 plays** (-183 vs last week) · **1467 minutes** · 208 artists · 390 songs
+**433 plays** (-183 vs last week) · **1474 minutes** · 207 artists · 391 songs
 
-_Counting real listens only. 15 skips left out (3% skip rate)._
+_Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 45 | +7 |
+| 1 | Drake | 46 | +7 |
 | 2 | Westside Gunn | 30 | = |
 | 3 | Freddie Gibbs | 23 | +12 |
 | 4 | Conway the Machine | 21 | +8 |
@@ -45,16 +45,16 @@ New artists: Nao (3), Jae Stephens (2), Frank Ocean (2), DJ Premier (2), Daniel 
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
-- Flashing Lights - Kanye West - skipped 3x
-- Soundgasm - Rema - skipped 1x
-- Stronger - Kanye West - skipped 1x
 - t h e . c l i m b . b a c k - J. Cole - skipped 1x
+- Roses - Kanye West - skipped 1x
+- Brand New Draco - 21 Savage - skipped 1x
+- Lemon Pepper Steppers - Freddie Gibbs - skipped 1x
 
 ## When you listen
 ```
 Late night (12am-5am)   3
 Morning (5am-12pm)     ████████ 66
-Afternoon (12pm-5pm)   ████████████████████ 174
+Afternoon (12pm-5pm)   ████████████████████ 175
 Evening (5pm-9pm)      █████████████████ 152
 Night (9pm-12am)       ████ 37
 
@@ -64,7 +64,7 @@ Wed                    ██████████ 46
 Thu                    █████████████ 57
 Fri                    █████ 24
 Sat                    ████████████████████ 89
-Sun                    ████████████████ 71
+Sun                    ████████████████ 72
 ```
 
 ## Streaks
@@ -75,10 +75,10 @@ Sun                    ████████████████ 71
 - Metro Boomin: 4 days in a row
 
 ## Eras
-1970s: 1, 1990s: 11, 2000s: 35, 2010s: 133, 2020s: 252
+1970s: 1, 1990s: 11, 2000s: 36, 2010s: 133, 2020s: 252
 
 ## How you listen
-Played from: other 320, playlist 107, album 4, artist 1
+Played from: other 322, playlist 106, album 4, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1063 plays recorded total._
+_Log started 2026-10-26 · 1065 plays recorded total._

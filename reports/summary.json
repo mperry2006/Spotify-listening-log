@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-11-08T12:48-05:00",
+  "generated_at": "2026-11-08T13:59-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1063,
+  "total_plays_logged": 1065,
   "this_week": {
-    "plays": 432,
-    "minutes": 1467,
-    "unique_tracks": 390,
-    "unique_artists": 208
+    "plays": 433,
+    "minutes": 1474,
+    "unique_tracks": 391,
+    "unique_artists": 207
   },
   "last_week": {
-    "plays": 615,
-    "minutes": 1959
+    "plays": 616,
+    "minutes": 1962
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 3,
-    "skipped_plays": 15,
+    "skip_rate_pct": 2,
+    "skipped_plays": 10,
     "most_skipped_tracks": [
       {
         "track": "Drive and Disconnect - Nao",
         "skips": 6
       },
       {
-        "track": "Flashing Lights - Kanye West",
-        "skips": 3
-      },
-      {
-        "track": "Soundgasm - Rema",
-        "skips": 1
-      },
-      {
-        "track": "Stronger - Kanye West",
-        "skips": 1
-      },
-      {
         "track": "t h e . c l i m b . b a c k - J. Cole",
+        "skips": 1
+      },
+      {
+        "track": "Roses - Kanye West",
+        "skips": 1
+      },
+      {
+        "track": "Brand New Draco - 21 Savage",
+        "skips": 1
+      },
+      {
+        "track": "Lemon Pepper Steppers - Freddie Gibbs",
         "skips": 1
       }
     ],
@@ -48,19 +48,19 @@
         "skips": 6
       },
       {
-        "artist": "Kanye West",
-        "skips": 5
-      },
-      {
-        "artist": "Rema",
-        "skips": 1
-      },
-      {
         "artist": "J. Cole",
         "skips": 1
       },
       {
+        "artist": "Kanye West",
+        "skips": 1
+      },
+      {
         "artist": "21 Savage",
+        "skips": 1
+      },
+      {
+        "artist": "Freddie Gibbs",
         "skips": 1
       }
     ]
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 45,
+      "plays": 46,
       "last_week_plays": 30,
       "change": "+7"
     },
@@ -277,7 +277,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 66,
-    "Afternoon (12pm-5pm)": 174,
+    "Afternoon (12pm-5pm)": 175,
     "Evening (5pm-9pm)": 152,
     "Night (9pm-12am)": 37
   },
@@ -288,7 +288,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 71
+    "Sun": 72
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -316,14 +316,14 @@
   "release_eras": {
     "1970s": 1,
     "1990s": 11,
-    "2000s": 35,
+    "2000s": 36,
     "2010s": 133,
     "2020s": 252
   },
   "listening_style": {
     "played_from": {
-      "other": 320,
-      "playlist": 107,
+      "other": 322,
+      "playlist": 106,
       "album": 4,
       "artist": 1
     },
