@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-09T14:13-05:00",
+  "generated_at": "2026-11-09T15:07-05:00",
   "window": {
     "start": "2026-11-02",
     "end": "2026-11-09"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1194,
+  "total_plays_logged": 1210,
   "this_week": {
-    "plays": 506,
-    "minutes": 1731,
-    "unique_tracks": 447,
-    "unique_artists": 230
+    "plays": 516,
+    "minutes": 1762,
+    "unique_tracks": 455,
+    "unique_artists": 232
   },
   "last_week": {
-    "plays": 639,
-    "minutes": 2031
+    "plays": 637,
+    "minutes": 2028
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -77,34 +77,34 @@
       "rank": 2,
       "name": "Westside Gunn",
       "plays": 30,
-      "last_week_plays": 47,
+      "last_week_plays": 45,
       "change": "="
     },
     {
       "rank": 3,
-      "name": "Conway the Machine",
-      "plays": 27,
-      "last_week_plays": 22,
-      "change": "+9"
-    },
-    {
-      "rank": 4,
       "name": "Future",
       "plays": 27,
       "last_week_plays": 40,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 4,
+      "name": "Conway the Machine",
+      "plays": 26,
+      "last_week_plays": 23,
+      "change": "+6"
     },
     {
       "rank": 5,
       "name": "Freddie Gibbs",
       "plays": 25,
-      "last_week_plays": 14,
-      "change": "+14"
+      "last_week_plays": 16,
+      "change": "+10"
     },
     {
       "rank": 6,
       "name": "J. Cole",
-      "plays": 22,
+      "plays": 25,
       "last_week_plays": 29,
       "change": "+2"
     },
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "Benny The Butcher",
-      "plays": 18,
-      "last_week_plays": 17,
-      "change": "+5"
+      "name": "Lil Baby",
+      "plays": 19,
+      "last_week_plays": 39,
+      "change": "-4"
     },
     {
       "rank": 10,
-      "name": "Lil Baby",
+      "name": "Metro Boomin",
       "plays": 17,
-      "last_week_plays": 39,
-      "change": "-5"
+      "last_week_plays": 15,
+      "change": "+8"
     }
   ],
   "top_tracks": [
@@ -150,42 +150,42 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+513"
+      "change": "+507"
     },
     {
       "rank": 3,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+222"
+      "change": "+214"
     },
     {
       "rank": 4,
+      "name": "No Window Tints - Curren$y",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+80"
+    },
+    {
+      "rank": 5,
       "name": "Drive and Disconnect - Nao",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Stories About My Brother - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
-      "name": "WESTSIDE - Westside Gunn",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+72"
-    },
-    {
       "rank": 7,
       "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+39"
+      "change": "+37"
     },
     {
       "rank": 8,
@@ -270,6 +270,10 @@
       "plays": 3
     },
     {
+      "track": "No Window Tints - Curren$y",
+      "plays": 3
+    },
+    {
       "track": "Drive and Disconnect - Nao",
       "plays": 3
     },
@@ -281,12 +285,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 1,
     "Morning (5am-12pm)": 65,
-    "Afternoon (12pm-5pm)": 179,
+    "Afternoon (12pm-5pm)": 189,
     "Evening (5pm-9pm)": 199,
     "Night (9pm-12am)": 62
   },
   "day_of_week": {
-    "Mon": 74,
+    "Mon": 84,
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
@@ -301,12 +305,12 @@
       "days": 15
     },
     {
-      "artist": "Future",
+      "artist": "Freddie Gibbs",
       "days": 8
     },
     {
-      "artist": "Freddie Gibbs",
-      "days": 7
+      "artist": "Future",
+      "days": 8
     },
     {
       "artist": "21 Savage",
@@ -320,14 +324,14 @@
   "release_eras": {
     "1970s": 1,
     "1990s": 17,
-    "2000s": 39,
-    "2010s": 153,
-    "2020s": 296
+    "2000s": 41,
+    "2010s": 156,
+    "2020s": 301
   },
   "listening_style": {
     "played_from": {
-      "other": 402,
-      "playlist": 101,
+      "other": 418,
+      "playlist": 95,
       "album": 2,
       "artist": 1
     },
