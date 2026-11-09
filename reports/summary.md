@@ -1,37 +1,37 @@
 # Listening Report
-**2026-11-02 to 2026-11-09** · updated 2026-11-09 13:05 ET
+**2026-11-02 to 2026-11-09** · updated 2026-11-09 14:13 ET
 
-**490 plays** (-150 vs last week) · **1673 minutes** · 228 artists · 434 songs
+**506 plays** (-133 vs last week) · **1731 minutes** · 230 artists · 447 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 50 | +6 |
-| 2 | Westside Gunn | 29 | = |
-| 3 | Conway the Machine | 26 | +9 |
-| 4 | Freddie Gibbs | 25 | +15 |
-| 5 | Future | 25 | -1 |
-| 6 | J. Cole | 21 | +2 |
-| 7 | 21 Savage | 20 | +2 |
+| 1 | Drake | 52 | +6 |
+| 2 | Westside Gunn | 30 | = |
+| 3 | Conway the Machine | 27 | +9 |
+| 4 | Future | 27 | = |
+| 5 | Freddie Gibbs | 25 | +14 |
+| 6 | J. Cole | 22 | +2 |
+| 7 | 21 Savage | 21 | +2 |
 | 8 | The Alchemist | 19 | -2 |
-| 9 | Benny The Butcher | 17 | +5 |
+| 9 | Benny The Butcher | 18 | +5 |
 | 10 | Lil Baby | 17 | -5 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Blueslides - ScHoolboy Q | 4 | NEW |
-| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +516 |
-| 3 | Brand New Draco - 21 Savage | 3 | +225 |
+| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +513 |
+| 3 | Brand New Draco - 21 Savage | 3 | +222 |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
-| 5 | WESTSIDE - Westside Gunn | 2 | +76 |
-| 6 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +40 |
-| 7 | Tell a Friend - Freddie Gibbs | 2 | NEW |
-| 8 | DR BIRDS - Griselda | 2 | NEW |
-| 9 | Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs | 2 | NEW |
-| 10 | FromHere (feat. Snoop Dogg & October London) - NxWorries | 2 | NEW |
+| 5 | Stories About My Brother - Drake | 3 | NEW |
+| 6 | WESTSIDE - Westside Gunn | 2 | +72 |
+| 7 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +39 |
+| 8 | Tell a Friend - Freddie Gibbs | 2 | NEW |
+| 9 | DR BIRDS - Griselda | 2 | NEW |
+| 10 | Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs | 2 | NEW |
 
 ## Discovery
 79% of plays were songs not in your log before this week.
@@ -42,6 +42,7 @@ New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), Daniel
 - Wine & Dine - YoungBoy Never Broke Again - 4x
 - Brand New Draco - 21 Savage - 3x
 - Drive and Disconnect - Nao - 3x
+- Stories About My Brother - Drake - 3x
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
@@ -54,11 +55,11 @@ New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), Daniel
 ```
 Late night (12am-5am)   1
 Morning (5am-12pm)     ███████ 65
-Afternoon (12pm-5pm)   ████████████████ 163
+Afternoon (12pm-5pm)   ██████████████████ 179
 Evening (5pm-9pm)      ████████████████████ 199
 Night (9pm-12am)       ██████ 62
 
-Mon                    █████████ 58
+Mon                    ███████████ 74
 Tue                    ████████████ 80
 Wed                    ███████ 46
 Thu                    ████████ 57
@@ -71,14 +72,14 @@ Sun                    ███████████████████
 - Drake: 15 days in a row
 - Future: 8 days in a row
 - Freddie Gibbs: 7 days in a row
+- 21 Savage: 5 days in a row
 - Metro Boomin: 5 days in a row
-- Brent Faiyaz: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 15, 2000s: 38, 2010s: 145, 2020s: 291
+1970s: 1, 1990s: 17, 2000s: 39, 2010s: 153, 2020s: 296
 
 ## How you listen
-Played from: other 384, playlist 103, album 2, artist 1
+Played from: other 402, playlist 101, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1176 plays recorded total._
+_Log started 2026-10-26 · 1194 plays recorded total._

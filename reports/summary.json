@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-09T13:05-05:00",
+  "generated_at": "2026-11-09T14:13-05:00",
   "window": {
     "start": "2026-11-02",
     "end": "2026-11-09"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1176,
+  "total_plays_logged": 1194,
   "this_week": {
-    "plays": 490,
-    "minutes": 1673,
-    "unique_tracks": 434,
-    "unique_artists": 228
+    "plays": 506,
+    "minutes": 1731,
+    "unique_tracks": 447,
+    "unique_artists": 230
   },
   "last_week": {
-    "plays": 640,
-    "minutes": 2034
+    "plays": 639,
+    "minutes": 2031
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,49 +69,49 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 50,
+      "plays": 52,
       "last_week_plays": 30,
       "change": "+6"
     },
     {
       "rank": 2,
       "name": "Westside Gunn",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 47,
       "change": "="
     },
     {
       "rank": 3,
       "name": "Conway the Machine",
-      "plays": 26,
-      "last_week_plays": 21,
+      "plays": 27,
+      "last_week_plays": 22,
       "change": "+9"
     },
     {
       "rank": 4,
-      "name": "Freddie Gibbs",
-      "plays": 25,
-      "last_week_plays": 14,
-      "change": "+15"
+      "name": "Future",
+      "plays": 27,
+      "last_week_plays": 40,
+      "change": "="
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "Freddie Gibbs",
       "plays": 25,
-      "last_week_plays": 40,
-      "change": "-1"
+      "last_week_plays": 14,
+      "change": "+14"
     },
     {
       "rank": 6,
       "name": "J. Cole",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 29,
       "change": "+2"
     },
     {
       "rank": 7,
       "name": "21 Savage",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 27,
       "change": "+2"
     },
@@ -119,14 +119,14 @@
       "rank": 8,
       "name": "The Alchemist",
       "plays": 19,
-      "last_week_plays": 32,
+      "last_week_plays": 31,
       "change": "-2"
     },
     {
       "rank": 9,
       "name": "Benny The Butcher",
-      "plays": 17,
-      "last_week_plays": 18,
+      "plays": 18,
+      "last_week_plays": 17,
       "change": "+5"
     },
     {
@@ -150,14 +150,14 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+516"
+      "change": "+513"
     },
     {
       "rank": 3,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+225"
+      "change": "+222"
     },
     {
       "rank": 4,
@@ -168,42 +168,42 @@
     },
     {
       "rank": 5,
-      "name": "WESTSIDE - Westside Gunn",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+76"
+      "name": "Stories About My Brother - Drake",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
+      "name": "WESTSIDE - Westside Gunn",
       "plays": 2,
-      "last_week_plays": 2,
-      "change": "+40"
+      "last_week_plays": 1,
+      "change": "+72"
     },
     {
       "rank": 7,
+      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
+      "plays": 2,
+      "last_week_plays": 2,
+      "change": "+39"
+    },
+    {
+      "rank": 8,
       "name": "Tell a Friend - Freddie Gibbs",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "DR BIRDS - Griselda",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "FromHere (feat. Snoop Dogg & October London) - NxWorries",
+      "name": "Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -272,17 +272,21 @@
     {
       "track": "Drive and Disconnect - Nao",
       "plays": 3
+    },
+    {
+      "track": "Stories About My Brother - Drake",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 1,
     "Morning (5am-12pm)": 65,
-    "Afternoon (12pm-5pm)": 163,
+    "Afternoon (12pm-5pm)": 179,
     "Evening (5pm-9pm)": 199,
     "Night (9pm-12am)": 62
   },
   "day_of_week": {
-    "Mon": 58,
+    "Mon": 74,
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
@@ -305,25 +309,25 @@
       "days": 7
     },
     {
-      "artist": "Metro Boomin",
+      "artist": "21 Savage",
       "days": 5
     },
     {
-      "artist": "Brent Faiyaz",
+      "artist": "Metro Boomin",
       "days": 5
     }
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 15,
-    "2000s": 38,
-    "2010s": 145,
-    "2020s": 291
+    "1990s": 17,
+    "2000s": 39,
+    "2010s": 153,
+    "2020s": 296
   },
   "listening_style": {
     "played_from": {
-      "other": 384,
-      "playlist": 103,
+      "other": 402,
+      "playlist": 101,
       "album": 2,
       "artist": 1
     },
