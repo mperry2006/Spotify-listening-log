@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-09T15:07-05:00",
+  "generated_at": "2026-11-09T16:06-05:00",
   "window": {
     "start": "2026-11-02",
     "end": "2026-11-09"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1210,
+  "total_plays_logged": 1218,
   "this_week": {
     "plays": 516,
-    "minutes": 1762,
-    "unique_tracks": 455,
-    "unique_artists": 232
+    "minutes": 1759,
+    "unique_tracks": 456,
+    "unique_artists": 233
   },
   "last_week": {
-    "plays": 637,
-    "minutes": 2028
+    "plays": 640,
+    "minutes": 2038
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,8 +76,8 @@
     {
       "rank": 2,
       "name": "Westside Gunn",
-      "plays": 30,
-      "last_week_plays": 45,
+      "plays": 27,
+      "last_week_plays": 47,
       "change": "="
     },
     {
@@ -89,24 +89,24 @@
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 26,
-      "last_week_plays": 23,
-      "change": "+6"
-    },
-    {
-      "rank": 5,
-      "name": "Freddie Gibbs",
-      "plays": 25,
-      "last_week_plays": 16,
-      "change": "+10"
-    },
-    {
-      "rank": 6,
       "name": "J. Cole",
       "plays": 25,
       "last_week_plays": 29,
-      "change": "+2"
+      "change": "+4"
+    },
+    {
+      "rank": 5,
+      "name": "Conway the Machine",
+      "plays": 25,
+      "last_week_plays": 23,
+      "change": "+5"
+    },
+    {
+      "rank": 6,
+      "name": "Freddie Gibbs",
+      "plays": 23,
+      "last_week_plays": 18,
+      "change": "+8"
     },
     {
       "rank": 7,
@@ -117,17 +117,17 @@
     },
     {
       "rank": 8,
-      "name": "The Alchemist",
-      "plays": 19,
-      "last_week_plays": 31,
-      "change": "-2"
-    },
-    {
-      "rank": 9,
       "name": "Lil Baby",
       "plays": 19,
       "last_week_plays": 39,
-      "change": "-4"
+      "change": "-3"
+    },
+    {
+      "rank": 9,
+      "name": "The Alchemist",
+      "plays": 18,
+      "last_week_plays": 32,
+      "change": "-3"
     },
     {
       "rank": 10,
@@ -150,21 +150,21 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+507"
+      "change": "+502"
     },
     {
       "rank": 3,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+214"
+      "change": "+209"
     },
     {
       "rank": 4,
       "name": "No Window Tints - Curren$y",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+80"
+      "change": "+75"
     },
     {
       "rank": 5,
@@ -182,31 +182,31 @@
     },
     {
       "rank": 7,
-      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
-      "plays": 2,
-      "last_week_plays": 2,
-      "change": "+37"
+      "name": "I Can Love You - Mary J. Blige",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+444"
     },
     {
       "rank": 8,
-      "name": "Tell a Friend - Freddie Gibbs",
+      "name": "Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "DR BIRDS - Griselda",
+      "name": "FromHere (feat. Snoop Dogg & October London) - NxWorries",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs",
+      "name": "Passionfruit - Drake",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+398"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 79,
+    "plays_of_new_tracks_pct": 78,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -279,6 +279,10 @@
     },
     {
       "track": "Stories About My Brother - Drake",
+      "plays": 3
+    },
+    {
+      "track": "I Can Love You - Mary J. Blige",
       "plays": 3
     }
   ],
@@ -323,15 +327,15 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 17,
+    "1990s": 18,
     "2000s": 41,
-    "2010s": 156,
-    "2020s": 301
+    "2010s": 157,
+    "2020s": 299
   },
   "listening_style": {
     "played_from": {
-      "other": 418,
-      "playlist": 95,
+      "other": 426,
+      "playlist": 87,
       "album": 2,
       "artist": 1
     },

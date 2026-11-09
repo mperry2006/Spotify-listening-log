@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-02 to 2026-11-09** · updated 2026-11-09 15:07 ET
+**2026-11-02 to 2026-11-09** · updated 2026-11-09 16:06 ET
 
-**516 plays** (-121 vs last week) · **1762 minutes** · 232 artists · 455 songs
+**516 plays** (-124 vs last week) · **1759 minutes** · 233 artists · 456 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
@@ -9,32 +9,32 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 52 | +6 |
-| 2 | Westside Gunn | 30 | = |
+| 2 | Westside Gunn | 27 | = |
 | 3 | Future | 27 | +1 |
-| 4 | Conway the Machine | 26 | +6 |
-| 5 | Freddie Gibbs | 25 | +10 |
-| 6 | J. Cole | 25 | +2 |
+| 4 | J. Cole | 25 | +4 |
+| 5 | Conway the Machine | 25 | +5 |
+| 6 | Freddie Gibbs | 23 | +8 |
 | 7 | 21 Savage | 21 | +2 |
-| 8 | The Alchemist | 19 | -2 |
-| 9 | Lil Baby | 19 | -4 |
+| 8 | Lil Baby | 19 | -3 |
+| 9 | The Alchemist | 18 | -3 |
 | 10 | Metro Boomin | 17 | +8 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Blueslides - ScHoolboy Q | 4 | NEW |
-| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +507 |
-| 3 | Brand New Draco - 21 Savage | 3 | +214 |
-| 4 | No Window Tints - Curren$y | 3 | +80 |
+| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +502 |
+| 3 | Brand New Draco - 21 Savage | 3 | +209 |
+| 4 | No Window Tints - Curren$y | 3 | +75 |
 | 5 | Drive and Disconnect - Nao | 3 | NEW |
 | 6 | Stories About My Brother - Drake | 3 | NEW |
-| 7 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +37 |
-| 8 | Tell a Friend - Freddie Gibbs | 2 | NEW |
-| 9 | DR BIRDS - Griselda | 2 | NEW |
-| 10 | Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs | 2 | NEW |
+| 7 | I Can Love You - Mary J. Blige | 3 | +444 |
+| 8 | Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs | 2 | NEW |
+| 9 | FromHere (feat. Snoop Dogg & October London) - NxWorries | 2 | NEW |
+| 10 | Passionfruit - Drake | 2 | +398 |
 
 ## Discovery
-79% of plays were songs not in your log before this week.
+78% of plays were songs not in your log before this week.
 New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), Daniel Caesar (2), Snoop Dogg (2), October London (2), SiR (2), Conductor Williams (2)
 
 ## On repeat (3+ plays)
@@ -44,6 +44,7 @@ New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), Daniel
 - No Window Tints - Curren$y - 3x
 - Drive and Disconnect - Nao - 3x
 - Stories About My Brother - Drake - 3x
+- I Can Love You - Mary J. Blige - 3x
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
@@ -77,10 +78,10 @@ Sun                    ███████████████████
 - Metro Boomin: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 17, 2000s: 41, 2010s: 156, 2020s: 301
+1970s: 1, 1990s: 18, 2000s: 41, 2010s: 157, 2020s: 299
 
 ## How you listen
-Played from: other 418, playlist 95, album 2, artist 1
+Played from: other 426, playlist 87, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1210 plays recorded total._
+_Log started 2026-10-26 · 1218 plays recorded total._
