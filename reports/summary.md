@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-01 to 2026-11-08** · updated 2026-11-08 23:15 ET
+**2026-11-02 to 2026-11-09** · updated 2026-11-09 00:26 ET
 
-**497 plays** (-153 vs last week) · **1694 minutes** · 233 artists · 441 songs
+**496 plays** (-155 vs last week) · **1690 minutes** · 233 artists · 441 songs
 
 _Counting real listens only. 11 skips left out (2% skip rate)._
 
@@ -16,7 +16,7 @@ _Counting real listens only. 11 skips left out (2% skip rate)._
 | 6 | J. Cole | 21 | +2 |
 | 7 | The Alchemist | 20 | -1 |
 | 8 | 21 Savage | 20 | +1 |
-| 9 | Kanye West | 19 | +8 |
+| 9 | Kanye West | 18 | +8 |
 | 10 | Gunna | 18 | -9 |
 
 ## Top songs
@@ -26,16 +26,16 @@ _Counting real listens only. 11 skips left out (2% skip rate)._
 | 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +542 |
 | 3 | Brand New Draco - 21 Savage | 3 | +250 |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
-| 5 | Everything I Am - Kanye West | 2 | NEW |
-| 6 | sakpase - Gunna | 2 | +522 |
-| 7 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 2 | +5 |
-| 8 | Primetime - JAŸ-Z | 2 | NEW |
-| 9 | 8am in Charlotte - Drake | 2 | +48 |
-| 10 | WESTSIDE - Westside Gunn | 2 | +96 |
+| 5 | sakpase - Gunna | 2 | +523 |
+| 6 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 2 | +6 |
+| 7 | Primetime - JAŸ-Z | 2 | NEW |
+| 8 | 8am in Charlotte - Drake | 2 | +49 |
+| 9 | WESTSIDE - Westside Gunn | 2 | +97 |
+| 10 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +36 |
 
 ## Discovery
 79% of plays were songs not in your log before this week.
-New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), DJ Premier (2), Daniel Caesar (2), Snoop Dogg (2), October London (2), SiR (2)
+New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), Daniel Caesar (2), Snoop Dogg (2), October London (2), SiR (2), Conductor Williams (2)
 
 ## On repeat (3+ plays)
 - Blueslides - ScHoolboy Q - 4x
@@ -52,13 +52,13 @@ New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), DJ Pre
 
 ## When you listen
 ```
-Late night (12am-5am)   3
+Late night (12am-5am)   2
 Morning (5am-12pm)     ███████ 66
 Afternoon (12pm-5pm)   █████████████████ 167
 Evening (5pm-9pm)      ████████████████████ 199
 Night (9pm-12am)       ██████ 62
 
-Mon                    ██████████ 65
+Mon                    █████████ 64
 Tue                    ████████████ 80
 Wed                    ███████ 46
 Thu                    ████████ 57
@@ -75,10 +75,10 @@ Sun                    ███████████████████
 - Leon Thomas: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 14, 2000s: 39, 2010s: 147, 2020s: 296
+1970s: 1, 1990s: 14, 2000s: 38, 2010s: 147, 2020s: 296
 
 ## How you listen
-Played from: other 388, playlist 106, album 2, artist 1
+Played from: other 387, playlist 106, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1164 plays recorded total._
