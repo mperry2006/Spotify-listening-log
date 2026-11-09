@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:10-05:00",
+  "generated_at": "2026-11-09T11:19-05:00",
   "window": {
     "start": "2026-11-02",
     "end": "2026-11-09"
@@ -13,8 +13,8 @@
     "unique_artists": 232
   },
   "last_week": {
-    "plays": 652,
-    "minutes": 2079
+    "plays": 646,
+    "minutes": 2063
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,14 +70,14 @@
       "rank": 1,
       "name": "Drake",
       "plays": 48,
-      "last_week_plays": 31,
-      "change": "+6"
+      "last_week_plays": 30,
+      "change": "+7"
     },
     {
       "rank": 2,
       "name": "Westside Gunn",
       "plays": 31,
-      "last_week_plays": 47,
+      "last_week_plays": 46,
       "change": "="
     },
     {
@@ -106,13 +106,13 @@
       "name": "J. Cole",
       "plays": 21,
       "last_week_plays": 31,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 7,
       "name": "The Alchemist",
       "plays": 20,
-      "last_week_plays": 35,
+      "last_week_plays": 34,
       "change": "-1"
     },
     {
@@ -126,7 +126,7 @@
       "rank": 9,
       "name": "Gunna",
       "plays": 18,
-      "last_week_plays": 52,
+      "last_week_plays": 51,
       "change": "-8"
     },
     {
@@ -150,14 +150,14 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+543"
+      "change": "+538"
     },
     {
       "rank": 3,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+251"
+      "change": "+245"
     },
     {
       "rank": 4,
@@ -171,7 +171,7 @@
       "name": "sakpase - Gunna",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+524"
+      "change": "+519"
     },
     {
       "rank": 6,
@@ -192,21 +192,21 @@
       "name": "8am in Charlotte - Drake",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+49"
+      "change": "+48"
     },
     {
       "rank": 9,
       "name": "WESTSIDE - Westside Gunn",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+98"
+      "change": "+92"
     },
     {
       "rank": 10,
       "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+36"
+      "change": "+35"
     }
   ],
   "dropped_off": [],

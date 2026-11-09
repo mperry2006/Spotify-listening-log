@@ -1,19 +1,19 @@
 # Listening Report
-**2026-11-02 to 2026-11-09** · updated 2026-11-09 10:10 ET
+**2026-11-02 to 2026-11-09** · updated 2026-11-09 11:19 ET
 
-**495 plays** (-157 vs last week) · **1686 minutes** · 232 artists · 440 songs
+**495 plays** (-151 vs last week) · **1686 minutes** · 232 artists · 440 songs
 
 _Counting real listens only. 11 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 48 | +6 |
+| 1 | Drake | 48 | +7 |
 | 2 | Westside Gunn | 31 | = |
 | 3 | Conway the Machine | 27 | +9 |
 | 4 | Freddie Gibbs | 25 | +13 |
 | 5 | Future | 24 | -1 |
-| 6 | J. Cole | 21 | +2 |
+| 6 | J. Cole | 21 | +1 |
 | 7 | The Alchemist | 20 | -1 |
 | 8 | 21 Savage | 20 | +1 |
 | 9 | Gunna | 18 | -8 |
@@ -23,15 +23,15 @@ _Counting real listens only. 11 skips left out (2% skip rate)._
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Blueslides - ScHoolboy Q | 4 | NEW |
-| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +543 |
-| 3 | Brand New Draco - 21 Savage | 3 | +251 |
+| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +538 |
+| 3 | Brand New Draco - 21 Savage | 3 | +245 |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
-| 5 | sakpase - Gunna | 2 | +524 |
+| 5 | sakpase - Gunna | 2 | +519 |
 | 6 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 2 | +6 |
 | 7 | Primetime - JAŸ-Z | 2 | NEW |
-| 8 | 8am in Charlotte - Drake | 2 | +49 |
-| 9 | WESTSIDE - Westside Gunn | 2 | +98 |
-| 10 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +36 |
+| 8 | 8am in Charlotte - Drake | 2 | +48 |
+| 9 | WESTSIDE - Westside Gunn | 2 | +92 |
+| 10 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +35 |
 
 ## Discovery
 79% of plays were songs not in your log before this week.
