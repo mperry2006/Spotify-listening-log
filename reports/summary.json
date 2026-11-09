@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:06-05:00",
+  "generated_at": "2026-11-09T16:59-05:00",
   "window": {
     "start": "2026-11-02",
     "end": "2026-11-09"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1218,
   "this_week": {
-    "plays": 516,
-    "minutes": 1759,
+    "plays": 515,
+    "minutes": 1754,
     "unique_tracks": 456,
     "unique_artists": 233
   },
   "last_week": {
-    "plays": 640,
-    "minutes": 2038
+    "plays": 641,
+    "minutes": 2043
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -104,8 +104,8 @@
     {
       "rank": 6,
       "name": "Freddie Gibbs",
-      "plays": 23,
-      "last_week_plays": 18,
+      "plays": 22,
+      "last_week_plays": 19,
       "change": "+8"
     },
     {
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 32,
-      "change": "-3"
-    },
-    {
-      "rank": 10,
       "name": "Metro Boomin",
       "plays": 17,
       "last_week_plays": 15,
-      "change": "+8"
+      "change": "+9"
+    },
+    {
+      "rank": 10,
+      "name": "Kanye West",
+      "plays": 17,
+      "last_week_plays": 15,
+      "change": "+6"
     }
   ],
   "top_tracks": [
@@ -189,24 +189,24 @@
     },
     {
       "rank": 8,
-      "name": "Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 9,
       "name": "FromHere (feat. Snoop Dogg & October London) - NxWorries",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Passionfruit - Drake",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+398"
+      "change": "+399"
+    },
+    {
+      "rank": 10,
+      "name": "Guilty - Conductor Williams",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -289,12 +289,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 1,
     "Morning (5am-12pm)": 65,
-    "Afternoon (12pm-5pm)": 189,
+    "Afternoon (12pm-5pm)": 188,
     "Evening (5pm-9pm)": 199,
     "Night (9pm-12am)": 62
   },
   "day_of_week": {
-    "Mon": 84,
+    "Mon": 83,
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
@@ -330,12 +330,12 @@
     "1990s": 18,
     "2000s": 41,
     "2010s": 157,
-    "2020s": 299
+    "2020s": 298
   },
   "listening_style": {
     "played_from": {
       "other": 426,
-      "playlist": 87,
+      "playlist": 86,
       "album": 2,
       "artist": 1
     },

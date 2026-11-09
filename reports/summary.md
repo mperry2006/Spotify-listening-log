@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-02 to 2026-11-09** · updated 2026-11-09 16:06 ET
+**2026-11-02 to 2026-11-09** · updated 2026-11-09 16:59 ET
 
-**516 plays** (-124 vs last week) · **1759 minutes** · 233 artists · 456 songs
+**515 plays** (-126 vs last week) · **1754 minutes** · 233 artists · 456 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
@@ -13,11 +13,11 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 3 | Future | 27 | +1 |
 | 4 | J. Cole | 25 | +4 |
 | 5 | Conway the Machine | 25 | +5 |
-| 6 | Freddie Gibbs | 23 | +8 |
+| 6 | Freddie Gibbs | 22 | +8 |
 | 7 | 21 Savage | 21 | +2 |
 | 8 | Lil Baby | 19 | -3 |
-| 9 | The Alchemist | 18 | -3 |
-| 10 | Metro Boomin | 17 | +8 |
+| 9 | Metro Boomin | 17 | +9 |
+| 10 | Kanye West | 17 | +6 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -29,9 +29,9 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 5 | Drive and Disconnect - Nao | 3 | NEW |
 | 6 | Stories About My Brother - Drake | 3 | NEW |
 | 7 | I Can Love You - Mary J. Blige | 3 | +444 |
-| 8 | Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs | 2 | NEW |
-| 9 | FromHere (feat. Snoop Dogg & October London) - NxWorries | 2 | NEW |
-| 10 | Passionfruit - Drake | 2 | +398 |
+| 8 | FromHere (feat. Snoop Dogg & October London) - NxWorries | 2 | NEW |
+| 9 | Passionfruit - Drake | 2 | +399 |
+| 10 | Guilty - Conductor Williams | 2 | NEW |
 
 ## Discovery
 78% of plays were songs not in your log before this week.
@@ -57,11 +57,11 @@ New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), Daniel
 ```
 Late night (12am-5am)   1
 Morning (5am-12pm)     ███████ 65
-Afternoon (12pm-5pm)   ███████████████████ 189
+Afternoon (12pm-5pm)   ███████████████████ 188
 Evening (5pm-9pm)      ████████████████████ 199
 Night (9pm-12am)       ██████ 62
 
-Mon                    ████████████ 84
+Mon                    ████████████ 83
 Tue                    ████████████ 80
 Wed                    ███████ 46
 Thu                    ████████ 57
@@ -78,10 +78,10 @@ Sun                    ███████████████████
 - Metro Boomin: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 18, 2000s: 41, 2010s: 157, 2020s: 299
+1970s: 1, 1990s: 18, 2000s: 41, 2010s: 157, 2020s: 298
 
 ## How you listen
-Played from: other 426, playlist 87, album 2, artist 1
+Played from: other 426, playlist 86, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1218 plays recorded total._
