@@ -1,33 +1,29 @@
 {
-  "generated_at": "2026-11-09T11:19-05:00",
+  "generated_at": "2026-11-09T13:05-05:00",
   "window": {
     "start": "2026-11-02",
     "end": "2026-11-09"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1164,
+  "total_plays_logged": 1176,
   "this_week": {
-    "plays": 495,
-    "minutes": 1686,
-    "unique_tracks": 440,
-    "unique_artists": 232
+    "plays": 490,
+    "minutes": 1673,
+    "unique_tracks": 434,
+    "unique_artists": 228
   },
   "last_week": {
-    "plays": 646,
-    "minutes": 2063
+    "plays": 640,
+    "minutes": 2034
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 2,
-    "skipped_plays": 11,
+    "skipped_plays": 10,
     "most_skipped_tracks": [
       {
         "track": "Drive and Disconnect - Nao",
         "skips": 6
-      },
-      {
-        "track": "t h e . c l i m b . b a c k - J. Cole",
-        "skips": 1
       },
       {
         "track": "Roses - Kanye West",
@@ -40,16 +36,16 @@
       {
         "track": "Lemon Pepper Steppers - Freddie Gibbs",
         "skips": 1
+      },
+      {
+        "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
+        "skips": 1
       }
     ],
     "most_skipped_artists": [
       {
         "artist": "Nao",
         "skips": 6
-      },
-      {
-        "artist": "J. Cole",
-        "skips": 1
       },
       {
         "artist": "Kanye West",
@@ -62,6 +58,10 @@
       {
         "artist": "Freddie Gibbs",
         "skips": 1
+      },
+      {
+        "artist": "Conway the Machine",
+        "skips": 1
       }
     ]
   },
@@ -69,21 +69,21 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 48,
+      "plays": 50,
       "last_week_plays": 30,
-      "change": "+7"
+      "change": "+6"
     },
     {
       "rank": 2,
       "name": "Westside Gunn",
-      "plays": 31,
-      "last_week_plays": 46,
+      "plays": 29,
+      "last_week_plays": 47,
       "change": "="
     },
     {
       "rank": 3,
       "name": "Conway the Machine",
-      "plays": 27,
+      "plays": 26,
       "last_week_plays": 21,
       "change": "+9"
     },
@@ -91,50 +91,50 @@
       "rank": 4,
       "name": "Freddie Gibbs",
       "plays": 25,
-      "last_week_plays": 16,
-      "change": "+13"
+      "last_week_plays": 14,
+      "change": "+15"
     },
     {
       "rank": 5,
       "name": "Future",
-      "plays": 24,
-      "last_week_plays": 39,
+      "plays": 25,
+      "last_week_plays": 40,
       "change": "-1"
     },
     {
       "rank": 6,
       "name": "J. Cole",
       "plays": 21,
-      "last_week_plays": 31,
-      "change": "+1"
+      "last_week_plays": 29,
+      "change": "+2"
     },
     {
       "rank": 7,
-      "name": "The Alchemist",
+      "name": "21 Savage",
       "plays": 20,
-      "last_week_plays": 34,
-      "change": "-1"
+      "last_week_plays": 27,
+      "change": "+2"
     },
     {
       "rank": 8,
-      "name": "21 Savage",
-      "plays": 20,
-      "last_week_plays": 29,
-      "change": "+1"
+      "name": "The Alchemist",
+      "plays": 19,
+      "last_week_plays": 32,
+      "change": "-2"
     },
     {
       "rank": 9,
-      "name": "Gunna",
-      "plays": 18,
-      "last_week_plays": 51,
-      "change": "-8"
+      "name": "Benny The Butcher",
+      "plays": 17,
+      "last_week_plays": 18,
+      "change": "+5"
     },
     {
       "rank": 10,
-      "name": "Kanye West",
+      "name": "Lil Baby",
       "plays": 17,
-      "last_week_plays": 16,
-      "change": "+6"
+      "last_week_plays": 39,
+      "change": "-5"
     }
   ],
   "top_tracks": [
@@ -150,14 +150,14 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+538"
+      "change": "+516"
     },
     {
       "rank": 3,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+245"
+      "change": "+225"
     },
     {
       "rank": 4,
@@ -168,45 +168,45 @@
     },
     {
       "rank": 5,
-      "name": "sakpase - Gunna",
+      "name": "WESTSIDE - Westside Gunn",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+519"
+      "change": "+76"
     },
     {
       "rank": 6,
-      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
       "plays": 2,
-      "last_week_plays": 3,
-      "change": "+6"
+      "last_week_plays": 2,
+      "change": "+40"
     },
     {
       "rank": 7,
-      "name": "Primetime - JAŸ-Z",
+      "name": "Tell a Friend - Freddie Gibbs",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "8am in Charlotte - Drake",
+      "name": "DR BIRDS - Griselda",
       "plays": 2,
-      "last_week_plays": 2,
-      "change": "+48"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "WESTSIDE - Westside Gunn",
+      "name": "Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+92"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Ensalada (feat. Anderson .Paak) - Freddie Gibbs",
+      "name": "FromHere (feat. Snoop Dogg & October London) - NxWorries",
       "plays": 2,
-      "last_week_plays": 2,
-      "change": "+35"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -276,13 +276,13 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 1,
-    "Morning (5am-12pm)": 66,
-    "Afternoon (12pm-5pm)": 167,
+    "Morning (5am-12pm)": 65,
+    "Afternoon (12pm-5pm)": 163,
     "Evening (5pm-9pm)": 199,
     "Night (9pm-12am)": 62
   },
   "day_of_week": {
-    "Mon": 63,
+    "Mon": 58,
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
@@ -294,36 +294,36 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 14
+      "days": 15
+    },
+    {
+      "artist": "Future",
+      "days": 8
     },
     {
       "artist": "Freddie Gibbs",
       "days": 7
     },
     {
-      "artist": "Future",
-      "days": 7
-    },
-    {
-      "artist": "Brent Faiyaz",
+      "artist": "Metro Boomin",
       "days": 5
     },
     {
-      "artist": "Leon Thomas",
+      "artist": "Brent Faiyaz",
       "days": 5
     }
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 14,
-    "2000s": 37,
-    "2010s": 147,
-    "2020s": 296
+    "1990s": 15,
+    "2000s": 38,
+    "2010s": 145,
+    "2020s": 291
   },
   "listening_style": {
     "played_from": {
-      "other": 386,
-      "playlist": 106,
+      "other": 384,
+      "playlist": 103,
       "album": 2,
       "artist": 1
     },

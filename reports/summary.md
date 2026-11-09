@@ -1,37 +1,37 @@
 # Listening Report
-**2026-11-02 to 2026-11-09** · updated 2026-11-09 11:19 ET
+**2026-11-02 to 2026-11-09** · updated 2026-11-09 13:05 ET
 
-**495 plays** (-151 vs last week) · **1686 minutes** · 232 artists · 440 songs
+**490 plays** (-150 vs last week) · **1673 minutes** · 228 artists · 434 songs
 
-_Counting real listens only. 11 skips left out (2% skip rate)._
+_Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 48 | +7 |
-| 2 | Westside Gunn | 31 | = |
-| 3 | Conway the Machine | 27 | +9 |
-| 4 | Freddie Gibbs | 25 | +13 |
-| 5 | Future | 24 | -1 |
-| 6 | J. Cole | 21 | +1 |
-| 7 | The Alchemist | 20 | -1 |
-| 8 | 21 Savage | 20 | +1 |
-| 9 | Gunna | 18 | -8 |
-| 10 | Kanye West | 17 | +6 |
+| 1 | Drake | 50 | +6 |
+| 2 | Westside Gunn | 29 | = |
+| 3 | Conway the Machine | 26 | +9 |
+| 4 | Freddie Gibbs | 25 | +15 |
+| 5 | Future | 25 | -1 |
+| 6 | J. Cole | 21 | +2 |
+| 7 | 21 Savage | 20 | +2 |
+| 8 | The Alchemist | 19 | -2 |
+| 9 | Benny The Butcher | 17 | +5 |
+| 10 | Lil Baby | 17 | -5 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Blueslides - ScHoolboy Q | 4 | NEW |
-| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +538 |
-| 3 | Brand New Draco - 21 Savage | 3 | +245 |
+| 2 | Wine & Dine - YoungBoy Never Broke Again | 4 | +516 |
+| 3 | Brand New Draco - 21 Savage | 3 | +225 |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
-| 5 | sakpase - Gunna | 2 | +519 |
-| 6 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 2 | +6 |
-| 7 | Primetime - JAŸ-Z | 2 | NEW |
-| 8 | 8am in Charlotte - Drake | 2 | +48 |
-| 9 | WESTSIDE - Westside Gunn | 2 | +92 |
-| 10 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +35 |
+| 5 | WESTSIDE - Westside Gunn | 2 | +76 |
+| 6 | Ensalada (feat. Anderson .Paak) - Freddie Gibbs | 2 | +40 |
+| 7 | Tell a Friend - Freddie Gibbs | 2 | NEW |
+| 8 | DR BIRDS - Griselda | 2 | NEW |
+| 9 | Something to Rap About (feat. Tyler, The Creator) - Freddie Gibbs | 2 | NEW |
+| 10 | FromHere (feat. Snoop Dogg & October London) - NxWorries | 2 | NEW |
 
 ## Discovery
 79% of plays were songs not in your log before this week.
@@ -45,20 +45,20 @@ New artists: ScHoolboy Q (4), Lelo (3), Key Glock (3), MIKE (3), Nao (3), Daniel
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
-- t h e . c l i m b . b a c k - J. Cole - skipped 1x
 - Roses - Kanye West - skipped 1x
 - Brand New Draco - 21 Savage - skipped 1x
 - Lemon Pepper Steppers - Freddie Gibbs - skipped 1x
+- The Lightning Above The Adriatic Sea - Conway the Machine - skipped 1x
 
 ## When you listen
 ```
 Late night (12am-5am)   1
-Morning (5am-12pm)     ███████ 66
-Afternoon (12pm-5pm)   █████████████████ 167
+Morning (5am-12pm)     ███████ 65
+Afternoon (12pm-5pm)   ████████████████ 163
 Evening (5pm-9pm)      ████████████████████ 199
 Night (9pm-12am)       ██████ 62
 
-Mon                    █████████ 63
+Mon                    █████████ 58
 Tue                    ████████████ 80
 Wed                    ███████ 46
 Thu                    ████████ 57
@@ -68,17 +68,17 @@ Sun                    ███████████████████
 ```
 
 ## Streaks
-- Drake: 14 days in a row
+- Drake: 15 days in a row
+- Future: 8 days in a row
 - Freddie Gibbs: 7 days in a row
-- Future: 7 days in a row
+- Metro Boomin: 5 days in a row
 - Brent Faiyaz: 5 days in a row
-- Leon Thomas: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 14, 2000s: 37, 2010s: 147, 2020s: 296
+1970s: 1, 1990s: 15, 2000s: 38, 2010s: 145, 2020s: 291
 
 ## How you listen
-Played from: other 386, playlist 106, album 2, artist 1
+Played from: other 384, playlist 103, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1164 plays recorded total._
+_Log started 2026-10-26 · 1176 plays recorded total._
