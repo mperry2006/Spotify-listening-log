@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-08T20:28-05:00",
+  "generated_at": "2026-11-08T22:02-05:00",
   "window": {
     "start": "2026-11-01",
     "end": "2026-11-08"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1132,
+  "total_plays_logged": 1146,
   "this_week": {
-    "plays": 466,
-    "minutes": 1591,
-    "unique_tracks": 415,
-    "unique_artists": 227
+    "plays": 480,
+    "minutes": 1641,
+    "unique_tracks": 427,
+    "unique_artists": 228
   },
   "last_week": {
     "plays": 649,
@@ -82,22 +82,22 @@
     },
     {
       "rank": 3,
-      "name": "Freddie Gibbs",
-      "plays": 25,
-      "last_week_plays": 16,
-      "change": "+13"
+      "name": "Conway the Machine",
+      "plays": 26,
+      "last_week_plays": 21,
+      "change": "+9"
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 24,
-      "last_week_plays": 21,
-      "change": "+8"
+      "name": "Freddie Gibbs",
+      "plays": 25,
+      "last_week_plays": 16,
+      "change": "+12"
     },
     {
       "rank": 5,
       "name": "Future",
-      "plays": 22,
+      "plays": 24,
       "last_week_plays": 39,
       "change": "-1"
     },
@@ -132,7 +132,7 @@
     {
       "rank": 10,
       "name": "21 Savage",
-      "plays": 17,
+      "plays": 18,
       "last_week_plays": 29,
       "change": "-1"
     }
@@ -140,24 +140,24 @@
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Wine & Dine - YoungBoy Never Broke Again",
+      "name": "Blueslides - ScHoolboy Q",
       "plays": 4,
-      "last_week_plays": 1,
-      "change": "+543"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 2,
-      "name": "8am in Charlotte - Drake",
-      "plays": 3,
+      "name": "Wine & Dine - YoungBoy Never Broke Again",
+      "plays": 4,
       "last_week_plays": 1,
-      "change": "+414"
+      "change": "+542"
     },
     {
       "rank": 3,
-      "name": "Blueslides - ScHoolboy Q",
+      "name": "8am in Charlotte - Drake",
       "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+413"
     },
     {
       "rank": 4,
@@ -213,11 +213,11 @@
   "discovery": {
     "new_artists": [
       {
-        "name": "Lelo",
-        "plays": 3
+        "name": "ScHoolboy Q",
+        "plays": 4
       },
       {
-        "name": "ScHoolboy Q",
+        "name": "Lelo",
         "plays": 3
       },
       {
@@ -258,15 +258,15 @@
   },
   "on_repeat": [
     {
+      "track": "Blueslides - ScHoolboy Q",
+      "plays": 4
+    },
+    {
       "track": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4
     },
     {
       "track": "8am in Charlotte - Drake",
-      "plays": 3
-    },
-    {
-      "track": "Blueslides - ScHoolboy Q",
       "plays": 3
     },
     {
@@ -282,8 +282,8 @@
     "Late night (12am-5am)": 3,
     "Morning (5am-12pm)": 66,
     "Afternoon (12pm-5pm)": 167,
-    "Evening (5pm-9pm)": 193,
-    "Night (9pm-12am)": 37
+    "Evening (5pm-9pm)": 199,
+    "Night (9pm-12am)": 45
   },
   "day_of_week": {
     "Mon": 65,
@@ -292,7 +292,7 @@
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
-    "Sun": 105
+    "Sun": 119
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -319,14 +319,14 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 13,
+    "1990s": 14,
     "2000s": 38,
-    "2010s": 139,
-    "2020s": 275
+    "2010s": 144,
+    "2020s": 283
   },
   "listening_style": {
     "played_from": {
-      "other": 357,
+      "other": 371,
       "playlist": 106,
       "album": 2,
       "artist": 1
