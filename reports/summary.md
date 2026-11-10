@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-02 to 2026-11-09** · updated 2026-11-09 22:02 ET
+**2026-11-02 to 2026-11-09** · updated 2026-11-09 23:05 ET
 
-**496 plays** (-144 vs last week) · **1677 minutes** · 226 artists · 440 songs
+**500 plays** (-140 vs last week) · **1689 minutes** · 227 artists · 444 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
@@ -60,9 +60,9 @@ Late night (12am-5am)   1
 Morning (5am-12pm)     ███████ 65
 Afternoon (12pm-5pm)   ████████████████████ 188
 Evening (5pm-9pm)      ███████████████████ 177
-Night (9pm-12am)       ███████ 65
+Night (9pm-12am)       ███████ 69
 
-Mon                    █████████ 64
+Mon                    ██████████ 68
 Tue                    ████████████ 80
 Wed                    ███████ 46
 Thu                    ████████ 57
@@ -79,10 +79,10 @@ Sun                    ███████████████████
 - Metro Boomin: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 41, 2010s: 152, 2020s: 286
+1970s: 1, 1990s: 16, 2000s: 42, 2010s: 153, 2020s: 288
 
 ## How you listen
-Played from: other 408, playlist 85, album 2, artist 1
+Played from: other 412, playlist 85, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1228 plays recorded total._
+_Log started 2026-10-26 · 1232 plays recorded total._
