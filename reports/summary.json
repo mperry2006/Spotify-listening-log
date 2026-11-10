@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-11-10T08:23-05:00",
+  "generated_at": "2026-11-10T10:05-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1237,
+  "total_plays_logged": 1246,
   "this_week": {
-    "plays": 504,
-    "minutes": 1703,
-    "unique_tracks": 447,
+    "plays": 509,
+    "minutes": 1718,
+    "unique_tracks": 449,
     "unique_artists": 229
   },
   "last_week": {
-    "plays": 622,
-    "minutes": 2007
+    "plays": 626,
+    "minutes": 2021
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 2,
-    "skipped_plays": 10,
+    "skipped_plays": 8,
     "most_skipped_tracks": [
       {
         "track": "Drive and Disconnect - Nao",
         "skips": 6
-      },
-      {
-        "track": "Roses - Kanye West",
-        "skips": 1
-      },
-      {
-        "track": "Brand New Draco - 21 Savage",
-        "skips": 1
       },
       {
         "track": "Lemon Pepper Steppers - Freddie Gibbs",
@@ -46,14 +38,6 @@
       {
         "artist": "Nao",
         "skips": 6
-      },
-      {
-        "artist": "Kanye West",
-        "skips": 1
-      },
-      {
-        "artist": "21 Savage",
-        "skips": 1
       },
       {
         "artist": "Freddie Gibbs",
@@ -78,33 +62,33 @@
       "name": "Future",
       "plays": 28,
       "last_week_plays": 36,
-      "change": "+2"
-    },
-    {
-      "rank": 3,
-      "name": "Westside Gunn",
-      "plays": 25,
-      "last_week_plays": 35,
-      "change": "+2"
-    },
-    {
-      "rank": 4,
-      "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 30,
       "change": "+3"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "name": "J. Cole",
+      "plays": 26,
+      "last_week_plays": 30,
+      "change": "+4"
+    },
+    {
+      "rank": 4,
       "name": "Conway the Machine",
-      "plays": 25,
+      "plays": 26,
       "last_week_plays": 20,
-      "change": "+7"
+      "change": "+9"
+    },
+    {
+      "rank": 5,
+      "name": "Westside Gunn",
+      "plays": 25,
+      "last_week_plays": 36,
+      "change": "-1"
     },
     {
       "rank": 6,
       "name": "Freddie Gibbs",
-      "plays": 22,
+      "plays": 24,
       "last_week_plays": 17,
       "change": "+8"
     },
@@ -124,89 +108,89 @@
     },
     {
       "rank": 9,
-      "name": "Lil Baby",
-      "plays": 19,
-      "last_week_plays": 38,
-      "change": "-6"
+      "name": "The Alchemist",
+      "plays": 20,
+      "last_week_plays": 26,
+      "change": "="
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
+      "name": "Lil Baby",
       "plays": 18,
-      "last_week_plays": 26,
-      "change": "-1"
+      "last_week_plays": 39,
+      "change": "-8"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Wine & Dine - YoungBoy Never Broke Again",
-      "plays": 4,
-      "last_week_plays": 1,
-      "change": "+468"
-    },
-    {
-      "rank": 2,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+172"
+      "change": "+174"
+    },
+    {
+      "rank": 2,
+      "name": "Leverage - NoCap",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 3,
+      "name": "Wine & Dine - YoungBoy Never Broke Again",
+      "plays": 3,
+      "last_week_plays": 2,
+      "change": "+62"
+    },
+    {
+      "rank": 4,
       "name": "No Window Tints - Curren$y",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Drive and Disconnect - Nao",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Stories About My Brother - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
-      "name": "I Can Love You - Mary J. Blige",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+408"
-    },
-    {
       "rank": 8,
-      "name": "Blueslides - ScHoolboy Q",
+      "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
-      "last_week_plays": 1,
-      "change": "+510"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Fabo - Key Glock",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "name": "I Can Love You - Mary J. Blige",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+407"
     },
     {
       "rank": 10,
-      "name": "Tony Hawk - Veeze",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "name": "Blueslides - ScHoolboy Q",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+508"
     }
   ],
   "dropped_off": [],
@@ -229,10 +213,6 @@
         "plays": 3
       },
       {
-        "name": "DJ Khaled",
-        "plays": 2
-      },
-      {
         "name": "GT",
         "plays": 2
       },
@@ -251,18 +231,26 @@
       {
         "name": "Silk Sonic",
         "plays": 2
+      },
+      {
+        "name": "Gunaviani",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 75,
+    "plays_of_new_tracks_pct": 76,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
-      "track": "Wine & Dine - YoungBoy Never Broke Again",
-      "plays": 4
+      "track": "Brand New Draco - 21 Savage",
+      "plays": 3
     },
     {
-      "track": "Brand New Draco - 21 Savage",
+      "track": "Leverage - NoCap",
+      "plays": 3
+    },
+    {
+      "track": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3
     },
     {
@@ -282,6 +270,10 @@
       "plays": 3
     },
     {
+      "track": "peter pan. - Brent Faiyaz",
+      "plays": 3
+    },
+    {
       "track": "I Can Love You - Mary J. Blige",
       "plays": 3
     },
@@ -292,14 +284,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
-    "Morning (5am-12pm)": 65,
+    "Morning (5am-12pm)": 70,
     "Afternoon (12pm-5pm)": 188,
     "Evening (5pm-9pm)": 177,
     "Night (9pm-12am)": 74
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 79,
+    "Tue": 84,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -314,18 +306,18 @@
     },
     {
       "artist": "Freddie Gibbs",
-      "days": 8
+      "days": 9
     },
     {
       "artist": "Future",
       "days": 8
     },
     {
-      "artist": "21 Savage",
-      "days": 5
+      "artist": "J. Cole",
+      "days": 6
     },
     {
-      "artist": "Metro Boomin",
+      "artist": "21 Savage",
       "days": 5
     }
   ],
@@ -334,11 +326,11 @@
     "1990s": 16,
     "2000s": 43,
     "2010s": 155,
-    "2020s": 289
+    "2020s": 294
   },
   "listening_style": {
     "played_from": {
-      "other": 417,
+      "other": 422,
       "playlist": 84,
       "album": 2,
       "artist": 1
