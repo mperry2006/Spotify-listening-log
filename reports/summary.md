@@ -1,22 +1,22 @@
 # Listening Report
-**2026-11-03 to 2026-11-10** · updated 2026-11-10 15:59 ET
+**2026-11-03 to 2026-11-10** · updated 2026-11-10 16:55 ET
 
-**513 plays** (-131 vs last week) · **1731 minutes** · 232 artists · 440 songs
+**521 plays** (-126 vs last week) · **1763 minutes** · 233 artists · 445 songs
 
 _Counting real listens only. 8 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 48 | +5 |
-| 2 | Future | 29 | +2 |
+| 1 | Drake | 49 | +5 |
+| 2 | Future | 31 | +2 |
 | 3 | Conway the Machine | 28 | +10 |
 | 4 | Westside Gunn | 25 | +1 |
 | 5 | Freddie Gibbs | 24 | +9 |
-| 6 | J. Cole | 24 | +1 |
-| 7 | 21 Savage | 23 | +1 |
-| 8 | Gunna | 21 | -7 |
-| 9 | The Alchemist | 20 | = |
+| 6 | 21 Savage | 24 | +2 |
+| 7 | J. Cole | 24 | = |
+| 8 | The Alchemist | 20 | +1 |
+| 9 | Gunna | 20 | -8 |
 | 10 | Lil Baby | 19 | -8 |
 
 ## Top songs
@@ -35,7 +35,7 @@ _Counting real listens only. 8 skips left out (2% skip rate)._
 
 ## Discovery
 77% of plays were songs not in your log before this week.
-New artists: MIKE (3), Nao (3), Thundercat (3), GT (2), BashfortheWorld (2), Free Nationals (2), Syd (2), Wizkid (2), Bruno Mars (2), Silk Sonic (2)
+New artists: MIKE (3), Nao (3), Thundercat (3), BashfortheWorld (2), Free Nationals (2), Syd (2), Wizkid (2), Bruno Mars (2), Silk Sonic (2), Gunaviani (2)
 
 ## On repeat (3+ plays)
 - Leverage - NoCap - 3x
@@ -58,12 +58,12 @@ New artists: MIKE (3), Nao (3), Thundercat (3), GT (2), BashfortheWorld (2), Fre
 ```
 Late night (12am-5am)   0
 Morning (5am-12pm)     ███████ 67
-Afternoon (12pm-5pm)   ████████████████████ 195
-Evening (5pm-9pm)      ██████████████████ 177
-Night (9pm-12am)       ████████ 74
+Afternoon (12pm-5pm)   ████████████████████ 203
+Evening (5pm-9pm)      █████████████████ 177
+Night (9pm-12am)       ███████ 74
 
 Mon                    ███████████ 73
-Tue                    █████████████ 88
+Tue                    ██████████████ 96
 Wed                    ███████ 46
 Thu                    ████████ 57
 Fri                    ████ 24
@@ -79,10 +79,10 @@ Sun                    ███████████████████
 - Metro Boomin: 6 days in a row
 
 ## Eras
-1970s: 1, 1990s: 17, 2000s: 41, 2010s: 159, 2020s: 295
+1970s: 1, 1990s: 20, 2000s: 42, 2010s: 163, 2020s: 295
 
 ## How you listen
-Played from: other 435, playlist 75, album 2, artist 1
+Played from: other 446, playlist 72, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1272 plays recorded total._
+_Log started 2026-10-26 · 1283 plays recorded total._

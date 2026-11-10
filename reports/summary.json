@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-10T15:59-05:00",
+  "generated_at": "2026-11-10T16:55-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1272,
+  "total_plays_logged": 1283,
   "this_week": {
-    "plays": 513,
-    "minutes": 1731,
-    "unique_tracks": 440,
-    "unique_artists": 232
+    "plays": 521,
+    "minutes": 1763,
+    "unique_tracks": 445,
+    "unique_artists": 233
   },
   "last_week": {
-    "plays": 644,
-    "minutes": 2078
+    "plays": 647,
+    "minutes": 2087
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,14 +53,14 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 48,
+      "plays": 49,
       "last_week_plays": 34,
       "change": "+5"
     },
     {
       "rank": 2,
       "name": "Future",
-      "plays": 29,
+      "plays": 31,
       "last_week_plays": 37,
       "change": "+2"
     },
@@ -87,31 +87,31 @@
     },
     {
       "rank": 6,
-      "name": "J. Cole",
+      "name": "21 Savage",
       "plays": 24,
-      "last_week_plays": 33,
-      "change": "+1"
+      "last_week_plays": 28,
+      "change": "+2"
     },
     {
       "rank": 7,
-      "name": "21 Savage",
-      "plays": 23,
-      "last_week_plays": 28,
-      "change": "+1"
+      "name": "J. Cole",
+      "plays": 24,
+      "last_week_plays": 33,
+      "change": "="
     },
     {
       "rank": 8,
-      "name": "Gunna",
-      "plays": 21,
-      "last_week_plays": 49,
-      "change": "-7"
-    },
-    {
-      "rank": 9,
       "name": "The Alchemist",
       "plays": 20,
       "last_week_plays": 26,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 9,
+      "name": "Gunna",
+      "plays": 20,
+      "last_week_plays": 50,
+      "change": "-8"
     },
     {
       "rank": 10,
@@ -209,10 +209,6 @@
         "plays": 3
       },
       {
-        "name": "GT",
-        "plays": 2
-      },
-      {
         "name": "BashfortheWorld",
         "plays": 2
       },
@@ -234,6 +230,10 @@
       },
       {
         "name": "Silk Sonic",
+        "plays": 2
+      },
+      {
+        "name": "Gunaviani",
         "plays": 2
       }
     ],
@@ -285,13 +285,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 67,
-    "Afternoon (12pm-5pm)": 195,
+    "Afternoon (12pm-5pm)": 203,
     "Evening (5pm-9pm)": 177,
     "Night (9pm-12am)": 74
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 88,
+    "Tue": 96,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -323,15 +323,15 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 17,
-    "2000s": 41,
-    "2010s": 159,
+    "1990s": 20,
+    "2000s": 42,
+    "2010s": 163,
     "2020s": 295
   },
   "listening_style": {
     "played_from": {
-      "other": 435,
-      "playlist": 75,
+      "other": 446,
+      "playlist": 72,
       "album": 2,
       "artist": 1
     },
