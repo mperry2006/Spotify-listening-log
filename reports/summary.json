@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-10T14:13-05:00",
+  "generated_at": "2026-11-10T15:06-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1249,
+  "total_plays_logged": 1255,
   "this_week": {
-    "plays": 507,
-    "minutes": 1714,
-    "unique_tracks": 446,
-    "unique_artists": 230
+    "plays": 505,
+    "minutes": 1711,
+    "unique_tracks": 443,
+    "unique_artists": 228
   },
   "last_week": {
-    "plays": 630,
-    "minutes": 2034
+    "plays": 637,
+    "minutes": 2055
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 2,
-    "skipped_plays": 8,
+    "skipped_plays": 9,
     "most_skipped_tracks": [
       {
         "track": "Drive and Disconnect - Nao",
@@ -31,6 +31,10 @@
       },
       {
         "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
+        "skips": 1
+      },
+      {
+        "track": "Reminisce - Mary J. Blige",
         "skips": 1
       }
     ],
@@ -46,6 +50,10 @@
       {
         "artist": "Conway the Machine",
         "skips": 1
+      },
+      {
+        "artist": "Mary J. Blige",
+        "skips": 1
       }
     ]
   },
@@ -53,30 +61,30 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 47,
-      "last_week_plays": 33,
+      "plays": 46,
+      "last_week_plays": 34,
       "change": "+5"
     },
     {
       "rank": 2,
       "name": "Future",
-      "plays": 28,
+      "plays": 30,
       "last_week_plays": 36,
       "change": "+3"
     },
     {
       "rank": 3,
-      "name": "J. Cole",
-      "plays": 26,
-      "last_week_plays": 31,
-      "change": "+4"
+      "name": "Conway the Machine",
+      "plays": 27,
+      "last_week_plays": 20,
+      "change": "+10"
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 26,
-      "last_week_plays": 20,
-      "change": "+9"
+      "name": "J. Cole",
+      "plays": 25,
+      "last_week_plays": 32,
+      "change": "+3"
     },
     {
       "rank": 5,
@@ -95,8 +103,8 @@
     {
       "rank": 7,
       "name": "21 Savage",
-      "plays": 22,
-      "last_week_plays": 27,
+      "plays": 21,
+      "last_week_plays": 28,
       "change": "+1"
     },
     {
@@ -115,82 +123,82 @@
     },
     {
       "rank": 10,
-      "name": "Metro Boomin",
+      "name": "Lil Baby",
       "plays": 18,
-      "last_week_plays": 14,
-      "change": "+6"
+      "last_week_plays": 40,
+      "change": "-8"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Brand New Draco - 21 Savage",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+173"
-    },
-    {
-      "rank": 2,
       "name": "Leverage - NoCap",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+63"
+      "change": "+67"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "No Window Tints - Curren$y",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Drive and Disconnect - Nao",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Stories About My Brother - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+406"
+      "change": "+407"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+507"
+      "change": "+508"
+    },
+    {
+      "rank": 10,
+      "name": "All 70 (feat. Conway) - Benny The Butcher",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -242,10 +250,6 @@
   },
   "on_repeat": [
     {
-      "track": "Brand New Draco - 21 Savage",
-      "plays": 3
-    },
-    {
       "track": "Leverage - NoCap",
       "plays": 3
     },
@@ -280,18 +284,22 @@
     {
       "track": "Blueslides - ScHoolboy Q",
       "plays": 3
+    },
+    {
+      "track": "All 70 (feat. Conway) - Benny The Butcher",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 67,
-    "Afternoon (12pm-5pm)": 189,
+    "Afternoon (12pm-5pm)": 187,
     "Evening (5pm-9pm)": 177,
     "Night (9pm-12am)": 74
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 82,
+    "Tue": 80,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -310,7 +318,7 @@
     },
     {
       "artist": "Future",
-      "days": 8
+      "days": 9
     },
     {
       "artist": "21 Savage",
@@ -323,14 +331,14 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 16,
+    "1990s": 17,
     "2000s": 42,
-    "2010s": 155,
-    "2020s": 293
+    "2010s": 156,
+    "2020s": 289
   },
   "listening_style": {
     "played_from": {
-      "other": 420,
+      "other": 418,
       "playlist": 84,
       "album": 2,
       "artist": 1
