@@ -1,33 +1,29 @@
 {
-  "generated_at": "2026-11-10T15:06-05:00",
+  "generated_at": "2026-11-10T15:59-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1255,
+  "total_plays_logged": 1272,
   "this_week": {
-    "plays": 505,
-    "minutes": 1711,
-    "unique_tracks": 443,
-    "unique_artists": 228
+    "plays": 513,
+    "minutes": 1731,
+    "unique_tracks": 440,
+    "unique_artists": 232
   },
   "last_week": {
-    "plays": 637,
-    "minutes": 2055
+    "plays": 644,
+    "minutes": 2078
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 2,
-    "skipped_plays": 9,
+    "skipped_plays": 8,
     "most_skipped_tracks": [
       {
         "track": "Drive and Disconnect - Nao",
         "skips": 6
-      },
-      {
-        "track": "Lemon Pepper Steppers - Freddie Gibbs",
-        "skips": 1
       },
       {
         "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
@@ -44,10 +40,6 @@
         "skips": 6
       },
       {
-        "artist": "Freddie Gibbs",
-        "skips": 1
-      },
-      {
         "artist": "Conway the Machine",
         "skips": 1
       },
@@ -61,56 +53,56 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 46,
+      "plays": 48,
       "last_week_plays": 34,
       "change": "+5"
     },
     {
       "rank": 2,
       "name": "Future",
-      "plays": 30,
-      "last_week_plays": 36,
-      "change": "+3"
+      "plays": 29,
+      "last_week_plays": 37,
+      "change": "+2"
     },
     {
       "rank": 3,
       "name": "Conway the Machine",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 20,
       "change": "+10"
     },
     {
       "rank": 4,
-      "name": "J. Cole",
+      "name": "Westside Gunn",
       "plays": 25,
-      "last_week_plays": 32,
-      "change": "+3"
+      "last_week_plays": 35,
+      "change": "+1"
     },
     {
       "rank": 5,
-      "name": "Westside Gunn",
-      "plays": 25,
-      "last_week_plays": 36,
-      "change": "-1"
-    },
-    {
-      "rank": 6,
       "name": "Freddie Gibbs",
       "plays": 24,
       "last_week_plays": 17,
-      "change": "+8"
+      "change": "+9"
+    },
+    {
+      "rank": 6,
+      "name": "J. Cole",
+      "plays": 24,
+      "last_week_plays": 33,
+      "change": "+1"
     },
     {
       "rank": 7,
       "name": "21 Savage",
-      "plays": 21,
+      "plays": 23,
       "last_week_plays": 28,
       "change": "+1"
     },
     {
       "rank": 8,
       "name": "Gunna",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 49,
       "change": "-7"
     },
@@ -124,8 +116,8 @@
     {
       "rank": 10,
       "name": "Lil Baby",
-      "plays": 18,
-      "last_week_plays": 40,
+      "plays": 19,
+      "last_week_plays": 41,
       "change": "-8"
     }
   ],
@@ -181,24 +173,24 @@
     },
     {
       "rank": 8,
-      "name": "I Can Love You - Mary J. Blige",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+407"
-    },
-    {
-      "rank": 9,
-      "name": "Blueslides - ScHoolboy Q",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+508"
-    },
-    {
-      "rank": 10,
-      "name": "All 70 (feat. Conway) - Benny The Butcher",
+      "name": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "trademark usa - Baby Keem",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "I Can Love You - Mary J. Blige",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+406"
     }
   ],
   "dropped_off": [],
@@ -245,7 +237,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 76,
+    "plays_of_new_tracks_pct": 77,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -278,28 +270,28 @@
       "plays": 3
     },
     {
+      "track": "Child's Play (feat. 21 Savage) - Young Nudy",
+      "plays": 3
+    },
+    {
+      "track": "trademark usa - Baby Keem",
+      "plays": 3
+    },
+    {
       "track": "I Can Love You - Mary J. Blige",
-      "plays": 3
-    },
-    {
-      "track": "Blueslides - ScHoolboy Q",
-      "plays": 3
-    },
-    {
-      "track": "All 70 (feat. Conway) - Benny The Butcher",
       "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 67,
-    "Afternoon (12pm-5pm)": 187,
+    "Afternoon (12pm-5pm)": 195,
     "Evening (5pm-9pm)": 177,
     "Night (9pm-12am)": 74
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 80,
+    "Tue": 88,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -310,7 +302,7 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 15
+      "days": 16
     },
     {
       "artist": "Freddie Gibbs",
@@ -332,14 +324,14 @@
   "release_eras": {
     "1970s": 1,
     "1990s": 17,
-    "2000s": 42,
-    "2010s": 156,
-    "2020s": 289
+    "2000s": 41,
+    "2010s": 159,
+    "2020s": 295
   },
   "listening_style": {
     "played_from": {
-      "other": 418,
-      "playlist": 84,
+      "other": 435,
+      "playlist": 75,
       "album": 2,
       "artist": 1
     },
