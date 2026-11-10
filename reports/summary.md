@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-03 to 2026-11-10** · updated 2026-11-10 11:04 ET
+**2026-11-03 to 2026-11-10** · updated 2026-11-10 12:07 ET
 
-**507 plays** (-122 vs last week) · **1712 minutes** · 229 artists · 447 songs
+**506 plays** (-124 vs last week) · **1708 minutes** · 229 artists · 446 songs
 
 _Counting real listens only. 8 skips left out (2% skip rate)._
 
@@ -57,13 +57,13 @@ New artists: MIKE (3), Nao (3), Thundercat (3), GT (2), BashfortheWorld (2), Fre
 ## When you listen
 ```
 Late night (12am-5am)   0
-Morning (5am-12pm)     ███████ 68
+Morning (5am-12pm)     ███████ 67
 Afternoon (12pm-5pm)   ████████████████████ 188
 Evening (5pm-9pm)      ███████████████████ 177
 Night (9pm-12am)       ████████ 74
 
 Mon                    ███████████ 73
-Tue                    ████████████ 82
+Tue                    ████████████ 81
 Wed                    ███████ 46
 Thu                    ████████ 57
 Fri                    ████ 24
@@ -79,10 +79,10 @@ Sun                    ███████████████████
 - 21 Savage: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 42, 2010s: 156, 2020s: 292
+1970s: 1, 1990s: 16, 2000s: 42, 2010s: 155, 2020s: 292
 
 ## How you listen
-Played from: other 420, playlist 84, album 2, artist 1
+Played from: other 419, playlist 84, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1247 plays recorded total._
