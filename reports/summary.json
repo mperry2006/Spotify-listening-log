@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-09T20:20-05:00",
+  "generated_at": "2026-11-09T22:02-05:00",
   "window": {
     "start": "2026-11-02",
     "end": "2026-11-09"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1224,
+  "total_plays_logged": 1228,
   "this_week": {
-    "plays": 502,
-    "minutes": 1704,
-    "unique_tracks": 445,
-    "unique_artists": 230
+    "plays": 496,
+    "minutes": 1677,
+    "unique_tracks": 440,
+    "unique_artists": 226
   },
   "last_week": {
-    "plays": 642,
-    "minutes": 2052
+    "plays": 640,
+    "minutes": 2056
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,42 +69,42 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 49,
-      "last_week_plays": 33,
-      "change": "+5"
+      "plays": 47,
+      "last_week_plays": 35,
+      "change": "+4"
     },
     {
       "rank": 2,
       "name": "Future",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 40,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 3,
       "name": "Westside Gunn",
       "plays": 26,
-      "last_week_plays": 40,
-      "change": "="
+      "last_week_plays": 34,
+      "change": "+3"
     },
     {
       "rank": 4,
       "name": "Conway the Machine",
       "plays": 26,
-      "last_week_plays": 21,
-      "change": "+8"
+      "last_week_plays": 19,
+      "change": "+9"
     },
     {
       "rank": 5,
       "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 29,
-      "change": "+3"
+      "plays": 24,
+      "last_week_plays": 30,
+      "change": "+2"
     },
     {
       "rank": 6,
       "name": "Freddie Gibbs",
-      "plays": 23,
+      "plays": 22,
       "last_week_plays": 17,
       "change": "+8"
     },
@@ -113,28 +113,28 @@
       "name": "21 Savage",
       "plays": 21,
       "last_week_plays": 27,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 8,
-      "name": "Lil Baby",
-      "plays": 19,
-      "last_week_plays": 39,
-      "change": "-3"
+      "name": "Gunna",
+      "plays": 20,
+      "last_week_plays": 52,
+      "change": "-7"
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 30,
-      "change": "-2"
+      "name": "Lil Baby",
+      "plays": 19,
+      "last_week_plays": 39,
+      "change": "-5"
     },
     {
       "rank": 10,
-      "name": "Metro Boomin",
-      "plays": 17,
-      "last_week_plays": 15,
-      "change": "+7"
+      "name": "The Alchemist",
+      "plays": 18,
+      "last_week_plays": 26,
+      "change": "-1"
     }
   ],
   "top_tracks": [
@@ -143,14 +143,14 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+490"
+      "change": "+479"
     },
     {
       "rank": 2,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+196"
+      "change": "+185"
     },
     {
       "rank": 3,
@@ -185,25 +185,25 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+431"
+      "change": "+420"
     },
     {
       "rank": 8,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+532"
+      "change": "+521"
     },
     {
       "rank": 9,
-      "name": "Guilty - Conductor Williams",
+      "name": "Fabo - Key Glock",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "All That Matters (with Leon Thomas & AZ Chike) - 6LACK",
+      "name": "Tony Hawk - Veeze",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -229,10 +229,6 @@
         "plays": 3
       },
       {
-        "name": "Conductor Williams",
-        "plays": 2
-      },
-      {
         "name": "DJ Khaled",
         "plays": 2
       },
@@ -251,9 +247,13 @@
       {
         "name": "Bruno Mars",
         "plays": 2
+      },
+      {
+        "name": "Silk Sonic",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 77,
+    "plays_of_new_tracks_pct": 76,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -294,11 +294,11 @@
     "Late night (12am-5am)": 1,
     "Morning (5am-12pm)": 65,
     "Afternoon (12pm-5pm)": 188,
-    "Evening (5pm-9pm)": 186,
-    "Night (9pm-12am)": 62
+    "Evening (5pm-9pm)": 177,
+    "Night (9pm-12am)": 65
   },
   "day_of_week": {
-    "Mon": 70,
+    "Mon": 64,
     "Tue": 80,
     "Wed": 46,
     "Thu": 57,
@@ -331,15 +331,15 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 17,
-    "2000s": 40,
-    "2010s": 153,
-    "2020s": 291
+    "1990s": 16,
+    "2000s": 41,
+    "2010s": 152,
+    "2020s": 286
   },
   "listening_style": {
     "played_from": {
-      "other": 413,
-      "playlist": 86,
+      "other": 408,
+      "playlist": 85,
       "album": 2,
       "artist": 1
     },
