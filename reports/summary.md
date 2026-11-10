@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-03 to 2026-11-10** · updated 2026-11-10 16:55 ET
+**2026-11-03 to 2026-11-10** · updated 2026-11-10 17:55 ET
 
-**521 plays** (-126 vs last week) · **1763 minutes** · 233 artists · 445 songs
+**504 plays** (-159 vs last week) · **1720 minutes** · 227 artists · 429 songs
 
 _Counting real listens only. 8 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 49 | +5 |
+| 1 | Drake | 50 | +5 |
 | 2 | Future | 31 | +2 |
 | 3 | Conway the Machine | 28 | +10 |
 | 4 | Westside Gunn | 25 | +1 |
@@ -23,7 +23,7 @@ _Counting real listens only. 8 skips left out (2% skip rate)._
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Leverage - NoCap | 3 | NEW |
-| 2 | Wine & Dine - YoungBoy Never Broke Again | 3 | +67 |
+| 2 | Wine & Dine - YoungBoy Never Broke Again | 3 | +69 |
 | 3 | No Window Tints - Curren$y | 3 | NEW |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
 | 5 | Stories About My Brother - Drake | 3 | NEW |
@@ -31,11 +31,11 @@ _Counting real listens only. 8 skips left out (2% skip rate)._
 | 7 | peter pan. - Brent Faiyaz | 3 | NEW |
 | 8 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 9 | trademark usa - Baby Keem | 3 | NEW |
-| 10 | I Can Love You - Mary J. Blige | 3 | +406 |
+| 10 | I Can Love You - Mary J. Blige | 3 | +405 |
 
 ## Discovery
-77% of plays were songs not in your log before this week.
-New artists: MIKE (3), Nao (3), Thundercat (3), BashfortheWorld (2), Free Nationals (2), Syd (2), Wizkid (2), Bruno Mars (2), Silk Sonic (2), Gunaviani (2)
+76% of plays were songs not in your log before this week.
+New artists: MIKE (3), Nao (3), Thundercat (3), Free Nationals (2), Syd (2), Wizkid (2), Bruno Mars (2), Silk Sonic (2), Gunaviani (2), Danger Mouse (2)
 
 ## On repeat (3+ plays)
 - Leverage - NoCap - 3x
@@ -59,11 +59,11 @@ New artists: MIKE (3), Nao (3), Thundercat (3), BashfortheWorld (2), Free Nation
 Late night (12am-5am)   0
 Morning (5am-12pm)     ███████ 67
 Afternoon (12pm-5pm)   ████████████████████ 203
-Evening (5pm-9pm)      █████████████████ 177
+Evening (5pm-9pm)      ████████████████ 160
 Night (9pm-12am)       ███████ 74
 
 Mon                    ███████████ 73
-Tue                    ██████████████ 96
+Tue                    ████████████ 79
 Wed                    ███████ 46
 Thu                    ████████ 57
 Fri                    ████ 24
@@ -79,10 +79,10 @@ Sun                    ███████████████████
 - Metro Boomin: 6 days in a row
 
 ## Eras
-1970s: 1, 1990s: 20, 2000s: 42, 2010s: 163, 2020s: 295
+1970s: 1, 1990s: 20, 2000s: 42, 2010s: 162, 2020s: 279
 
 ## How you listen
-Played from: other 446, playlist 72, album 2, artist 1
+Played from: other 447, playlist 54, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1283 plays recorded total._
+_Log started 2026-10-26 · 1284 plays recorded total._

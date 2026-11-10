@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-10T16:55-05:00",
+  "generated_at": "2026-11-10T17:55-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1283,
+  "total_plays_logged": 1284,
   "this_week": {
-    "plays": 521,
-    "minutes": 1763,
-    "unique_tracks": 445,
-    "unique_artists": 233
+    "plays": 504,
+    "minutes": 1720,
+    "unique_tracks": 429,
+    "unique_artists": 227
   },
   "last_week": {
-    "plays": 647,
-    "minutes": 2087
+    "plays": 663,
+    "minutes": 2129
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 49,
+      "plays": 50,
       "last_week_plays": 34,
       "change": "+5"
     },
@@ -68,7 +68,7 @@
       "rank": 3,
       "name": "Conway the Machine",
       "plays": 28,
-      "last_week_plays": 20,
+      "last_week_plays": 19,
       "change": "+10"
     },
     {
@@ -96,14 +96,14 @@
       "rank": 7,
       "name": "J. Cole",
       "plays": 24,
-      "last_week_plays": 33,
+      "last_week_plays": 32,
       "change": "="
     },
     {
       "rank": 8,
       "name": "The Alchemist",
       "plays": 20,
-      "last_week_plays": 26,
+      "last_week_plays": 25,
       "change": "+1"
     },
     {
@@ -134,7 +134,7 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+67"
+      "change": "+69"
     },
     {
       "rank": 3,
@@ -190,7 +190,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+406"
+      "change": "+405"
     }
   ],
   "dropped_off": [],
@@ -207,10 +207,6 @@
       {
         "name": "Thundercat",
         "plays": 3
-      },
-      {
-        "name": "BashfortheWorld",
-        "plays": 2
       },
       {
         "name": "Free Nationals",
@@ -235,9 +231,13 @@
       {
         "name": "Gunaviani",
         "plays": 2
+      },
+      {
+        "name": "Danger Mouse",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 77,
+    "plays_of_new_tracks_pct": 76,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -286,12 +286,12 @@
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 67,
     "Afternoon (12pm-5pm)": 203,
-    "Evening (5pm-9pm)": 177,
+    "Evening (5pm-9pm)": 160,
     "Night (9pm-12am)": 74
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 96,
+    "Tue": 79,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -325,13 +325,13 @@
     "1970s": 1,
     "1990s": 20,
     "2000s": 42,
-    "2010s": 163,
-    "2020s": 295
+    "2010s": 162,
+    "2020s": 279
   },
   "listening_style": {
     "played_from": {
-      "other": 446,
-      "playlist": 72,
+      "other": 447,
+      "playlist": 54,
       "album": 2,
       "artist": 1
     },
