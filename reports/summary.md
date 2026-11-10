@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-03 to 2026-11-10** · updated 2026-11-10 12:58 ET
+**2026-11-03 to 2026-11-10** · updated 2026-11-10 14:13 ET
 
-**507 plays** (-123 vs last week) · **1712 minutes** · 230 artists · 447 songs
+**507 plays** (-123 vs last week) · **1714 minutes** · 230 artists · 446 songs
 
 _Counting real listens only. 8 skips left out (2% skip rate)._
 
@@ -14,15 +14,15 @@ _Counting real listens only. 8 skips left out (2% skip rate)._
 | 4 | Conway the Machine | 26 | +9 |
 | 5 | Westside Gunn | 25 | -1 |
 | 6 | Freddie Gibbs | 24 | +8 |
-| 7 | 21 Savage | 21 | +1 |
+| 7 | 21 Savage | 22 | +1 |
 | 8 | Gunna | 20 | -7 |
 | 9 | The Alchemist | 20 | = |
-| 10 | Lil Baby | 18 | -8 |
+| 10 | Metro Boomin | 18 | +6 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Brand New Draco - 21 Savage | 3 | +174 |
+| 1 | Brand New Draco - 21 Savage | 3 | +173 |
 | 2 | Leverage - NoCap | 3 | NEW |
 | 3 | Wine & Dine - YoungBoy Never Broke Again | 3 | +63 |
 | 4 | No Window Tints - Curren$y | 3 | NEW |
@@ -30,8 +30,8 @@ _Counting real listens only. 8 skips left out (2% skip rate)._
 | 6 | Stories About My Brother - Drake | 3 | NEW |
 | 7 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 | 8 | peter pan. - Brent Faiyaz | 3 | NEW |
-| 9 | I Can Love You - Mary J. Blige | 3 | +407 |
-| 10 | Blueslides - ScHoolboy Q | 3 | +508 |
+| 9 | I Can Love You - Mary J. Blige | 3 | +406 |
+| 10 | Blueslides - ScHoolboy Q | 3 | +507 |
 
 ## Discovery
 76% of plays were songs not in your log before this week.
@@ -75,14 +75,14 @@ Sun                    ███████████████████
 - Drake: 15 days in a row
 - Freddie Gibbs: 9 days in a row
 - Future: 8 days in a row
-- J. Cole: 6 days in a row
-- 21 Savage: 5 days in a row
+- 21 Savage: 6 days in a row
+- Metro Boomin: 6 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 42, 2010s: 156, 2020s: 292
+1970s: 1, 1990s: 16, 2000s: 42, 2010s: 155, 2020s: 293
 
 ## How you listen
 Played from: other 420, playlist 84, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1248 plays recorded total._
+_Log started 2026-10-26 · 1249 plays recorded total._
