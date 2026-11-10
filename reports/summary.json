@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-10T17:55-05:00",
+  "generated_at": "2026-11-10T18:49-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1284,
+  "total_plays_logged": 1292,
   "this_week": {
-    "plays": 504,
-    "minutes": 1720,
-    "unique_tracks": 429,
-    "unique_artists": 227
+    "plays": 510,
+    "minutes": 1742,
+    "unique_tracks": 435,
+    "unique_artists": 230
   },
   "last_week": {
-    "plays": 663,
-    "minutes": 2129
+    "plays": 665,
+    "minutes": 2133
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -101,17 +101,17 @@
     },
     {
       "rank": 8,
-      "name": "The Alchemist",
-      "plays": 20,
-      "last_week_plays": 25,
-      "change": "+1"
+      "name": "Gunna",
+      "plays": 21,
+      "last_week_plays": 50,
+      "change": "-7"
     },
     {
       "rank": 9,
-      "name": "Gunna",
+      "name": "The Alchemist",
       "plays": 20,
-      "last_week_plays": 50,
-      "change": "-8"
+      "last_week_plays": 25,
+      "change": "="
     },
     {
       "rank": 10,
@@ -134,7 +134,7 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+69"
+      "change": "+70"
     },
     {
       "rank": 3,
@@ -190,7 +190,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+405"
+      "change": "+406"
     }
   ],
   "dropped_off": [],
@@ -286,12 +286,12 @@
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 67,
     "Afternoon (12pm-5pm)": 203,
-    "Evening (5pm-9pm)": 160,
+    "Evening (5pm-9pm)": 166,
     "Night (9pm-12am)": 74
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 79,
+    "Tue": 85,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -323,15 +323,15 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 20,
+    "1990s": 22,
     "2000s": 42,
-    "2010s": 162,
-    "2020s": 279
+    "2010s": 164,
+    "2020s": 281
   },
   "listening_style": {
     "played_from": {
-      "other": 447,
-      "playlist": 54,
+      "other": 455,
+      "playlist": 52,
       "album": 2,
       "artist": 1
     },

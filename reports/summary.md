@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-03 to 2026-11-10** · updated 2026-11-10 17:55 ET
+**2026-11-03 to 2026-11-10** · updated 2026-11-10 18:49 ET
 
-**504 plays** (-159 vs last week) · **1720 minutes** · 227 artists · 429 songs
+**510 plays** (-155 vs last week) · **1742 minutes** · 230 artists · 435 songs
 
 _Counting real listens only. 8 skips left out (2% skip rate)._
 
@@ -15,15 +15,15 @@ _Counting real listens only. 8 skips left out (2% skip rate)._
 | 5 | Freddie Gibbs | 24 | +9 |
 | 6 | 21 Savage | 24 | +2 |
 | 7 | J. Cole | 24 | = |
-| 8 | The Alchemist | 20 | +1 |
-| 9 | Gunna | 20 | -8 |
+| 8 | Gunna | 21 | -7 |
+| 9 | The Alchemist | 20 | = |
 | 10 | Lil Baby | 19 | -8 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Leverage - NoCap | 3 | NEW |
-| 2 | Wine & Dine - YoungBoy Never Broke Again | 3 | +69 |
+| 2 | Wine & Dine - YoungBoy Never Broke Again | 3 | +70 |
 | 3 | No Window Tints - Curren$y | 3 | NEW |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
 | 5 | Stories About My Brother - Drake | 3 | NEW |
@@ -31,7 +31,7 @@ _Counting real listens only. 8 skips left out (2% skip rate)._
 | 7 | peter pan. - Brent Faiyaz | 3 | NEW |
 | 8 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 9 | trademark usa - Baby Keem | 3 | NEW |
-| 10 | I Can Love You - Mary J. Blige | 3 | +405 |
+| 10 | I Can Love You - Mary J. Blige | 3 | +406 |
 
 ## Discovery
 76% of plays were songs not in your log before this week.
@@ -59,11 +59,11 @@ New artists: MIKE (3), Nao (3), Thundercat (3), Free Nationals (2), Syd (2), Wiz
 Late night (12am-5am)   0
 Morning (5am-12pm)     ███████ 67
 Afternoon (12pm-5pm)   ████████████████████ 203
-Evening (5pm-9pm)      ████████████████ 160
+Evening (5pm-9pm)      ████████████████ 166
 Night (9pm-12am)       ███████ 74
 
 Mon                    ███████████ 73
-Tue                    ████████████ 79
+Tue                    ████████████ 85
 Wed                    ███████ 46
 Thu                    ████████ 57
 Fri                    ████ 24
@@ -79,10 +79,10 @@ Sun                    ███████████████████
 - Metro Boomin: 6 days in a row
 
 ## Eras
-1970s: 1, 1990s: 20, 2000s: 42, 2010s: 162, 2020s: 279
+1970s: 1, 1990s: 22, 2000s: 42, 2010s: 164, 2020s: 281
 
 ## How you listen
-Played from: other 447, playlist 54, album 2, artist 1
+Played from: other 455, playlist 52, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1284 plays recorded total._
+_Log started 2026-10-26 · 1292 plays recorded total._
