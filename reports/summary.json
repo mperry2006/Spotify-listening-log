@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:08-05:00",
+  "generated_at": "2026-11-10T01:07-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1237,
   "this_week": {
-    "plays": 505,
-    "minutes": 1708,
-    "unique_tracks": 448,
+    "plays": 504,
+    "minutes": 1703,
+    "unique_tracks": 447,
     "unique_artists": 229
   },
   "last_week": {
-    "plays": 635,
-    "minutes": 2040
+    "plays": 622,
+    "minutes": 2007
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,36 +70,36 @@
       "rank": 1,
       "name": "Drake",
       "plays": 47,
-      "last_week_plays": 34,
-      "change": "+4"
+      "last_week_plays": 33,
+      "change": "+5"
     },
     {
       "rank": 2,
       "name": "Future",
       "plays": 28,
-      "last_week_plays": 39,
-      "change": "+1"
+      "last_week_plays": 36,
+      "change": "+2"
     },
     {
       "rank": 3,
       "name": "Westside Gunn",
-      "plays": 26,
-      "last_week_plays": 34,
-      "change": "+3"
+      "plays": 25,
+      "last_week_plays": 35,
+      "change": "+2"
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 26,
-      "last_week_plays": 19,
-      "change": "+9"
-    },
-    {
-      "rank": 5,
       "name": "J. Cole",
       "plays": 25,
       "last_week_plays": 30,
-      "change": "+2"
+      "change": "+3"
+    },
+    {
+      "rank": 5,
+      "name": "Conway the Machine",
+      "plays": 25,
+      "last_week_plays": 20,
+      "change": "+7"
     },
     {
       "rank": 6,
@@ -119,15 +119,15 @@
       "rank": 8,
       "name": "Gunna",
       "plays": 20,
-      "last_week_plays": 51,
+      "last_week_plays": 49,
       "change": "-7"
     },
     {
       "rank": 9,
       "name": "Lil Baby",
       "plays": 19,
-      "last_week_plays": 39,
-      "change": "-5"
+      "last_week_plays": 38,
+      "change": "-6"
     },
     {
       "rank": 10,
@@ -143,14 +143,14 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+477"
+      "change": "+468"
     },
     {
       "rank": 2,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+183"
+      "change": "+172"
     },
     {
       "rank": 3,
@@ -185,14 +185,14 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+418"
+      "change": "+408"
     },
     {
       "rank": 8,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+519"
+      "change": "+510"
     },
     {
       "rank": 9,
@@ -291,7 +291,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 1,
+    "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 65,
     "Afternoon (12pm-5pm)": 188,
     "Evening (5pm-9pm)": 177,
@@ -299,7 +299,7 @@
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 80,
+    "Tue": 79,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -334,12 +334,12 @@
     "1990s": 16,
     "2000s": 43,
     "2010s": 155,
-    "2020s": 290
+    "2020s": 289
   },
   "listening_style": {
     "played_from": {
       "other": 417,
-      "playlist": 85,
+      "playlist": 84,
       "album": 2,
       "artist": 1
     },

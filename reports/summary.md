@@ -1,35 +1,35 @@
 # Listening Report
-**2026-11-03 to 2026-11-10** · updated 2026-11-10 00:08 ET
+**2026-11-03 to 2026-11-10** · updated 2026-11-10 01:07 ET
 
-**505 plays** (-130 vs last week) · **1708 minutes** · 229 artists · 448 songs
+**504 plays** (-118 vs last week) · **1703 minutes** · 229 artists · 447 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 47 | +4 |
-| 2 | Future | 28 | +1 |
-| 3 | Westside Gunn | 26 | +3 |
-| 4 | Conway the Machine | 26 | +9 |
-| 5 | J. Cole | 25 | +2 |
+| 1 | Drake | 47 | +5 |
+| 2 | Future | 28 | +2 |
+| 3 | Westside Gunn | 25 | +2 |
+| 4 | J. Cole | 25 | +3 |
+| 5 | Conway the Machine | 25 | +7 |
 | 6 | Freddie Gibbs | 22 | +8 |
 | 7 | 21 Savage | 21 | +1 |
 | 8 | Gunna | 20 | -7 |
-| 9 | Lil Baby | 19 | -5 |
+| 9 | Lil Baby | 19 | -6 |
 | 10 | The Alchemist | 18 | -1 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Wine & Dine - YoungBoy Never Broke Again | 4 | +477 |
-| 2 | Brand New Draco - 21 Savage | 3 | +183 |
+| 1 | Wine & Dine - YoungBoy Never Broke Again | 4 | +468 |
+| 2 | Brand New Draco - 21 Savage | 3 | +172 |
 | 3 | No Window Tints - Curren$y | 3 | NEW |
 | 4 | Drive and Disconnect - Nao | 3 | NEW |
 | 5 | Stories About My Brother - Drake | 3 | NEW |
 | 6 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
-| 7 | I Can Love You - Mary J. Blige | 3 | +418 |
-| 8 | Blueslides - ScHoolboy Q | 3 | +519 |
+| 7 | I Can Love You - Mary J. Blige | 3 | +408 |
+| 8 | Blueslides - ScHoolboy Q | 3 | +510 |
 | 9 | Fabo - Key Glock | 2 | NEW |
 | 10 | Tony Hawk - Veeze | 2 | NEW |
 
@@ -56,14 +56,14 @@ New artists: Key Glock (3), MIKE (3), Nao (3), Thundercat (3), DJ Khaled (2), GT
 
 ## When you listen
 ```
-Late night (12am-5am)   1
+Late night (12am-5am)   0
 Morning (5am-12pm)     ███████ 65
 Afternoon (12pm-5pm)   ████████████████████ 188
 Evening (5pm-9pm)      ███████████████████ 177
 Night (9pm-12am)       ████████ 74
 
 Mon                    ███████████ 73
-Tue                    ████████████ 80
+Tue                    ████████████ 79
 Wed                    ███████ 46
 Thu                    ████████ 57
 Fri                    ████ 24
@@ -79,10 +79,10 @@ Sun                    ███████████████████
 - Metro Boomin: 5 days in a row
 
 ## Eras
-1970s: 1, 1990s: 16, 2000s: 43, 2010s: 155, 2020s: 290
+1970s: 1, 1990s: 16, 2000s: 43, 2010s: 155, 2020s: 289
 
 ## How you listen
-Played from: other 417, playlist 85, album 2, artist 1
+Played from: other 417, playlist 84, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1237 plays recorded total._
