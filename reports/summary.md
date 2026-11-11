@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-04 to 2026-11-11** · updated 2026-11-11 12:14 ET
+**2026-11-04 to 2026-11-11** · updated 2026-11-11 13:07 ET
 
-**529 plays** (-122 vs last week) · **1795 minutes** · 239 artists · 445 songs
+**527 plays** (-117 vs last week) · **1787 minutes** · 240 artists · 442 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 49 | +2 |
-| 2 | Future | 28 | +2 |
+| 1 | Drake | 49 | +4 |
+| 2 | Future | 28 | +1 |
 | 3 | J. Cole | 27 | +4 |
 | 4 | Gunna | 26 | -3 |
-| 5 | Conway the Machine | 23 | +6 |
-| 6 | Freddie Gibbs | 23 | +9 |
-| 7 | 21 Savage | 23 | +1 |
-| 8 | Westside Gunn | 22 | -2 |
-| 9 | Lil Baby | 22 | -7 |
-| 10 | The Alchemist | 18 | -1 |
+| 5 | Lil Baby | 23 | -3 |
+| 6 | 21 Savage | 23 | +2 |
+| 7 | Freddie Gibbs | 22 | +8 |
+| 8 | Conway the Machine | 21 | +2 |
+| 9 | Westside Gunn | 20 | -3 |
+| 10 | Travis Scott | 18 | +9 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -29,7 +29,7 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 5 | Wickedest - Tems | 3 | NEW |
 | 6 | Stories About My Brother - Drake | 3 | NEW |
 | 7 | Wine & Dine - YoungBoy Never Broke Again | 3 | +10 |
-| 8 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +327 |
+| 8 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +313 |
 | 9 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 | 10 | peter pan. - Brent Faiyaz | 3 | NEW |
 
@@ -60,13 +60,13 @@ New artists: Burna Boy (5), Davido (4), Nao (3), Dave (3), Wizkid (3), Thunderca
 ```
 Late night (12am-5am)   0
 Morning (5am-12pm)     ███████ 73
-Afternoon (12pm-5pm)   ████████████████████ 200
+Afternoon (12pm-5pm)   ████████████████████ 198
 Evening (5pm-9pm)      ████████████████ 161
 Night (9pm-12am)       ██████████ 95
 
 Mon                    ███████████ 73
 Tue                    ███████████████ 101
-Wed                    ███████ 49
+Wed                    ███████ 47
 Thu                    ████████ 57
 Fri                    ████ 24
 Sat                    █████████████ 89
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - 21 Savage: 6 days in a row
 
 ## Eras
-1970s: 1, 1990s: 21, 2000s: 46, 2010s: 167, 2020s: 294
+1970s: 1, 1990s: 21, 2000s: 47, 2010s: 166, 2020s: 292
 
 ## How you listen
-Played from: other 452, playlist 74, album 2, artist 1
+Played from: other 457, playlist 67, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1350 plays recorded total._
+_Log started 2026-10-26 · 1355 plays recorded total._
