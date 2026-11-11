@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-11T10:06-05:00",
+  "generated_at": "2026-11-11T11:06-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1343,
+  "total_plays_logged": 1350,
   "this_week": {
-    "plays": 528,
-    "minutes": 1796,
-    "unique_tracks": 442,
-    "unique_artists": 237
+    "plays": 534,
+    "minutes": 1815,
+    "unique_tracks": 447,
+    "unique_artists": 239
   },
   "last_week": {
-    "plays": 660,
-    "minutes": 2120
+    "plays": 651,
+    "minutes": 2093
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -77,29 +77,29 @@
       "rank": 2,
       "name": "Future",
       "plays": 28,
-      "last_week_plays": 39,
+      "last_week_plays": 37,
       "change": "+1"
     },
     {
       "rank": 3,
-      "name": "Conway the Machine",
-      "plays": 26,
-      "last_week_plays": 19,
-      "change": "+10"
+      "name": "J. Cole",
+      "plays": 27,
+      "last_week_plays": 32,
+      "change": "+4"
     },
     {
       "rank": 4,
-      "name": "Gunna",
+      "name": "Conway the Machine",
       "plays": 26,
-      "last_week_plays": 49,
-      "change": "-3"
+      "last_week_plays": 19,
+      "change": "+9"
     },
     {
       "rank": 5,
-      "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 32,
-      "change": "+2"
+      "name": "Gunna",
+      "plays": 26,
+      "last_week_plays": 48,
+      "change": "-4"
     },
     {
       "rank": 6,
@@ -119,13 +119,13 @@
       "rank": 8,
       "name": "21 Savage",
       "plays": 23,
-      "last_week_plays": 28,
+      "last_week_plays": 27,
       "change": "="
     },
     {
       "rank": 9,
       "name": "Lil Baby",
-      "plays": 20,
+      "plays": 22,
       "last_week_plays": 40,
       "change": "-7"
     },
@@ -192,7 +192,7 @@
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+342"
+      "change": "+332"
     },
     {
       "rank": 9,
@@ -221,10 +221,6 @@
         "plays": 4
       },
       {
-        "name": "MIKE",
-        "plays": 3
-      },
-      {
         "name": "Nao",
         "plays": 3
       },
@@ -238,6 +234,10 @@
       },
       {
         "name": "Thundercat",
+        "plays": 3
+      },
+      {
+        "name": "Doodie Lo",
         "plays": 3
       },
       {
@@ -300,7 +300,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
-    "Morning (5am-12pm)": 69,
+    "Morning (5am-12pm)": 75,
     "Afternoon (12pm-5pm)": 203,
     "Evening (5pm-9pm)": 161,
     "Night (9pm-12am)": 95
@@ -308,7 +308,7 @@
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
-    "Wed": 48,
+    "Wed": 54,
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
@@ -329,25 +329,25 @@
       "days": 9
     },
     {
-      "artist": "21 Savage",
-      "days": 6
+      "artist": "J. Cole",
+      "days": 7
     },
     {
-      "artist": "Metro Boomin",
+      "artist": "21 Savage",
       "days": 6
     }
   ],
   "release_eras": {
     "1970s": 1,
     "1990s": 21,
-    "2000s": 45,
+    "2000s": 46,
     "2010s": 169,
-    "2020s": 292
+    "2020s": 297
   },
   "listening_style": {
     "played_from": {
-      "other": 445,
-      "playlist": 80,
+      "other": 452,
+      "playlist": 79,
       "album": 2,
       "artist": 1
     },
