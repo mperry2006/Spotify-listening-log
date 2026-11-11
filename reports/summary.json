@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-11T08:29-05:00",
+  "generated_at": "2026-11-11T10:06-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1341,
+  "total_plays_logged": 1343,
   "this_week": {
-    "plays": 526,
-    "minutes": 1788,
+    "plays": 528,
+    "minutes": 1796,
     "unique_tracks": 442,
     "unique_artists": 237
   },
   "last_week": {
-    "plays": 666,
-    "minutes": 2136
+    "plays": 660,
+    "minutes": 2120
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -126,7 +126,7 @@
       "rank": 9,
       "name": "Lil Baby",
       "plays": 20,
-      "last_week_plays": 41,
+      "last_week_plays": 40,
       "change": "-7"
     },
     {
@@ -134,7 +134,7 @@
       "name": "The Alchemist",
       "plays": 18,
       "last_week_plays": 24,
-      "change": "="
+      "change": "-1"
     }
   ],
   "top_tracks": [
@@ -185,14 +185,14 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+11"
+      "change": "+10"
     },
     {
       "rank": 8,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+345"
+      "change": "+342"
     },
     {
       "rank": 9,
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 74,
+    "plays_of_new_tracks_pct": 73,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -300,7 +300,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
-    "Morning (5am-12pm)": 67,
+    "Morning (5am-12pm)": 69,
     "Afternoon (12pm-5pm)": 203,
     "Evening (5pm-9pm)": 161,
     "Night (9pm-12am)": 95
@@ -308,7 +308,7 @@
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
-    "Wed": 46,
+    "Wed": 48,
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
@@ -340,13 +340,13 @@
   "release_eras": {
     "1970s": 1,
     "1990s": 21,
-    "2000s": 44,
-    "2010s": 168,
+    "2000s": 45,
+    "2010s": 169,
     "2020s": 292
   },
   "listening_style": {
     "played_from": {
-      "other": 443,
+      "other": 445,
       "playlist": 80,
       "album": 2,
       "artist": 1
