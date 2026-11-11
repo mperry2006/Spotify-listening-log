@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-11T16:52-05:00",
+  "generated_at": "2026-11-11T18:05-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1368,
+  "total_plays_logged": 1384,
   "this_week": {
-    "plays": 522,
-    "minutes": 1769,
-    "unique_tracks": 438,
-    "unique_artists": 237
+    "plays": 538,
+    "minutes": 1832,
+    "unique_tracks": 450,
+    "unique_artists": 240
   },
   "last_week": {
-    "plays": 611,
-    "minutes": 1973
+    "plays": 595,
+    "minutes": 1921
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,36 +69,36 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 49,
-      "last_week_plays": 34,
-      "change": "+4"
+      "plays": 53,
+      "last_week_plays": 32,
+      "change": "+5"
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 28,
+      "plays": 29,
       "last_week_plays": 27,
       "change": "+5"
     },
     {
       "rank": 3,
-      "name": "Gunna",
-      "plays": 27,
-      "last_week_plays": 47,
-      "change": "-2"
+      "name": "Future",
+      "plays": 28,
+      "last_week_plays": 33,
+      "change": "+1"
     },
     {
       "rank": 4,
-      "name": "Future",
+      "name": "Gunna",
       "plays": 27,
-      "last_week_plays": 34,
-      "change": "+2"
+      "last_week_plays": 46,
+      "change": "-3"
     },
     {
       "rank": 5,
       "name": "21 Savage",
-      "plays": 24,
-      "last_week_plays": 26,
+      "plays": 26,
+      "last_week_plays": 24,
       "change": "+3"
     },
     {
@@ -111,30 +111,30 @@
     {
       "rank": 7,
       "name": "Freddie Gibbs",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 16,
-      "change": "+9"
+      "change": "+8"
     },
     {
       "rank": 8,
       "name": "Conway the Machine",
-      "plays": 20,
-      "last_week_plays": 22,
-      "change": "+1"
+      "plays": 21,
+      "last_week_plays": 21,
+      "change": "+2"
     },
     {
       "rank": 9,
       "name": "Westside Gunn",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 36,
       "change": "-6"
     },
     {
       "rank": 10,
       "name": "Travis Scott",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 12,
-      "change": "+11"
+      "change": "+9"
     }
   ],
   "top_tracks": [
@@ -182,28 +182,28 @@
     },
     {
       "rank": 7,
-      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
+      "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+268"
+      "change": "+425"
     },
     {
       "rank": 8,
-      "name": "KeepHer (feat. Thundercat) - NxWorries",
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+252"
     },
     {
       "rank": 9,
-      "name": "peter pan. - Brent Faiyaz",
+      "name": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Child's Play (feat. 21 Savage) - Young Nudy",
+      "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -282,33 +282,33 @@
       "plays": 3
     },
     {
+      "track": "Brand New Draco - 21 Savage",
+      "plays": 3
+    },
+    {
       "track": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3
     },
     {
+      "track": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
+      "plays": 3
+    },
+    {
       "track": "KeepHer (feat. Thundercat) - NxWorries",
-      "plays": 3
-    },
-    {
-      "track": "peter pan. - Brent Faiyaz",
-      "plays": 3
-    },
-    {
-      "track": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 73,
-    "Afternoon (12pm-5pm)": 193,
-    "Evening (5pm-9pm)": 161,
+    "Afternoon (12pm-5pm)": 195,
+    "Evening (5pm-9pm)": 175,
     "Night (9pm-12am)": 95
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
-    "Wed": 42,
+    "Wed": 58,
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
@@ -326,7 +326,7 @@
     },
     {
       "artist": "Future",
-      "days": 9
+      "days": 10
     },
     {
       "artist": "21 Savage",
@@ -341,13 +341,13 @@
     "1970s": 1,
     "1990s": 22,
     "2000s": 45,
-    "2010s": 165,
-    "2020s": 289
+    "2010s": 172,
+    "2020s": 298
   },
   "listening_style": {
     "played_from": {
-      "other": 454,
-      "playlist": 65,
+      "other": 458,
+      "playlist": 77,
       "album": 2,
       "artist": 1
     },

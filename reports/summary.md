@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-04 to 2026-11-11** · updated 2026-11-11 16:52 ET
+**2026-11-04 to 2026-11-11** · updated 2026-11-11 18:05 ET
 
-**522 plays** (-89 vs last week) · **1769 minutes** · 237 artists · 438 songs
+**538 plays** (-57 vs last week) · **1832 minutes** · 240 artists · 450 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 49 | +4 |
-| 2 | J. Cole | 28 | +5 |
-| 3 | Gunna | 27 | -2 |
-| 4 | Future | 27 | +2 |
-| 5 | 21 Savage | 24 | +3 |
+| 1 | Drake | 53 | +5 |
+| 2 | J. Cole | 29 | +5 |
+| 3 | Future | 28 | +1 |
+| 4 | Gunna | 27 | -3 |
+| 5 | 21 Savage | 26 | +3 |
 | 6 | Lil Baby | 23 | -4 |
-| 7 | Freddie Gibbs | 21 | +9 |
-| 8 | Conway the Machine | 20 | +1 |
-| 9 | Westside Gunn | 18 | -6 |
-| 10 | Travis Scott | 18 | +11 |
+| 7 | Freddie Gibbs | 22 | +8 |
+| 8 | Conway the Machine | 21 | +2 |
+| 9 | Westside Gunn | 19 | -6 |
+| 10 | Travis Scott | 19 | +9 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -28,10 +28,10 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 4 | Wickedest - Tems | 3 | NEW |
 | 5 | Stories About My Brother - Drake | 3 | NEW |
 | 6 | Wine & Dine - YoungBoy Never Broke Again | 3 | +10 |
-| 7 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +268 |
-| 8 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
-| 9 | peter pan. - Brent Faiyaz | 3 | NEW |
-| 10 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
+| 7 | Brand New Draco - 21 Savage | 3 | +425 |
+| 8 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +252 |
+| 9 | Lemon Pepper Freestyle (feat. Rick Ross) - Drake | 3 | NEW |
+| 10 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 
 ## Discovery
 73% of plays were songs not in your log before this week.
@@ -44,10 +44,10 @@ New artists: Burna Boy (5), Wizkid (4), Davido (4), Nao (3), Dave (3), Thunderca
 - Wickedest - Tems - 3x
 - Stories About My Brother - Drake - 3x
 - Wine & Dine - YoungBoy Never Broke Again - 3x
+- Brand New Draco - 21 Savage - 3x
 - TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan - 3x
+- Lemon Pepper Freestyle (feat. Rick Ross) - Drake - 3x
 - KeepHer (feat. Thundercat) - NxWorries - 3x
-- peter pan. - Brent Faiyaz - 3x
-- Child's Play (feat. 21 Savage) - Young Nudy - 3x
 
 ## Most skipped
 - Drive and Disconnect - Nao - skipped 6x
@@ -59,14 +59,14 @@ New artists: Burna Boy (5), Wizkid (4), Davido (4), Nao (3), Dave (3), Thunderca
 ## When you listen
 ```
 Late night (12am-5am)   0
-Morning (5am-12pm)     ████████ 73
-Afternoon (12pm-5pm)   ████████████████████ 193
-Evening (5pm-9pm)      █████████████████ 161
+Morning (5am-12pm)     ███████ 73
+Afternoon (12pm-5pm)   ████████████████████ 195
+Evening (5pm-9pm)      ██████████████████ 175
 Night (9pm-12am)       ██████████ 95
 
 Mon                    ███████████ 73
 Tue                    ███████████████ 101
-Wed                    ██████ 42
+Wed                    █████████ 58
 Thu                    ████████ 57
 Fri                    ████ 24
 Sat                    █████████████ 89
@@ -76,15 +76,15 @@ Sun                    ███████████████████
 ## Streaks
 - Drake: 17 days in a row
 - Freddie Gibbs: 10 days in a row
-- Future: 9 days in a row
+- Future: 10 days in a row
 - 21 Savage: 7 days in a row
 - Metro Boomin: 7 days in a row
 
 ## Eras
-1970s: 1, 1990s: 22, 2000s: 45, 2010s: 165, 2020s: 289
+1970s: 1, 1990s: 22, 2000s: 45, 2010s: 172, 2020s: 298
 
 ## How you listen
-Played from: other 454, playlist 65, album 2, artist 1
+Played from: other 458, playlist 77, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1368 plays recorded total._
+_Log started 2026-10-26 · 1384 plays recorded total._
