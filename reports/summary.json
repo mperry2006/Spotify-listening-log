@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-11T15:16-05:00",
+  "generated_at": "2026-11-11T16:52-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1365,
+  "total_plays_logged": 1368,
   "this_week": {
-    "plays": 526,
-    "minutes": 1781,
-    "unique_tracks": 442,
-    "unique_artists": 241
+    "plays": 522,
+    "minutes": 1769,
+    "unique_tracks": 438,
+    "unique_artists": 237
   },
   "last_week": {
-    "plays": 627,
-    "minutes": 2019
+    "plays": 611,
+    "minutes": 1973
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,71 +70,71 @@
       "rank": 1,
       "name": "Drake",
       "plays": 49,
-      "last_week_plays": 35,
-      "change": "+5"
+      "last_week_plays": 34,
+      "change": "+4"
     },
     {
       "rank": 2,
       "name": "J. Cole",
       "plays": 28,
-      "last_week_plays": 28,
+      "last_week_plays": 27,
       "change": "+5"
     },
     {
       "rank": 3,
-      "name": "Future",
+      "name": "Gunna",
       "plays": 27,
-      "last_week_plays": 36,
-      "change": "+1"
+      "last_week_plays": 47,
+      "change": "-2"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 26,
-      "last_week_plays": 48,
-      "change": "-3"
+      "name": "Future",
+      "plays": 27,
+      "last_week_plays": 34,
+      "change": "+2"
     },
     {
       "rank": 5,
       "name": "21 Savage",
       "plays": 24,
-      "last_week_plays": 27,
+      "last_week_plays": 26,
       "change": "+3"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
       "plays": 23,
-      "last_week_plays": 39,
+      "last_week_plays": 37,
       "change": "-4"
     },
     {
       "rank": 7,
       "name": "Freddie Gibbs",
-      "plays": 20,
-      "last_week_plays": 17,
+      "plays": 21,
+      "last_week_plays": 16,
       "change": "+9"
     },
     {
       "rank": 8,
       "name": "Conway the Machine",
       "plays": 20,
-      "last_week_plays": 24,
-      "change": "+2"
+      "last_week_plays": 22,
+      "change": "+1"
     },
     {
       "rank": 9,
-      "name": "Travis Scott",
+      "name": "Westside Gunn",
       "plays": 18,
-      "last_week_plays": 13,
-      "change": "+9"
+      "last_week_plays": 36,
+      "change": "-6"
     },
     {
       "rank": 10,
-      "name": "Westside Gunn",
-      "plays": 17,
-      "last_week_plays": 37,
-      "change": "-7"
+      "name": "Travis Scott",
+      "plays": 18,
+      "last_week_plays": 12,
+      "change": "+11"
     }
   ],
   "top_tracks": [
@@ -178,14 +178,14 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+11"
+      "change": "+10"
     },
     {
       "rank": 7,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+289"
+      "change": "+268"
     },
     {
       "rank": 8,
@@ -301,14 +301,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 73,
-    "Afternoon (12pm-5pm)": 197,
+    "Afternoon (12pm-5pm)": 193,
     "Evening (5pm-9pm)": 161,
     "Night (9pm-12am)": 95
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
-    "Wed": 46,
+    "Wed": 42,
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
@@ -322,7 +322,7 @@
     },
     {
       "artist": "Freddie Gibbs",
-      "days": 9
+      "days": 10
     },
     {
       "artist": "Future",
@@ -340,13 +340,13 @@
   "release_eras": {
     "1970s": 1,
     "1990s": 22,
-    "2000s": 46,
-    "2010s": 163,
-    "2020s": 294
+    "2000s": 45,
+    "2010s": 165,
+    "2020s": 289
   },
   "listening_style": {
     "played_from": {
-      "other": 458,
+      "other": 454,
       "playlist": 65,
       "album": 2,
       "artist": 1
