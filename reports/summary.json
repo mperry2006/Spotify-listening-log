@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-10T18:49-05:00",
+  "generated_at": "2026-11-10T20:23-05:00",
   "window": {
     "start": "2026-11-03",
     "end": "2026-11-10"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1292,
+  "total_plays_logged": 1304,
   "this_week": {
     "plays": 510,
-    "minutes": 1742,
-    "unique_tracks": 435,
+    "minutes": 1741,
+    "unique_tracks": 434,
     "unique_artists": 230
   },
   "last_week": {
-    "plays": 665,
-    "minutes": 2133
+    "plays": 660,
+    "minutes": 2118
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,22 +53,22 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 50,
-      "last_week_plays": 34,
+      "plays": 51,
+      "last_week_plays": 33,
       "change": "+5"
     },
     {
       "rank": 2,
       "name": "Future",
       "plays": 31,
-      "last_week_plays": 37,
+      "last_week_plays": 36,
       "change": "+2"
     },
     {
       "rank": 3,
       "name": "Conway the Machine",
-      "plays": 28,
-      "last_week_plays": 19,
+      "plays": 26,
+      "last_week_plays": 21,
       "change": "+10"
     },
     {
@@ -80,65 +80,65 @@
     },
     {
       "rank": 5,
-      "name": "Freddie Gibbs",
+      "name": "21 Savage",
       "plays": 24,
-      "last_week_plays": 17,
-      "change": "+9"
+      "last_week_plays": 27,
+      "change": "+3"
     },
     {
       "rank": 6,
-      "name": "21 Savage",
-      "plays": 24,
-      "last_week_plays": 28,
-      "change": "+2"
-    },
-    {
-      "rank": 7,
       "name": "J. Cole",
       "plays": 24,
       "last_week_plays": 32,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 7,
+      "name": "Freddie Gibbs",
+      "plays": 23,
+      "last_week_plays": 18,
+      "change": "+7"
     },
     {
       "rank": 8,
       "name": "Gunna",
-      "plays": 21,
-      "last_week_plays": 50,
+      "plays": 23,
+      "last_week_plays": 49,
       "change": "-7"
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
+      "name": "Lil Baby",
       "plays": 20,
-      "last_week_plays": 25,
-      "change": "="
+      "last_week_plays": 40,
+      "change": "-7"
     },
     {
       "rank": 10,
-      "name": "Lil Baby",
+      "name": "The Alchemist",
       "plays": 19,
-      "last_week_plays": 41,
-      "change": "-8"
+      "last_week_plays": 26,
+      "change": "-1"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Leverage - NoCap",
+      "name": "Wine & Dine - YoungBoy Never Broke Again",
+      "plays": 3,
+      "last_week_plays": 2,
+      "change": "+67"
+    },
+    {
+      "rank": 2,
+      "name": "No Window Tints - Curren$y",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 2,
-      "name": "Wine & Dine - YoungBoy Never Broke Again",
-      "plays": 3,
-      "last_week_plays": 2,
-      "change": "+70"
-    },
-    {
       "rank": 3,
-      "name": "No Window Tints - Curren$y",
+      "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -190,7 +190,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+406"
+      "change": "+396"
     }
   ],
   "dropped_off": [],
@@ -217,6 +217,14 @@
         "plays": 2
       },
       {
+        "name": "Dave",
+        "plays": 2
+      },
+      {
+        "name": "Burna Boy",
+        "plays": 2
+      },
+      {
         "name": "Wizkid",
         "plays": 2
       },
@@ -227,30 +235,22 @@
       {
         "name": "Silk Sonic",
         "plays": 2
-      },
-      {
-        "name": "Gunaviani",
-        "plays": 2
-      },
-      {
-        "name": "Danger Mouse",
-        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 76,
+    "plays_of_new_tracks_pct": 75,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
-    {
-      "track": "Leverage - NoCap",
-      "plays": 3
-    },
     {
       "track": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3
     },
     {
       "track": "No Window Tints - Curren$y",
+      "plays": 3
+    },
+    {
+      "track": "One Day You'll Be Mine - USHER",
       "plays": 3
     },
     {
@@ -323,15 +323,15 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 22,
+    "1990s": 23,
     "2000s": 42,
     "2010s": 164,
-    "2020s": 281
+    "2020s": 280
   },
   "listening_style": {
     "played_from": {
-      "other": 455,
-      "playlist": 52,
+      "other": 448,
+      "playlist": 59,
       "album": 2,
       "artist": 1
     },
@@ -342,14 +342,14 @@
       "artists": [
         "Westside Gunn",
         "Drake",
-        "J. Cole",
         "Gunna",
+        "J. Cole",
         "Future",
         "Migos",
-        "Lil Baby",
-        "JAŸ-Z",
-        "21 Savage",
-        "Lil Durk"
+        "Kanye West",
+        "Freddie Gibbs",
+        "Lil Durk",
+        "Young Thug"
       ]
     },
     "medium_term": {
