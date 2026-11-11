@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-04 to 2026-11-11** · updated 2026-11-11 06:15 ET
+**2026-11-04 to 2026-11-11** · updated 2026-11-11 07:13 ET
 
-**526 plays** (-141 vs last week) · **1788 minutes** · 237 artists · 442 songs
+**526 plays** (-140 vs last week) · **1788 minutes** · 237 artists · 442 songs
 
 _Counting real listens only. 10 skips left out (2% skip rate)._
 
@@ -17,7 +17,7 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 7 | Freddie Gibbs | 23 | +8 |
 | 8 | 21 Savage | 23 | = |
 | 9 | Lil Baby | 20 | -7 |
-| 10 | The Alchemist | 18 | -1 |
+| 10 | The Alchemist | 18 | = |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -29,7 +29,7 @@ _Counting real listens only. 10 skips left out (2% skip rate)._
 | 5 | Wickedest - Tems | 3 | NEW |
 | 6 | Stories About My Brother - Drake | 3 | NEW |
 | 7 | Wine & Dine - YoungBoy Never Broke Again | 3 | +11 |
-| 8 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +346 |
+| 8 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +345 |
 | 9 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 | 10 | peter pan. - Brent Faiyaz | 3 | NEW |
 

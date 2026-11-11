@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:15-05:00",
+  "generated_at": "2026-11-11T07:13-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
@@ -13,8 +13,8 @@
     "unique_artists": 237
   },
   "last_week": {
-    "plays": 667,
-    "minutes": 2140
+    "plays": 666,
+    "minutes": 2136
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -133,8 +133,8 @@
       "rank": 10,
       "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 25,
-      "change": "-1"
+      "last_week_plays": 24,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -192,7 +192,7 @@
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+346"
+      "change": "+345"
     },
     {
       "rank": 9,
