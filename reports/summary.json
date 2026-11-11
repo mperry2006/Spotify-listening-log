@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:06-05:00",
+  "generated_at": "2026-11-11T12:14-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1350,
   "this_week": {
-    "plays": 534,
-    "minutes": 1815,
-    "unique_tracks": 447,
+    "plays": 529,
+    "minutes": 1795,
+    "unique_tracks": 445,
     "unique_artists": 239
   },
   "last_week": {
     "plays": 651,
-    "minutes": 2093
+    "minutes": 2099
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,64 +69,64 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 51,
-      "last_week_plays": 35,
-      "change": "+4"
+      "plays": 49,
+      "last_week_plays": 37,
+      "change": "+2"
     },
     {
       "rank": 2,
       "name": "Future",
       "plays": 28,
       "last_week_plays": 37,
-      "change": "+1"
+      "change": "+2"
     },
     {
       "rank": 3,
       "name": "J. Cole",
       "plays": 27,
-      "last_week_plays": 32,
+      "last_week_plays": 31,
       "change": "+4"
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
-      "plays": 26,
-      "last_week_plays": 19,
-      "change": "+9"
-    },
-    {
-      "rank": 5,
       "name": "Gunna",
       "plays": 26,
       "last_week_plays": 48,
-      "change": "-4"
+      "change": "-3"
+    },
+    {
+      "rank": 5,
+      "name": "Conway the Machine",
+      "plays": 23,
+      "last_week_plays": 22,
+      "change": "+6"
     },
     {
       "rank": 6,
-      "name": "Westside Gunn",
+      "name": "Freddie Gibbs",
       "plays": 23,
-      "last_week_plays": 33,
-      "change": "="
+      "last_week_plays": 16,
+      "change": "+9"
     },
     {
       "rank": 7,
-      "name": "Freddie Gibbs",
-      "plays": 23,
-      "last_week_plays": 17,
-      "change": "+8"
-    },
-    {
-      "rank": 8,
       "name": "21 Savage",
       "plays": 23,
       "last_week_plays": 27,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 8,
+      "name": "Westside Gunn",
+      "plays": 22,
+      "last_week_plays": 33,
+      "change": "-2"
     },
     {
       "rank": 9,
       "name": "Lil Baby",
       "plays": 22,
-      "last_week_plays": 40,
+      "last_week_plays": 39,
       "change": "-7"
     },
     {
@@ -192,7 +192,7 @@
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+332"
+      "change": "+327"
     },
     {
       "rank": 9,
@@ -300,15 +300,15 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
-    "Morning (5am-12pm)": 75,
-    "Afternoon (12pm-5pm)": 203,
+    "Morning (5am-12pm)": 73,
+    "Afternoon (12pm-5pm)": 200,
     "Evening (5pm-9pm)": 161,
     "Night (9pm-12am)": 95
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
-    "Wed": 54,
+    "Wed": 49,
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
@@ -341,13 +341,13 @@
     "1970s": 1,
     "1990s": 21,
     "2000s": 46,
-    "2010s": 169,
-    "2020s": 297
+    "2010s": 167,
+    "2020s": 294
   },
   "listening_style": {
     "played_from": {
       "other": 452,
-      "playlist": 79,
+      "playlist": 74,
       "album": 2,
       "artist": 1
     },
