@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-11T18:05-05:00",
+  "generated_at": "2026-11-11T18:59-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1384,
+  "total_plays_logged": 1391,
   "this_week": {
-    "plays": 538,
-    "minutes": 1832,
-    "unique_tracks": 450,
-    "unique_artists": 240
+    "plays": 536,
+    "minutes": 1830,
+    "unique_tracks": 449,
+    "unique_artists": 239
   },
   "last_week": {
-    "plays": 595,
-    "minutes": 1921
+    "plays": 591,
+    "minutes": 1906
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 2,
-    "skipped_plays": 10,
+    "skip_rate_pct": 1,
+    "skipped_plays": 6,
     "most_skipped_tracks": [
       {
         "track": "Drive and Disconnect - Nao",
-        "skips": 6
+        "skips": 2
       },
       {
         "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
@@ -45,7 +45,7 @@
     "most_skipped_artists": [
       {
         "artist": "Nao",
-        "skips": 6
+        "skips": 2
       },
       {
         "artist": "Conway the Machine",
@@ -69,141 +69,141 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 53,
-      "last_week_plays": 32,
+      "plays": 55,
+      "last_week_plays": 31,
       "change": "+5"
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 29,
-      "last_week_plays": 27,
+      "plays": 31,
+      "last_week_plays": 26,
       "change": "+5"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 28,
-      "last_week_plays": 33,
+      "plays": 29,
+      "last_week_plays": 32,
       "change": "+1"
     },
     {
       "rank": 4,
       "name": "Gunna",
-      "plays": 27,
-      "last_week_plays": 46,
+      "plays": 28,
+      "last_week_plays": 45,
       "change": "-3"
     },
     {
       "rank": 5,
       "name": "21 Savage",
       "plays": 26,
-      "last_week_plays": 24,
+      "last_week_plays": 23,
       "change": "+3"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
-      "plays": 23,
+      "plays": 24,
       "last_week_plays": 37,
       "change": "-4"
     },
     {
       "rank": 7,
-      "name": "Freddie Gibbs",
-      "plays": 22,
-      "last_week_plays": 16,
-      "change": "+8"
+      "name": "Conway the Machine",
+      "plays": 21,
+      "last_week_plays": 20,
+      "change": "+3"
     },
     {
       "rank": 8,
-      "name": "Conway the Machine",
-      "plays": 21,
-      "last_week_plays": 21,
-      "change": "+2"
+      "name": "Freddie Gibbs",
+      "plays": 20,
+      "last_week_plays": 18,
+      "change": "+5"
     },
     {
       "rank": 9,
-      "name": "Westside Gunn",
-      "plays": 19,
-      "last_week_plays": 36,
-      "change": "-6"
+      "name": "Travis Scott",
+      "plays": 20,
+      "last_week_plays": 12,
+      "change": "+9"
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
+      "name": "Westside Gunn",
       "plays": 19,
-      "last_week_plays": 12,
-      "change": "+9"
+      "last_week_plays": 35,
+      "change": "-7"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "One Day You'll Be Mine - USHER",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 2,
-      "name": "Drive and Disconnect - Nao",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 3,
       "name": "Location (feat. Burna Boy) - Dave",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "name": "Stories About My Brother - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+10"
+      "change": "+12"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+425"
+      "change": "+416"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+252"
+      "change": "+244"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "peter pan. - Brent Faiyaz",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -223,10 +223,6 @@
       {
         "name": "Davido",
         "plays": 4
-      },
-      {
-        "name": "Nao",
-        "plays": 3
       },
       {
         "name": "Dave",
@@ -251,20 +247,16 @@
       {
         "name": "Silk Sonic",
         "plays": 2
+      },
+      {
+        "name": "Gunaviani",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 73,
+    "plays_of_new_tracks_pct": 72,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
-    {
-      "track": "One Day You'll Be Mine - USHER",
-      "plays": 3
-    },
-    {
-      "track": "Drive and Disconnect - Nao",
-      "plays": 3
-    },
     {
       "track": "Location (feat. Burna Boy) - Dave",
       "plays": 3
@@ -296,19 +288,27 @@
     {
       "track": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3
+    },
+    {
+      "track": "peter pan. - Brent Faiyaz",
+      "plays": 3
+    },
+    {
+      "track": "Child's Play (feat. 21 Savage) - Young Nudy",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 73,
     "Afternoon (12pm-5pm)": 195,
-    "Evening (5pm-9pm)": 175,
+    "Evening (5pm-9pm)": 173,
     "Night (9pm-12am)": 95
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
-    "Wed": 58,
+    "Wed": 56,
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
@@ -339,15 +339,15 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 22,
-    "2000s": 45,
-    "2010s": 172,
-    "2020s": 298
+    "1990s": 21,
+    "2000s": 44,
+    "2010s": 170,
+    "2020s": 300
   },
   "listening_style": {
     "played_from": {
-      "other": 458,
-      "playlist": 77,
+      "other": 450,
+      "playlist": 83,
       "album": 2,
       "artist": 1
     },
