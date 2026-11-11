@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-10T23:12-05:00",
+  "generated_at": "2026-11-11T00:16-05:00",
   "window": {
-    "start": "2026-11-03",
-    "end": "2026-11-10"
+    "start": "2026-11-04",
+    "end": "2026-11-11"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1338,
+  "total_plays_logged": 1341,
   "this_week": {
-    "plays": 523,
-    "minutes": 1781,
-    "unique_tracks": 439,
-    "unique_artists": 234
+    "plays": 526,
+    "minutes": 1788,
+    "unique_tracks": 442,
+    "unique_artists": 237
   },
   "last_week": {
     "plays": 667,
@@ -214,7 +214,7 @@
     "new_artists": [
       {
         "name": "Burna Boy",
-        "plays": 4
+        "plays": 5
       },
       {
         "name": "Davido",
@@ -233,16 +233,16 @@
         "plays": 3
       },
       {
+        "name": "Wizkid",
+        "plays": 3
+      },
+      {
         "name": "Thundercat",
         "plays": 3
       },
       {
         "name": "Joeboy",
         "plays": 3
-      },
-      {
-        "name": "Wizkid",
-        "plays": 2
       },
       {
         "name": "Bruno Mars",
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 73,
+    "plays_of_new_tracks_pct": 74,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -303,11 +303,11 @@
     "Morning (5am-12pm)": 67,
     "Afternoon (12pm-5pm)": 203,
     "Evening (5pm-9pm)": 161,
-    "Night (9pm-12am)": 92
+    "Night (9pm-12am)": 95
   },
   "day_of_week": {
     "Mon": 73,
-    "Tue": 98,
+    "Tue": 101,
     "Wed": 46,
     "Thu": 57,
     "Fri": 24,
@@ -341,13 +341,13 @@
     "1970s": 1,
     "1990s": 21,
     "2000s": 44,
-    "2010s": 167,
-    "2020s": 290
+    "2010s": 168,
+    "2020s": 292
   },
   "listening_style": {
     "played_from": {
       "other": 443,
-      "playlist": 77,
+      "playlist": 80,
       "album": 2,
       "artist": 1
     },
