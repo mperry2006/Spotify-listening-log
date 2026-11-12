@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-04 to 2026-11-11** · updated 2026-11-11 22:05 ET
+**2026-11-04 to 2026-11-11** · updated 2026-11-11 23:11 ET
 
-**544 plays** (-49 vs last week) · **1857 minutes** · 243 artists · 452 songs
+**544 plays** (-46 vs last week) · **1857 minutes** · 243 artists · 452 songs
 
 _Counting real listens only. 4 skips left out (1% skip rate)._
 
@@ -12,7 +12,7 @@ _Counting real listens only. 4 skips left out (1% skip rate)._
 | 2 | J. Cole | 31 | +5 |
 | 3 | Gunna | 30 | -2 |
 | 4 | Future | 29 | = |
-| 5 | 21 Savage | 26 | +3 |
+| 5 | 21 Savage | 26 | +4 |
 | 6 | Lil Baby | 24 | -4 |
 | 7 | Conway the Machine | 21 | +3 |
 | 8 | Freddie Gibbs | 20 | +5 |
@@ -26,8 +26,8 @@ _Counting real listens only. 4 skips left out (1% skip rate)._
 | 2 | Wickedest - Tems | 3 | NEW |
 | 3 | Stories About My Brother - Drake | 3 | NEW |
 | 4 | Wine & Dine - YoungBoy Never Broke Again | 3 | +12 |
-| 5 | Brand New Draco - 21 Savage | 3 | +414 |
-| 6 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +242 |
+| 5 | Brand New Draco - 21 Savage | 3 | +412 |
+| 6 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +239 |
 | 7 | Lemon Pepper Freestyle (feat. Rick Ross) - Drake | 3 | NEW |
 | 8 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 | 9 | peter pan. - Brent Faiyaz | 3 | NEW |

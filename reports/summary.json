@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:05-05:00",
+  "generated_at": "2026-11-11T23:11-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
@@ -13,8 +13,8 @@
     "unique_artists": 243
   },
   "last_week": {
-    "plays": 593,
-    "minutes": 1909
+    "plays": 590,
+    "minutes": 1898
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -90,8 +90,8 @@
       "rank": 5,
       "name": "21 Savage",
       "plays": 26,
-      "last_week_plays": 23,
-      "change": "+3"
+      "last_week_plays": 22,
+      "change": "+4"
     },
     {
       "rank": 6,
@@ -163,14 +163,14 @@
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+414"
+      "change": "+412"
     },
     {
       "rank": 6,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+242"
+      "change": "+239"
     },
     {
       "rank": 7,
