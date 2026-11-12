@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-05 to 2026-11-12** · updated 2026-11-12 16:59 ET
+**2026-11-05 to 2026-11-12** · updated 2026-11-12 17:59 ET
 
-**531 plays** (+14 vs last week) · **1827 minutes** · 241 artists · 440 songs
+**530 plays** (+19 vs last week) · **1824 minutes** · 241 artists · 440 songs
 
 _Counting real listens only. 5 skips left out (1% skip rate)._
 
@@ -11,11 +11,11 @@ _Counting real listens only. 5 skips left out (1% skip rate)._
 | 1 | Drake | 54 | +1 |
 | 2 | J. Cole | 30 | +4 |
 | 3 | Gunna | 29 | -2 |
-| 4 | 21 Savage | 27 | +6 |
+| 4 | 21 Savage | 27 | +7 |
 | 5 | Future | 26 | -2 |
 | 6 | Lil Baby | 23 | -2 |
-| 7 | Freddie Gibbs | 20 | +4 |
-| 8 | Kanye West | 19 | +13 |
+| 7 | Freddie Gibbs | 19 | +3 |
+| 8 | Kanye West | 19 | +12 |
 | 9 | Travis Scott | 19 | +9 |
 | 10 | Conway the Machine | 19 | +2 |
 
@@ -24,14 +24,14 @@ _Counting real listens only. 5 skips left out (1% skip rate)._
 |---|---|---|---|
 | 1 | peter pan. - Brent Faiyaz | 4 | NEW |
 | 2 | Sip (Alcohol) - Joeboy | 4 | NEW |
-| 3 | Wine & Dine - YoungBoy Never Broke Again | 3 | +7 |
-| 4 | Brand New Draco - 21 Savage | 3 | +325 |
-| 5 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +153 |
+| 3 | Wine & Dine - YoungBoy Never Broke Again | 3 | +8 |
+| 4 | Brand New Draco - 21 Savage | 3 | +320 |
+| 5 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +146 |
 | 6 | Lemon Pepper Freestyle (feat. Rick Ross) - Drake | 3 | NEW |
 | 7 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 | 8 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 9 | trademark usa - Baby Keem | 3 | NEW |
-| 10 | I Can Love You - Mary J. Blige | 3 | +190 |
+| 10 | I Can Love You - Mary J. Blige | 3 | +183 |
 
 ## Discovery
 70% of plays were songs not in your log before this week.
@@ -61,13 +61,13 @@ New artists: Swae Lee (4), Joeboy (4), Davido (4), Thundercat (3), Doodie Lo (3)
 Late night (12am-5am)  █ 10
 Morning (5am-12pm)     █████████ 80
 Afternoon (12pm-5pm)   ██████████████████ 165
-Evening (5pm-9pm)      ████████████████████ 183
+Evening (5pm-9pm)      ████████████████████ 182
 Night (9pm-12am)       ██████████ 93
 
 Mon                    ███████████ 73
 Tue                    ███████████████ 101
 Wed                    █████████ 64
-Thu                    ██████ 44
+Thu                    ██████ 43
 Fri                    ████ 24
 Sat                    █████████████ 89
 Sun                    ████████████████████ 136
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - J. Cole: 8 days in a row
 
 ## Eras
-1970s: 1, 1990s: 20, 2000s: 45, 2010s: 166, 2020s: 299
+1970s: 1, 1990s: 20, 2000s: 45, 2010s: 166, 2020s: 298
 
 ## How you listen
-Played from: other 445, playlist 83, album 2, artist 1
+Played from: other 444, playlist 83, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1424 plays recorded total._
+_Log started 2026-10-26 · 1425 plays recorded total._

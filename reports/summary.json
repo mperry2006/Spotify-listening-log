@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-12T16:59-05:00",
+  "generated_at": "2026-11-12T17:59-05:00",
   "window": {
     "start": "2026-11-05",
     "end": "2026-11-12"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1424,
+  "total_plays_logged": 1425,
   "this_week": {
-    "plays": 531,
-    "minutes": 1827,
+    "plays": 530,
+    "minutes": 1824,
     "unique_tracks": 440,
     "unique_artists": 241
   },
   "last_week": {
-    "plays": 517,
-    "minutes": 1672
+    "plays": 511,
+    "minutes": 1655
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,14 +70,14 @@
       "rank": 1,
       "name": "Drake",
       "plays": 54,
-      "last_week_plays": 34,
+      "last_week_plays": 33,
       "change": "+1"
     },
     {
       "rank": 2,
       "name": "J. Cole",
       "plays": 30,
-      "last_week_plays": 25,
+      "last_week_plays": 24,
       "change": "+4"
     },
     {
@@ -92,7 +92,7 @@
       "name": "21 Savage",
       "plays": 27,
       "last_week_plays": 17,
-      "change": "+6"
+      "change": "+7"
     },
     {
       "rank": 5,
@@ -111,16 +111,16 @@
     {
       "rank": 7,
       "name": "Freddie Gibbs",
-      "plays": 20,
-      "last_week_plays": 16,
-      "change": "+4"
+      "plays": 19,
+      "last_week_plays": 17,
+      "change": "+3"
     },
     {
       "rank": 8,
       "name": "Kanye West",
       "plays": 19,
       "last_week_plays": 10,
-      "change": "+13"
+      "change": "+12"
     },
     {
       "rank": 9,
@@ -157,21 +157,21 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+7"
+      "change": "+8"
     },
     {
       "rank": 4,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+325"
+      "change": "+320"
     },
     {
       "rank": 5,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+153"
+      "change": "+146"
     },
     {
       "rank": 6,
@@ -206,7 +206,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+190"
+      "change": "+183"
     }
   ],
   "dropped_off": [],
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 10,
     "Morning (5am-12pm)": 80,
     "Afternoon (12pm-5pm)": 165,
-    "Evening (5pm-9pm)": 183,
+    "Evening (5pm-9pm)": 182,
     "Night (9pm-12am)": 93
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
-    "Thu": 44,
+    "Thu": 43,
     "Fri": 24,
     "Sat": 89,
     "Sun": 136
@@ -342,11 +342,11 @@
     "1990s": 20,
     "2000s": 45,
     "2010s": 166,
-    "2020s": 299
+    "2020s": 298
   },
   "listening_style": {
     "played_from": {
-      "other": 445,
+      "other": 444,
       "playlist": 83,
       "album": 2,
       "artist": 1
