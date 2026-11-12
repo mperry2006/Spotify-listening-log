@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-05 to 2026-11-12** · updated 2026-11-12 17:59 ET
+**2026-11-05 to 2026-11-12** · updated 2026-11-12 18:56 ET
 
-**530 plays** (+19 vs last week) · **1824 minutes** · 241 artists · 440 songs
+**527 plays** (+11 vs last week) · **1812 minutes** · 242 artists · 437 songs
 
 _Counting real listens only. 5 skips left out (1% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 5 skips left out (1% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 54 | +1 |
-| 2 | J. Cole | 30 | +4 |
-| 3 | Gunna | 29 | -2 |
+| 2 | Gunna | 29 | -1 |
+| 3 | J. Cole | 29 | +3 |
 | 4 | 21 Savage | 27 | +7 |
 | 5 | Future | 26 | -2 |
 | 6 | Lil Baby | 23 | -2 |
-| 7 | Freddie Gibbs | 19 | +3 |
-| 8 | Kanye West | 19 | +12 |
-| 9 | Travis Scott | 19 | +9 |
-| 10 | Conway the Machine | 19 | +2 |
+| 7 | Kanye West | 19 | +13 |
+| 8 | Travis Scott | 19 | +10 |
+| 9 | Conway the Machine | 19 | +3 |
+| 10 | Westside Gunn | 19 | -3 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -35,7 +35,7 @@ _Counting real listens only. 5 skips left out (1% skip rate)._
 
 ## Discovery
 70% of plays were songs not in your log before this week.
-New artists: Swae Lee (4), Joeboy (4), Davido (4), Thundercat (3), Doodie Lo (3), Bruno Mars (2), Silk Sonic (2), Gunaviani (2), André 3000 (2), Danger Mouse (2)
+New artists: Swae Lee (4), Joeboy (4), Davido (4), Thundercat (3), Doodie Lo (3), Gunaviani (2), André 3000 (2), Danger Mouse (2), Black Thought (2), Eve (2)
 
 ## On repeat (3+ plays)
 - peter pan. - Brent Faiyaz - 4x
@@ -61,13 +61,13 @@ New artists: Swae Lee (4), Joeboy (4), Davido (4), Thundercat (3), Doodie Lo (3)
 Late night (12am-5am)  █ 10
 Morning (5am-12pm)     █████████ 80
 Afternoon (12pm-5pm)   ██████████████████ 165
-Evening (5pm-9pm)      ████████████████████ 182
+Evening (5pm-9pm)      ████████████████████ 179
 Night (9pm-12am)       ██████████ 93
 
 Mon                    ███████████ 73
 Tue                    ███████████████ 101
 Wed                    █████████ 64
-Thu                    ██████ 43
+Thu                    ██████ 40
 Fri                    ████ 24
 Sat                    █████████████ 89
 Sun                    ████████████████████ 136
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - J. Cole: 8 days in a row
 
 ## Eras
-1970s: 1, 1990s: 20, 2000s: 45, 2010s: 166, 2020s: 298
+1970s: 1, 1990s: 20, 2000s: 46, 2010s: 165, 2020s: 295
 
 ## How you listen
-Played from: other 444, playlist 83, album 2, artist 1
+Played from: other 441, playlist 83, album 2, artist 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1425 plays recorded total._
+_Log started 2026-10-26 · 1427 plays recorded total._
