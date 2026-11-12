@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:13-05:00",
+  "generated_at": "2026-11-12T15:08-05:00",
   "window": {
     "start": "2026-11-05",
     "end": "2026-11-12"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1424,
   "this_week": {
-    "plays": 541,
-    "minutes": 1861,
-    "unique_tracks": 447,
+    "plays": 540,
+    "minutes": 1857,
+    "unique_tracks": 446,
     "unique_artists": 243
   },
   "last_week": {
-    "plays": 524,
-    "minutes": 1696
+    "plays": 509,
+    "minutes": 1647
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -78,7 +78,7 @@
       "name": "J. Cole",
       "plays": 30,
       "last_week_plays": 25,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 3,
@@ -92,21 +92,21 @@
       "name": "Future",
       "plays": 28,
       "last_week_plays": 29,
-      "change": "+1"
+      "change": "="
     },
     {
       "rank": 5,
       "name": "21 Savage",
       "plays": 27,
-      "last_week_plays": 19,
-      "change": "+3"
+      "last_week_plays": 17,
+      "change": "+5"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
       "plays": 24,
-      "last_week_plays": 30,
-      "change": "-3"
+      "last_week_plays": 29,
+      "change": "-1"
     },
     {
       "rank": 7,
@@ -119,22 +119,22 @@
       "rank": 8,
       "name": "Westside Gunn",
       "plays": 20,
-      "last_week_plays": 25,
-      "change": "-2"
+      "last_week_plays": 24,
+      "change": "-1"
     },
     {
       "rank": 9,
       "name": "Conway the Machine",
       "plays": 20,
-      "last_week_plays": 16,
-      "change": "+2"
+      "last_week_plays": 15,
+      "change": "+5"
     },
     {
       "rank": 10,
       "name": "Freddie Gibbs",
       "plays": 20,
       "last_week_plays": 16,
-      "change": "+3"
+      "change": "+1"
     }
   ],
   "top_tracks": [
@@ -164,14 +164,14 @@
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+337"
+      "change": "+323"
     },
     {
       "rank": 5,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+165"
+      "change": "+151"
     },
     {
       "rank": 6,
@@ -206,7 +206,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+202"
+      "change": "+188"
     }
   ],
   "dropped_off": [],
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 10,
     "Morning (5am-12pm)": 80,
-    "Afternoon (12pm-5pm)": 175,
+    "Afternoon (12pm-5pm)": 174,
     "Evening (5pm-9pm)": 183,
     "Night (9pm-12am)": 93
   },
@@ -309,7 +309,7 @@
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
-    "Thu": 54,
+    "Thu": 53,
     "Fri": 24,
     "Sat": 89,
     "Sun": 136
@@ -342,11 +342,11 @@
     "1990s": 21,
     "2000s": 45,
     "2010s": 170,
-    "2020s": 304
+    "2020s": 303
   },
   "listening_style": {
     "played_from": {
-      "other": 455,
+      "other": 454,
       "playlist": 83,
       "album": 2,
       "artist": 1
