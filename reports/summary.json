@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-12T11:19-05:00",
+  "generated_at": "2026-11-12T13:03-05:00",
   "window": {
     "start": "2026-11-05",
     "end": "2026-11-12"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1419,
+  "total_plays_logged": 1424,
   "this_week": {
-    "plays": 558,
-    "minutes": 1909,
-    "unique_tracks": 462,
-    "unique_artists": 246
+    "plays": 550,
+    "minutes": 1889,
+    "unique_tracks": 454,
+    "unique_artists": 244
   },
   "last_week": {
-    "plays": 535,
-    "minutes": 1727
+    "plays": 532,
+    "minutes": 1724
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 1,
-    "skipped_plays": 4,
+    "skipped_plays": 5,
     "most_skipped_tracks": [
       {
         "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
@@ -35,6 +35,10 @@
       },
       {
         "track": "Case Of The Ex (Whatcha Gonna Do) - Mýa",
+        "skips": 1
+      },
+      {
+        "track": "Ocean Prime (feat. Boldy James) - The Alchemist",
         "skips": 1
       }
     ],
@@ -54,6 +58,10 @@
       {
         "artist": "Mýa",
         "skips": 1
+      },
+      {
+        "artist": "The Alchemist",
+        "skips": 1
       }
     ]
   },
@@ -62,71 +70,71 @@
       "rank": 1,
       "name": "Drake",
       "plays": 58,
-      "last_week_plays": 30,
-      "change": "+4"
+      "last_week_plays": 31,
+      "change": "+2"
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 34,
-      "last_week_plays": 24,
-      "change": "+5"
+      "plays": 31,
+      "last_week_plays": 27,
+      "change": "+4"
     },
     {
       "rank": 3,
       "name": "Gunna",
-      "plays": 30,
+      "plays": 29,
       "last_week_plays": 43,
       "change": "-2"
     },
     {
       "rank": 4,
       "name": "Future",
-      "plays": 29,
+      "plays": 28,
       "last_week_plays": 30,
-      "change": "-1"
+      "change": "="
     },
     {
       "rank": 5,
       "name": "21 Savage",
-      "plays": 26,
+      "plays": 27,
       "last_week_plays": 20,
-      "change": "+4"
+      "change": "+3"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
       "plays": 24,
-      "last_week_plays": 35,
+      "last_week_plays": 32,
       "change": "-4"
     },
     {
       "rank": 7,
-      "name": "Conway the Machine",
-      "plays": 21,
-      "last_week_plays": 16,
-      "change": "+5"
-    },
-    {
-      "rank": 8,
       "name": "Freddie Gibbs",
       "plays": 21,
       "last_week_plays": 16,
-      "change": "+3"
+      "change": "+4"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Westside Gunn",
       "plays": 21,
       "last_week_plays": 26,
-      "change": "-3"
+      "change": "-1"
+    },
+    {
+      "rank": 9,
+      "name": "Travis Scott",
+      "plays": 20,
+      "last_week_plays": 10,
+      "change": "+11"
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
+      "name": "Conway the Machine",
       "plays": 20,
-      "last_week_plays": 11,
-      "change": "+10"
+      "last_week_plays": 17,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -146,56 +154,56 @@
     },
     {
       "rank": 3,
-      "name": "Wickedest - Tems",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "Stories About My Brother - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+8"
+      "change": "+7"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+360"
+      "change": "+352"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+187"
+      "change": "+179"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Child's Play (feat. 21 Savage) - Young Nudy",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "trademark usa - Baby Keem",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -205,7 +213,7 @@
   "discovery": {
     "new_artists": [
       {
-        "name": "Wizkid",
+        "name": "Swae Lee",
         "plays": 4
       },
       {
@@ -218,10 +226,6 @@
       },
       {
         "name": "Thundercat",
-        "plays": 3
-      },
-      {
-        "name": "Swae Lee",
         "plays": 3
       },
       {
@@ -243,9 +247,13 @@
       {
         "name": "André 3000",
         "plays": 2
+      },
+      {
+        "name": "Danger Mouse",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 72,
+    "plays_of_new_tracks_pct": 71,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -256,10 +264,6 @@
     {
       "track": "Sip (Alcohol) - Joeboy",
       "plays": 4
-    },
-    {
-      "track": "Wickedest - Tems",
-      "plays": 3
     },
     {
       "track": "Stories About My Brother - Drake",
@@ -288,12 +292,16 @@
     {
       "track": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3
+    },
+    {
+      "track": "trademark usa - Baby Keem",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 10,
-    "Morning (5am-12pm)": 77,
-    "Afternoon (12pm-5pm)": 195,
+    "Morning (5am-12pm)": 80,
+    "Afternoon (12pm-5pm)": 184,
     "Evening (5pm-9pm)": 183,
     "Night (9pm-12am)": 93
   },
@@ -301,7 +309,7 @@
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
-    "Thu": 71,
+    "Thu": 63,
     "Fri": 24,
     "Sat": 89,
     "Sun": 136
@@ -321,24 +329,24 @@
       "days": 10
     },
     {
-      "artist": "J. Cole",
+      "artist": "21 Savage",
       "days": 8
     },
     {
-      "artist": "21 Savage",
-      "days": 7
+      "artist": "J. Cole",
+      "days": 8
     }
   ],
   "release_eras": {
     "1970s": 1,
     "1990s": 21,
-    "2000s": 46,
-    "2010s": 175,
-    "2020s": 315
+    "2000s": 45,
+    "2010s": 173,
+    "2020s": 310
   },
   "listening_style": {
     "played_from": {
-      "other": 472,
+      "other": 464,
       "playlist": 83,
       "album": 2,
       "artist": 1
