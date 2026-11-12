@@ -1,30 +1,26 @@
 {
-  "generated_at": "2026-11-11T18:59-05:00",
+  "generated_at": "2026-11-11T20:29-05:00",
   "window": {
     "start": "2026-11-04",
     "end": "2026-11-11"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1391,
+  "total_plays_logged": 1404,
   "this_week": {
-    "plays": 536,
-    "minutes": 1830,
-    "unique_tracks": 449,
-    "unique_artists": 239
+    "plays": 546,
+    "minutes": 1864,
+    "unique_tracks": 453,
+    "unique_artists": 243
   },
   "last_week": {
     "plays": 591,
-    "minutes": 1906
+    "minutes": 1902
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 1,
-    "skipped_plays": 6,
+    "skipped_plays": 4,
     "most_skipped_tracks": [
-      {
-        "track": "Drive and Disconnect - Nao",
-        "skips": 2
-      },
       {
         "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
         "skips": 1
@@ -43,10 +39,6 @@
       }
     ],
     "most_skipped_artists": [
-      {
-        "artist": "Nao",
-        "skips": 2
-      },
       {
         "artist": "Conway the Machine",
         "skips": 1
@@ -69,7 +61,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 55,
+      "plays": 57,
       "last_week_plays": 31,
       "change": "+5"
     },
@@ -82,17 +74,17 @@
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 29,
-      "last_week_plays": 32,
-      "change": "+1"
+      "name": "Gunna",
+      "plays": 30,
+      "last_week_plays": 45,
+      "change": "-2"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 28,
-      "last_week_plays": 45,
-      "change": "-3"
+      "name": "Future",
+      "plays": 29,
+      "last_week_plays": 32,
+      "change": "="
     },
     {
       "rank": 5,
@@ -104,7 +96,7 @@
     {
       "rank": 6,
       "name": "Lil Baby",
-      "plays": 24,
+      "plays": 25,
       "last_week_plays": 37,
       "change": "-4"
     },
@@ -140,70 +132,70 @@
   "top_tracks": [
     {
       "rank": 1,
+      "name": "Sip (Alcohol) - Joeboy",
+      "plays": 4,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 2,
       "name": "Location (feat. Burna Boy) - Dave",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Stories About My Brother - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+12"
-    },
-    {
-      "rank": 5,
-      "name": "Brand New Draco - 21 Savage",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+416"
+      "change": "+11"
     },
     {
       "rank": 6,
-      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
+      "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+244"
+      "change": "+413"
     },
     {
       "rank": 7,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+241"
+    },
+    {
+      "rank": 8,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "peter pan. - Brent Faiyaz",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Child's Play (feat. 21 Savage) - Young Nudy",
+      "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -221,6 +213,10 @@
         "plays": 4
       },
       {
+        "name": "Joeboy",
+        "plays": 4
+      },
+      {
         "name": "Davido",
         "plays": 4
       },
@@ -233,11 +229,11 @@
         "plays": 3
       },
       {
-        "name": "Doodie Lo",
+        "name": "Swae Lee",
         "plays": 3
       },
       {
-        "name": "Joeboy",
+        "name": "Doodie Lo",
         "plays": 3
       },
       {
@@ -247,16 +243,16 @@
       {
         "name": "Silk Sonic",
         "plays": 2
-      },
-      {
-        "name": "Gunaviani",
-        "plays": 2
       }
     ],
     "plays_of_new_tracks_pct": 72,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
+    {
+      "track": "Sip (Alcohol) - Joeboy",
+      "plays": 4
+    },
     {
       "track": "Location (feat. Burna Boy) - Dave",
       "plays": 3
@@ -292,23 +288,19 @@
     {
       "track": "peter pan. - Brent Faiyaz",
       "plays": 3
-    },
-    {
-      "track": "Child's Play (feat. 21 Savage) - Young Nudy",
-      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 0,
     "Morning (5am-12pm)": 73,
     "Afternoon (12pm-5pm)": 195,
-    "Evening (5pm-9pm)": 173,
+    "Evening (5pm-9pm)": 183,
     "Night (9pm-12am)": 95
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
-    "Wed": 56,
+    "Wed": 66,
     "Thu": 57,
     "Fri": 24,
     "Sat": 89,
@@ -341,13 +333,13 @@
     "1970s": 1,
     "1990s": 21,
     "2000s": 44,
-    "2010s": 170,
-    "2020s": 300
+    "2010s": 172,
+    "2020s": 308
   },
   "listening_style": {
     "played_from": {
-      "other": 450,
-      "playlist": 83,
+      "other": 459,
+      "playlist": 84,
       "album": 2,
       "artist": 1
     },
@@ -358,14 +350,14 @@
       "artists": [
         "Westside Gunn",
         "Drake",
-        "Gunna",
         "J. Cole",
+        "Gunna",
         "Future",
         "Migos",
+        "Lil Baby",
         "Kanye West",
         "Freddie Gibbs",
-        "Lil Durk",
-        "Young Thug"
+        "Lil Durk"
       ]
     },
     "medium_term": {
@@ -374,8 +366,8 @@
         "LUCKI",
         "Future",
         "Drake",
-        "Westside Gunn",
         "Lil Baby",
+        "Westside Gunn",
         "Freddie Gibbs",
         "Curren$y",
         "Gunna",
