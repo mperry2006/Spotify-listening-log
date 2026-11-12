@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-05 to 2026-11-12** · updated 2026-11-12 07:11 ET
+**2026-11-05 to 2026-11-12** · updated 2026-11-12 08:30 ET
 
-**554 plays** (-20 vs last week) · **1896 minutes** · 245 artists · 458 songs
+**554 plays** (-15 vs last week) · **1896 minutes** · 245 artists · 458 songs
 
 _Counting real listens only. 4 skips left out (1% skip rate)._
 
@@ -26,9 +26,9 @@ _Counting real listens only. 4 skips left out (1% skip rate)._
 | 2 | Sip (Alcohol) - Joeboy | 4 | NEW |
 | 3 | Wickedest - Tems | 3 | NEW |
 | 4 | Stories About My Brother - Drake | 3 | NEW |
-| 5 | Wine & Dine - YoungBoy Never Broke Again | 3 | +10 |
-| 6 | Brand New Draco - 21 Savage | 3 | +395 |
-| 7 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +222 |
+| 5 | Wine & Dine - YoungBoy Never Broke Again | 3 | +9 |
+| 6 | Brand New Draco - 21 Savage | 3 | +391 |
+| 7 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +218 |
 | 8 | Lemon Pepper Freestyle (feat. Rick Ross) - Drake | 3 | NEW |
 | 9 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 | 10 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |

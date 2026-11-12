@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:11-05:00",
+  "generated_at": "2026-11-12T08:30-05:00",
   "window": {
     "start": "2026-11-05",
     "end": "2026-11-12"
@@ -13,8 +13,8 @@
     "unique_artists": 245
   },
   "last_week": {
-    "plays": 574,
-    "minutes": 1848
+    "plays": 569,
+    "minutes": 1831
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -111,7 +111,7 @@
       "rank": 8,
       "name": "Freddie Gibbs",
       "plays": 21,
-      "last_week_plays": 18,
+      "last_week_plays": 17,
       "change": "+5"
     },
     {
@@ -163,21 +163,21 @@
       "name": "Wine & Dine - YoungBoy Never Broke Again",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+10"
+      "change": "+9"
     },
     {
       "rank": 6,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+395"
+      "change": "+391"
     },
     {
       "rank": 7,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+222"
+      "change": "+218"
     },
     {
       "rank": 8,
