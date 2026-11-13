@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T10:03-05:00",
+  "generated_at": "2026-11-13T11:03-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1445,
+  "total_plays_logged": 1455,
   "this_week": {
-    "plays": 521,
-    "minutes": 1784,
-    "unique_tracks": 436,
-    "unique_artists": 241
+    "plays": 523,
+    "minutes": 1794,
+    "unique_tracks": 439,
+    "unique_artists": 242
   },
   "last_week": {
-    "plays": 507,
-    "minutes": 1660
+    "plays": 513,
+    "minutes": 1680
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 52,
-      "last_week_plays": 35,
+      "plays": 53,
+      "last_week_plays": 37,
       "change": "+1"
     },
     {
@@ -83,9 +83,9 @@
     {
       "rank": 3,
       "name": "Future",
-      "plays": 25,
+      "plays": 28,
       "last_week_plays": 27,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 4,
@@ -97,16 +97,16 @@
     {
       "rank": 5,
       "name": "Gunna",
-      "plays": 24,
-      "last_week_plays": 44,
+      "plays": 23,
+      "last_week_plays": 45,
       "change": "-4"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
       "plays": 22,
-      "last_week_plays": 28,
-      "change": "-2"
+      "last_week_plays": 27,
+      "change": "-1"
     },
     {
       "rank": 7,
@@ -154,59 +154,59 @@
     },
     {
       "rank": 3,
-      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+127"
-    },
-    {
-      "rank": 4,
-      "name": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "trademark usa - Baby Keem",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+164"
+      "change": "+165"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+133"
+      "change": "+134"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
       "change": "+263"
+    },
+    {
+      "rank": 9,
+      "name": "All 70 (feat. Conway) - Benny The Butcher",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "1hunnit - A Boogie Wit da Hoodie",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+120"
     }
   ],
   "dropped_off": [],
@@ -229,6 +229,10 @@
         "plays": 3
       },
       {
+        "name": "Nicki Minaj",
+        "plays": 3
+      },
+      {
         "name": "Doodie Lo",
         "plays": 3
       },
@@ -247,10 +251,6 @@
       {
         "name": "Mariah the Scientist",
         "plays": 2
-      },
-      {
-        "name": "Fridayy",
-        "plays": 2
       }
     ],
     "plays_of_new_tracks_pct": 70,
@@ -264,14 +264,6 @@
     {
       "track": "Sip (Alcohol) - Joeboy",
       "plays": 4
-    },
-    {
-      "track": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
-      "plays": 3
-    },
-    {
-      "track": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
-      "plays": 3
     },
     {
       "track": "KeepHer (feat. Thundercat) - NxWorries",
@@ -296,11 +288,19 @@
     {
       "track": "Blueslides - ScHoolboy Q",
       "plays": 3
+    },
+    {
+      "track": "All 70 (feat. Conway) - Benny The Butcher",
+      "plays": 3
+    },
+    {
+      "track": "1hunnit - A Boogie Wit da Hoodie",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 13,
-    "Morning (5am-12pm)": 78,
+    "Morning (5am-12pm)": 80,
     "Afternoon (12pm-5pm)": 165,
     "Evening (5pm-9pm)": 182,
     "Night (9pm-12am)": 83
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 25,
+    "Fri": 27,
     "Sat": 89,
     "Sun": 136
   },
@@ -318,7 +318,7 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 18
+      "days": 19
     },
     {
       "artist": "Freddie Gibbs",
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1990s": 20,
-    "2000s": 44,
-    "2010s": 160,
-    "2020s": 297
+    "2000s": 43,
+    "2010s": 159,
+    "2020s": 301
   },
   "listening_style": {
     "played_from": {
-      "other": 446,
-      "playlist": 73,
+      "other": 449,
+      "playlist": 72,
       "album": 2
     },
     "full_album_sessions": 0
