@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T08:27-05:00",
+  "generated_at": "2026-11-13T10:03-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1442,
+  "total_plays_logged": 1445,
   "this_week": {
-    "plays": 523,
-    "minutes": 1794,
+    "plays": 521,
+    "minutes": 1784,
     "unique_tracks": 436,
-    "unique_artists": 243
+    "unique_artists": 241
   },
   "last_week": {
-    "plays": 516,
-    "minutes": 1682
+    "plays": 507,
+    "minutes": 1660
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -77,35 +77,35 @@
       "rank": 2,
       "name": "J. Cole",
       "plays": 29,
-      "last_week_plays": 23,
-      "change": "+5"
+      "last_week_plays": 13,
+      "change": "+13"
     },
     {
       "rank": 3,
-      "name": "21 Savage",
-      "plays": 27,
-      "last_week_plays": 15,
-      "change": "+9"
-    },
-    {
-      "rank": 4,
       "name": "Future",
       "plays": 25,
       "last_week_plays": 27,
-      "change": "+1"
+      "change": "+2"
+    },
+    {
+      "rank": 4,
+      "name": "21 Savage",
+      "plays": 25,
+      "last_week_plays": 16,
+      "change": "+6"
     },
     {
       "rank": 5,
       "name": "Gunna",
       "plays": 24,
-      "last_week_plays": 45,
+      "last_week_plays": 44,
       "change": "-4"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
       "plays": 22,
-      "last_week_plays": 29,
+      "last_week_plays": 28,
       "change": "-2"
     },
     {
@@ -134,7 +134,7 @@
       "name": "Freddie Gibbs",
       "plays": 18,
       "last_week_plays": 17,
-      "change": "="
+      "change": "-1"
     }
   ],
   "top_tracks": [
@@ -154,59 +154,59 @@
     },
     {
       "rank": 3,
-      "name": "Brand New Draco - 21 Savage",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+311"
-    },
-    {
-      "rank": 4,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+138"
+      "change": "+127"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "trademark usa - Baby Keem",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+175"
+      "change": "+164"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+144"
+      "change": "+133"
+    },
+    {
+      "rank": 10,
+      "name": "Blueslides - ScHoolboy Q",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+263"
     }
   ],
   "dropped_off": [],
@@ -233,10 +233,6 @@
         "plays": 3
       },
       {
-        "name": "André 3000",
-        "plays": 2
-      },
-      {
         "name": "Danger Mouse",
         "plays": 2
       },
@@ -251,6 +247,10 @@
       {
         "name": "Mariah the Scientist",
         "plays": 2
+      },
+      {
+        "name": "Fridayy",
+        "plays": 2
       }
     ],
     "plays_of_new_tracks_pct": 70,
@@ -264,10 +264,6 @@
     {
       "track": "Sip (Alcohol) - Joeboy",
       "plays": 4
-    },
-    {
-      "track": "Brand New Draco - 21 Savage",
-      "plays": 3
     },
     {
       "track": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
@@ -296,11 +292,15 @@
     {
       "track": "Racks 2 Skinny - Migos",
       "plays": 3
+    },
+    {
+      "track": "Blueslides - ScHoolboy Q",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 13,
-    "Morning (5am-12pm)": 80,
+    "Morning (5am-12pm)": 78,
     "Afternoon (12pm-5pm)": 165,
     "Evening (5pm-9pm)": 182,
     "Night (9pm-12am)": 83
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 27,
+    "Fri": 25,
     "Sat": 89,
     "Sun": 136
   },
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1990s": 20,
-    "2000s": 45,
-    "2010s": 161,
+    "2000s": 44,
+    "2010s": 160,
     "2020s": 297
   },
   "listening_style": {
     "played_from": {
-      "other": 443,
-      "playlist": 78,
+      "other": 446,
+      "playlist": 73,
       "album": 2
     },
     "full_album_sessions": 0
