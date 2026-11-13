@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T01:18-05:00",
+  "generated_at": "2026-11-13T03:26-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1439,
+  "total_plays_logged": 1442,
   "this_week": {
-    "plays": 520,
-    "minutes": 1784,
-    "unique_tracks": 433,
-    "unique_artists": 241
+    "plays": 523,
+    "minutes": 1794,
+    "unique_tracks": 436,
+    "unique_artists": 243
   },
   "last_week": {
-    "plays": 523,
-    "minutes": 1701
+    "plays": 517,
+    "minutes": 1685
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -77,15 +77,15 @@
       "rank": 2,
       "name": "J. Cole",
       "plays": 29,
-      "last_week_plays": 25,
+      "last_week_plays": 24,
       "change": "+4"
     },
     {
       "rank": 3,
       "name": "21 Savage",
       "plays": 27,
-      "last_week_plays": 17,
-      "change": "+7"
+      "last_week_plays": 15,
+      "change": "+9"
     },
     {
       "rank": 4,
@@ -113,7 +113,7 @@
       "name": "Conway the Machine",
       "plays": 19,
       "last_week_plays": 16,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 8,
@@ -127,14 +127,14 @@
       "name": "Travis Scott",
       "plays": 18,
       "last_week_plays": 11,
-      "change": "+10"
+      "change": "+9"
     },
     {
       "rank": 10,
       "name": "Freddie Gibbs",
       "plays": 18,
       "last_week_plays": 17,
-      "change": "+1"
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -157,14 +157,14 @@
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+316"
+      "change": "+312"
     },
     {
       "rank": 4,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+143"
+      "change": "+139"
     },
     {
       "rank": 5,
@@ -199,14 +199,14 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+180"
+      "change": "+176"
     },
     {
       "rank": 10,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+149"
+      "change": "+145"
     }
   ],
   "dropped_off": [],
@@ -299,7 +299,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 10,
+    "Late night (12am-5am)": 13,
     "Morning (5am-12pm)": 80,
     "Afternoon (12pm-5pm)": 165,
     "Evening (5pm-9pm)": 182,
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 24,
+    "Fri": 27,
     "Sat": 89,
     "Sun": 136
   },
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 20,
     "2000s": 45,
-    "2010s": 160,
-    "2020s": 295
+    "2010s": 161,
+    "2020s": 297
   },
   "listening_style": {
     "played_from": {
-      "other": 440,
+      "other": 443,
       "playlist": 78,
       "album": 2
     },
