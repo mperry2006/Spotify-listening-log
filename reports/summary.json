@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-13T12:11-05:00",
+  "generated_at": "2026-11-13T13:02-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1468,
+  "total_plays_logged": 1475,
   "this_week": {
-    "plays": 526,
-    "minutes": 1816,
-    "unique_tracks": 440,
-    "unique_artists": 243
+    "plays": 531,
+    "minutes": 1829,
+    "unique_tracks": 445,
+    "unique_artists": 244
   },
   "last_week": {
-    "plays": 523,
-    "minutes": 1714
+    "plays": 522,
+    "minutes": 1713
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 1,
-    "skipped_plays": 5,
+    "skipped_plays": 6,
     "most_skipped_tracks": [
       {
         "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
@@ -76,9 +76,9 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 30,
-      "last_week_plays": 13,
-      "change": "+13"
+      "plays": 29,
+      "last_week_plays": 14,
+      "change": "+12"
     },
     {
       "rank": 3,
@@ -98,7 +98,7 @@
       "rank": 5,
       "name": "Gunna",
       "plays": 23,
-      "last_week_plays": 45,
+      "last_week_plays": 44,
       "change": "-4"
     },
     {
@@ -111,28 +111,28 @@
     {
       "rank": 7,
       "name": "Conway the Machine",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 16,
       "change": "+4"
     },
     {
       "rank": 8,
       "name": "Westside Gunn",
-      "plays": 20,
-      "last_week_plays": 24,
+      "plays": 21,
+      "last_week_plays": 23,
       "change": "-2"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 19,
       "change": "-2"
     },
     {
       "rank": 10,
       "name": "Kanye West",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 11,
       "change": "+10"
     }
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+168"
+      "change": "+167"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+137"
+      "change": "+136"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+266"
+      "change": "+265"
     },
     {
       "rank": 8,
@@ -199,7 +199,7 @@
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+123"
+      "change": "+121"
     },
     {
       "rank": 10,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 13,
     "Morning (5am-12pm)": 82,
-    "Afternoon (12pm-5pm)": 166,
+    "Afternoon (12pm-5pm)": 171,
     "Evening (5pm-9pm)": 182,
     "Night (9pm-12am)": 83
   },
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 30,
+    "Fri": 35,
     "Sat": 89,
     "Sun": 136
   },
@@ -341,12 +341,12 @@
     "1990s": 21,
     "2000s": 46,
     "2010s": 160,
-    "2020s": 299
+    "2020s": 304
   },
   "listening_style": {
     "played_from": {
-      "other": 459,
-      "playlist": 65,
+      "other": 465,
+      "playlist": 64,
       "album": 2
     },
     "full_album_sessions": 0

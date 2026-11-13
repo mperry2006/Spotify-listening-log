@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-06 to 2026-11-13** · updated 2026-11-13 12:11 ET
+**2026-11-06 to 2026-11-13** · updated 2026-11-13 13:02 ET
 
-**526 plays** (+3 vs last week) · **1816 minutes** · 243 artists · 440 songs
+**531 plays** (+9 vs last week) · **1829 minutes** · 244 artists · 445 songs
 
-_Counting real listens only. 5 skips left out (1% skip rate)._
+_Counting real listens only. 6 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 54 | +1 |
-| 2 | J. Cole | 30 | +13 |
+| 2 | J. Cole | 29 | +12 |
 | 3 | Future | 27 | +1 |
 | 4 | 21 Savage | 26 | +6 |
 | 5 | Gunna | 23 | -4 |
 | 6 | Lil Baby | 23 | -1 |
-| 7 | Conway the Machine | 20 | +4 |
-| 8 | Westside Gunn | 20 | -2 |
-| 9 | The Alchemist | 18 | -2 |
-| 10 | Kanye West | 18 | +10 |
+| 7 | Conway the Machine | 21 | +4 |
+| 8 | Westside Gunn | 21 | -2 |
+| 9 | The Alchemist | 19 | -2 |
+| 10 | Kanye West | 19 | +10 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -26,11 +26,11 @@ _Counting real listens only. 5 skips left out (1% skip rate)._
 | 2 | Sip (Alcohol) - Joeboy | 4 | NEW |
 | 3 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 4 | trademark usa - Baby Keem | 3 | NEW |
-| 5 | I Can Love You - Mary J. Blige | 3 | +168 |
-| 6 | Racks 2 Skinny - Migos | 3 | +137 |
-| 7 | Blueslides - ScHoolboy Q | 3 | +266 |
+| 5 | I Can Love You - Mary J. Blige | 3 | +167 |
+| 6 | Racks 2 Skinny - Migos | 3 | +136 |
+| 7 | Blueslides - ScHoolboy Q | 3 | +265 |
 | 8 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 9 | 1hunnit - A Boogie Wit da Hoodie | 3 | +123 |
+| 9 | 1hunnit - A Boogie Wit da Hoodie | 3 | +121 |
 | 10 | FEM - Davido | 3 | NEW |
 
 ## Discovery
@@ -60,7 +60,7 @@ New artists: Swae Lee (4), Joeboy (4), Davido (4), Nicki Minaj (3), Doodie Lo (3
 ```
 Late night (12am-5am)  █ 13
 Morning (5am-12pm)     █████████ 82
-Afternoon (12pm-5pm)   ██████████████████ 166
+Afternoon (12pm-5pm)   ███████████████████ 171
 Evening (5pm-9pm)      ████████████████████ 182
 Night (9pm-12am)       █████████ 83
 
@@ -68,7 +68,7 @@ Mon                    ███████████ 73
 Tue                    ███████████████ 101
 Wed                    █████████ 64
 Thu                    █████ 33
-Fri                    ████ 30
+Fri                    █████ 35
 Sat                    █████████████ 89
 Sun                    ████████████████████ 136
 ```
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - J. Cole: 9 days in a row
 
 ## Eras
-1990s: 21, 2000s: 46, 2010s: 160, 2020s: 299
+1990s: 21, 2000s: 46, 2010s: 160, 2020s: 304
 
 ## How you listen
-Played from: other 459, playlist 65, album 2
+Played from: other 465, playlist 64, album 2
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1468 plays recorded total._
+_Log started 2026-10-26 · 1475 plays recorded total._
