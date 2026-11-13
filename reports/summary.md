@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-06 to 2026-11-13** · updated 2026-11-13 07:12 ET
+**2026-11-06 to 2026-11-13** · updated 2026-11-13 08:27 ET
 
-**523 plays** (+6 vs last week) · **1794 minutes** · 243 artists · 436 songs
+**523 plays** (+7 vs last week) · **1794 minutes** · 243 artists · 436 songs
 
 _Counting real listens only. 5 skips left out (1% skip rate)._
 
@@ -9,13 +9,13 @@ _Counting real listens only. 5 skips left out (1% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 52 | +1 |
-| 2 | J. Cole | 29 | +4 |
+| 2 | J. Cole | 29 | +5 |
 | 3 | 21 Savage | 27 | +9 |
 | 4 | Future | 25 | +1 |
 | 5 | Gunna | 24 | -4 |
 | 6 | Lil Baby | 22 | -2 |
 | 7 | Conway the Machine | 19 | +4 |
-| 8 | Westside Gunn | 19 | -1 |
+| 8 | Westside Gunn | 19 | -2 |
 | 9 | Travis Scott | 18 | +9 |
 | 10 | Freddie Gibbs | 18 | = |
 
@@ -24,14 +24,14 @@ _Counting real listens only. 5 skips left out (1% skip rate)._
 |---|---|---|---|
 | 1 | peter pan. - Brent Faiyaz | 4 | NEW |
 | 2 | Sip (Alcohol) - Joeboy | 4 | NEW |
-| 3 | Brand New Draco - 21 Savage | 3 | +312 |
-| 4 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +139 |
+| 3 | Brand New Draco - 21 Savage | 3 | +311 |
+| 4 | TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan | 3 | +138 |
 | 5 | Lemon Pepper Freestyle (feat. Rick Ross) - Drake | 3 | NEW |
 | 6 | KeepHer (feat. Thundercat) - NxWorries | 3 | NEW |
 | 7 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 8 | trademark usa - Baby Keem | 3 | NEW |
-| 9 | I Can Love You - Mary J. Blige | 3 | +176 |
-| 10 | Racks 2 Skinny - Migos | 3 | +145 |
+| 9 | I Can Love You - Mary J. Blige | 3 | +175 |
+| 10 | Racks 2 Skinny - Migos | 3 | +144 |
 
 ## Discovery
 70% of plays were songs not in your log before this week.
