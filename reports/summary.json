@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:59-05:00",
+  "generated_at": "2026-11-13T17:56-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
@@ -13,8 +13,8 @@
     "unique_artists": 249
   },
   "last_week": {
-    "plays": 490,
-    "minutes": 1609
+    "plays": 479,
+    "minutes": 1574
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,7 +70,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 54,
-      "last_week_plays": 35,
+      "last_week_plays": 34,
       "change": "+1"
     },
     {
@@ -78,14 +78,14 @@
       "name": "J. Cole",
       "plays": 30,
       "last_week_plays": 12,
-      "change": "+15"
+      "change": "+14"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 28,
       "last_week_plays": 25,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 4,
@@ -98,14 +98,14 @@
       "rank": 5,
       "name": "Lil Baby",
       "plays": 24,
-      "last_week_plays": 27,
-      "change": "-1"
+      "last_week_plays": 25,
+      "change": "="
     },
     {
       "rank": 6,
       "name": "Gunna",
       "plays": 23,
-      "last_week_plays": 40,
+      "last_week_plays": 38,
       "change": "-5"
     },
     {
@@ -127,7 +127,7 @@
       "name": "The Alchemist",
       "plays": 19,
       "last_week_plays": 18,
-      "change": "-1"
+      "change": "-2"
     },
     {
       "rank": 10,
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+138"
+      "change": "+129"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+107"
+      "change": "+98"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+237"
+      "change": "+228"
     },
     {
       "rank": 8,
@@ -199,7 +199,7 @@
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+92"
+      "change": "+82"
     },
     {
       "rank": 10,
