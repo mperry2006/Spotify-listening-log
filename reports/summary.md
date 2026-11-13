@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-06 to 2026-11-13** · updated 2026-11-13 17:56 ET
+**2026-11-06 to 2026-11-13** · updated 2026-11-13 18:52 ET
 
-**542 plays** (+63 vs last week) · **1864 minutes** · 249 artists · 454 songs
+**542 plays** (+74 vs last week) · **1864 minutes** · 249 artists · 454 songs
 
 _Counting real listens only. 26 skips left out (5% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 26 skips left out (5% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 54 | +1 |
-| 2 | J. Cole | 30 | +14 |
-| 3 | Future | 28 | +1 |
+| 2 | J. Cole | 30 | +13 |
+| 3 | Future | 28 | +2 |
 | 4 | 21 Savage | 26 | +7 |
-| 5 | Lil Baby | 24 | = |
+| 5 | Lil Baby | 24 | -1 |
 | 6 | Gunna | 23 | -5 |
 | 7 | Conway the Machine | 21 | +3 |
 | 8 | Westside Gunn | 21 | -2 |
 | 9 | The Alchemist | 19 | -2 |
-| 10 | Kanye West | 19 | +10 |
+| 10 | Kanye West | 19 | +9 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -26,11 +26,11 @@ _Counting real listens only. 26 skips left out (5% skip rate)._
 | 2 | peter pan. - Brent Faiyaz | 4 | NEW |
 | 3 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 4 | trademark usa - Baby Keem | 3 | NEW |
-| 5 | I Can Love You - Mary J. Blige | 3 | +129 |
-| 6 | Racks 2 Skinny - Migos | 3 | +98 |
-| 7 | Blueslides - ScHoolboy Q | 3 | +228 |
+| 5 | I Can Love You - Mary J. Blige | 3 | +118 |
+| 6 | Racks 2 Skinny - Migos | 3 | +87 |
+| 7 | Blueslides - ScHoolboy Q | 3 | +218 |
 | 8 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 9 | 1hunnit - A Boogie Wit da Hoodie | 3 | +82 |
+| 9 | 1hunnit - A Boogie Wit da Hoodie | 3 | +71 |
 | 10 | FEM - Davido | 3 | NEW |
 
 ## Discovery

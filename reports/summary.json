@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:56-05:00",
+  "generated_at": "2026-11-13T18:52-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
@@ -13,8 +13,8 @@
     "unique_artists": 249
   },
   "last_week": {
-    "plays": 479,
-    "minutes": 1574
+    "plays": 468,
+    "minutes": 1543
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -78,28 +78,28 @@
       "name": "J. Cole",
       "plays": 30,
       "last_week_plays": 12,
-      "change": "+14"
+      "change": "+13"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 28,
-      "last_week_plays": 25,
-      "change": "+1"
+      "last_week_plays": 22,
+      "change": "+2"
     },
     {
       "rank": 4,
       "name": "21 Savage",
       "plays": 26,
-      "last_week_plays": 15,
+      "last_week_plays": 14,
       "change": "+7"
     },
     {
       "rank": 5,
       "name": "Lil Baby",
       "plays": 24,
-      "last_week_plays": 25,
-      "change": "="
+      "last_week_plays": 24,
+      "change": "-1"
     },
     {
       "rank": 6,
@@ -134,7 +134,7 @@
       "name": "Kanye West",
       "plays": 19,
       "last_week_plays": 11,
-      "change": "+10"
+      "change": "+9"
     }
   ],
   "top_tracks": [
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+129"
+      "change": "+118"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+98"
+      "change": "+87"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+228"
+      "change": "+218"
     },
     {
       "rank": 8,
@@ -199,7 +199,7 @@
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+82"
+      "change": "+71"
     },
     {
       "rank": 10,
