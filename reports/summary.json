@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-11-13T14:13-05:00",
+  "generated_at": "2026-11-13T15:08-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1481,
+  "total_plays_logged": 1506,
   "this_week": {
-    "plays": 537,
-    "minutes": 1848,
-    "unique_tracks": 451,
-    "unique_artists": 246
+    "plays": 542,
+    "minutes": 1864,
+    "unique_tracks": 454,
+    "unique_artists": 249
   },
   "last_week": {
-    "plays": 521,
-    "minutes": 1710
+    "plays": 507,
+    "minutes": 1668
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 1,
-    "skipped_plays": 6,
+    "skip_rate_pct": 5,
+    "skipped_plays": 26,
     "most_skipped_tracks": [
       {
+        "track": "Confession - Babyboy AV",
+        "skips": 10
+      },
+      {
+        "track": "Point and Kill - Little Simz",
+        "skips": 4
+      },
+      {
+        "track": "Won't Be Late (feat. Drake) - Swae Lee",
+        "skips": 3
+      },
+      {
+        "track": "Commas - Ayra Starr",
+        "skips": 2
+      },
+      {
         "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
-        "skips": 1
-      },
-      {
-        "track": "Reminisce - Mary J. Blige",
-        "skips": 1
-      },
-      {
-        "track": "FEM - Davido",
-        "skips": 1
-      },
-      {
-        "track": "Case Of The Ex (Whatcha Gonna Do) - Mýa",
-        "skips": 1
-      },
-      {
-        "track": "Ocean Prime (feat. Boldy James) - The Alchemist",
         "skips": 1
       }
     ],
     "most_skipped_artists": [
       {
+        "artist": "Babyboy AV",
+        "skips": 10
+      },
+      {
+        "artist": "Little Simz",
+        "skips": 4
+      },
+      {
+        "artist": "Swae Lee",
+        "skips": 3
+      },
+      {
+        "artist": "Ayra Starr",
+        "skips": 2
+      },
+      {
         "artist": "Conway the Machine",
-        "skips": 1
-      },
-      {
-        "artist": "Mary J. Blige",
-        "skips": 1
-      },
-      {
-        "artist": "Davido",
-        "skips": 1
-      },
-      {
-        "artist": "Mýa",
-        "skips": 1
-      },
-      {
-        "artist": "The Alchemist",
         "skips": 1
       }
     ]
@@ -78,14 +78,14 @@
       "name": "J. Cole",
       "plays": 30,
       "last_week_plays": 14,
-      "change": "+12"
+      "change": "+10"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 28,
-      "last_week_plays": 28,
-      "change": "+1"
+      "last_week_plays": 25,
+      "change": "+2"
     },
     {
       "rank": 4,
@@ -99,13 +99,13 @@
       "name": "Lil Baby",
       "plays": 24,
       "last_week_plays": 27,
-      "change": "="
+      "change": "-1"
     },
     {
       "rank": 6,
       "name": "Gunna",
       "plays": 23,
-      "last_week_plays": 44,
+      "last_week_plays": 41,
       "change": "-5"
     },
     {
@@ -126,8 +126,8 @@
       "rank": 9,
       "name": "The Alchemist",
       "plays": 19,
-      "last_week_plays": 19,
-      "change": "-2"
+      "last_week_plays": 18,
+      "change": "="
     },
     {
       "rank": 10,
@@ -140,14 +140,14 @@
   "top_tracks": [
     {
       "rank": 1,
-      "name": "peter pan. - Brent Faiyaz",
-      "plays": 4,
+      "name": "Sip (Alcohol) - Joeboy",
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
-      "name": "Sip (Alcohol) - Joeboy",
+      "name": "peter pan. - Brent Faiyaz",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+166"
+      "change": "+155"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+135"
+      "change": "+124"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+264"
+      "change": "+254"
     },
     {
       "rank": 8,
@@ -199,7 +199,7 @@
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+120"
+      "change": "+109"
     },
     {
       "rank": 10,
@@ -213,15 +213,15 @@
   "discovery": {
     "new_artists": [
       {
-        "name": "Swae Lee",
-        "plays": 4
-      },
-      {
         "name": "Joeboy",
-        "plays": 4
+        "plays": 5
       },
       {
         "name": "Davido",
+        "plays": 5
+      },
+      {
+        "name": "Swae Lee",
         "plays": 4
       },
       {
@@ -258,11 +258,11 @@
   },
   "on_repeat": [
     {
-      "track": "peter pan. - Brent Faiyaz",
-      "plays": 4
+      "track": "Sip (Alcohol) - Joeboy",
+      "plays": 5
     },
     {
-      "track": "Sip (Alcohol) - Joeboy",
+      "track": "peter pan. - Brent Faiyaz",
       "plays": 4
     },
     {
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 13,
     "Morning (5am-12pm)": 82,
-    "Afternoon (12pm-5pm)": 177,
+    "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 182,
     "Night (9pm-12am)": 83
   },
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 41,
+    "Fri": 46,
     "Sat": 89,
     "Sun": 136
   },
@@ -340,13 +340,13 @@
   "release_eras": {
     "1990s": 22,
     "2000s": 46,
-    "2010s": 161,
-    "2020s": 308
+    "2010s": 162,
+    "2020s": 312
   },
   "listening_style": {
     "played_from": {
-      "other": 471,
-      "playlist": 64,
+      "other": 473,
+      "playlist": 67,
       "album": 2
     },
     "full_album_sessions": 0
