@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T11:03-05:00",
+  "generated_at": "2026-11-13T12:11-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1455,
+  "total_plays_logged": 1468,
   "this_week": {
-    "plays": 523,
-    "minutes": 1794,
-    "unique_tracks": 439,
-    "unique_artists": 242
+    "plays": 526,
+    "minutes": 1816,
+    "unique_tracks": 440,
+    "unique_artists": 243
   },
   "last_week": {
-    "plays": 513,
-    "minutes": 1680
+    "plays": 523,
+    "minutes": 1714
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,28 +69,28 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 53,
+      "plays": 54,
       "last_week_plays": 37,
       "change": "+1"
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 13,
       "change": "+13"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 28,
-      "last_week_plays": 27,
+      "plays": 27,
+      "last_week_plays": 28,
       "change": "+1"
     },
     {
       "rank": 4,
       "name": "21 Savage",
-      "plays": 25,
+      "plays": 26,
       "last_week_plays": 16,
       "change": "+6"
     },
@@ -104,37 +104,37 @@
     {
       "rank": 6,
       "name": "Lil Baby",
-      "plays": 22,
+      "plays": 23,
       "last_week_plays": 27,
       "change": "-1"
     },
     {
       "rank": 7,
       "name": "Conway the Machine",
-      "plays": 19,
+      "plays": 20,
       "last_week_plays": 16,
       "change": "+4"
     },
     {
       "rank": 8,
       "name": "Westside Gunn",
-      "plays": 19,
+      "plays": 20,
       "last_week_plays": 24,
       "change": "-2"
     },
     {
       "rank": 9,
-      "name": "Travis Scott",
+      "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 11,
-      "change": "+9"
+      "last_week_plays": 19,
+      "change": "-2"
     },
     {
       "rank": 10,
-      "name": "Freddie Gibbs",
+      "name": "Kanye West",
       "plays": 18,
-      "last_week_plays": 17,
-      "change": "-1"
+      "last_week_plays": 11,
+      "change": "+10"
     }
   ],
   "top_tracks": [
@@ -154,59 +154,59 @@
     },
     {
       "rank": 3,
-      "name": "KeepHer (feat. Thundercat) - NxWorries",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "trademark usa - Baby Keem",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+165"
+      "change": "+168"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+134"
+      "change": "+137"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+263"
+      "change": "+266"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "All 70 (feat. Conway) - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+120"
+      "change": "+123"
+    },
+    {
+      "rank": 10,
+      "name": "FEM - Davido",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -223,10 +223,6 @@
       {
         "name": "Davido",
         "plays": 4
-      },
-      {
-        "name": "Thundercat",
-        "plays": 3
       },
       {
         "name": "Nicki Minaj",
@@ -251,9 +247,13 @@
       {
         "name": "Mariah the Scientist",
         "plays": 2
+      },
+      {
+        "name": "Fridayy",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 70,
+    "plays_of_new_tracks_pct": 69,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -264,10 +264,6 @@
     {
       "track": "Sip (Alcohol) - Joeboy",
       "plays": 4
-    },
-    {
-      "track": "KeepHer (feat. Thundercat) - NxWorries",
-      "plays": 3
     },
     {
       "track": "Child's Play (feat. 21 Savage) - Young Nudy",
@@ -296,12 +292,16 @@
     {
       "track": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3
+    },
+    {
+      "track": "FEM - Davido",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 13,
-    "Morning (5am-12pm)": 80,
-    "Afternoon (12pm-5pm)": 165,
+    "Morning (5am-12pm)": 82,
+    "Afternoon (12pm-5pm)": 166,
     "Evening (5pm-9pm)": 182,
     "Night (9pm-12am)": 83
   },
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 27,
+    "Fri": 30,
     "Sat": 89,
     "Sun": 136
   },
@@ -326,27 +326,27 @@
     },
     {
       "artist": "21 Savage",
-      "days": 8
+      "days": 9
     },
     {
       "artist": "Metro Boomin",
-      "days": 8
+      "days": 9
     },
     {
       "artist": "J. Cole",
-      "days": 8
+      "days": 9
     }
   ],
   "release_eras": {
-    "1990s": 20,
-    "2000s": 43,
-    "2010s": 159,
-    "2020s": 301
+    "1990s": 21,
+    "2000s": 46,
+    "2010s": 160,
+    "2020s": 299
   },
   "listening_style": {
     "played_from": {
-      "other": 449,
-      "playlist": 72,
+      "other": 459,
+      "playlist": 65,
       "album": 2
     },
     "full_album_sessions": 0
