@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-12T18:56-05:00",
+  "generated_at": "2026-11-12T20:26-05:00",
   "window": {
     "start": "2026-11-05",
     "end": "2026-11-12"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1427,
+  "total_plays_logged": 1436,
   "this_week": {
-    "plays": 527,
-    "minutes": 1812,
-    "unique_tracks": 437,
-    "unique_artists": 242
+    "plays": 531,
+    "minutes": 1820,
+    "unique_tracks": 441,
+    "unique_artists": 243
   },
   "last_week": {
-    "plays": 516,
-    "minutes": 1673
+    "plays": 520,
+    "minutes": 1688
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -97,8 +97,8 @@
     {
       "rank": 5,
       "name": "Future",
-      "plays": 26,
-      "last_week_plays": 31,
+      "plays": 25,
+      "last_week_plays": 32,
       "change": "-2"
     },
     {
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 10,
     "Morning (5am-12pm)": 80,
     "Afternoon (12pm-5pm)": 165,
-    "Evening (5pm-9pm)": 179,
+    "Evening (5pm-9pm)": 183,
     "Night (9pm-12am)": 93
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
-    "Thu": 40,
+    "Thu": 44,
     "Fri": 24,
     "Sat": 89,
     "Sun": 136
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 20,
-    "2000s": 46,
-    "2010s": 165,
-    "2020s": 295
+    "1990s": 19,
+    "2000s": 47,
+    "2010s": 163,
+    "2020s": 301
   },
   "listening_style": {
     "played_from": {
-      "other": 441,
+      "other": 445,
       "playlist": 83,
       "album": 2,
       "artist": 1
@@ -364,8 +364,8 @@
         "Migos",
         "Lil Baby",
         "Kanye West",
-        "Freddie Gibbs",
-        "Lil Durk"
+        "Young Thug",
+        "Freddie Gibbs"
       ]
     },
     "medium_term": {
