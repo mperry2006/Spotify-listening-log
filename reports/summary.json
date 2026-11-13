@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T13:02-05:00",
+  "generated_at": "2026-11-13T14:13-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1475,
+  "total_plays_logged": 1481,
   "this_week": {
-    "plays": 531,
-    "minutes": 1829,
-    "unique_tracks": 445,
-    "unique_artists": 244
+    "plays": 537,
+    "minutes": 1848,
+    "unique_tracks": 451,
+    "unique_artists": 246
   },
   "last_week": {
-    "plays": 522,
-    "minutes": 1713
+    "plays": 521,
+    "minutes": 1710
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,14 +76,14 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 14,
       "change": "+12"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 28,
       "change": "+1"
     },
@@ -96,17 +96,17 @@
     },
     {
       "rank": 5,
-      "name": "Gunna",
-      "plays": 23,
-      "last_week_plays": 44,
-      "change": "-4"
+      "name": "Lil Baby",
+      "plays": 24,
+      "last_week_plays": 27,
+      "change": "="
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
+      "name": "Gunna",
       "plays": 23,
-      "last_week_plays": 27,
-      "change": "-1"
+      "last_week_plays": 44,
+      "change": "-5"
     },
     {
       "rank": 7,
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+167"
+      "change": "+166"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+136"
+      "change": "+135"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+265"
+      "change": "+264"
     },
     {
       "rank": 8,
@@ -199,7 +199,7 @@
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+121"
+      "change": "+120"
     },
     {
       "rank": 10,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 13,
     "Morning (5am-12pm)": 82,
-    "Afternoon (12pm-5pm)": 171,
+    "Afternoon (12pm-5pm)": 177,
     "Evening (5pm-9pm)": 182,
     "Night (9pm-12am)": 83
   },
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 35,
+    "Fri": 41,
     "Sat": 89,
     "Sun": 136
   },
@@ -338,14 +338,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 21,
+    "1990s": 22,
     "2000s": 46,
-    "2010s": 160,
-    "2020s": 304
+    "2010s": 161,
+    "2020s": 308
   },
   "listening_style": {
     "played_from": {
-      "other": 465,
+      "other": 471,
       "playlist": 64,
       "album": 2
     },
