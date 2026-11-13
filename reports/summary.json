@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:01-05:00",
+  "generated_at": "2026-11-12T23:11-05:00",
   "window": {
     "start": "2026-11-05",
     "end": "2026-11-12"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1439,
   "this_week": {
-    "plays": 533,
-    "minutes": 1826,
-    "unique_tracks": 443,
-    "unique_artists": 242
+    "plays": 525,
+    "minutes": 1801,
+    "unique_tracks": 437,
+    "unique_artists": 241
   },
   "last_week": {
-    "plays": 521,
-    "minutes": 1692
+    "plays": 529,
+    "minutes": 1717
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,30 +69,30 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 54,
-      "last_week_plays": 33,
+      "plays": 53,
+      "last_week_plays": 34,
       "change": "+1"
     },
     {
       "rank": 2,
-      "name": "Gunna",
-      "plays": 29,
-      "last_week_plays": 42,
-      "change": "-1"
-    },
-    {
-      "rank": 3,
       "name": "J. Cole",
       "plays": 29,
       "last_week_plays": 25,
-      "change": "+3"
+      "change": "+4"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "21 Savage",
       "plays": 28,
       "last_week_plays": 17,
-      "change": "+7"
+      "change": "+8"
+    },
+    {
+      "rank": 4,
+      "name": "Gunna",
+      "plays": 26,
+      "last_week_plays": 45,
+      "change": "-3"
     },
     {
       "rank": 5,
@@ -110,31 +110,31 @@
     },
     {
       "rank": 7,
-      "name": "Metro Boomin",
-      "plays": 19,
-      "last_week_plays": 10,
-      "change": "+12"
-    },
-    {
-      "rank": 8,
-      "name": "Kanye West",
-      "plays": 19,
-      "last_week_plays": 10,
-      "change": "+12"
-    },
-    {
-      "rank": 9,
       "name": "Travis Scott",
       "plays": 19,
       "last_week_plays": 11,
-      "change": "+9"
+      "change": "+11"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Conway the Machine",
       "plays": 19,
       "last_week_plays": 16,
-      "change": "+2"
+      "change": "+4"
+    },
+    {
+      "rank": 9,
+      "name": "Westside Gunn",
+      "plays": 19,
+      "last_week_plays": 24,
+      "change": "-2"
+    },
+    {
+      "rank": 10,
+      "name": "Young Thug",
+      "plays": 18,
+      "last_week_plays": 30,
+      "change": "-5"
     }
   ],
   "top_tracks": [
@@ -154,59 +154,59 @@
     },
     {
       "rank": 3,
-      "name": "Wine & Dine - YoungBoy Never Broke Again",
-      "plays": 3,
-      "last_week_plays": 3,
-      "change": "+8"
-    },
-    {
-      "rank": 4,
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+320"
+      "change": "+321"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+146"
+      "change": "+147"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross) - Drake",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "KeepHer (feat. Thundercat) - NxWorries",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "trademark usa - Baby Keem",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+183"
+      "change": "+184"
+    },
+    {
+      "rank": 10,
+      "name": "Racks 2 Skinny - Migos",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+153"
     }
   ],
   "dropped_off": [],
@@ -233,10 +233,6 @@
         "plays": 3
       },
       {
-        "name": "Gunaviani",
-        "plays": 2
-      },
-      {
         "name": "André 3000",
         "plays": 2
       },
@@ -251,6 +247,10 @@
       {
         "name": "Eve",
         "plays": 2
+      },
+      {
+        "name": "Mariah the Scientist",
+        "plays": 2
       }
     ],
     "plays_of_new_tracks_pct": 70,
@@ -264,10 +264,6 @@
     {
       "track": "Sip (Alcohol) - Joeboy",
       "plays": 4
-    },
-    {
-      "track": "Wine & Dine - YoungBoy Never Broke Again",
-      "plays": 3
     },
     {
       "track": "Brand New Draco - 21 Savage",
@@ -296,6 +292,10 @@
     {
       "track": "I Can Love You - Mary J. Blige",
       "plays": 3
+    },
+    {
+      "track": "Racks 2 Skinny - Migos",
+      "plays": 3
     }
   ],
   "time_of_day": {
@@ -303,13 +303,13 @@
     "Morning (5am-12pm)": 80,
     "Afternoon (12pm-5pm)": 165,
     "Evening (5pm-9pm)": 182,
-    "Night (9pm-12am)": 96
+    "Night (9pm-12am)": 88
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
-    "Thu": 46,
+    "Thu": 38,
     "Fri": 24,
     "Sat": 89,
     "Sun": 136
@@ -338,18 +338,16 @@
     }
   ],
   "release_eras": {
-    "1970s": 1,
     "1990s": 20,
-    "2000s": 47,
+    "2000s": 45,
     "2010s": 163,
-    "2020s": 302
+    "2020s": 297
   },
   "listening_style": {
     "played_from": {
-      "other": 447,
+      "other": 440,
       "playlist": 83,
-      "album": 2,
-      "artist": 1
+      "album": 2
     },
     "full_album_sessions": 0
   },
