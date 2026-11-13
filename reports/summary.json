@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-12T23:11-05:00",
+  "generated_at": "2026-11-13T00:15-05:00",
   "window": {
-    "start": "2026-11-05",
-    "end": "2026-11-12"
+    "start": "2026-11-06",
+    "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 1439,
   "this_week": {
-    "plays": 525,
-    "minutes": 1801,
-    "unique_tracks": 437,
+    "plays": 520,
+    "minutes": 1784,
+    "unique_tracks": 433,
     "unique_artists": 241
   },
   "last_week": {
-    "plays": 529,
-    "minutes": 1717
+    "plays": 523,
+    "minutes": 1701
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 53,
-      "last_week_plays": 34,
+      "plays": 52,
+      "last_week_plays": 35,
       "change": "+1"
     },
     {
@@ -83,58 +83,58 @@
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 28,
+      "plays": 27,
       "last_week_plays": 17,
-      "change": "+8"
+      "change": "+7"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 26,
-      "last_week_plays": 45,
-      "change": "-3"
+      "name": "Future",
+      "plays": 25,
+      "last_week_plays": 27,
+      "change": "+1"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 25,
-      "last_week_plays": 32,
-      "change": "-2"
+      "name": "Gunna",
+      "plays": 24,
+      "last_week_plays": 45,
+      "change": "-4"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
-      "plays": 23,
-      "last_week_plays": 30,
+      "plays": 22,
+      "last_week_plays": 29,
       "change": "-2"
     },
     {
       "rank": 7,
-      "name": "Travis Scott",
-      "plays": 19,
-      "last_week_plays": 11,
-      "change": "+11"
-    },
-    {
-      "rank": 8,
       "name": "Conway the Machine",
       "plays": 19,
       "last_week_plays": 16,
-      "change": "+4"
+      "change": "+5"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Westside Gunn",
       "plays": 19,
       "last_week_plays": 24,
-      "change": "-2"
+      "change": "-1"
+    },
+    {
+      "rank": 9,
+      "name": "Travis Scott",
+      "plays": 18,
+      "last_week_plays": 11,
+      "change": "+10"
     },
     {
       "rank": 10,
-      "name": "Young Thug",
+      "name": "Freddie Gibbs",
       "plays": 18,
-      "last_week_plays": 30,
-      "change": "-5"
+      "last_week_plays": 17,
+      "change": "+1"
     }
   ],
   "top_tracks": [
@@ -157,14 +157,14 @@
       "name": "Brand New Draco - 21 Savage",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+321"
+      "change": "+316"
     },
     {
       "rank": 4,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR) - Popcaan",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+147"
+      "change": "+143"
     },
     {
       "rank": 5,
@@ -199,14 +199,14 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+184"
+      "change": "+180"
     },
     {
       "rank": 10,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+153"
+      "change": "+149"
     }
   ],
   "dropped_off": [],
@@ -303,13 +303,13 @@
     "Morning (5am-12pm)": 80,
     "Afternoon (12pm-5pm)": 165,
     "Evening (5pm-9pm)": 182,
-    "Night (9pm-12am)": 88
+    "Night (9pm-12am)": 83
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
-    "Thu": 38,
+    "Thu": 33,
     "Fri": 24,
     "Sat": 89,
     "Sun": 136
@@ -325,28 +325,28 @@
       "days": 11
     },
     {
-      "artist": "Future",
-      "days": 10
-    },
-    {
       "artist": "21 Savage",
       "days": 8
     },
     {
       "artist": "Metro Boomin",
       "days": 8
+    },
+    {
+      "artist": "J. Cole",
+      "days": 8
     }
   ],
   "release_eras": {
     "1990s": 20,
     "2000s": 45,
-    "2010s": 163,
-    "2020s": 297
+    "2010s": 160,
+    "2020s": 295
   },
   "listening_style": {
     "played_from": {
       "other": 440,
-      "playlist": 83,
+      "playlist": 78,
       "album": 2
     },
     "full_album_sessions": 0
