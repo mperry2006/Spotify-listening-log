@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-12T20:26-05:00",
+  "generated_at": "2026-11-12T22:01-05:00",
   "window": {
     "start": "2026-11-05",
     "end": "2026-11-12"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1436,
+  "total_plays_logged": 1439,
   "this_week": {
-    "plays": 531,
-    "minutes": 1820,
-    "unique_tracks": 441,
-    "unique_artists": 243
+    "plays": 533,
+    "minutes": 1826,
+    "unique_tracks": 443,
+    "unique_artists": 242
   },
   "last_week": {
-    "plays": 520,
-    "minutes": 1688
+    "plays": 521,
+    "minutes": 1692
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -90,7 +90,7 @@
     {
       "rank": 4,
       "name": "21 Savage",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 17,
       "change": "+7"
     },
@@ -110,31 +110,31 @@
     },
     {
       "rank": 7,
-      "name": "Kanye West",
+      "name": "Metro Boomin",
       "plays": 19,
       "last_week_plays": 10,
-      "change": "+13"
+      "change": "+12"
     },
     {
       "rank": 8,
-      "name": "Travis Scott",
+      "name": "Kanye West",
       "plays": 19,
-      "last_week_plays": 11,
-      "change": "+10"
+      "last_week_plays": 10,
+      "change": "+12"
     },
     {
       "rank": 9,
-      "name": "Conway the Machine",
+      "name": "Travis Scott",
       "plays": 19,
-      "last_week_plays": 16,
-      "change": "+3"
+      "last_week_plays": 11,
+      "change": "+9"
     },
     {
       "rank": 10,
-      "name": "Westside Gunn",
+      "name": "Conway the Machine",
       "plays": 19,
-      "last_week_plays": 24,
-      "change": "-3"
+      "last_week_plays": 16,
+      "change": "+2"
     }
   ],
   "top_tracks": [
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 10,
     "Morning (5am-12pm)": 80,
     "Afternoon (12pm-5pm)": 165,
-    "Evening (5pm-9pm)": 183,
-    "Night (9pm-12am)": 93
+    "Evening (5pm-9pm)": 182,
+    "Night (9pm-12am)": 96
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
-    "Thu": 44,
+    "Thu": 46,
     "Fri": 24,
     "Sat": 89,
     "Sun": 136
@@ -333,20 +333,20 @@
       "days": 8
     },
     {
-      "artist": "J. Cole",
+      "artist": "Metro Boomin",
       "days": 8
     }
   ],
   "release_eras": {
     "1970s": 1,
-    "1990s": 19,
+    "1990s": 20,
     "2000s": 47,
     "2010s": 163,
-    "2020s": 301
+    "2020s": 302
   },
   "listening_style": {
     "played_from": {
-      "other": 445,
+      "other": 447,
       "playlist": 83,
       "album": 2,
       "artist": 1
