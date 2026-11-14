@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:53-05:00",
+  "generated_at": "2026-11-14T11:54-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1595,
   "this_week": {
-    "plays": 630,
-    "minutes": 2201,
-    "unique_tracks": 534,
+    "plays": 626,
+    "minutes": 2184,
+    "unique_tracks": 530,
     "unique_artists": 271
   },
   "last_week": {
-    "plays": 418,
-    "minutes": 1383
+    "plays": 419,
+    "minutes": 1390
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 88,
-      "last_week_plays": 29,
+      "plays": 87,
+      "last_week_plays": 30,
       "change": "="
     },
     {
@@ -105,8 +105,8 @@
       "rank": 6,
       "name": "Lil Baby",
       "plays": 24,
-      "last_week_plays": 21,
-      "change": "-3"
+      "last_week_plays": 20,
+      "change": "-2"
     },
     {
       "rank": 7,
@@ -120,7 +120,7 @@
       "name": "Westside Gunn",
       "plays": 21,
       "last_week_plays": 21,
-      "change": "-4"
+      "change": "-5"
     },
     {
       "rank": 9,
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+72"
+      "change": "+69"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+41"
+      "change": "+38"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+184"
+      "change": "+181"
     },
     {
       "rank": 8,
@@ -300,7 +300,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 56,
-    "Morning (5am-12pm)": 111,
+    "Morning (5am-12pm)": 107,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 161,
+    "Sat": 157,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -340,14 +340,14 @@
   "release_eras": {
     "1990s": 23,
     "2000s": 52,
-    "2010s": 217,
-    "2020s": 338
+    "2010s": 216,
+    "2020s": 335
   },
   "listening_style": {
     "played_from": {
-      "other": 560,
+      "other": 557,
       "playlist": 68,
-      "album": 2
+      "album": 1
     },
     "full_album_sessions": 0
   },
