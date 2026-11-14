@@ -1,22 +1,22 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 14:00 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 14:54 ET
 
-**621 plays** (+203 vs last week) · **2163 minutes** · 273 artists · 529 songs
+**624 plays** (+205 vs last week) · **2173 minutes** · 274 artists · 531 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 79 | = |
-| 2 | J. Cole | 33 | +8 |
-| 3 | 21 Savage | 29 | +11 |
-| 4 | Future | 27 | +3 |
-| 5 | Gunna | 26 | -3 |
-| 6 | Young Thug | 23 | +2 |
-| 7 | Lil Baby | 23 | -4 |
+| 1 | Drake | 80 | = |
+| 2 | J. Cole | 32 | +8 |
+| 3 | Gunna | 27 | -1 |
+| 4 | 21 Savage | 27 | +10 |
+| 5 | Future | 27 | +2 |
+| 6 | Lil Baby | 23 | -3 |
+| 7 | Young Thug | 22 | +1 |
 | 8 | Westside Gunn | 21 | -4 |
-| 9 | Lil Wayne | 21 | +24 |
+| 9 | Lil Wayne | 21 | +23 |
 | 10 | Conway the Machine | 21 | -1 |
 
 ## Top songs
@@ -25,11 +25,11 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 3 | trademark usa - Baby Keem | 3 | NEW |
-| 4 | I Can Love You - Mary J. Blige | 3 | +53 |
+| 4 | I Can Love You - Mary J. Blige | 3 | +48 |
 | 5 | Racks 2 Skinny - Migos | 3 | NEW |
-| 6 | Blueslides - ScHoolboy Q | 3 | +164 |
+| 6 | Blueslides - ScHoolboy Q | 3 | +159 |
 | 7 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 8 | peter pan. - Brent Faiyaz | 3 | +343 |
+| 8 | peter pan. - Brent Faiyaz | 3 | +339 |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 
@@ -60,16 +60,16 @@ New artists: Swae Lee (5), Joeboy (5), Davido (5), Tory Lanez (4), Nicki Minaj (
 ```
 Late night (12am-5am)  ██████ 56
 Morning (5am-12pm)     ███████████ 107
-Afternoon (12pm-5pm)   ██████████████████ 177
+Afternoon (12pm-5pm)   ██████████████████ 180
 Evening (5pm-9pm)      ████████████████████ 195
 Night (9pm-12am)       █████████ 86
 
-Mon                    ██████████ 73
+Mon                    █████████ 73
 Tue                    █████████████ 101
 Wed                    ████████ 64
 Thu                    ████ 33
 Fri                    ████████ 62
-Sat                    ████████████████████ 152
+Sat                    ████████████████████ 155
 Sun                    ██████████████████ 136
 ```
 
@@ -81,10 +81,10 @@ Sun                    ██████████████████ 13
 - The Alchemist: 8 days in a row
 
 ## Eras
-1990s: 24, 2000s: 53, 2010s: 214, 2020s: 330
+1990s: 25, 2000s: 54, 2010s: 216, 2020s: 329
 
 ## How you listen
-Played from: other 552, playlist 68, album 1
+Played from: other 555, playlist 68, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1609 plays recorded total._
+_Log started 2026-10-26 · 1618 plays recorded total._

@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T14:00-05:00",
+  "generated_at": "2026-11-14T14:54-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1609,
+  "total_plays_logged": 1618,
   "this_week": {
-    "plays": 621,
-    "minutes": 2163,
-    "unique_tracks": 529,
-    "unique_artists": 273
+    "plays": 624,
+    "minutes": 2173,
+    "unique_tracks": 531,
+    "unique_artists": 274
   },
   "last_week": {
-    "plays": 418,
-    "minutes": 1394
+    "plays": 419,
+    "minutes": 1396
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,51 +69,51 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 79,
-      "last_week_plays": 38,
+      "plays": 80,
+      "last_week_plays": 37,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 33,
-      "last_week_plays": 13,
+      "plays": 32,
+      "last_week_plays": 14,
       "change": "+8"
     },
     {
       "rank": 3,
-      "name": "21 Savage",
-      "plays": 29,
-      "last_week_plays": 11,
-      "change": "+11"
+      "name": "Gunna",
+      "plays": 27,
+      "last_week_plays": 28,
+      "change": "-1"
     },
     {
       "rank": 4,
-      "name": "Future",
+      "name": "21 Savage",
       "plays": 27,
-      "last_week_plays": 19,
-      "change": "+3"
+      "last_week_plays": 12,
+      "change": "+10"
     },
     {
       "rank": 5,
-      "name": "Gunna",
-      "plays": 26,
-      "last_week_plays": 28,
-      "change": "-3"
-    },
-    {
-      "rank": 6,
-      "name": "Young Thug",
-      "plays": 23,
-      "last_week_plays": 17,
+      "name": "Future",
+      "plays": 27,
+      "last_week_plays": 19,
       "change": "+2"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Lil Baby",
       "plays": 23,
       "last_week_plays": 21,
-      "change": "-4"
+      "change": "-3"
+    },
+    {
+      "rank": 7,
+      "name": "Young Thug",
+      "plays": 22,
+      "last_week_plays": 18,
+      "change": "+1"
     },
     {
       "rank": 8,
@@ -127,7 +127,7 @@
       "name": "Lil Wayne",
       "plays": 21,
       "last_week_plays": 6,
-      "change": "+24"
+      "change": "+23"
     },
     {
       "rank": 10,
@@ -164,7 +164,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+53"
+      "change": "+48"
     },
     {
       "rank": 5,
@@ -178,7 +178,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+164"
+      "change": "+159"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+343"
+      "change": "+339"
     },
     {
       "rank": 9,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
-    "Afternoon (12pm-5pm)": 177,
+    "Afternoon (12pm-5pm)": 180,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
   },
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 152,
+    "Sat": 155,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -338,14 +338,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 24,
-    "2000s": 53,
-    "2010s": 214,
-    "2020s": 330
+    "1990s": 25,
+    "2000s": 54,
+    "2010s": 216,
+    "2020s": 329
   },
   "listening_style": {
     "played_from": {
-      "other": 552,
+      "other": 555,
       "playlist": 68,
       "album": 1
     },
