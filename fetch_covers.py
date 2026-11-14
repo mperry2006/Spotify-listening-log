@@ -1,8 +1,9 @@
 """
 Download album covers for this week's listening.
 
-Reads data/listening_log.csv, finds the albums behind your top songs and
-top artists from the last 7 days, and saves their official Spotify cover art
+Reads data/listening_log.csv, finds the albums you played in the last 7 days
+(top songs and top artists first, then every other album by how much you
+played it), and saves their official Spotify cover art
 to covers/ (300px JPGs), plus covers/index.json describing each one.
 
 Old covers are removed each run, so the folder only holds the current week.
@@ -11,6 +12,7 @@ Uses the same credentials as spotify_logger.py. No packages to install.
 
 import csv
 import json
+import time
 import urllib.request
 from collections import Counter
 from datetime import datetime, timedelta, timezone
@@ -21,7 +23,7 @@ from spotify_logger import api_get, get_access_token
 LOG_FILE = Path("data/listening_log.csv")
 ART_FILE = Path("data/album_art.json")
 COVER_DIR = Path("covers")
-MAX_COVERS = 15   # cap so the repo stays small
+MAX_COVERS = 100  # cap so the repo stays small
 
 
 def this_weeks_plays():
@@ -47,6 +49,19 @@ def pick_tracks(plays):
     for artist, _ in artist_counts.most_common(10):
         theirs = Counter(p["track_id"] for p in plays
                          if p["artists"].split(";")[0].strip() == artist)
+        tid = theirs.most_common(1)[0][0]
+        if tid not in chosen:
+            chosen.append(tid)
+
+    # Then every album by your top 10 artists (spotlights usually come from
+    # them), then the rest of your albums, most-played first.
+    top_artists = [a for a, _ in artist_counts.most_common(10)]
+    album_counts = Counter(p["album"] for p in plays)
+    by_top = [a for a, _ in album_counts.most_common()
+              if any(p["album"] == a and p["artists"].split(";")[0].strip() in top_artists for p in plays)]
+    rest = [a for a, _ in album_counts.most_common() if a not in by_top]
+    for album in by_top + rest:
+        theirs = Counter(p["track_id"] for p in plays if p["album"] == album)
         tid = theirs.most_common(1)[0][0]
         if tid not in chosen:
             chosen.append(tid)
@@ -80,6 +95,8 @@ def main():
     token = None
     albums = {}  # album_id -> info, in priority order
     for tid in track_ids:
+        if len(albums) >= MAX_COVERS:
+            break
         info = art.get(tid)
         if info is None:
             # Not saved yet: look this one song up (one at a time; Spotify
@@ -87,6 +104,7 @@ def main():
             try:
                 token = token or get_access_token()
                 t = api_get(f"/tracks/{tid}", token)
+                time.sleep(0.2)  # be gentle with Spotify's rate limit
                 album = t["album"]
                 info = {
                     "album_id": album["id"], "album": album["name"],
