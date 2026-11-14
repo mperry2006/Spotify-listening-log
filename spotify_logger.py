@@ -24,6 +24,7 @@ from pathlib import Path
 DATA_DIR = Path("data")
 LOG_FILE = DATA_DIR / "listening_log.csv"
 TOP_DIR = DATA_DIR / "top"
+ART_FILE = DATA_DIR / "album_art.json"   # track_id -> album + cover link, for fetch_covers.py
 API = "https://api.spotify.com/v1"
 
 FIELDS = [
@@ -104,8 +105,38 @@ def to_row(item):
     }
 
 
+def save_album_art(items):
+    """Remember each track's album and cover link (Spotify includes them in recent plays)."""
+    art = {}
+    if ART_FILE.exists():
+        try:
+            art = json.loads(ART_FILE.read_text(encoding="utf-8"))
+        except ValueError:
+            art = {}
+    changed = False
+    for item in items:
+        t = item.get("track") or {}
+        album = t.get("album") or {}
+        images = album.get("images") or []
+        if not t.get("id") or not images or t["id"] in art:
+            continue
+        art[t["id"]] = {
+            "album_id": album.get("id", ""),
+            "album": album.get("name", ""),
+            "artists": [a["name"] for a in album.get("artists", [])],
+            "release_date": album.get("release_date", ""),
+            "spotify_url": (album.get("external_urls") or {}).get("spotify", ""),
+            "images": [{"url": i["url"], "width": i.get("width")} for i in images],
+        }
+        changed = True
+    if changed:
+        DATA_DIR.mkdir(exist_ok=True)
+        ART_FILE.write_text(json.dumps(art, ensure_ascii=False, sort_keys=True), encoding="utf-8")
+
+
 def log_recent(token):
     data = api_get("/me/player/recently-played", token, {"limit": 50})
+    save_album_art(data.get("items", []))
     seen = load_seen()
     new_rows = [to_row(i) for i in data.get("items", []) if i.get("track")]
     new_rows = [r for r in new_rows if r["played_at"] not in seen]
