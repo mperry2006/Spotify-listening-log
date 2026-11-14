@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-14T04:59-05:00",
+  "generated_at": "2026-11-14T05:56-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1565,
+  "total_plays_logged": 1580,
   "this_week": {
-    "plays": 601,
-    "minutes": 2092,
-    "unique_tracks": 506,
+    "plays": 616,
+    "minutes": 2149,
+    "unique_tracks": 520,
     "unique_artists": 268
   },
   "last_week": {
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 76,
+      "plays": 85,
       "last_week_plays": 28,
       "change": "="
     },
@@ -125,16 +125,16 @@
     {
       "rank": 9,
       "name": "Young Thug",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 17,
       "change": "-1"
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
+      "name": "Travis Scott",
       "plays": 19,
-      "last_week_plays": 18,
-      "change": "-5"
+      "last_week_plays": 7,
+      "change": "+19"
     }
   ],
   "top_tracks": [
@@ -225,15 +225,15 @@
         "plays": 5
       },
       {
-        "name": "Black Thought",
-        "plays": 3
-      },
-      {
         "name": "Tory Lanez",
-        "plays": 3
+        "plays": 4
       },
       {
         "name": "Nicki Minaj",
+        "plays": 4
+      },
+      {
+        "name": "Black Thought",
         "plays": 3
       },
       {
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 71,
+    "plays_of_new_tracks_pct": 72,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -300,7 +300,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 56,
-    "Morning (5am-12pm)": 82,
+    "Morning (5am-12pm)": 97,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
@@ -311,10 +311,10 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 132,
+    "Sat": 147,
     "Sun": 136
   },
-  "busiest_day": "Sun",
+  "busiest_day": "Sat",
   "streaks": [
     {
       "artist": "Drake",
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 23,
-    "2000s": 50,
-    "2010s": 199,
-    "2020s": 329
+    "2000s": 51,
+    "2010s": 208,
+    "2020s": 334
   },
   "listening_style": {
     "played_from": {
-      "other": 531,
+      "other": 546,
       "playlist": 68,
       "album": 2
     },
