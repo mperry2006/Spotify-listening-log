@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T12:49-05:00",
+  "generated_at": "2026-11-14T14:00-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1596,
+  "total_plays_logged": 1609,
   "this_week": {
-    "plays": 625,
-    "minutes": 2178,
-    "unique_tracks": 528,
-    "unique_artists": 271
+    "plays": 621,
+    "minutes": 2163,
+    "unique_tracks": 529,
+    "unique_artists": 273
   },
   "last_week": {
-    "plays": 412,
-    "minutes": 1369
+    "plays": 418,
+    "minutes": 1394
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,72 +69,72 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 85,
-      "last_week_plays": 32,
+      "plays": 79,
+      "last_week_plays": 38,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 34,
-      "last_week_plays": 12,
-      "change": "+9"
+      "plays": 33,
+      "last_week_plays": 13,
+      "change": "+8"
     },
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 28,
+      "plays": 29,
       "last_week_plays": 11,
-      "change": "+10"
+      "change": "+11"
     },
     {
       "rank": 4,
-      "name": "Gunna",
+      "name": "Future",
       "plays": 27,
-      "last_week_plays": 26,
-      "change": "-2"
+      "last_week_plays": 19,
+      "change": "+3"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 27,
-      "last_week_plays": 18,
-      "change": "="
+      "name": "Gunna",
+      "plays": 26,
+      "last_week_plays": 28,
+      "change": "-3"
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
-      "plays": 24,
-      "last_week_plays": 20,
-      "change": "-2"
+      "name": "Young Thug",
+      "plays": 23,
+      "last_week_plays": 17,
+      "change": "+2"
     },
     {
       "rank": 7,
-      "name": "Westside Gunn",
-      "plays": 22,
+      "name": "Lil Baby",
+      "plays": 23,
       "last_week_plays": 21,
       "change": "-4"
     },
     {
       "rank": 8,
-      "name": "Conway the Machine",
+      "name": "Westside Gunn",
       "plays": 21,
-      "last_week_plays": 16,
-      "change": "+1"
+      "last_week_plays": 21,
+      "change": "-4"
     },
     {
       "rank": 9,
-      "name": "Young Thug",
+      "name": "Lil Wayne",
       "plays": 21,
-      "last_week_plays": 17,
-      "change": "-1"
+      "last_week_plays": 6,
+      "change": "+24"
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
-      "plays": 19,
+      "name": "Conway the Machine",
+      "plays": 21,
       "last_week_plays": 17,
-      "change": "-3"
+      "change": "-1"
     }
   ],
   "top_tracks": [
@@ -147,52 +147,52 @@
     },
     {
       "rank": 2,
-      "name": "peter pan. - Brent Faiyaz",
-      "plays": 4,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 3,
       "name": "Child's Play (feat. 21 Savage) - Young Nudy",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "trademark usa - Baby Keem",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+61"
+      "change": "+53"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+172"
+      "change": "+164"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "All 70 (feat. Conway) - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 8,
+      "name": "peter pan. - Brent Faiyaz",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+343"
     },
     {
       "rank": 9,
@@ -253,17 +253,13 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 72,
+    "plays_of_new_tracks_pct": 71,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
       "track": "Sip (Alcohol) - Joeboy",
       "plays": 5
-    },
-    {
-      "track": "peter pan. - Brent Faiyaz",
-      "plays": 4
     },
     {
       "track": "Child's Play (feat. 21 Savage) - Young Nudy",
@@ -290,6 +286,10 @@
       "plays": 3
     },
     {
+      "track": "peter pan. - Brent Faiyaz",
+      "plays": 3
+    },
+    {
       "track": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3
     },
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
-    "Afternoon (12pm-5pm)": 181,
+    "Afternoon (12pm-5pm)": 177,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
   },
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 156,
+    "Sat": 152,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -325,27 +325,27 @@
       "days": 10
     },
     {
+      "artist": "Metro Boomin",
+      "days": 10
+    },
+    {
       "artist": "J. Cole",
       "days": 10
     },
     {
-      "artist": "Metro Boomin",
-      "days": 9
-    },
-    {
-      "artist": "Westside Gunn",
+      "artist": "The Alchemist",
       "days": 8
     }
   ],
   "release_eras": {
-    "1990s": 23,
-    "2000s": 52,
-    "2010s": 215,
-    "2020s": 335
+    "1990s": 24,
+    "2000s": 53,
+    "2010s": 214,
+    "2020s": 330
   },
   "listening_style": {
     "played_from": {
-      "other": 556,
+      "other": 552,
       "playlist": 68,
       "album": 1
     },
