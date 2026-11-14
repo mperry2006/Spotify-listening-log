@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-13T23:08-05:00",
+  "generated_at": "2026-11-14T00:07-05:00",
   "window": {
-    "start": "2026-11-06",
-    "end": "2026-11-13"
+    "start": "2026-11-07",
+    "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1520,
+  "total_plays_logged": 1522,
   "this_week": {
-    "plays": 556,
-    "minutes": 1913,
-    "unique_tracks": 463,
-    "unique_artists": 249
+    "plays": 558,
+    "minutes": 1921,
+    "unique_tracks": 465,
+    "unique_artists": 250
   },
   "last_week": {
     "plays": 417,
@@ -69,14 +69,14 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 57,
+      "plays": 58,
       "last_week_plays": 28,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 32,
+      "plays": 33,
       "last_week_plays": 12,
       "change": "+11"
     },
@@ -303,14 +303,14 @@
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
-    "Night (9pm-12am)": 84
+    "Night (9pm-12am)": 86
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 60,
+    "Fri": 62,
     "Sat": 89,
     "Sun": 136
   },
@@ -319,10 +319,6 @@
     {
       "artist": "Drake",
       "days": 19
-    },
-    {
-      "artist": "Freddie Gibbs",
-      "days": 11
     },
     {
       "artist": "21 Savage",
@@ -335,17 +331,21 @@
     {
       "artist": "J. Cole",
       "days": 9
+    },
+    {
+      "artist": "The Alchemist",
+      "days": 7
     }
   ],
   "release_eras": {
     "1990s": 22,
     "2000s": 47,
-    "2010s": 166,
+    "2010s": 168,
     "2020s": 321
   },
   "listening_style": {
     "played_from": {
-      "other": 486,
+      "other": 488,
       "playlist": 68,
       "album": 2
     },
