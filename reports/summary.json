@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T11:54-05:00",
+  "generated_at": "2026-11-14T12:49-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1595,
+  "total_plays_logged": 1596,
   "this_week": {
-    "plays": 626,
-    "minutes": 2184,
-    "unique_tracks": 530,
+    "plays": 625,
+    "minutes": 2178,
+    "unique_tracks": 528,
     "unique_artists": 271
   },
   "last_week": {
-    "plays": 419,
-    "minutes": 1390
+    "plays": 412,
+    "minutes": 1369
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 87,
-      "last_week_plays": 30,
+      "plays": 85,
+      "last_week_plays": 32,
       "change": "="
     },
     {
@@ -78,28 +78,28 @@
       "name": "J. Cole",
       "plays": 34,
       "last_week_plays": 12,
-      "change": "+11"
+      "change": "+9"
     },
     {
       "rank": 3,
-      "name": "Future",
+      "name": "21 Savage",
       "plays": 28,
-      "last_week_plays": 17,
-      "change": "+4"
+      "last_week_plays": 11,
+      "change": "+10"
     },
     {
       "rank": 4,
-      "name": "21 Savage",
-      "plays": 28,
-      "last_week_plays": 12,
-      "change": "+8"
-    },
-    {
-      "rank": 5,
       "name": "Gunna",
       "plays": 27,
       "last_week_plays": 26,
-      "change": "-3"
+      "change": "-2"
+    },
+    {
+      "rank": 5,
+      "name": "Future",
+      "plays": 27,
+      "last_week_plays": 18,
+      "change": "="
     },
     {
       "rank": 6,
@@ -110,17 +110,17 @@
     },
     {
       "rank": 7,
-      "name": "Conway the Machine",
-      "plays": 21,
-      "last_week_plays": 16,
-      "change": "+2"
+      "name": "Westside Gunn",
+      "plays": 22,
+      "last_week_plays": 21,
+      "change": "-4"
     },
     {
       "rank": 8,
-      "name": "Westside Gunn",
+      "name": "Conway the Machine",
       "plays": 21,
-      "last_week_plays": 21,
-      "change": "-5"
+      "last_week_plays": 16,
+      "change": "+1"
     },
     {
       "rank": 9,
@@ -131,10 +131,10 @@
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
+      "name": "The Alchemist",
       "plays": 19,
-      "last_week_plays": 7,
-      "change": "+19"
+      "last_week_plays": 17,
+      "change": "-3"
     }
   ],
   "top_tracks": [
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+69"
+      "change": "+61"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
-      "last_week_plays": 1,
-      "change": "+38"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+181"
+      "change": "+172"
     },
     {
       "rank": 8,
@@ -245,11 +245,11 @@
         "plays": 3
       },
       {
-        "name": "Loe Shimmy",
+        "name": "Danger Mouse",
         "plays": 2
       },
       {
-        "name": "Danger Mouse",
+        "name": "Eve",
         "plays": 2
       }
     ],
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
-    "Afternoon (12pm-5pm)": 182,
+    "Afternoon (12pm-5pm)": 181,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
   },
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 157,
+    "Sat": 156,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -333,19 +333,19 @@
       "days": 9
     },
     {
-      "artist": "The Alchemist",
-      "days": 7
+      "artist": "Westside Gunn",
+      "days": 8
     }
   ],
   "release_eras": {
     "1990s": 23,
     "2000s": 52,
-    "2010s": 216,
+    "2010s": 215,
     "2020s": 335
   },
   "listening_style": {
     "played_from": {
-      "other": 557,
+      "other": 556,
       "playlist": 68,
       "album": 1
     },
