@@ -1,5 +1,5 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 00:54 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 01:00 ET
 
 **558 plays** (+141 vs last week) · **1921 minutes** · 250 artists · 465 songs
 
