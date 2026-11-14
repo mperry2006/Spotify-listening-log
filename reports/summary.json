@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-14T01:02-05:00",
+  "generated_at": "2026-11-14T02:21-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1522,
+  "total_plays_logged": 1526,
   "this_week": {
-    "plays": 558,
-    "minutes": 1921,
-    "unique_tracks": 465,
-    "unique_artists": 250
+    "plays": 562,
+    "minutes": 1936,
+    "unique_tracks": 469,
+    "unique_artists": 251
   },
   "last_week": {
     "plays": 417,
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 58,
+      "plays": 60,
       "last_week_plays": 28,
       "change": "="
     },
@@ -89,17 +89,17 @@
     },
     {
       "rank": 4,
-      "name": "21 Savage",
+      "name": "Gunna",
       "plays": 27,
-      "last_week_plays": 12,
-      "change": "+8"
+      "last_week_plays": 26,
+      "change": "-2"
     },
     {
       "rank": 5,
-      "name": "Gunna",
-      "plays": 26,
-      "last_week_plays": 26,
-      "change": "-3"
+      "name": "21 Savage",
+      "plays": 27,
+      "last_week_plays": 12,
+      "change": "+7"
     },
     {
       "rank": 6,
@@ -299,7 +299,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 13,
+    "Late night (12am-5am)": 17,
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
@@ -311,14 +311,14 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 89,
+    "Sat": 93,
     "Sun": 136
   },
   "busiest_day": "Sun",
   "streaks": [
     {
       "artist": "Drake",
-      "days": 19
+      "days": 20
     },
     {
       "artist": "21 Savage",
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 22,
-    "2000s": 47,
-    "2010s": 168,
-    "2020s": 321
+    "2000s": 48,
+    "2010s": 170,
+    "2020s": 322
   },
   "listening_style": {
     "played_from": {
-      "other": 488,
+      "other": 492,
       "playlist": 68,
       "album": 2
     },

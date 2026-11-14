@@ -1,18 +1,18 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 01:02 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 02:21 ET
 
-**558 plays** (+141 vs last week) · **1921 minutes** · 250 artists · 465 songs
+**562 plays** (+145 vs last week) · **1936 minutes** · 251 artists · 469 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 58 | = |
+| 1 | Drake | 60 | = |
 | 2 | J. Cole | 33 | +11 |
 | 3 | Future | 28 | +4 |
-| 4 | 21 Savage | 27 | +8 |
-| 5 | Gunna | 26 | -3 |
+| 4 | Gunna | 27 | -2 |
+| 5 | 21 Savage | 27 | +7 |
 | 6 | Lil Baby | 24 | -3 |
 | 7 | Conway the Machine | 21 | +2 |
 | 8 | Westside Gunn | 21 | -4 |
@@ -58,7 +58,7 @@ New artists: Swae Lee (5), Joeboy (5), Davido (5), Black Thought (3), Nicki Mina
 
 ## When you listen
 ```
-Late night (12am-5am)  █ 13
+Late night (12am-5am)  ██ 17
 Morning (5am-12pm)     ████████ 82
 Afternoon (12pm-5pm)   ███████████████████ 182
 Evening (5pm-9pm)      ████████████████████ 195
@@ -69,22 +69,22 @@ Tue                    ███████████████ 101
 Wed                    █████████ 64
 Thu                    █████ 33
 Fri                    █████████ 62
-Sat                    █████████████ 89
+Sat                    ██████████████ 93
 Sun                    ████████████████████ 136
 ```
 
 ## Streaks
-- Drake: 19 days in a row
+- Drake: 20 days in a row
 - 21 Savage: 9 days in a row
 - Metro Boomin: 9 days in a row
 - J. Cole: 9 days in a row
 - The Alchemist: 7 days in a row
 
 ## Eras
-1990s: 22, 2000s: 47, 2010s: 168, 2020s: 321
+1990s: 22, 2000s: 48, 2010s: 170, 2020s: 322
 
 ## How you listen
-Played from: other 488, playlist 68, album 2
+Played from: other 492, playlist 68, album 2
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1522 plays recorded total._
+_Log started 2026-10-26 · 1526 plays recorded total._
