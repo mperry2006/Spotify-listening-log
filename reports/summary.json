@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-14T02:21-05:00",
+  "generated_at": "2026-11-14T04:01-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1526,
+  "total_plays_logged": 1550,
   "this_week": {
-    "plays": 562,
-    "minutes": 1936,
-    "unique_tracks": 469,
-    "unique_artists": 251
+    "plays": 586,
+    "minutes": 2036,
+    "unique_tracks": 491,
+    "unique_artists": 259
   },
   "last_week": {
     "plays": 417,
@@ -69,14 +69,14 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 60,
+      "plays": 71,
       "last_week_plays": 28,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 33,
+      "plays": 34,
       "last_week_plays": 12,
       "change": "+11"
     },
@@ -89,17 +89,17 @@
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 27,
-      "last_week_plays": 26,
-      "change": "-2"
+      "name": "21 Savage",
+      "plays": 28,
+      "last_week_plays": 12,
+      "change": "+8"
     },
     {
       "rank": 5,
-      "name": "21 Savage",
+      "name": "Gunna",
       "plays": 27,
-      "last_week_plays": 12,
-      "change": "+7"
+      "last_week_plays": 26,
+      "change": "-3"
     },
     {
       "rank": 6,
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 70,
+    "plays_of_new_tracks_pct": 71,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -299,7 +299,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 17,
+    "Late night (12am-5am)": 41,
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 93,
+    "Sat": 117,
     "Sun": 136
   },
   "busiest_day": "Sun",
@@ -322,14 +322,14 @@
     },
     {
       "artist": "21 Savage",
-      "days": 9
-    },
-    {
-      "artist": "Metro Boomin",
-      "days": 9
+      "days": 10
     },
     {
       "artist": "J. Cole",
+      "days": 10
+    },
+    {
+      "artist": "Metro Boomin",
       "days": 9
     },
     {
@@ -338,14 +338,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 22,
+    "1990s": 23,
     "2000s": 48,
-    "2010s": 170,
-    "2020s": 322
+    "2010s": 188,
+    "2020s": 327
   },
   "listening_style": {
     "played_from": {
-      "other": 492,
+      "other": 516,
       "playlist": 68,
       "album": 2
     },

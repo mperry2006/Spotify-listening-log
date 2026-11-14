@@ -1,18 +1,18 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 02:21 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 04:01 ET
 
-**562 plays** (+145 vs last week) · **1936 minutes** · 251 artists · 469 songs
+**586 plays** (+169 vs last week) · **2036 minutes** · 259 artists · 491 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 60 | = |
-| 2 | J. Cole | 33 | +11 |
+| 1 | Drake | 71 | = |
+| 2 | J. Cole | 34 | +11 |
 | 3 | Future | 28 | +4 |
-| 4 | Gunna | 27 | -2 |
-| 5 | 21 Savage | 27 | +7 |
+| 4 | 21 Savage | 28 | +8 |
+| 5 | Gunna | 27 | -3 |
 | 6 | Lil Baby | 24 | -3 |
 | 7 | Conway the Machine | 21 | +2 |
 | 8 | Westside Gunn | 21 | -4 |
@@ -34,7 +34,7 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 
 ## Discovery
-70% of plays were songs not in your log before this week.
+71% of plays were songs not in your log before this week.
 New artists: Swae Lee (5), Joeboy (5), Davido (5), Black Thought (3), Nicki Minaj (3), Doodie Lo (3), Danger Mouse (2), Eve (2), Mariah the Scientist (2), Fridayy (2)
 
 ## On repeat (3+ plays)
@@ -58,7 +58,7 @@ New artists: Swae Lee (5), Joeboy (5), Davido (5), Black Thought (3), Nicki Mina
 
 ## When you listen
 ```
-Late night (12am-5am)  ██ 17
+Late night (12am-5am)  ████ 41
 Morning (5am-12pm)     ████████ 82
 Afternoon (12pm-5pm)   ███████████████████ 182
 Evening (5pm-9pm)      ████████████████████ 195
@@ -69,22 +69,22 @@ Tue                    ███████████████ 101
 Wed                    █████████ 64
 Thu                    █████ 33
 Fri                    █████████ 62
-Sat                    ██████████████ 93
+Sat                    █████████████████ 117
 Sun                    ████████████████████ 136
 ```
 
 ## Streaks
 - Drake: 20 days in a row
-- 21 Savage: 9 days in a row
+- 21 Savage: 10 days in a row
+- J. Cole: 10 days in a row
 - Metro Boomin: 9 days in a row
-- J. Cole: 9 days in a row
 - The Alchemist: 7 days in a row
 
 ## Eras
-1990s: 22, 2000s: 48, 2010s: 170, 2020s: 322
+1990s: 23, 2000s: 48, 2010s: 188, 2020s: 327
 
 ## How you listen
-Played from: other 492, playlist 68, album 2
+Played from: other 516, playlist 68, album 2
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1526 plays recorded total._
+_Log started 2026-10-26 · 1550 plays recorded total._
