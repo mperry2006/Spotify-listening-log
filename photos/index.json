@@ -1,0 +1,212 @@
+{
+  "generated_at": "2026-11-14T20:37+00:00",
+  "week": {
+    "start": "2026-11-07",
+    "end": "2026-11-14"
+  },
+  "note": "Credit each photo as: Photo: <credit>, <license>.",
+  "photos": [
+    {
+      "artist": "Drake",
+      "why": [
+        "#1 artist this week (80 plays)",
+        "20-day listening streak"
+      ],
+      "file": "photos/drake.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Drake_(musician)",
+      "about": "Canadian rapper and singer (born 1986)",
+      "credit": "GabboT",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Drake_at_The_Carter_Effect_2017_(36818935200)_(cropped).jpg"
+    },
+    {
+      "artist": "J. Cole",
+      "why": [
+        "#2 artist this week (32 plays)",
+        "10-day listening streak"
+      ],
+      "file": "photos/j-cole.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/J._Cole",
+      "about": "American rapper (born 1985)",
+      "credit": "HOTSPOTATL",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:HOTSPOTATL_-_21_Savage_%26_J.Cole_Light_Birthday_Bash_ATL_2023_On_FIRE_(xu6HKf40MX0_-_2m38s)_(cropped)_(cropped).jpg"
+    },
+    {
+      "artist": "Gunna",
+      "why": [
+        "#3 artist this week (27 plays)"
+      ],
+      "file": "photos/gunna.png",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gunna_(rapper)",
+      "about": "American rapper (born 1993)",
+      "credit": "HOTSPOTATL",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunna_June_2025.png"
+    },
+    {
+      "artist": "21 Savage",
+      "why": [
+        "#4 artist this week (27 plays)",
+        "10-day listening streak"
+      ],
+      "file": "photos/21-savage.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/21_Savage",
+      "about": "Rapper (born 1992)",
+      "credit": "Ralph Arvesen from Round Mountain, Texas",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
+    },
+    {
+      "artist": "Future",
+      "why": [
+        "#5 artist this week (27 plays)"
+      ],
+      "file": "photos/future.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
+      "about": "American rapper (born 1983)",
+      "credit": "Frank Schwichtenberg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
+    },
+    {
+      "artist": "Lil Baby",
+      "why": [
+        "#6 artist this week (23 plays)"
+      ],
+      "file": "photos/lil-baby.jpg",
+      "found_via": "Openverse (flickr)",
+      "wikipedia": "",
+      "about": "Lil Baby",
+      "credit": "rwoan",
+      "license": "BY-NC 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "source": "https://www.flickr.com/photos/8502118@N08/51497977158"
+    },
+    {
+      "artist": "Westside Gunn",
+      "why": [
+        "#7 artist this week (23 plays)"
+      ],
+      "file": "photos/westside-gunn.png",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Westside_Gunn",
+      "about": "American rapper (born 1982)",
+      "credit": "MILLION DOLLAZ WORTH OF GAME",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Westside_Gunn_2021.png"
+    },
+    {
+      "artist": "Young Thug",
+      "why": [
+        "#8 artist this week (22 plays)"
+      ],
+      "file": "photos/young-thug.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Young_Thug",
+      "about": "American rapper (born 1991)",
+      "credit": "Marcus Rasmussen",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Young_Thug_at_FIU_(cropped).jpg"
+    },
+    {
+      "artist": "Swae Lee",
+      "why": [
+        "new discovery (5 plays)"
+      ],
+      "file": "photos/swae-lee.png",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Swae_Lee",
+      "about": "American rapper and singer (born 1993)",
+      "credit": "Icebox",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Swae_Lee_(2019).png"
+    },
+    {
+      "artist": "Joeboy",
+      "why": [
+        "new discovery (5 plays)"
+      ],
+      "file": "photos/joeboy.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joeboy",
+      "about": "Nigerian singer-songwriter (born 1997)",
+      "credit": "Ayomide7",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Joeboy_(new).jpg"
+    },
+    {
+      "artist": "Davido",
+      "why": [
+        "new discovery (5 plays)"
+      ],
+      "file": "photos/davido.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Davido",
+      "about": "Nigerian-American singer (born 1992)",
+      "credit": "OLAMIPOSI DANIEL",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Davido_2024_(cropped).jpg"
+    },
+    {
+      "artist": "Nicki Minaj",
+      "why": [
+        "new discovery (4 plays)"
+      ],
+      "file": "photos/nicki-minaj.jpg",
+      "found_via": "Openverse (flickr)",
+      "wikipedia": "",
+      "about": "Sticker showing furry running with Nicki Minaj American flag on a fence post by Vernal Falls, Yosemite National Park",
+      "credit": "gabeclassonarchive3",
+      "license": "BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/192649360@N02/52187999241"
+    },
+    {
+      "artist": "Metro Boomin",
+      "why": [
+        "10-day listening streak"
+      ],
+      "file": "photos/metro-boomin.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Metro_Boomin",
+      "about": "American record producer (born 1993)",
+      "credit": "HOTSPOTATL",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Metro_Boomin_November_2025.jpg"
+    },
+    {
+      "artist": "The Alchemist",
+      "why": [
+        "8-day listening streak"
+      ],
+      "file": "photos/the-alchemist.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Alchemist_(musician)",
+      "about": "American record producer and DJ (born 1977)",
+      "credit": "MILLION DOLLAZ WORTH OF GAME",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Alchemist_on_MILLION_DOLLAZ_WORTH_OF_GAME_(cropped).jpg"
+    }
+  ],
+  "no_photo_found": [
+    "Tory Lanez"
+  ]
+}

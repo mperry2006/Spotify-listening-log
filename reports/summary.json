@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T15:02-05:00",
+  "generated_at": "2026-11-14T15:35-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1620,
+  "total_plays_logged": 1625,
   "this_week": {
-    "plays": 626,
-    "minutes": 2180,
-    "unique_tracks": 533,
-    "unique_artists": 274
+    "plays": 631,
+    "minutes": 2206,
+    "unique_tracks": 537,
+    "unique_artists": 278
   },
   "last_week": {
-    "plays": 419,
-    "minutes": 1396
+    "plays": 418,
+    "minutes": 1393
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -110,17 +110,17 @@
     },
     {
       "rank": 7,
-      "name": "Young Thug",
-      "plays": 22,
-      "last_week_plays": 18,
-      "change": "+1"
+      "name": "Westside Gunn",
+      "plays": 23,
+      "last_week_plays": 21,
+      "change": "-3"
     },
     {
       "rank": 8,
-      "name": "Westside Gunn",
+      "name": "Young Thug",
       "plays": 22,
-      "last_week_plays": 21,
-      "change": "-4"
+      "last_week_plays": 18,
+      "change": "="
     },
     {
       "rank": 9,
@@ -164,7 +164,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+48"
+      "change": "+47"
     },
     {
       "rank": 5,
@@ -178,7 +178,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+159"
+      "change": "+158"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+339"
+      "change": "+338"
     },
     {
       "rank": 9,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
-    "Afternoon (12pm-5pm)": 182,
+    "Afternoon (12pm-5pm)": 187,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
   },
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 157,
+    "Sat": 162,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 54,
-    "2010s": 217,
-    "2020s": 330
+    "2000s": 55,
+    "2010s": 220,
+    "2020s": 331
   },
   "listening_style": {
     "played_from": {
-      "other": 557,
+      "other": 562,
       "playlist": 68,
       "album": 1
     },

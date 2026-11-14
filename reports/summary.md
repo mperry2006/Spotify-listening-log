@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 15:02 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 15:35 ET
 
-**626 plays** (+207 vs last week) · **2180 minutes** · 274 artists · 533 songs
+**631 plays** (+213 vs last week) · **2206 minutes** · 278 artists · 537 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
@@ -14,8 +14,8 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 4 | 21 Savage | 27 | +10 |
 | 5 | Future | 27 | +2 |
 | 6 | Lil Baby | 23 | -3 |
-| 7 | Young Thug | 22 | +1 |
-| 8 | Westside Gunn | 22 | -4 |
+| 7 | Westside Gunn | 23 | -3 |
+| 8 | Young Thug | 22 | = |
 | 9 | Lil Wayne | 21 | +23 |
 | 10 | Conway the Machine | 21 | -1 |
 
@@ -25,11 +25,11 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 3 | trademark usa - Baby Keem | 3 | NEW |
-| 4 | I Can Love You - Mary J. Blige | 3 | +48 |
+| 4 | I Can Love You - Mary J. Blige | 3 | +47 |
 | 5 | Racks 2 Skinny - Migos | 3 | NEW |
-| 6 | Blueslides - ScHoolboy Q | 3 | +159 |
+| 6 | Blueslides - ScHoolboy Q | 3 | +158 |
 | 7 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 8 | peter pan. - Brent Faiyaz | 3 | +339 |
+| 8 | peter pan. - Brent Faiyaz | 3 | +338 |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 
@@ -60,16 +60,16 @@ New artists: Swae Lee (5), Joeboy (5), Davido (5), Tory Lanez (4), Nicki Minaj (
 ```
 Late night (12am-5am)  ██████ 56
 Morning (5am-12pm)     ███████████ 107
-Afternoon (12pm-5pm)   ███████████████████ 182
+Afternoon (12pm-5pm)   ███████████████████ 187
 Evening (5pm-9pm)      ████████████████████ 195
 Night (9pm-12am)       █████████ 86
 
 Mon                    █████████ 73
-Tue                    █████████████ 101
+Tue                    ████████████ 101
 Wed                    ████████ 64
 Thu                    ████ 33
 Fri                    ████████ 62
-Sat                    ████████████████████ 157
+Sat                    ████████████████████ 162
 Sun                    █████████████████ 136
 ```
 
@@ -81,10 +81,10 @@ Sun                    █████████████████ 136
 - The Alchemist: 8 days in a row
 
 ## Eras
-1990s: 25, 2000s: 54, 2010s: 217, 2020s: 330
+1990s: 25, 2000s: 55, 2010s: 220, 2020s: 331
 
 ## How you listen
-Played from: other 557, playlist 68, album 1
+Played from: other 562, playlist 68, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1620 plays recorded total._
+_Log started 2026-10-26 · 1625 plays recorded total._
