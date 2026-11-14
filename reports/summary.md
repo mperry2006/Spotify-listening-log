@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 05:56 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 06:53 ET
 
-**616 plays** (+199 vs last week) · **2149 minutes** · 268 artists · 520 songs
+**630 plays** (+212 vs last week) · **2201 minutes** · 271 artists · 534 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 85 | = |
+| 1 | Drake | 88 | = |
 | 2 | J. Cole | 34 | +11 |
 | 3 | Future | 28 | +4 |
 | 4 | 21 Savage | 28 | +8 |
@@ -26,16 +26,16 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 2 | peter pan. - Brent Faiyaz | 4 | NEW |
 | 3 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 4 | trademark usa - Baby Keem | 3 | NEW |
-| 5 | I Can Love You - Mary J. Blige | 3 | +71 |
-| 6 | Racks 2 Skinny - Migos | 3 | +40 |
-| 7 | Blueslides - ScHoolboy Q | 3 | +183 |
+| 5 | I Can Love You - Mary J. Blige | 3 | +72 |
+| 6 | Racks 2 Skinny - Migos | 3 | +41 |
+| 7 | Blueslides - ScHoolboy Q | 3 | +184 |
 | 8 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 
 ## Discovery
 72% of plays were songs not in your log before this week.
-New artists: Swae Lee (5), Joeboy (5), Davido (5), Tory Lanez (4), Nicki Minaj (4), Black Thought (3), Doodie Lo (3), Danger Mouse (2), Eve (2), Mariah the Scientist (2)
+New artists: Swae Lee (5), Joeboy (5), Davido (5), Tory Lanez (4), Nicki Minaj (4), Black Thought (3), Doodie Lo (3), Wale (3), Loe Shimmy (2), Danger Mouse (2)
 
 ## On repeat (3+ plays)
 - Sip (Alcohol) - Joeboy - 5x
@@ -59,18 +59,18 @@ New artists: Swae Lee (5), Joeboy (5), Davido (5), Tory Lanez (4), Nicki Minaj (
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 56
-Morning (5am-12pm)     ██████████ 97
+Morning (5am-12pm)     ███████████ 111
 Afternoon (12pm-5pm)   ███████████████████ 182
 Evening (5pm-9pm)      ████████████████████ 195
 Night (9pm-12am)       █████████ 86
 
-Mon                    ██████████ 73
-Tue                    ██████████████ 101
-Wed                    █████████ 64
+Mon                    █████████ 73
+Tue                    █████████████ 101
+Wed                    ████████ 64
 Thu                    ████ 33
 Fri                    ████████ 62
-Sat                    ████████████████████ 147
-Sun                    ███████████████████ 136
+Sat                    ████████████████████ 161
+Sun                    █████████████████ 136
 ```
 
 ## Streaks
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - The Alchemist: 7 days in a row
 
 ## Eras
-1990s: 23, 2000s: 51, 2010s: 208, 2020s: 334
+1990s: 23, 2000s: 52, 2010s: 217, 2020s: 338
 
 ## How you listen
-Played from: other 546, playlist 68, album 2
+Played from: other 560, playlist 68, album 2
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1580 plays recorded total._
+_Log started 2026-10-26 · 1595 plays recorded total._
