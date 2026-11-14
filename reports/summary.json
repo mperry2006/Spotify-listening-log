@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:22-05:00",
+  "generated_at": "2026-11-13T22:02-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
@@ -13,8 +13,8 @@
     "unique_artists": 249
   },
   "last_week": {
-    "plays": 447,
-    "minutes": 1480
+    "plays": 422,
+    "minutes": 1395
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,7 +70,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 56,
-      "last_week_plays": 34,
+      "last_week_plays": 29,
       "change": "="
     },
     {
@@ -78,34 +78,34 @@
       "name": "J. Cole",
       "plays": 32,
       "last_week_plays": 12,
-      "change": "+13"
+      "change": "+11"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 28,
-      "last_week_plays": 20,
-      "change": "+2"
+      "last_week_plays": 17,
+      "change": "+4"
     },
     {
       "rank": 4,
       "name": "21 Savage",
       "plays": 27,
       "last_week_plays": 12,
-      "change": "+10"
+      "change": "+8"
     },
     {
       "rank": 5,
       "name": "Gunna",
       "plays": 26,
-      "last_week_plays": 32,
+      "last_week_plays": 26,
       "change": "-3"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
       "plays": 24,
-      "last_week_plays": 23,
+      "last_week_plays": 22,
       "change": "-3"
     },
     {
@@ -113,28 +113,28 @@
       "name": "Conway the Machine",
       "plays": 21,
       "last_week_plays": 16,
-      "change": "+3"
+      "change": "+2"
     },
     {
       "rank": 8,
       "name": "Westside Gunn",
       "plays": 21,
-      "last_week_plays": 22,
+      "last_week_plays": 21,
       "change": "-4"
     },
     {
       "rank": 9,
       "name": "Young Thug",
       "plays": 20,
-      "last_week_plays": 20,
-      "change": "-3"
+      "last_week_plays": 17,
+      "change": "-1"
     },
     {
       "rank": 10,
       "name": "The Alchemist",
       "plays": 19,
       "last_week_plays": 18,
-      "change": "-3"
+      "change": "-5"
     }
   ],
   "top_tracks": [
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+98"
+      "change": "+75"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+67"
+      "change": "+44"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+204"
+      "change": "+186"
     },
     {
       "rank": 8,
@@ -205,8 +205,8 @@
       "rank": 10,
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
-      "last_week_plays": 1,
-      "change": "+50"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
