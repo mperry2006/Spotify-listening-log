@@ -19,6 +19,7 @@ from pathlib import Path
 from spotify_logger import api_get, get_access_token
 
 LOG_FILE = Path("data/listening_log.csv")
+ART_FILE = Path("data/album_art.json")
 COVER_DIR = Path("covers")
 MAX_COVERS = 15   # cap so the repo stays small
 
@@ -69,27 +70,47 @@ def main():
         return
 
     track_ids, track_counts = pick_tracks(plays)
-    token = get_access_token()
+    names = {p["track_id"]: p["track"] for p in plays}
 
+    # Album info saved by spotify_logger.py from your recent plays.
+    art = {}
+    if ART_FILE.exists():
+        art = json.loads(ART_FILE.read_text(encoding="utf-8"))
+
+    token = None
     albums = {}  # album_id -> info, in priority order
-    for i in range(0, len(track_ids), 50):
-        batch = track_ids[i:i + 50]
-        data = api_get("/tracks", token, {"ids": ",".join(batch)})
-        for t in data.get("tracks") or []:
-            if not t:
+    for tid in track_ids:
+        info = art.get(tid)
+        if info is None:
+            # Not saved yet: look this one song up (one at a time; Spotify
+            # blocks multi-song lookups for personal apps).
+            try:
+                token = token or get_access_token()
+                t = api_get(f"/tracks/{tid}", token)
+                album = t["album"]
+                info = {
+                    "album_id": album["id"], "album": album["name"],
+                    "artists": [a["name"] for a in album["artists"]],
+                    "release_date": album.get("release_date", ""),
+                    "spotify_url": album.get("external_urls", {}).get("spotify", ""),
+                    "images": album.get("images", []),
+                }
+            except Exception as e:  # skip this song, keep going
+                print(f"Couldn't look up {names.get(tid, tid)}: {e}")
                 continue
-            album = t["album"]
-            entry = albums.setdefault(album["id"], {
-                "album_id": album["id"],
-                "album": album["name"],
-                "artists": [a["name"] for a in album["artists"]],
-                "release_date": album.get("release_date", ""),
-                "spotify_url": album.get("external_urls", {}).get("spotify", ""),
-                "image_url": pick_image(album.get("images", [])),
-                "tracks": [],
-            })
-            entry["tracks"].append({"track_id": t["id"], "track": t["name"],
-                                    "plays": track_counts.get(t["id"], 0)})
+        if not info.get("album_id"):
+            continue
+        entry = albums.setdefault(info["album_id"], {
+            "album_id": info["album_id"],
+            "album": info["album"],
+            "artists": info["artists"],
+            "release_date": info.get("release_date", ""),
+            "spotify_url": info.get("spotify_url", ""),
+            "image_url": pick_image(info.get("images", [])),
+            "tracks": [],
+        })
+        entry["tracks"].append({"track_id": tid, "track": names.get(tid, ""),
+                                "plays": track_counts.get(tid, 0)})
 
     COVER_DIR.mkdir(exist_ok=True)
     keep = []
@@ -99,8 +120,12 @@ def main():
             continue
         path = COVER_DIR / f'{entry["album_id"]}.jpg'
         if not path.exists():
-            with urllib.request.urlopen(url) as resp:
-                path.write_bytes(resp.read())
+            try:
+                with urllib.request.urlopen(url) as resp:
+                    path.write_bytes(resp.read())
+            except Exception as e:
+                print(f'Couldn\'t download cover for {entry["album"]}: {e}')
+                continue
         entry["file"] = f"covers/{path.name}"
         keep.append(entry)
 
