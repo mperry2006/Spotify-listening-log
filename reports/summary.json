@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T15:35-05:00",
+  "generated_at": "2026-11-14T15:53-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1625,
+  "total_plays_logged": 1630,
   "this_week": {
-    "plays": 631,
-    "minutes": 2206,
-    "unique_tracks": 537,
-    "unique_artists": 278
+    "plays": 636,
+    "minutes": 2224,
+    "unique_tracks": 541,
+    "unique_artists": 280
   },
   "last_week": {
-    "plays": 418,
-    "minutes": 1393
+    "plays": 416,
+    "minutes": 1385
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 80,
+      "plays": 81,
       "last_week_plays": 37,
       "change": "="
     },
@@ -164,7 +164,7 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+47"
+      "change": "+45"
     },
     {
       "rank": 5,
@@ -178,7 +178,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+158"
+      "change": "+156"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+338"
+      "change": "+336"
     },
     {
       "rank": 9,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
-    "Afternoon (12pm-5pm)": 187,
+    "Afternoon (12pm-5pm)": 192,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
   },
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 162,
+    "Sat": 167,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 25,
     "2000s": 55,
-    "2010s": 220,
-    "2020s": 331
+    "2010s": 223,
+    "2020s": 333
   },
   "listening_style": {
     "played_from": {
-      "other": 562,
+      "other": 567,
       "playlist": 68,
       "album": 1
     },
