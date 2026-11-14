@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-13T18:52-05:00",
+  "generated_at": "2026-11-13T20:22-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1506,
+  "total_plays_logged": 1519,
   "this_week": {
-    "plays": 542,
-    "minutes": 1864,
-    "unique_tracks": 454,
+    "plays": 555,
+    "minutes": 1908,
+    "unique_tracks": 463,
     "unique_artists": 249
   },
   "last_week": {
-    "plays": 468,
-    "minutes": 1543
+    "plays": 447,
+    "minutes": 1480
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 5,
+    "skip_rate_pct": 4,
     "skipped_plays": 26,
     "most_skipped_tracks": [
       {
@@ -69,14 +69,14 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 54,
+      "plays": 56,
       "last_week_plays": 34,
-      "change": "+1"
+      "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 30,
+      "plays": 32,
       "last_week_plays": 12,
       "change": "+13"
     },
@@ -84,29 +84,29 @@
       "rank": 3,
       "name": "Future",
       "plays": 28,
-      "last_week_plays": 22,
+      "last_week_plays": 20,
       "change": "+2"
     },
     {
       "rank": 4,
       "name": "21 Savage",
-      "plays": 26,
-      "last_week_plays": 14,
-      "change": "+7"
+      "plays": 27,
+      "last_week_plays": 12,
+      "change": "+10"
     },
     {
       "rank": 5,
-      "name": "Lil Baby",
-      "plays": 24,
-      "last_week_plays": 24,
-      "change": "-1"
+      "name": "Gunna",
+      "plays": 26,
+      "last_week_plays": 32,
+      "change": "-3"
     },
     {
       "rank": 6,
-      "name": "Gunna",
-      "plays": 23,
-      "last_week_plays": 38,
-      "change": "-5"
+      "name": "Lil Baby",
+      "plays": 24,
+      "last_week_plays": 23,
+      "change": "-3"
     },
     {
       "rank": 7,
@@ -120,21 +120,21 @@
       "name": "Westside Gunn",
       "plays": 21,
       "last_week_plays": 22,
-      "change": "-2"
+      "change": "-4"
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 19,
-      "last_week_plays": 18,
-      "change": "-2"
+      "name": "Young Thug",
+      "plays": 20,
+      "last_week_plays": 20,
+      "change": "-3"
     },
     {
       "rank": 10,
-      "name": "Kanye West",
+      "name": "The Alchemist",
       "plays": 19,
-      "last_week_plays": 11,
-      "change": "+9"
+      "last_week_plays": 18,
+      "change": "-3"
     }
   ],
   "top_tracks": [
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+118"
+      "change": "+98"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+87"
+      "change": "+67"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+218"
+      "change": "+204"
     },
     {
       "rank": 8,
@@ -196,22 +196,26 @@
     },
     {
       "rank": 9,
-      "name": "1hunnit - A Boogie Wit da Hoodie",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+71"
-    },
-    {
-      "rank": 10,
-      "name": "FEM - Davido",
+      "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "1hunnit - A Boogie Wit da Hoodie",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+50"
     }
   ],
   "dropped_off": [],
   "discovery": {
     "new_artists": [
+      {
+        "name": "Swae Lee",
+        "plays": 5
+      },
       {
         "name": "Joeboy",
         "plays": 5
@@ -221,8 +225,8 @@
         "plays": 5
       },
       {
-        "name": "Swae Lee",
-        "plays": 4
+        "name": "Black Thought",
+        "plays": 3
       },
       {
         "name": "Nicki Minaj",
@@ -234,10 +238,6 @@
       },
       {
         "name": "Danger Mouse",
-        "plays": 2
-      },
-      {
-        "name": "Black Thought",
         "plays": 2
       },
       {
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 69,
+    "plays_of_new_tracks_pct": 70,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -290,11 +290,11 @@
       "plays": 3
     },
     {
-      "track": "1hunnit - A Boogie Wit da Hoodie",
+      "track": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3
     },
     {
-      "track": "FEM - Davido",
+      "track": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3
     }
   ],
@@ -302,7 +302,7 @@
     "Late night (12am-5am)": 13,
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 182,
-    "Evening (5pm-9pm)": 182,
+    "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 83
   },
   "day_of_week": {
@@ -310,7 +310,7 @@
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 46,
+    "Fri": 59,
     "Sat": 89,
     "Sun": 136
   },
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1990s": 22,
-    "2000s": 46,
-    "2010s": 162,
-    "2020s": 312
+    "2000s": 47,
+    "2010s": 165,
+    "2020s": 321
   },
   "listening_style": {
     "played_from": {
-      "other": 473,
-      "playlist": 67,
+      "other": 485,
+      "playlist": 68,
       "album": 2
     },
     "full_album_sessions": 0
@@ -355,22 +355,22 @@
     "short_term": {
       "artists": [
         "Westside Gunn",
-        "Drake",
         "J. Cole",
-        "Gunna",
+        "Drake",
         "Future",
+        "Gunna",
         "Migos",
+        "21 Savage",
         "Lil Baby",
-        "Kanye West",
-        "Young Thug",
-        "Freddie Gibbs"
+        "Freddie Gibbs",
+        "Kanye West"
       ]
     },
     "medium_term": {
       "artists": [
         "J. Cole",
-        "LUCKI",
         "Future",
+        "LUCKI",
         "Drake",
         "Lil Baby",
         "Westside Gunn",
