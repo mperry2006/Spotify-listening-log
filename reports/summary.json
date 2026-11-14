@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-14T14:54-05:00",
+  "generated_at": "2026-11-14T15:02-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1618,
+  "total_plays_logged": 1620,
   "this_week": {
-    "plays": 624,
-    "minutes": 2173,
-    "unique_tracks": 531,
+    "plays": 626,
+    "minutes": 2180,
+    "unique_tracks": 533,
     "unique_artists": 274
   },
   "last_week": {
@@ -118,7 +118,7 @@
     {
       "rank": 8,
       "name": "Westside Gunn",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 21,
       "change": "-4"
     },
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
-    "Afternoon (12pm-5pm)": 180,
+    "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
     "Night (9pm-12am)": 86
   },
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 155,
+    "Sat": 157,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 25,
     "2000s": 54,
-    "2010s": 216,
-    "2020s": 329
+    "2010s": 217,
+    "2020s": 330
   },
   "listening_style": {
     "played_from": {
-      "other": 555,
+      "other": 557,
       "playlist": 68,
       "album": 1
     },
