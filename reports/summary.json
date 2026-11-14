@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T22:02-05:00",
+  "generated_at": "2026-11-13T23:08-05:00",
   "window": {
     "start": "2026-11-06",
     "end": "2026-11-13"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1519,
+  "total_plays_logged": 1520,
   "this_week": {
-    "plays": 555,
-    "minutes": 1908,
+    "plays": 556,
+    "minutes": 1913,
     "unique_tracks": 463,
     "unique_artists": 249
   },
   "last_week": {
-    "plays": 422,
-    "minutes": 1395
+    "plays": 417,
+    "minutes": 1379
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 56,
-      "last_week_plays": 29,
+      "plays": 57,
+      "last_week_plays": 28,
       "change": "="
     },
     {
@@ -105,7 +105,7 @@
       "rank": 6,
       "name": "Lil Baby",
       "plays": 24,
-      "last_week_plays": 22,
+      "last_week_plays": 21,
       "change": "-3"
     },
     {
@@ -171,21 +171,21 @@
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+75"
+      "change": "+71"
     },
     {
       "rank": 6,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+44"
+      "change": "+40"
     },
     {
       "rank": 7,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+186"
+      "change": "+183"
     },
     {
       "rank": 8,
@@ -303,14 +303,14 @@
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
-    "Night (9pm-12am)": 83
+    "Night (9pm-12am)": 84
   },
   "day_of_week": {
     "Mon": 73,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
-    "Fri": 59,
+    "Fri": 60,
     "Sat": 89,
     "Sun": 136
   },
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 22,
     "2000s": 47,
-    "2010s": 165,
+    "2010s": 166,
     "2020s": 321
   },
   "listening_style": {
     "played_from": {
-      "other": 485,
+      "other": 486,
       "playlist": 68,
       "album": 2
     },

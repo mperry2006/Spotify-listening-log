@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-06 to 2026-11-13** · updated 2026-11-13 22:02 ET
+**2026-11-06 to 2026-11-13** · updated 2026-11-13 23:08 ET
 
-**555 plays** (+133 vs last week) · **1908 minutes** · 249 artists · 463 songs
+**556 plays** (+139 vs last week) · **1913 minutes** · 249 artists · 463 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 56 | = |
+| 1 | Drake | 57 | = |
 | 2 | J. Cole | 32 | +11 |
 | 3 | Future | 28 | +4 |
 | 4 | 21 Savage | 27 | +8 |
@@ -26,9 +26,9 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 2 | peter pan. - Brent Faiyaz | 4 | NEW |
 | 3 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 4 | trademark usa - Baby Keem | 3 | NEW |
-| 5 | I Can Love You - Mary J. Blige | 3 | +75 |
-| 6 | Racks 2 Skinny - Migos | 3 | +44 |
-| 7 | Blueslides - ScHoolboy Q | 3 | +186 |
+| 5 | I Can Love You - Mary J. Blige | 3 | +71 |
+| 6 | Racks 2 Skinny - Migos | 3 | +40 |
+| 7 | Blueslides - ScHoolboy Q | 3 | +183 |
 | 8 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
@@ -62,13 +62,13 @@ Late night (12am-5am)  █ 13
 Morning (5am-12pm)     ████████ 82
 Afternoon (12pm-5pm)   ███████████████████ 182
 Evening (5pm-9pm)      ████████████████████ 195
-Night (9pm-12am)       █████████ 83
+Night (9pm-12am)       █████████ 84
 
 Mon                    ███████████ 73
 Tue                    ███████████████ 101
 Wed                    █████████ 64
 Thu                    █████ 33
-Fri                    █████████ 59
+Fri                    █████████ 60
 Sat                    █████████████ 89
 Sun                    ████████████████████ 136
 ```
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - J. Cole: 9 days in a row
 
 ## Eras
-1990s: 22, 2000s: 47, 2010s: 165, 2020s: 321
+1990s: 22, 2000s: 47, 2010s: 166, 2020s: 321
 
 ## How you listen
-Played from: other 485, playlist 68, album 2
+Played from: other 486, playlist 68, album 2
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1519 plays recorded total._
+_Log started 2026-10-26 · 1520 plays recorded total._
