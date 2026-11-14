@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-14T04:01-05:00",
+  "generated_at": "2026-11-14T04:59-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1550,
+  "total_plays_logged": 1565,
   "this_week": {
-    "plays": 586,
-    "minutes": 2036,
-    "unique_tracks": 491,
-    "unique_artists": 259
+    "plays": 601,
+    "minutes": 2092,
+    "unique_tracks": 506,
+    "unique_artists": 268
   },
   "last_week": {
     "plays": 417,
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 71,
+      "plays": 76,
       "last_week_plays": 28,
       "change": "="
     },
@@ -229,6 +229,10 @@
         "plays": 3
       },
       {
+        "name": "Tory Lanez",
+        "plays": 3
+      },
+      {
         "name": "Nicki Minaj",
         "plays": 3
       },
@@ -246,10 +250,6 @@
       },
       {
         "name": "Mariah the Scientist",
-        "plays": 2
-      },
-      {
-        "name": "Fridayy",
         "plays": 2
       }
     ],
@@ -299,7 +299,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 41,
+    "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 82,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 195,
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 117,
+    "Sat": 132,
     "Sun": 136
   },
   "busiest_day": "Sun",
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 23,
-    "2000s": 48,
-    "2010s": 188,
-    "2020s": 327
+    "2000s": 50,
+    "2010s": 199,
+    "2020s": 329
   },
   "listening_style": {
     "played_from": {
-      "other": 516,
+      "other": 531,
       "playlist": 68,
       "album": 2
     },
