@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T16:51-05:00",
+  "generated_at": "2026-11-14T17:51-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1630,
+  "total_plays_logged": 1634,
   "this_week": {
-    "plays": 636,
-    "minutes": 2224,
-    "unique_tracks": 541,
-    "unique_artists": 280
+    "plays": 628,
+    "minutes": 2204,
+    "unique_tracks": 532,
+    "unique_artists": 279
   },
   "last_week": {
     "plays": 407,
-    "minutes": 1349
+    "minutes": 1353
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,64 +70,64 @@
       "rank": 1,
       "name": "Drake",
       "plays": 81,
-      "last_week_plays": 37,
+      "last_week_plays": 39,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 32,
-      "last_week_plays": 14,
+      "plays": 31,
+      "last_week_plays": 15,
       "change": "+8"
     },
     {
       "rank": 3,
       "name": "Gunna",
-      "plays": 27,
-      "last_week_plays": 28,
+      "plays": 26,
+      "last_week_plays": 26,
       "change": "-1"
     },
     {
       "rank": 4,
       "name": "21 Savage",
-      "plays": 27,
-      "last_week_plays": 12,
-      "change": "+9"
+      "plays": 26,
+      "last_week_plays": 13,
+      "change": "+7"
     },
     {
       "rank": 5,
       "name": "Future",
-      "plays": 27,
-      "last_week_plays": 19,
-      "change": "+2"
+      "plays": 25,
+      "last_week_plays": 21,
+      "change": "-1"
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
-      "plays": 23,
-      "last_week_plays": 21,
+      "name": "Westside Gunn",
+      "plays": 22,
+      "last_week_plays": 22,
       "change": "-3"
     },
     {
       "rank": 7,
-      "name": "Westside Gunn",
-      "plays": 23,
-      "last_week_plays": 21,
-      "change": "-3"
+      "name": "Lil Wayne",
+      "plays": 22,
+      "last_week_plays": 6,
+      "change": "+25"
     },
     {
       "rank": 8,
       "name": "Young Thug",
-      "plays": 22,
-      "last_week_plays": 18,
+      "plays": 21,
+      "last_week_plays": 19,
       "change": "="
     },
     {
       "rank": 9,
-      "name": "Lil Wayne",
+      "name": "Lil Baby",
       "plays": 21,
-      "last_week_plays": 6,
-      "change": "+23"
+      "last_week_plays": 20,
+      "change": "-4"
     },
     {
       "rank": 10,
@@ -178,7 +178,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+148"
+      "change": "+138"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+328"
+      "change": "+318"
     },
     {
       "rank": 9,
@@ -217,6 +217,10 @@
         "plays": 5
       },
       {
+        "name": "Nicki Minaj",
+        "plays": 5
+      },
+      {
         "name": "Joeboy",
         "plays": 5
       },
@@ -226,10 +230,6 @@
       },
       {
         "name": "Tory Lanez",
-        "plays": 4
-      },
-      {
-        "name": "Nicki Minaj",
         "plays": 4
       },
       {
@@ -301,8 +301,8 @@
   "time_of_day": {
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
-    "Afternoon (12pm-5pm)": 192,
-    "Evening (5pm-9pm)": 195,
+    "Afternoon (12pm-5pm)": 191,
+    "Evening (5pm-9pm)": 188,
     "Night (9pm-12am)": 86
   },
   "day_of_week": {
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 167,
+    "Sat": 159,
     "Sun": 136
   },
   "busiest_day": "Sat",
@@ -340,12 +340,12 @@
   "release_eras": {
     "1990s": 25,
     "2000s": 55,
-    "2010s": 223,
-    "2020s": 333
+    "2010s": 220,
+    "2020s": 328
   },
   "listening_style": {
     "played_from": {
-      "other": 567,
+      "other": 559,
       "playlist": 68,
       "album": 1
     },
