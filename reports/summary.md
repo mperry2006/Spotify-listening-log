@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 15:53 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 16:51 ET
 
-**636 plays** (+220 vs last week) · **2224 minutes** · 280 artists · 541 songs
+**636 plays** (+229 vs last week) · **2224 minutes** · 280 artists · 541 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
@@ -11,7 +11,7 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 1 | Drake | 81 | = |
 | 2 | J. Cole | 32 | +8 |
 | 3 | Gunna | 27 | -1 |
-| 4 | 21 Savage | 27 | +10 |
+| 4 | 21 Savage | 27 | +9 |
 | 5 | Future | 27 | +2 |
 | 6 | Lil Baby | 23 | -3 |
 | 7 | Westside Gunn | 23 | -3 |
@@ -25,11 +25,11 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | Child's Play (feat. 21 Savage) - Young Nudy | 3 | NEW |
 | 3 | trademark usa - Baby Keem | 3 | NEW |
-| 4 | I Can Love You - Mary J. Blige | 3 | +45 |
+| 4 | I Can Love You - Mary J. Blige | 3 | NEW |
 | 5 | Racks 2 Skinny - Migos | 3 | NEW |
-| 6 | Blueslides - ScHoolboy Q | 3 | +156 |
+| 6 | Blueslides - ScHoolboy Q | 3 | +148 |
 | 7 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 8 | peter pan. - Brent Faiyaz | 3 | +336 |
+| 8 | peter pan. - Brent Faiyaz | 3 | +328 |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 
