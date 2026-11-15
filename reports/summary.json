@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:49-05:00",
+  "generated_at": "2026-11-14T20:26-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1634,
   "this_week": {
-    "plays": 620,
-    "minutes": 2171,
-    "unique_tracks": 526,
-    "unique_artists": 277
+    "plays": 598,
+    "minutes": 2093,
+    "unique_tracks": 509,
+    "unique_artists": 273
   },
   "last_week": {
-    "plays": 402,
-    "minutes": 1348
+    "plays": 396,
+    "minutes": 1339
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,58 +69,58 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 80,
-      "last_week_plays": 40,
+      "plays": 78,
+      "last_week_plays": 41,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 29,
+      "plays": 28,
       "last_week_plays": 17,
-      "change": "+6"
+      "change": "+7"
     },
     {
       "rank": 3,
-      "name": "21 Savage",
-      "plays": 25,
-      "last_week_plays": 13,
-      "change": "+8"
+      "name": "Future",
+      "plays": 23,
+      "last_week_plays": 17,
+      "change": "+5"
     },
     {
       "rank": 4,
       "name": "Gunna",
-      "plays": 25,
-      "last_week_plays": 25,
+      "plays": 22,
+      "last_week_plays": 24,
       "change": "-2"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 23,
-      "last_week_plays": 21,
-      "change": "-1"
+      "name": "21 Savage",
+      "plays": 21,
+      "last_week_plays": 15,
+      "change": "+6"
     },
     {
       "rank": 6,
-      "name": "Lil Wayne",
-      "plays": 22,
-      "last_week_plays": 6,
-      "change": "+25"
+      "name": "Lil Baby",
+      "plays": 21,
+      "last_week_plays": 15,
+      "change": "+4"
     },
     {
       "rank": 7,
-      "name": "Lil Baby",
-      "plays": 21,
-      "last_week_plays": 20,
-      "change": "-2"
-    },
-    {
-      "rank": 8,
       "name": "Conway the Machine",
       "plays": 21,
       "last_week_plays": 17,
-      "change": "+1"
+      "change": "="
+    },
+    {
+      "rank": 8,
+      "name": "Lil Wayne",
+      "plays": 21,
+      "last_week_plays": 7,
+      "change": "+18"
     },
     {
       "rank": 9,
@@ -133,8 +133,8 @@
       "rank": 10,
       "name": "Young Thug",
       "plays": 20,
-      "last_week_plays": 16,
-      "change": "="
+      "last_week_plays": 11,
+      "change": "+6"
     }
   ],
   "top_tracks": [
@@ -178,7 +178,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+127"
+      "change": "+102"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+307"
+      "change": "+287"
     },
     {
       "rank": 9,
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 71,
+    "plays_of_new_tracks_pct": 70,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -302,7 +302,7 @@
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
     "Afternoon (12pm-5pm)": 191,
-    "Evening (5pm-9pm)": 180,
+    "Evening (5pm-9pm)": 158,
     "Night (9pm-12am)": 86
   },
   "day_of_week": {
@@ -311,10 +311,10 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 151,
+    "Sat": 129,
     "Sun": 136
   },
-  "busiest_day": "Sat",
+  "busiest_day": "Sun",
   "streaks": [
     {
       "artist": "Drake",
@@ -338,14 +338,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 25,
-    "2000s": 54,
-    "2010s": 220,
-    "2020s": 321
+    "1990s": 24,
+    "2000s": 49,
+    "2010s": 212,
+    "2020s": 313
   },
   "listening_style": {
     "played_from": {
-      "other": 551,
+      "other": 529,
       "playlist": 68,
       "album": 1
     },
@@ -354,15 +354,15 @@
   "spotify_top_snapshot": {
     "short_term": {
       "artists": [
+        "Drake",
         "Westside Gunn",
         "J. Cole",
-        "Drake",
         "Future",
         "Gunna",
-        "Migos",
         "21 Savage",
-        "Lil Baby",
+        "Migos",
         "Freddie Gibbs",
+        "Lil Baby",
         "Kanye West"
       ]
     },
@@ -386,8 +386,8 @@
         "Drake",
         "Westside Gunn",
         "Future",
-        "Freddie Gibbs",
         "Lil Baby",
+        "Freddie Gibbs",
         "Kendrick Lamar",
         "Benny The Butcher",
         "Young Thug",
