@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-15T10:54-05:00",
+  "generated_at": "2026-11-15T11:55-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1655,
+  "total_plays_logged": 1666,
   "this_week": {
-    "plays": 593,
-    "minutes": 2068,
-    "unique_tracks": 505,
-    "unique_artists": 271
+    "plays": 589,
+    "minutes": 2051,
+    "unique_tracks": 497,
+    "unique_artists": 269
   },
   "last_week": {
-    "plays": 406,
-    "minutes": 1380
+    "plays": 421,
+    "minutes": 1430
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,44 +69,44 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 73,
-      "last_week_plays": 44,
+      "plays": 72,
+      "last_week_plays": 45,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 28,
-      "last_week_plays": 17,
+      "plays": 26,
+      "last_week_plays": 19,
       "change": "+7"
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 22,
-      "last_week_plays": 19,
-      "change": "+3"
+      "name": "Lil Wayne",
+      "plays": 21,
+      "last_week_plays": 7,
+      "change": "+24"
     },
     {
       "rank": 4,
-      "name": "Conway the Machine",
+      "name": "Future",
       "plays": 21,
-      "last_week_plays": 17,
+      "last_week_plays": 20,
       "change": "+4"
     },
     {
       "rank": 5,
       "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 16,
+      "last_week_plays": 17,
       "change": "+5"
     },
     {
       "rank": 6,
-      "name": "Lil Wayne",
-      "plays": 21,
-      "last_week_plays": 7,
-      "change": "+21"
+      "name": "Lil Baby",
+      "plays": 20,
+      "last_week_plays": 15,
+      "change": "+5"
     },
     {
       "rank": 7,
@@ -120,21 +120,21 @@
       "name": "Young Thug",
       "plays": 19,
       "last_week_plays": 8,
-      "change": "+12"
+      "change": "+13"
     },
     {
       "rank": 9,
-      "name": "Lil Baby",
-      "plays": 19,
-      "last_week_plays": 15,
-      "change": "+2"
+      "name": "Conway the Machine",
+      "plays": 18,
+      "last_week_plays": 20,
+      "change": "-3"
     },
     {
       "rank": 10,
-      "name": "Benny The Butcher",
+      "name": "Migos",
       "plays": 18,
-      "last_week_plays": 12,
-      "change": "+5"
+      "last_week_plays": 7,
+      "change": "+15"
     }
   ],
   "top_tracks": [
@@ -147,14 +147,14 @@
     },
     {
       "rank": 2,
-      "name": "Child's Play (feat. 21 Savage) - Young Nudy",
-      "plays": 3,
+      "name": "Racks 2 Skinny - Migos",
+      "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 3,
-      "name": "trademark usa - Baby Keem",
+      "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -168,45 +168,45 @@
     },
     {
       "rank": 5,
-      "name": "Racks 2 Skinny - Migos",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+91"
+      "change": "+94"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "All 70 (feat. Conway) - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+278"
+      "change": "+279"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+202"
+      "change": "+203"
+    },
+    {
+      "rank": 10,
+      "name": "1hunnit - A Boogie Wit da Hoodie",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 69,
+    "plays_of_new_tracks_pct": 68,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -262,19 +262,15 @@
       "plays": 5
     },
     {
-      "track": "Child's Play (feat. 21 Savage) - Young Nudy",
-      "plays": 3
+      "track": "Racks 2 Skinny - Migos",
+      "plays": 4
     },
     {
-      "track": "trademark usa - Baby Keem",
+      "track": "Modern Day - Migos",
       "plays": 3
     },
     {
       "track": "I Can Love You - Mary J. Blige",
-      "plays": 3
-    },
-    {
-      "track": "Racks 2 Skinny - Migos",
       "plays": 3
     },
     {
@@ -296,11 +292,15 @@
     {
       "track": "One Day You'll Be Mine - USHER",
       "plays": 3
+    },
+    {
+      "track": "1hunnit - A Boogie Wit da Hoodie",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 61,
-    "Morning (5am-12pm)": 105,
+    "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 191,
     "Evening (5pm-9pm)": 149,
     "Night (9pm-12am)": 87
@@ -312,7 +312,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 139
+    "Sun": 135
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -321,12 +321,12 @@
       "days": 20
     },
     {
-      "artist": "Metro Boomin",
+      "artist": "21 Savage",
       "days": 11
     },
     {
-      "artist": "21 Savage",
-      "days": 10
+      "artist": "Metro Boomin",
+      "days": 11
     },
     {
       "artist": "J. Cole",
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 24,
-    "2000s": 48,
-    "2010s": 212,
-    "2020s": 309
+    "2000s": 47,
+    "2010s": 210,
+    "2020s": 308
   },
   "listening_style": {
     "played_from": {
-      "other": 518,
+      "other": 514,
       "playlist": 74,
       "album": 1
     },
