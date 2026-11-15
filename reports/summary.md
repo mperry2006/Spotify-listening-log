@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 11:55 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 12:50 ET
 
-**589 plays** (+168 vs last week) · **2051 minutes** · 269 artists · 497 songs
+**580 plays** (+148 vs last week) · **2023 minutes** · 265 artists · 488 songs
 
 _Counting real listens only. 28 skips left out (5% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 28 skips left out (5% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 72 | = |
-| 2 | J. Cole | 26 | +7 |
-| 3 | Lil Wayne | 21 | +24 |
-| 4 | Future | 21 | +4 |
-| 5 | 21 Savage | 21 | +5 |
-| 6 | Lil Baby | 20 | +5 |
-| 7 | Gunna | 20 | -3 |
-| 8 | Young Thug | 19 | +13 |
-| 9 | Conway the Machine | 18 | -3 |
-| 10 | Migos | 18 | +15 |
+| 2 | J. Cole | 25 | +6 |
+| 3 | Lil Wayne | 20 | +19 |
+| 4 | Future | 20 | +1 |
+| 5 | Lil Baby | 20 | +6 |
+| 6 | 21 Savage | 20 | +4 |
+| 7 | Gunna | 20 | +2 |
+| 8 | Young Thug | 19 | +19 |
+| 9 | Migos | 18 | +21 |
+| 10 | The Alchemist | 18 | -3 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -26,15 +26,15 @@ _Counting real listens only. 28 skips left out (5% skip rate)._
 | 2 | Racks 2 Skinny - Migos | 4 | NEW |
 | 3 | Modern Day - Migos | 3 | NEW |
 | 4 | I Can Love You - Mary J. Blige | 3 | NEW |
-| 5 | Blueslides - ScHoolboy Q | 3 | +94 |
+| 5 | Blueslides - ScHoolboy Q | 3 | +93 |
 | 6 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 7 | peter pan. - Brent Faiyaz | 3 | +279 |
+| 7 | peter pan. - Brent Faiyaz | 3 | +278 |
 | 8 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 9 | One Day You'll Be Mine - USHER | 3 | +203 |
+| 9 | One Day You'll Be Mine - USHER | 3 | +201 |
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 
 ## Discovery
-68% of plays were songs not in your log before this week.
+67% of plays were songs not in your log before this week.
 New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (4), Wale (4), Mariah the Scientist (3), Doodie Lo (3), Eve (2), Fridayy (2)
 
 ## On repeat (3+ plays)
@@ -58,19 +58,19 @@ New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (
 
 ## When you listen
 ```
-Late night (12am-5am)  ██████ 61
+Late night (12am-5am)  ███████ 61
 Morning (5am-12pm)     ███████████ 101
-Afternoon (12pm-5pm)   ████████████████████ 191
+Afternoon (12pm-5pm)   ████████████████████ 182
 Evening (5pm-9pm)      ████████████████ 149
-Night (9pm-12am)       █████████ 87
+Night (9pm-12am)       ██████████ 87
 
-Mon                    ███████████ 73
-Tue                    ███████████████ 101
-Wed                    █████████ 64
+Mon                    ████████████ 73
+Tue                    ████████████████ 101
+Wed                    ██████████ 64
 Thu                    █████ 33
-Fri                    █████████ 62
-Sat                    ██████████████████ 121
-Sun                    ████████████████████ 135
+Fri                    ██████████ 62
+Sat                    ███████████████████ 121
+Sun                    ████████████████████ 126
 ```
 
 ## Streaks
@@ -78,13 +78,13 @@ Sun                    ███████████████████
 - 21 Savage: 11 days in a row
 - Metro Boomin: 11 days in a row
 - J. Cole: 10 days in a row
-- The Alchemist: 8 days in a row
+- Kanye West: 9 days in a row
 
 ## Eras
-1990s: 24, 2000s: 47, 2010s: 210, 2020s: 308
+1990s: 25, 2000s: 45, 2010s: 207, 2020s: 303
 
 ## How you listen
-Played from: other 514, playlist 74, album 1
+Played from: other 505, playlist 74, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1666 plays recorded total._
+_Log started 2026-10-26 · 1671 plays recorded total._

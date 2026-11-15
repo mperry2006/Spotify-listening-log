@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-15T11:55-05:00",
+  "generated_at": "2026-11-15T12:50-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1666,
+  "total_plays_logged": 1671,
   "this_week": {
-    "plays": 589,
-    "minutes": 2051,
-    "unique_tracks": 497,
-    "unique_artists": 269
+    "plays": 580,
+    "minutes": 2023,
+    "unique_tracks": 488,
+    "unique_artists": 265
   },
   "last_week": {
-    "plays": 421,
-    "minutes": 1430
+    "plays": 432,
+    "minutes": 1467
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,65 +76,65 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 26,
-      "last_week_plays": 19,
-      "change": "+7"
+      "plays": 25,
+      "last_week_plays": 20,
+      "change": "+6"
     },
     {
       "rank": 3,
       "name": "Lil Wayne",
-      "plays": 21,
-      "last_week_plays": 7,
-      "change": "+24"
+      "plays": 20,
+      "last_week_plays": 8,
+      "change": "+19"
     },
     {
       "rank": 4,
       "name": "Future",
-      "plays": 21,
-      "last_week_plays": 20,
-      "change": "+4"
+      "plays": 20,
+      "last_week_plays": 21,
+      "change": "+1"
     },
     {
       "rank": 5,
-      "name": "21 Savage",
-      "plays": 21,
-      "last_week_plays": 17,
-      "change": "+5"
-    },
-    {
-      "rank": 6,
       "name": "Lil Baby",
       "plays": 20,
       "last_week_plays": 15,
-      "change": "+5"
+      "change": "+6"
+    },
+    {
+      "rank": 6,
+      "name": "21 Savage",
+      "plays": 20,
+      "last_week_plays": 17,
+      "change": "+4"
     },
     {
       "rank": 7,
       "name": "Gunna",
       "plays": 20,
-      "last_week_plays": 20,
-      "change": "-3"
+      "last_week_plays": 19,
+      "change": "+2"
     },
     {
       "rank": 8,
       "name": "Young Thug",
       "plays": 19,
-      "last_week_plays": 8,
-      "change": "+13"
+      "last_week_plays": 7,
+      "change": "+19"
     },
     {
       "rank": 9,
-      "name": "Conway the Machine",
+      "name": "Migos",
       "plays": 18,
-      "last_week_plays": 20,
-      "change": "-3"
+      "last_week_plays": 6,
+      "change": "+21"
     },
     {
       "rank": 10,
-      "name": "Migos",
+      "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 7,
-      "change": "+15"
+      "last_week_plays": 20,
+      "change": "-3"
     }
   ],
   "top_tracks": [
@@ -171,7 +171,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+94"
+      "change": "+93"
     },
     {
       "rank": 6,
@@ -185,7 +185,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+279"
+      "change": "+278"
     },
     {
       "rank": 8,
@@ -199,7 +199,7 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+203"
+      "change": "+201"
     },
     {
       "rank": 10,
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 68,
+    "plays_of_new_tracks_pct": 67,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 191,
+    "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 149,
     "Night (9pm-12am)": 87
   },
@@ -312,7 +312,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 135
+    "Sun": 126
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -333,19 +333,19 @@
       "days": 10
     },
     {
-      "artist": "The Alchemist",
-      "days": 8
+      "artist": "Kanye West",
+      "days": 9
     }
   ],
   "release_eras": {
-    "1990s": 24,
-    "2000s": 47,
-    "2010s": 210,
-    "2020s": 308
+    "1990s": 25,
+    "2000s": 45,
+    "2010s": 207,
+    "2020s": 303
   },
   "listening_style": {
     "played_from": {
-      "other": 514,
+      "other": 505,
       "playlist": 74,
       "album": 1
     },
