@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-07 to 2026-11-14** · updated 2026-11-14 22:01 ET
+**2026-11-07 to 2026-11-14** · updated 2026-11-14 23:09 ET
 
-**584 plays** (+184 vs last week) · **2046 minutes** · 273 artists · 498 songs
+**590 plays** (+191 vs last week) · **2064 minutes** · 273 artists · 503 songs
 
 _Counting real listens only. 26 skips left out (4% skip rate)._
 
@@ -27,11 +27,11 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 | 3 | trademark usa - Baby Keem | 3 | NEW |
 | 4 | I Can Love You - Mary J. Blige | 3 | NEW |
 | 5 | Racks 2 Skinny - Migos | 3 | NEW |
-| 6 | Blueslides - ScHoolboy Q | 3 | +91 |
+| 6 | Blueslides - ScHoolboy Q | 3 | +90 |
 | 7 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 8 | peter pan. - Brent Faiyaz | 3 | +279 |
+| 8 | peter pan. - Brent Faiyaz | 3 | +278 |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 10 | One Day You'll Be Mine - USHER | 3 | +202 |
+| 10 | One Day You'll Be Mine - USHER | 3 | +201 |
 
 ## Discovery
 69% of plays were songs not in your log before this week.
@@ -62,14 +62,14 @@ Late night (12am-5am)  ██████ 56
 Morning (5am-12pm)     ███████████ 107
 Afternoon (12pm-5pm)   ████████████████████ 191
 Evening (5pm-9pm)      ████████████████ 149
-Night (9pm-12am)       ████████ 81
+Night (9pm-12am)       █████████ 87
 
 Mon                    ███████████ 73
 Tue                    ███████████████ 101
 Wed                    █████████ 64
 Thu                    █████ 33
 Fri                    █████████ 62
-Sat                    █████████████████ 115
+Sat                    ██████████████████ 121
 Sun                    ████████████████████ 136
 ```
 
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - The Alchemist: 8 days in a row
 
 ## Eras
-1990s: 25, 2000s: 49, 2010s: 208, 2020s: 302
+1990s: 25, 2000s: 50, 2010s: 209, 2020s: 306
 
 ## How you listen
-Played from: other 514, playlist 69, album 1
+Played from: other 520, playlist 69, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1637 plays recorded total._
+_Log started 2026-10-26 · 1643 plays recorded total._

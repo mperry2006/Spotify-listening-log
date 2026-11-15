@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T22:01-05:00",
+  "generated_at": "2026-11-14T23:09-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1637,
+  "total_plays_logged": 1643,
   "this_week": {
-    "plays": 584,
-    "minutes": 2046,
-    "unique_tracks": 498,
+    "plays": 590,
+    "minutes": 2064,
+    "unique_tracks": 503,
     "unique_artists": 273
   },
   "last_week": {
-    "plays": 400,
-    "minutes": 1355
+    "plays": 399,
+    "minutes": 1353
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -178,7 +178,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+91"
+      "change": "+90"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+279"
+      "change": "+278"
     },
     {
       "rank": 9,
@@ -206,7 +206,7 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+202"
+      "change": "+201"
     }
   ],
   "dropped_off": [],
@@ -303,7 +303,7 @@
     "Morning (5am-12pm)": 107,
     "Afternoon (12pm-5pm)": 191,
     "Evening (5pm-9pm)": 149,
-    "Night (9pm-12am)": 81
+    "Night (9pm-12am)": 87
   },
   "day_of_week": {
     "Mon": 73,
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 115,
+    "Sat": 121,
     "Sun": 136
   },
   "busiest_day": "Sun",
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 49,
-    "2010s": 208,
-    "2020s": 302
+    "2000s": 50,
+    "2010s": 209,
+    "2020s": 306
   },
   "listening_style": {
     "played_from": {
-      "other": 514,
+      "other": 520,
       "playlist": 69,
       "album": 1
     },
