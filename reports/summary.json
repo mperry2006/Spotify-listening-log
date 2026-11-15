@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-15T00:09-05:00",
+  "generated_at": "2026-11-15T01:05-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1643,
+  "total_plays_logged": 1650,
   "this_week": {
-    "plays": 590,
-    "minutes": 2064,
-    "unique_tracks": 503,
-    "unique_artists": 273
+    "plays": 595,
+    "minutes": 2079,
+    "unique_tracks": 507,
+    "unique_artists": 275
   },
   "last_week": {
     "plays": 399,
@@ -19,7 +19,7 @@
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 4,
-    "skipped_plays": 26,
+    "skipped_plays": 28,
     "most_skipped_tracks": [
       {
         "track": "Confession - Babyboy AV",
@@ -82,24 +82,24 @@
     },
     {
       "rank": 3,
-      "name": "Conway the Machine",
-      "plays": 21,
-      "last_week_plays": 17,
-      "change": "+5"
+      "name": "Future",
+      "plays": 22,
+      "last_week_plays": 19,
+      "change": "+3"
     },
     {
       "rank": 4,
-      "name": "21 Savage",
+      "name": "Conway the Machine",
       "plays": 21,
-      "last_week_plays": 16,
-      "change": "+6"
+      "last_week_plays": 17,
+      "change": "+4"
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 19,
-      "change": "+1"
+      "last_week_plays": 16,
+      "change": "+5"
     },
     {
       "rank": 6,
@@ -233,6 +233,10 @@
         "plays": 4
       },
       {
+        "name": "Wale",
+        "plays": 4
+      },
+      {
         "name": "Black Thought",
         "plays": 3
       },
@@ -242,10 +246,6 @@
       },
       {
         "name": "Doodie Lo",
-        "plays": 3
-      },
-      {
-        "name": "Wale",
         "plays": 3
       },
       {
@@ -299,7 +299,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 56,
+    "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 107,
     "Afternoon (12pm-5pm)": 191,
     "Evening (5pm-9pm)": 149,
@@ -312,7 +312,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 136
+    "Sun": 141
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -340,13 +340,13 @@
   "release_eras": {
     "1990s": 25,
     "2000s": 50,
-    "2010s": 209,
-    "2020s": 306
+    "2010s": 210,
+    "2020s": 310
   },
   "listening_style": {
     "played_from": {
-      "other": 520,
-      "playlist": 69,
+      "other": 521,
+      "playlist": 73,
       "album": 1
     },
     "full_album_sessions": 0

@@ -1,18 +1,18 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 00:09 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 01:05 ET
 
-**590 plays** (+191 vs last week) · **2064 minutes** · 273 artists · 503 songs
+**595 plays** (+196 vs last week) · **2079 minutes** · 275 artists · 507 songs
 
-_Counting real listens only. 26 skips left out (4% skip rate)._
+_Counting real listens only. 28 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 73 | = |
 | 2 | J. Cole | 28 | +7 |
-| 3 | Conway the Machine | 21 | +5 |
-| 4 | 21 Savage | 21 | +6 |
-| 5 | Future | 21 | +1 |
+| 3 | Future | 22 | +3 |
+| 4 | Conway the Machine | 21 | +4 |
+| 5 | 21 Savage | 21 | +5 |
 | 6 | Lil Wayne | 21 | +21 |
 | 7 | Gunna | 20 | -3 |
 | 8 | Young Thug | 19 | +11 |
@@ -35,7 +35,7 @@ _Counting real listens only. 26 skips left out (4% skip rate)._
 
 ## Discovery
 69% of plays were songs not in your log before this week.
-New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (4), Black Thought (3), Mariah the Scientist (3), Doodie Lo (3), Wale (3), Danger Mouse (2)
+New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (4), Wale (4), Black Thought (3), Mariah the Scientist (3), Doodie Lo (3), Danger Mouse (2)
 
 ## On repeat (3+ plays)
 - Sip (Alcohol) - Joeboy - 5x
@@ -58,19 +58,19 @@ New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (
 
 ## When you listen
 ```
-Late night (12am-5am)  ██████ 56
+Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ███████████ 107
 Afternoon (12pm-5pm)   ████████████████████ 191
 Evening (5pm-9pm)      ████████████████ 149
 Night (9pm-12am)       █████████ 87
 
-Mon                    ███████████ 73
-Tue                    ███████████████ 101
+Mon                    ██████████ 73
+Tue                    ██████████████ 101
 Wed                    █████████ 64
 Thu                    █████ 33
 Fri                    █████████ 62
-Sat                    ██████████████████ 121
-Sun                    ████████████████████ 136
+Sat                    █████████████████ 121
+Sun                    ████████████████████ 141
 ```
 
 ## Streaks
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - The Alchemist: 8 days in a row
 
 ## Eras
-1990s: 25, 2000s: 50, 2010s: 209, 2020s: 306
+1990s: 25, 2000s: 50, 2010s: 210, 2020s: 310
 
 ## How you listen
-Played from: other 520, playlist 69, album 1
+Played from: other 521, playlist 73, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1643 plays recorded total._
+_Log started 2026-10-26 · 1650 plays recorded total._
