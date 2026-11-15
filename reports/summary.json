@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-14T20:26-05:00",
+  "generated_at": "2026-11-14T22:01-05:00",
   "window": {
     "start": "2026-11-07",
     "end": "2026-11-14"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1634,
+  "total_plays_logged": 1637,
   "this_week": {
-    "plays": 598,
-    "minutes": 2093,
-    "unique_tracks": 509,
+    "plays": 584,
+    "minutes": 2046,
+    "unique_tracks": 498,
     "unique_artists": 273
   },
   "last_week": {
-    "plays": 396,
-    "minutes": 1339
+    "plays": 400,
+    "minutes": 1355
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 78,
-      "last_week_plays": 41,
+      "plays": 73,
+      "last_week_plays": 44,
       "change": "="
     },
     {
@@ -82,59 +82,59 @@
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 23,
+      "name": "Conway the Machine",
+      "plays": 21,
       "last_week_plays": 17,
       "change": "+5"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 22,
-      "last_week_plays": 24,
-      "change": "-2"
+      "name": "21 Savage",
+      "plays": 21,
+      "last_week_plays": 16,
+      "change": "+6"
     },
     {
       "rank": 5,
-      "name": "21 Savage",
+      "name": "Future",
       "plays": 21,
-      "last_week_plays": 15,
-      "change": "+6"
+      "last_week_plays": 19,
+      "change": "+1"
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
-      "plays": 21,
-      "last_week_plays": 15,
-      "change": "+4"
-    },
-    {
-      "rank": 7,
-      "name": "Conway the Machine",
-      "plays": 21,
-      "last_week_plays": 17,
-      "change": "="
-    },
-    {
-      "rank": 8,
       "name": "Lil Wayne",
       "plays": 21,
       "last_week_plays": 7,
-      "change": "+18"
+      "change": "+21"
+    },
+    {
+      "rank": 7,
+      "name": "Gunna",
+      "plays": 20,
+      "last_week_plays": 20,
+      "change": "-3"
+    },
+    {
+      "rank": 8,
+      "name": "Young Thug",
+      "plays": 19,
+      "last_week_plays": 8,
+      "change": "+11"
     },
     {
       "rank": 9,
-      "name": "Westside Gunn",
-      "plays": 20,
-      "last_week_plays": 24,
-      "change": "-6"
+      "name": "Lil Baby",
+      "plays": 19,
+      "last_week_plays": 15,
+      "change": "+2"
     },
     {
       "rank": 10,
-      "name": "Young Thug",
-      "plays": 20,
-      "last_week_plays": 11,
-      "change": "+6"
+      "name": "Benny The Butcher",
+      "plays": 18,
+      "last_week_plays": 12,
+      "change": "+5"
     }
   ],
   "top_tracks": [
@@ -178,7 +178,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+102"
+      "change": "+91"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+287"
+      "change": "+279"
     },
     {
       "rank": 9,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "1hunnit - A Boogie Wit da Hoodie",
+      "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+202"
     }
   ],
   "dropped_off": [],
@@ -237,6 +237,10 @@
         "plays": 3
       },
       {
+        "name": "Mariah the Scientist",
+        "plays": 3
+      },
+      {
         "name": "Doodie Lo",
         "plays": 3
       },
@@ -247,13 +251,9 @@
       {
         "name": "Danger Mouse",
         "plays": 2
-      },
-      {
-        "name": "Eve",
-        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 70,
+    "plays_of_new_tracks_pct": 69,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -294,7 +294,7 @@
       "plays": 3
     },
     {
-      "track": "1hunnit - A Boogie Wit da Hoodie",
+      "track": "One Day You'll Be Mine - USHER",
       "plays": 3
     }
   ],
@@ -302,8 +302,8 @@
     "Late night (12am-5am)": 56,
     "Morning (5am-12pm)": 107,
     "Afternoon (12pm-5pm)": 191,
-    "Evening (5pm-9pm)": 158,
-    "Night (9pm-12am)": 86
+    "Evening (5pm-9pm)": 149,
+    "Night (9pm-12am)": 81
   },
   "day_of_week": {
     "Mon": 73,
@@ -311,7 +311,7 @@
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
-    "Sat": 129,
+    "Sat": 115,
     "Sun": 136
   },
   "busiest_day": "Sun",
@@ -338,15 +338,15 @@
     }
   ],
   "release_eras": {
-    "1990s": 24,
+    "1990s": 25,
     "2000s": 49,
-    "2010s": 212,
-    "2020s": 313
+    "2010s": 208,
+    "2020s": 302
   },
   "listening_style": {
     "played_from": {
-      "other": 529,
-      "playlist": 68,
+      "other": 514,
+      "playlist": 69,
       "album": 1
     },
     "full_album_sessions": 0
