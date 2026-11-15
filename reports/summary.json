@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-15T16:53-05:00",
+  "generated_at": "2026-11-15T17:52-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1699,
+  "total_plays_logged": 1704,
   "this_week": {
-    "plays": 591,
-    "minutes": 2052,
-    "unique_tracks": 498,
-    "unique_artists": 274
+    "plays": 585,
+    "minutes": 2031,
+    "unique_tracks": 493,
+    "unique_artists": 272
   },
   "last_week": {
-    "plays": 425,
-    "minutes": 1457
+    "plays": 427,
+    "minutes": 1465
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 5,
-    "skipped_plays": 28,
+    "skip_rate_pct": 4,
+    "skipped_plays": 27,
     "most_skipped_tracks": [
       {
         "track": "Confession - Babyboy AV",
@@ -38,7 +38,7 @@
         "skips": 2
       },
       {
-        "track": "The Lightning Above The Adriatic Sea - Conway the Machine",
+        "track": "Reminisce - Mary J. Blige",
         "skips": 1
       }
     ],
@@ -60,7 +60,7 @@
         "skips": 2
       },
       {
-        "artist": "Conway the Machine",
+        "artist": "Mary J. Blige",
         "skips": 1
       }
     ]
@@ -78,62 +78,62 @@
       "name": "J. Cole",
       "plays": 25,
       "last_week_plays": 20,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 3,
-      "name": "Lil Wayne",
+      "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 8,
-      "change": "+18"
+      "last_week_plays": 16,
+      "change": "+7"
     },
     {
       "rank": 4,
-      "name": "Future",
+      "name": "Gunna",
       "plays": 21,
-      "last_week_plays": 21,
-      "change": "="
+      "last_week_plays": 18,
+      "change": "+4"
     },
     {
       "rank": 5,
       "name": "Lil Baby",
       "plays": 20,
-      "last_week_plays": 13,
+      "last_week_plays": 12,
       "change": "+9"
     },
     {
       "rank": 6,
-      "name": "21 Savage",
+      "name": "Lil Wayne",
       "plays": 20,
-      "last_week_plays": 17,
-      "change": "+4"
+      "last_week_plays": 9,
+      "change": "+12"
     },
     {
       "rank": 7,
-      "name": "Gunna",
+      "name": "Future",
       "plays": 20,
-      "last_week_plays": 18,
-      "change": "+2"
+      "last_week_plays": 22,
+      "change": "-3"
     },
     {
       "rank": 8,
       "name": "Young Thug",
       "plays": 19,
       "last_week_plays": 7,
-      "change": "+18"
+      "change": "+19"
     },
     {
       "rank": 9,
-      "name": "Conway the Machine",
+      "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 20,
-      "change": "-3"
+      "last_week_plays": 19,
+      "change": "-2"
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 20,
+      "name": "Conway the Machine",
+      "plays": 17,
+      "last_week_plays": 21,
       "change": "-5"
     }
   ],
@@ -147,31 +147,31 @@
     },
     {
       "rank": 2,
-      "name": "Racks 2 Skinny - Migos",
-      "plays": 4,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 3,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+73"
+      "change": "+68"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "All 70 (feat. Conway) - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+261"
+      "change": "+253"
+    },
+    {
+      "rank": 5,
+      "name": "Racks 2 Skinny - Migos",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+375"
     },
     {
       "rank": 6,
@@ -185,7 +185,7 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+184"
+      "change": "+176"
     },
     {
       "rank": 8,
@@ -262,10 +262,6 @@
       "plays": 5
     },
     {
-      "track": "Racks 2 Skinny - Migos",
-      "plays": 4
-    },
-    {
       "track": "Blueslides - ScHoolboy Q",
       "plays": 3
     },
@@ -275,6 +271,10 @@
     },
     {
       "track": "peter pan. - Brent Faiyaz",
+      "plays": 3
+    },
+    {
+      "track": "Racks 2 Skinny - Migos",
       "plays": 3
     },
     {
@@ -301,8 +301,8 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 193,
-    "Evening (5pm-9pm)": 149,
+    "Afternoon (12pm-5pm)": 192,
+    "Evening (5pm-9pm)": 144,
     "Night (9pm-12am)": 87
   },
   "day_of_week": {
@@ -312,7 +312,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 137
+    "Sun": 131
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1990s": 23,
-    "2000s": 45,
+    "2000s": 44,
     "2010s": 207,
-    "2020s": 316
+    "2020s": 311
   },
   "listening_style": {
     "played_from": {
-      "other": 511,
-      "playlist": 80
+      "other": 504,
+      "playlist": 81
     },
     "full_album_sessions": 0
   },

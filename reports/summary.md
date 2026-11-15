@@ -1,34 +1,34 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 16:53 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 17:52 ET
 
-**591 plays** (+166 vs last week) · **2052 minutes** · 274 artists · 498 songs
+**585 plays** (+158 vs last week) · **2031 minutes** · 272 artists · 493 songs
 
-_Counting real listens only. 28 skips left out (5% skip rate)._
+_Counting real listens only. 27 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 72 | = |
-| 2 | J. Cole | 25 | +5 |
-| 3 | Lil Wayne | 21 | +18 |
-| 4 | Future | 21 | = |
+| 2 | J. Cole | 25 | +4 |
+| 3 | 21 Savage | 21 | +7 |
+| 4 | Gunna | 21 | +4 |
 | 5 | Lil Baby | 20 | +9 |
-| 6 | 21 Savage | 20 | +4 |
-| 7 | Gunna | 20 | +2 |
-| 8 | Young Thug | 19 | +18 |
-| 9 | Conway the Machine | 18 | -3 |
-| 10 | The Alchemist | 18 | -5 |
+| 6 | Lil Wayne | 20 | +12 |
+| 7 | Future | 20 | -3 |
+| 8 | Young Thug | 19 | +19 |
+| 9 | The Alchemist | 18 | -2 |
+| 10 | Conway the Machine | 17 | -5 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
-| 2 | Racks 2 Skinny - Migos | 4 | NEW |
-| 3 | Blueslides - ScHoolboy Q | 3 | +73 |
-| 4 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 5 | peter pan. - Brent Faiyaz | 3 | +261 |
+| 2 | Blueslides - ScHoolboy Q | 3 | +68 |
+| 3 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
+| 4 | peter pan. - Brent Faiyaz | 3 | +253 |
+| 5 | Racks 2 Skinny - Migos | 3 | +375 |
 | 6 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 7 | One Day You'll Be Mine - USHER | 3 | +184 |
+| 7 | One Day You'll Be Mine - USHER | 3 | +176 |
 | 8 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 | 9 | FEM - Davido | 3 | NEW |
 | 10 | Pallbearers - Rylo Rodriguez | 3 | NEW |
@@ -39,10 +39,10 @@ New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (
 
 ## On repeat (3+ plays)
 - Sip (Alcohol) - Joeboy - 5x
-- Racks 2 Skinny - Migos - 4x
 - Blueslides - ScHoolboy Q - 3x
 - All 70 (feat. Conway) - Benny The Butcher - 3x
 - peter pan. - Brent Faiyaz - 3x
+- Racks 2 Skinny - Migos - 3x
 - Won't Be Late (feat. Drake) - Swae Lee - 3x
 - One Day You'll Be Mine - USHER - 3x
 - 1hunnit - A Boogie Wit da Hoodie - 3x
@@ -54,23 +54,23 @@ New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (
 - Point and Kill - Little Simz - skipped 4x
 - Won't Be Late (feat. Drake) - Swae Lee - skipped 3x
 - Commas - Ayra Starr - skipped 2x
-- The Lightning Above The Adriatic Sea - Conway the Machine - skipped 1x
+- Reminisce - Mary J. Blige - skipped 1x
 
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 61
-Morning (5am-12pm)     ██████████ 101
-Afternoon (12pm-5pm)   ████████████████████ 193
-Evening (5pm-9pm)      ███████████████ 149
+Morning (5am-12pm)     ███████████ 101
+Afternoon (12pm-5pm)   ████████████████████ 192
+Evening (5pm-9pm)      ███████████████ 144
 Night (9pm-12am)       █████████ 87
 
 Mon                    ███████████ 73
 Tue                    ███████████████ 101
-Wed                    █████████ 64
+Wed                    ██████████ 64
 Thu                    █████ 33
 Fri                    █████████ 62
 Sat                    ██████████████████ 121
-Sun                    ████████████████████ 137
+Sun                    ████████████████████ 131
 ```
 
 ## Streaks
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - Westside Gunn: 9 days in a row
 
 ## Eras
-1990s: 23, 2000s: 45, 2010s: 207, 2020s: 316
+1990s: 23, 2000s: 44, 2010s: 207, 2020s: 311
 
 ## How you listen
-Played from: other 511, playlist 80
+Played from: other 504, playlist 81
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1699 plays recorded total._
+_Log started 2026-10-26 · 1704 plays recorded total._
