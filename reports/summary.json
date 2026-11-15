@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-15T14:01-05:00",
+  "generated_at": "2026-11-15T14:55-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1672,
+  "total_plays_logged": 1683,
   "this_week": {
-    "plays": 579,
-    "minutes": 2016,
-    "unique_tracks": 487,
-    "unique_artists": 266
+    "plays": 583,
+    "minutes": 2029,
+    "unique_tracks": 489,
+    "unique_artists": 267
   },
   "last_week": {
-    "plays": 433,
-    "minutes": 1474
+    "plays": 435,
+    "minutes": 1480
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -92,7 +92,7 @@
       "name": "Future",
       "plays": 20,
       "last_week_plays": 21,
-      "change": "+1"
+      "change": "+2"
     },
     {
       "rank": 5,
@@ -120,14 +120,14 @@
       "name": "Young Thug",
       "plays": 19,
       "last_week_plays": 7,
-      "change": "+19"
+      "change": "+20"
     },
     {
       "rank": 9,
-      "name": "Migos",
+      "name": "Conway the Machine",
       "plays": 18,
-      "last_week_plays": 6,
-      "change": "+21"
+      "last_week_plays": 21,
+      "change": "-4"
     },
     {
       "rank": 10,
@@ -154,56 +154,56 @@
     },
     {
       "rank": 3,
-      "name": "Modern Day - Migos",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "I Can Love You - Mary J. Blige",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+92"
+      "change": "+88"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "All 70 (feat. Conway) - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+277"
+      "change": "+273"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+200"
+      "change": "+196"
+    },
+    {
+      "rank": 9,
+      "name": "1hunnit - A Boogie Wit da Hoodie",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "1hunnit - A Boogie Wit da Hoodie",
+      "name": "FEM - Davido",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -245,12 +245,12 @@
         "plays": 3
       },
       {
-        "name": "Eve",
-        "plays": 2
+        "name": "Rema",
+        "plays": 3
       },
       {
-        "name": "Fridayy",
-        "plays": 2
+        "name": "Little Simz",
+        "plays": 3
       }
     ],
     "plays_of_new_tracks_pct": 67,
@@ -264,10 +264,6 @@
     {
       "track": "Racks 2 Skinny - Migos",
       "plays": 4
-    },
-    {
-      "track": "Modern Day - Migos",
-      "plays": 3
     },
     {
       "track": "I Can Love You - Mary J. Blige",
@@ -296,12 +292,16 @@
     {
       "track": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3
+    },
+    {
+      "track": "FEM - Davido",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 181,
+    "Afternoon (12pm-5pm)": 185,
     "Evening (5pm-9pm)": 149,
     "Night (9pm-12am)": 87
   },
@@ -312,7 +312,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 125
+    "Sun": 129
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -333,21 +333,20 @@
       "days": 10
     },
     {
-      "artist": "Kanye West",
+      "artist": "Westside Gunn",
       "days": 9
     }
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 44,
+    "2000s": 42,
     "2010s": 207,
-    "2020s": 303
+    "2020s": 309
   },
   "listening_style": {
     "played_from": {
-      "other": 504,
-      "playlist": 74,
-      "album": 1
+      "other": 508,
+      "playlist": 75
     },
     "full_album_sessions": 0
   },
