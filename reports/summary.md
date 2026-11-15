@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 14:55 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 15:53 ET
 
-**583 plays** (+148 vs last week) · **2029 minutes** · 267 artists · 489 songs
+**586 plays** (+152 vs last week) · **2032 minutes** · 268 artists · 492 songs
 
 _Counting real listens only. 28 skips left out (5% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 28 skips left out (5% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 71 | = |
-| 2 | J. Cole | 25 | +6 |
+| 2 | J. Cole | 25 | +5 |
 | 3 | Lil Wayne | 20 | +19 |
-| 4 | Future | 20 | +2 |
+| 4 | Future | 20 | +1 |
 | 5 | Lil Baby | 20 | +6 |
 | 6 | 21 Savage | 20 | +4 |
-| 7 | Gunna | 20 | +2 |
+| 7 | Gunna | 20 | +1 |
 | 8 | Young Thug | 19 | +20 |
-| 9 | Conway the Machine | 18 | -4 |
-| 10 | The Alchemist | 18 | -3 |
+| 9 | Conway the Machine | 18 | -5 |
+| 10 | The Alchemist | 18 | -4 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -25,11 +25,11 @@ _Counting real listens only. 28 skips left out (5% skip rate)._
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | Racks 2 Skinny - Migos | 4 | NEW |
 | 3 | I Can Love You - Mary J. Blige | 3 | NEW |
-| 4 | Blueslides - ScHoolboy Q | 3 | +88 |
+| 4 | Blueslides - ScHoolboy Q | 3 | +82 |
 | 5 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 6 | peter pan. - Brent Faiyaz | 3 | +273 |
+| 6 | peter pan. - Brent Faiyaz | 3 | +268 |
 | 7 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 8 | One Day You'll Be Mine - USHER | 3 | +196 |
+| 8 | One Day You'll Be Mine - USHER | 3 | +191 |
 | 9 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 | 10 | FEM - Davido | 3 | NEW |
 
@@ -58,19 +58,19 @@ New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (
 
 ## When you listen
 ```
-Late night (12am-5am)  ███████ 61
+Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ███████████ 101
-Afternoon (12pm-5pm)   ████████████████████ 185
+Afternoon (12pm-5pm)   ████████████████████ 188
 Evening (5pm-9pm)      ████████████████ 149
 Night (9pm-12am)       █████████ 87
 
 Mon                    ███████████ 73
-Tue                    ████████████████ 101
+Tue                    ███████████████ 101
 Wed                    ██████████ 64
 Thu                    █████ 33
-Fri                    ██████████ 62
-Sat                    ███████████████████ 121
-Sun                    ████████████████████ 129
+Fri                    █████████ 62
+Sat                    ██████████████████ 121
+Sun                    ████████████████████ 132
 ```
 
 ## Streaks
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - Westside Gunn: 9 days in a row
 
 ## Eras
-1990s: 25, 2000s: 42, 2010s: 207, 2020s: 309
+1990s: 25, 2000s: 43, 2010s: 206, 2020s: 312
 
 ## How you listen
-Played from: other 508, playlist 75
+Played from: other 513, playlist 73
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1683 plays recorded total._
+_Log started 2026-10-26 · 1691 plays recorded total._

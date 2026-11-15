@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-15T14:55-05:00",
+  "generated_at": "2026-11-15T15:53-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1683,
+  "total_plays_logged": 1691,
   "this_week": {
-    "plays": 583,
-    "minutes": 2029,
-    "unique_tracks": 489,
-    "unique_artists": 267
+    "plays": 586,
+    "minutes": 2032,
+    "unique_tracks": 492,
+    "unique_artists": 268
   },
   "last_week": {
-    "plays": 435,
-    "minutes": 1480
+    "plays": 434,
+    "minutes": 1479
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -78,7 +78,7 @@
       "name": "J. Cole",
       "plays": 25,
       "last_week_plays": 20,
-      "change": "+6"
+      "change": "+5"
     },
     {
       "rank": 3,
@@ -92,7 +92,7 @@
       "name": "Future",
       "plays": 20,
       "last_week_plays": 21,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 5,
@@ -113,7 +113,7 @@
       "name": "Gunna",
       "plays": 20,
       "last_week_plays": 19,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 8,
@@ -127,14 +127,14 @@
       "name": "Conway the Machine",
       "plays": 18,
       "last_week_plays": 21,
-      "change": "-4"
+      "change": "-5"
     },
     {
       "rank": 10,
       "name": "The Alchemist",
       "plays": 18,
       "last_week_plays": 20,
-      "change": "-3"
+      "change": "-4"
     }
   ],
   "top_tracks": [
@@ -164,7 +164,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+88"
+      "change": "+82"
     },
     {
       "rank": 5,
@@ -178,7 +178,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+273"
+      "change": "+268"
     },
     {
       "rank": 7,
@@ -192,7 +192,7 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+196"
+      "change": "+191"
     },
     {
       "rank": 9,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 185,
+    "Afternoon (12pm-5pm)": 188,
     "Evening (5pm-9pm)": 149,
     "Night (9pm-12am)": 87
   },
@@ -312,7 +312,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 129
+    "Sun": 132
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 42,
-    "2010s": 207,
-    "2020s": 309
+    "2000s": 43,
+    "2010s": 206,
+    "2020s": 312
   },
   "listening_style": {
     "played_from": {
-      "other": 508,
-      "playlist": 75
+      "other": 513,
+      "playlist": 73
     },
     "full_album_sessions": 0
   },
