@@ -1,9 +1,9 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 09:56 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 10:54 ET
 
-**595 plays** (+196 vs last week) · **2079 minutes** · 275 artists · 507 songs
+**593 plays** (+187 vs last week) · **2068 minutes** · 271 artists · 505 songs
 
-_Counting real listens only. 28 skips left out (4% skip rate)._
+_Counting real listens only. 28 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
@@ -15,7 +15,7 @@ _Counting real listens only. 28 skips left out (4% skip rate)._
 | 5 | 21 Savage | 21 | +5 |
 | 6 | Lil Wayne | 21 | +21 |
 | 7 | Gunna | 20 | -3 |
-| 8 | Young Thug | 19 | +11 |
+| 8 | Young Thug | 19 | +12 |
 | 9 | Lil Baby | 19 | +2 |
 | 10 | Benny The Butcher | 18 | +5 |
 
@@ -27,15 +27,15 @@ _Counting real listens only. 28 skips left out (4% skip rate)._
 | 3 | trademark usa - Baby Keem | 3 | NEW |
 | 4 | I Can Love You - Mary J. Blige | 3 | NEW |
 | 5 | Racks 2 Skinny - Migos | 3 | NEW |
-| 6 | Blueslides - ScHoolboy Q | 3 | +90 |
+| 6 | Blueslides - ScHoolboy Q | 3 | +91 |
 | 7 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
 | 8 | peter pan. - Brent Faiyaz | 3 | +278 |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 10 | One Day You'll Be Mine - USHER | 3 | +201 |
+| 10 | One Day You'll Be Mine - USHER | 3 | +202 |
 
 ## Discovery
 69% of plays were songs not in your log before this week.
-New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (4), Wale (4), Black Thought (3), Mariah the Scientist (3), Doodie Lo (3), Danger Mouse (2)
+New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (4), Wale (4), Mariah the Scientist (3), Doodie Lo (3), Eve (2), Fridayy (2)
 
 ## On repeat (3+ plays)
 - Sip (Alcohol) - Joeboy - 5x
@@ -59,32 +59,32 @@ New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 61
-Morning (5am-12pm)     ███████████ 107
+Morning (5am-12pm)     ███████████ 105
 Afternoon (12pm-5pm)   ████████████████████ 191
 Evening (5pm-9pm)      ████████████████ 149
 Night (9pm-12am)       █████████ 87
 
-Mon                    ██████████ 73
-Tue                    ██████████████ 101
+Mon                    ███████████ 73
+Tue                    ███████████████ 101
 Wed                    █████████ 64
 Thu                    █████ 33
 Fri                    █████████ 62
 Sat                    █████████████████ 121
-Sun                    ████████████████████ 141
+Sun                    ████████████████████ 139
 ```
 
 ## Streaks
 - Drake: 20 days in a row
+- Metro Boomin: 11 days in a row
 - 21 Savage: 10 days in a row
-- Metro Boomin: 10 days in a row
 - J. Cole: 10 days in a row
 - The Alchemist: 8 days in a row
 
 ## Eras
-1990s: 25, 2000s: 50, 2010s: 210, 2020s: 310
+1990s: 24, 2000s: 48, 2010s: 212, 2020s: 309
 
 ## How you listen
-Played from: other 521, playlist 73, album 1
+Played from: other 518, playlist 74, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1650 plays recorded total._
+_Log started 2026-10-26 · 1655 plays recorded total._
