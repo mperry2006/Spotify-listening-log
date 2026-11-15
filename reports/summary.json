@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-15T12:50-05:00",
+  "generated_at": "2026-11-15T14:01-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1671,
+  "total_plays_logged": 1672,
   "this_week": {
-    "plays": 580,
-    "minutes": 2023,
-    "unique_tracks": 488,
-    "unique_artists": 265
+    "plays": 579,
+    "minutes": 2016,
+    "unique_tracks": 487,
+    "unique_artists": 266
   },
   "last_week": {
-    "plays": 432,
-    "minutes": 1467
+    "plays": 433,
+    "minutes": 1474
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 72,
-      "last_week_plays": 45,
+      "plays": 71,
+      "last_week_plays": 46,
       "change": "="
     },
     {
@@ -171,7 +171,7 @@
       "name": "Blueslides - ScHoolboy Q",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+93"
+      "change": "+92"
     },
     {
       "rank": 6,
@@ -185,7 +185,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+278"
+      "change": "+277"
     },
     {
       "rank": 8,
@@ -199,7 +199,7 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+201"
+      "change": "+200"
     },
     {
       "rank": 10,
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 182,
+    "Afternoon (12pm-5pm)": 181,
     "Evening (5pm-9pm)": 149,
     "Night (9pm-12am)": 87
   },
@@ -312,7 +312,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 126
+    "Sun": 125
   },
   "busiest_day": "Sun",
   "streaks": [
@@ -339,13 +339,13 @@
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 45,
+    "2000s": 44,
     "2010s": 207,
     "2020s": 303
   },
   "listening_style": {
     "played_from": {
-      "other": 505,
+      "other": 504,
       "playlist": 74,
       "album": 1
     },

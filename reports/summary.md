@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 12:50 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 14:01 ET
 
-**580 plays** (+148 vs last week) · **2023 minutes** · 265 artists · 488 songs
+**579 plays** (+146 vs last week) · **2016 minutes** · 266 artists · 487 songs
 
 _Counting real listens only. 28 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 72 | = |
+| 1 | Drake | 71 | = |
 | 2 | J. Cole | 25 | +6 |
 | 3 | Lil Wayne | 20 | +19 |
 | 4 | Future | 20 | +1 |
@@ -26,11 +26,11 @@ _Counting real listens only. 28 skips left out (5% skip rate)._
 | 2 | Racks 2 Skinny - Migos | 4 | NEW |
 | 3 | Modern Day - Migos | 3 | NEW |
 | 4 | I Can Love You - Mary J. Blige | 3 | NEW |
-| 5 | Blueslides - ScHoolboy Q | 3 | +93 |
+| 5 | Blueslides - ScHoolboy Q | 3 | +92 |
 | 6 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 7 | peter pan. - Brent Faiyaz | 3 | +278 |
+| 7 | peter pan. - Brent Faiyaz | 3 | +277 |
 | 8 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 9 | One Day You'll Be Mine - USHER | 3 | +201 |
+| 9 | One Day You'll Be Mine - USHER | 3 | +200 |
 | 10 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 
 ## Discovery
@@ -60,7 +60,7 @@ New artists: Swae Lee (5), Nicki Minaj (5), Joeboy (5), Davido (5), Tory Lanez (
 ```
 Late night (12am-5am)  ███████ 61
 Morning (5am-12pm)     ███████████ 101
-Afternoon (12pm-5pm)   ████████████████████ 182
+Afternoon (12pm-5pm)   ████████████████████ 181
 Evening (5pm-9pm)      ████████████████ 149
 Night (9pm-12am)       ██████████ 87
 
@@ -70,7 +70,7 @@ Wed                    ██████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ███████████████████ 121
-Sun                    ████████████████████ 126
+Sun                    ████████████████████ 125
 ```
 
 ## Streaks
@@ -81,10 +81,10 @@ Sun                    ███████████████████
 - Kanye West: 9 days in a row
 
 ## Eras
-1990s: 25, 2000s: 45, 2010s: 207, 2020s: 303
+1990s: 25, 2000s: 44, 2010s: 207, 2020s: 303
 
 ## How you listen
-Played from: other 505, playlist 74, album 1
+Played from: other 504, playlist 74, album 1
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1671 plays recorded total._
+_Log started 2026-10-26 · 1672 plays recorded total._
