@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-16T15:11-05:00",
+  "generated_at": "2026-11-16T16:02-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1767,
+  "total_plays_logged": 1780,
   "this_week": {
-    "plays": 529,
-    "minutes": 1844,
-    "unique_tracks": 464,
-    "unique_artists": 254
+    "plays": 535,
+    "minutes": 1867,
+    "unique_tracks": 468,
+    "unique_artists": 251
   },
   "last_week": {
-    "plays": 516,
+    "plays": 517,
     "minutes": 1763
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
@@ -69,16 +69,16 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 67,
+      "plays": 68,
       "last_week_plays": 52,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 25,
+      "plays": 28,
       "last_week_plays": 25,
-      "change": "+4"
+      "change": "+3"
     },
     {
       "rank": 3,
@@ -99,42 +99,42 @@
       "name": "Lil Wayne",
       "plays": 20,
       "last_week_plays": 9,
-      "change": "+21"
+      "change": "+20"
     },
     {
       "rank": 6,
-      "name": "Young Thug",
+      "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 10,
-      "change": "+14"
+      "last_week_plays": 18,
+      "change": "+3"
     },
     {
       "rank": 7,
-      "name": "The Alchemist",
-      "plays": 17,
-      "last_week_plays": 19,
-      "change": "+1"
+      "name": "Young Thug",
+      "plays": 18,
+      "last_week_plays": 10,
+      "change": "+13"
     },
     {
       "rank": 8,
-      "name": "Kendrick Lamar",
-      "plays": 15,
-      "last_week_plays": 7,
-      "change": "+19"
+      "name": "Future",
+      "plays": 16,
+      "last_week_plays": 27,
+      "change": "-5"
     },
     {
       "rank": 9,
-      "name": "Future",
+      "name": "Lil Baby",
       "plays": 15,
-      "last_week_plays": 27,
-      "change": "-6"
+      "last_week_plays": 19,
+      "change": "-1"
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
-      "plays": 14,
-      "last_week_plays": 14,
-      "change": "+4"
+      "name": "Benny The Butcher",
+      "plays": 15,
+      "last_week_plays": 16,
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -182,28 +182,28 @@
     },
     {
       "rank": 7,
-      "name": "Sky - Playboi Carti",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 8,
       "name": "New Thangs - Curren$y",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Diamonds - Conway the Machine",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "STREET SWEEPER (feat. Future) - Gunna",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "The Realest (feat. Jeezy) - EST Gee",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -217,10 +217,6 @@
         "plays": 6
       },
       {
-        "name": "Tory Lanez",
-        "plays": 5
-      },
-      {
         "name": "Nicki Minaj",
         "plays": 5
       },
@@ -231,6 +227,10 @@
       {
         "name": "Wale",
         "plays": 4
+      },
+      {
+        "name": "Cozz",
+        "plays": 3
       },
       {
         "name": "Doodie Lo",
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 64,
+    "plays_of_new_tracks_pct": 63,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -285,12 +285,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 106,
-    "Afternoon (12pm-5pm)": 189,
+    "Afternoon (12pm-5pm)": 195,
     "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 61
   },
   "day_of_week": {
-    "Mon": 75,
+    "Mon": 81,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -313,23 +313,23 @@
       "days": 12
     },
     {
-      "artist": "Westside Gunn",
+      "artist": "The Alchemist",
       "days": 10
     },
     {
-      "artist": "Kanye West",
+      "artist": "Westside Gunn",
       "days": 10
     }
   ],
   "release_eras": {
     "1990s": 23,
-    "2000s": 40,
-    "2010s": 188,
-    "2020s": 278
+    "2000s": 41,
+    "2010s": 190,
+    "2020s": 281
   },
   "listening_style": {
     "played_from": {
-      "other": 441,
+      "other": 447,
       "playlist": 88
     },
     "full_album_sessions": 0
