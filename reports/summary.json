@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T14:14-05:00",
+  "generated_at": "2026-11-16T15:11-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1758,
+  "total_plays_logged": 1767,
   "this_week": {
-    "plays": 537,
-    "minutes": 1865,
-    "unique_tracks": 472,
-    "unique_artists": 255
+    "plays": 529,
+    "minutes": 1844,
+    "unique_tracks": 464,
+    "unique_artists": 254
   },
   "last_week": {
-    "plays": 505,
-    "minutes": 1727
+    "plays": 516,
+    "minutes": 1763
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,15 +69,15 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 66,
+      "plays": 67,
       "last_week_plays": 52,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 27,
-      "last_week_plays": 22,
+      "plays": 25,
+      "last_week_plays": 25,
       "change": "+4"
     },
     {
@@ -85,56 +85,56 @@
       "name": "Gunna",
       "plays": 23,
       "last_week_plays": 17,
-      "change": "+10"
+      "change": "+9"
     },
     {
       "rank": 4,
       "name": "21 Savage",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 21,
       "change": "+3"
     },
     {
       "rank": 5,
       "name": "Lil Wayne",
-      "plays": 19,
+      "plays": 20,
       "last_week_plays": 9,
-      "change": "+19"
+      "change": "+21"
     },
     {
       "rank": 6,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 18,
-      "change": "+3"
-    },
-    {
-      "rank": 7,
       "name": "Young Thug",
       "plays": 18,
       "last_week_plays": 10,
-      "change": "+13"
+      "change": "+14"
+    },
+    {
+      "rank": 7,
+      "name": "The Alchemist",
+      "plays": 17,
+      "last_week_plays": 19,
+      "change": "+1"
     },
     {
       "rank": 8,
       "name": "Kendrick Lamar",
-      "plays": 16,
-      "last_week_plays": 5,
-      "change": "+30"
+      "plays": 15,
+      "last_week_plays": 7,
+      "change": "+19"
     },
     {
       "rank": 9,
-      "name": "Lil Baby",
-      "plays": 16,
-      "last_week_plays": 17,
-      "change": "+1"
+      "name": "Future",
+      "plays": 15,
+      "last_week_plays": 27,
+      "change": "-6"
     },
     {
       "rank": 10,
-      "name": "Westside Gunn",
-      "plays": 15,
-      "last_week_plays": 30,
-      "change": "-8"
+      "name": "Travis Scott",
+      "plays": 14,
+      "last_week_plays": 14,
+      "change": "+4"
     }
   ],
   "top_tracks": [
@@ -182,28 +182,28 @@
     },
     {
       "rank": 7,
-      "name": "LOYALTY. FEAT. RIHANNA. - Kendrick Lamar",
+      "name": "Sky - Playboi Carti",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Tha Last 1 dec2 - EST Gee",
+      "name": "New Thangs - Curren$y",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Dead Presidents II - J. Cole",
+      "name": "Diamonds - Conway the Machine",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Sky - Playboi Carti",
+      "name": "STREET SWEEPER (feat. Future) - Gunna",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -285,12 +285,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 106,
-    "Afternoon (12pm-5pm)": 197,
+    "Afternoon (12pm-5pm)": 189,
     "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 61
   },
   "day_of_week": {
-    "Mon": 83,
+    "Mon": 75,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -317,19 +317,19 @@
       "days": 10
     },
     {
-      "artist": "The Alchemist",
-      "days": 9
+      "artist": "Kanye West",
+      "days": 10
     }
   ],
   "release_eras": {
     "1990s": 23,
-    "2000s": 41,
-    "2010s": 192,
-    "2020s": 281
+    "2000s": 40,
+    "2010s": 188,
+    "2020s": 278
   },
   "listening_style": {
     "played_from": {
-      "other": 449,
+      "other": 441,
       "playlist": 88
     },
     "full_album_sessions": 0
