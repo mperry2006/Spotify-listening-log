@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-16T17:02-05:00",
+  "generated_at": "2026-11-16T18:00-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1796,
+  "total_plays_logged": 1804,
   "this_week": {
-    "plays": 551,
-    "minutes": 1919,
-    "unique_tracks": 482,
-    "unique_artists": 254
+    "plays": 559,
+    "minutes": 1949,
+    "unique_tracks": 489,
+    "unique_artists": 256
   },
   "last_week": {
     "plays": 515,
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 68,
+      "plays": 71,
       "last_week_plays": 52,
       "change": "="
     },
@@ -97,14 +97,14 @@
     {
       "rank": 5,
       "name": "The Alchemist",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 17,
       "change": "+7"
     },
     {
       "rank": 6,
       "name": "Lil Wayne",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 9,
       "change": "+19"
     },
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "Future",
-      "plays": 16,
-      "last_week_plays": 27,
-      "change": "-6"
+      "name": "Benny The Butcher",
+      "plays": 17,
+      "last_week_plays": 15,
+      "change": "+5"
     },
     {
       "rank": 10,
-      "name": "Kendrick Lamar",
-      "plays": 15,
-      "last_week_plays": 8,
-      "change": "+16"
+      "name": "Future",
+      "plays": 16,
+      "last_week_plays": 27,
+      "change": "-7"
     }
   ],
   "top_tracks": [
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 63,
+    "plays_of_new_tracks_pct": 64,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -286,11 +286,11 @@
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 106,
     "Afternoon (12pm-5pm)": 211,
-    "Evening (5pm-9pm)": 112,
+    "Evening (5pm-9pm)": 120,
     "Night (9pm-12am)": 61
   },
   "day_of_week": {
-    "Mon": 97,
+    "Mon": 105,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -322,14 +322,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 23,
-    "2000s": 42,
-    "2010s": 195,
-    "2020s": 291
+    "1990s": 24,
+    "2000s": 43,
+    "2010s": 199,
+    "2020s": 293
   },
   "listening_style": {
     "played_from": {
-      "other": 463,
+      "other": 471,
       "playlist": 88
     },
     "full_album_sessions": 0

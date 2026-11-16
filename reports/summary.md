@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-09 to 2026-11-16** · updated 2026-11-16 17:02 ET
+**2026-11-09 to 2026-11-16** · updated 2026-11-16 18:00 ET
 
-**551 plays** (+36 vs last week) · **1919 minutes** · 254 artists · 482 songs
+**559 plays** (+44 vs last week) · **1949 minutes** · 256 artists · 489 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 68 | = |
+| 1 | Drake | 71 | = |
 | 2 | J. Cole | 28 | +2 |
 | 3 | Gunna | 23 | +8 |
 | 4 | 21 Savage | 22 | +3 |
-| 5 | The Alchemist | 20 | +7 |
-| 6 | Lil Wayne | 20 | +19 |
+| 5 | The Alchemist | 21 | +7 |
+| 6 | Lil Wayne | 21 | +19 |
 | 7 | Young Thug | 18 | +13 |
 | 8 | Lil Baby | 18 | = |
-| 9 | Future | 16 | -6 |
-| 10 | Kendrick Lamar | 15 | +16 |
+| 9 | Benny The Butcher | 17 | +5 |
+| 10 | Future | 16 | -7 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -34,7 +34,7 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 10 | The Realest (feat. Jeezy) - EST Gee | 2 | NEW |
 
 ## Discovery
-63% of plays were songs not in your log before this week.
+64% of plays were songs not in your log before this week.
 New artists: Davido (6), Nicki Minaj (5), Joeboy (5), Wale (4), Cozz (3), Doodie Lo (3), Rema (3), Little Simz (3), Obongjayar (3), Bryson Tiller (3)
 
 ## On repeat (3+ plays)
@@ -57,10 +57,10 @@ New artists: Davido (6), Nicki Minaj (5), Joeboy (5), Wale (4), Cozz (3), Doodie
 Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ██████████ 106
 Afternoon (12pm-5pm)   ████████████████████ 211
-Evening (5pm-9pm)      ███████████ 112
+Evening (5pm-9pm)      ███████████ 120
 Night (9pm-12am)       ██████ 61
 
-Mon                    ████████████████ 97
+Mon                    █████████████████ 105
 Tue                    █████████████████ 101
 Wed                    ███████████ 64
 Thu                    █████ 33
@@ -77,10 +77,10 @@ Sun                    ████████████ 73
 - Westside Gunn: 10 days in a row
 
 ## Eras
-1990s: 23, 2000s: 42, 2010s: 195, 2020s: 291
+1990s: 24, 2000s: 43, 2010s: 199, 2020s: 293
 
 ## How you listen
-Played from: other 463, playlist 88
+Played from: other 471, playlist 88
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1796 plays recorded total._
+_Log started 2026-10-26 · 1804 plays recorded total._
