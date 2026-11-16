@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T10:23-05:00",
+  "generated_at": "2026-11-16T12:28-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1718,
+  "total_plays_logged": 1734,
   "this_week": {
-    "plays": 527,
-    "minutes": 1843,
-    "unique_tracks": 456,
-    "unique_artists": 246
+    "plays": 537,
+    "minutes": 1875,
+    "unique_tracks": 468,
+    "unique_artists": 250
   },
   "last_week": {
-    "plays": 495,
-    "minutes": 1686
+    "plays": 488,
+    "minutes": 1666
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,14 +69,14 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 69,
-      "last_week_plays": 48,
+      "plays": 67,
+      "last_week_plays": 49,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 24,
+      "plays": 25,
       "last_week_plays": 21,
       "change": "+4"
     },
@@ -84,42 +84,42 @@
       "rank": 3,
       "name": "Gunna",
       "plays": 21,
-      "last_week_plays": 18,
-      "change": "+6"
+      "last_week_plays": 17,
+      "change": "+8"
     },
     {
       "rank": 4,
-      "name": "Lil Wayne",
-      "plays": 19,
-      "last_week_plays": 10,
-      "change": "+15"
-    },
-    {
-      "rank": 5,
       "name": "21 Savage",
-      "plays": 19,
+      "plays": 20,
       "last_week_plays": 20,
       "change": "+3"
     },
     {
+      "rank": 5,
+      "name": "Lil Wayne",
+      "plays": 19,
+      "last_week_plays": 9,
+      "change": "+17"
+    },
+    {
       "rank": 6,
-      "name": "Future",
+      "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 24,
-      "change": "-1"
+      "last_week_plays": 19,
+      "change": "+2"
     },
     {
       "rank": 7,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 20,
-      "change": "="
+      "name": "Future",
+      "plays": 17,
+      "last_week_plays": 25,
+      "change": "-2"
     },
     {
       "rank": 8,
       "name": "Westside Gunn",
       "plays": 16,
-      "last_week_plays": 31,
+      "last_week_plays": 30,
       "change": "-6"
     },
     {
@@ -127,14 +127,14 @@
       "name": "Kendrick Lamar",
       "plays": 16,
       "last_week_plays": 5,
-      "change": "+28"
+      "change": "+29"
     },
     {
       "rank": 10,
       "name": "Young Thug",
       "plays": 16,
       "last_week_plays": 10,
-      "change": "+11"
+      "change": "+10"
     }
   ],
   "top_tracks": [
@@ -154,56 +154,56 @@
     },
     {
       "rank": 3,
-      "name": "Racks 2 Skinny - Migos",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+377"
-    },
-    {
-      "rank": 4,
-      "name": "Won't Be Late (feat. Drake) - Swae Lee",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+182"
+      "change": "+174"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
+      "rank": 8,
+      "name": "Leverage - NoCap",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+123"
+    },
+    {
+      "rank": 9,
+      "name": "Got Money - Lil Wayne",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
       "rank": 10,
-      "name": "Lock On Me (with Travis Scott & Future) - Metro Boomin",
+      "name": "RIP Luv - 21 Savage",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -215,10 +215,6 @@
       {
         "name": "Davido",
         "plays": 6
-      },
-      {
-        "name": "Swae Lee",
-        "plays": 5
       },
       {
         "name": "Nicki Minaj",
@@ -251,6 +247,10 @@
       {
         "name": "Obongjayar",
         "plays": 3
+      },
+      {
+        "name": "Bryson Tiller",
+        "plays": 3
       }
     ],
     "plays_of_new_tracks_pct": 65,
@@ -264,14 +264,6 @@
     {
       "track": "FEM - Davido",
       "plays": 4
-    },
-    {
-      "track": "Racks 2 Skinny - Migos",
-      "plays": 3
-    },
-    {
-      "track": "Won't Be Late (feat. Drake) - Swae Lee",
-      "plays": 3
     },
     {
       "track": "One Day You'll Be Mine - USHER",
@@ -296,13 +288,13 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 61,
-    "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 192,
+    "Morning (5am-12pm)": 106,
+    "Afternoon (12pm-5pm)": 197,
     "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 61
   },
   "day_of_week": {
-    "Mon": 73,
+    "Mon": 83,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -314,11 +306,11 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 21
+      "days": 22
     },
     {
       "artist": "21 Savage",
-      "days": 11
+      "days": 12
     },
     {
       "artist": "Metro Boomin",
@@ -334,15 +326,15 @@
     }
   ],
   "release_eras": {
-    "1990s": 21,
-    "2000s": 42,
-    "2010s": 193,
-    "2020s": 271
+    "1990s": 23,
+    "2000s": 43,
+    "2010s": 192,
+    "2020s": 279
   },
   "listening_style": {
     "played_from": {
-      "other": 440,
-      "playlist": 87
+      "other": 449,
+      "playlist": 88
     },
     "full_album_sessions": 0
   },
