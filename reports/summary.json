@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T20:41-05:00",
+  "generated_at": "2026-11-15T22:14-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1718,
   "this_week": {
-    "plays": 556,
-    "minutes": 1939,
-    "unique_tracks": 467,
-    "unique_artists": 248
+    "plays": 543,
+    "minutes": 1893,
+    "unique_tracks": 462,
+    "unique_artists": 247
   },
   "last_week": {
-    "plays": 469,
-    "minutes": 1602
+    "plays": 482,
+    "minutes": 1649
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 71,
-      "last_week_plays": 47,
+      "plays": 70,
+      "last_week_plays": 48,
       "change": "="
     },
     {
@@ -82,59 +82,59 @@
     },
     {
       "rank": 3,
-      "name": "21 Savage",
+      "name": "Gunna",
       "plays": 21,
       "last_week_plays": 18,
       "change": "+7"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 21,
-      "last_week_plays": 18,
+      "name": "21 Savage",
+      "plays": 20,
+      "last_week_plays": 19,
       "change": "+5"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 20,
-      "last_week_plays": 22,
-      "change": "="
-    },
-    {
-      "rank": 6,
       "name": "Lil Wayne",
       "plays": 19,
       "last_week_plays": 10,
-      "change": "+13"
+      "change": "+14"
     },
     {
-      "rank": 7,
-      "name": "Lil Baby",
+      "rank": 6,
+      "name": "Future",
       "plays": 18,
-      "last_week_plays": 14,
-      "change": "+7"
-    },
-    {
-      "rank": 8,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 20,
+      "last_week_plays": 24,
       "change": "-1"
     },
     {
+      "rank": 7,
+      "name": "The Alchemist",
+      "plays": 18,
+      "last_week_plays": 20,
+      "change": "="
+    },
+    {
+      "rank": 8,
+      "name": "Lil Baby",
+      "plays": 16,
+      "last_week_plays": 16,
+      "change": "+4"
+    },
+    {
       "rank": 9,
-      "name": "Young Thug",
-      "plays": 17,
-      "last_week_plays": 9,
-      "change": "+14"
+      "name": "Westside Gunn",
+      "plays": 16,
+      "last_week_plays": 31,
+      "change": "-7"
     },
     {
       "rank": 10,
       "name": "Kendrick Lamar",
-      "plays": 17,
-      "last_week_plays": 4,
-      "change": "+33"
+      "plays": 16,
+      "last_week_plays": 5,
+      "change": "+26"
     }
   ],
   "top_tracks": [
@@ -154,59 +154,59 @@
     },
     {
       "rank": 3,
-      "name": "All 70 (feat. Conway) - Benny The Butcher",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
-      "name": "peter pan. - Brent Faiyaz",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+253"
-    },
-    {
-      "rank": 5,
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+375"
+      "change": "+378"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+177"
+      "change": "+181"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "Point and Kill - Little Simz",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Child's Play (feat. 21 Savage) - Young Nudy",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+331"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 68,
+    "plays_of_new_tracks_pct": 67,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -264,14 +264,6 @@
     {
       "track": "FEM - Davido",
       "plays": 4
-    },
-    {
-      "track": "All 70 (feat. Conway) - Benny The Butcher",
-      "plays": 3
-    },
-    {
-      "track": "peter pan. - Brent Faiyaz",
-      "plays": 3
     },
     {
       "track": "Racks 2 Skinny - Migos",
@@ -296,14 +288,18 @@
     {
       "track": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3
+    },
+    {
+      "track": "Point and Kill - Little Simz",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 192,
-    "Evening (5pm-9pm)": 115,
-    "Night (9pm-12am)": 87
+    "Evening (5pm-9pm)": 112,
+    "Night (9pm-12am)": 77
   },
   "day_of_week": {
     "Mon": 73,
@@ -312,7 +308,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 102
+    "Sun": 89
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -338,14 +334,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 22,
+    "1990s": 21,
     "2000s": 43,
-    "2010s": 201,
-    "2020s": 290
+    "2010s": 195,
+    "2020s": 284
   },
   "listening_style": {
     "played_from": {
-      "other": 469,
+      "other": 456,
       "playlist": 87
     },
     "full_album_sessions": 0
