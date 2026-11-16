@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 18:57 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 20:41 ET
 
-**570 plays** (+123 vs last week) · **1991 minutes** · 264 artists · 478 songs
+**556 plays** (+87 vs last week) · **1939 minutes** · 248 artists · 467 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 72 | = |
-| 2 | J. Cole | 25 | +5 |
-| 3 | 21 Savage | 23 | +7 |
-| 4 | Gunna | 21 | +4 |
-| 5 | Lil Wayne | 20 | +14 |
-| 6 | Future | 20 | -1 |
-| 7 | Lil Baby | 18 | +6 |
-| 8 | Young Thug | 17 | +15 |
-| 9 | Kendrick Lamar | 17 | +31 |
-| 10 | The Alchemist | 17 | -4 |
+| 1 | Drake | 71 | = |
+| 2 | J. Cole | 24 | +4 |
+| 3 | 21 Savage | 21 | +7 |
+| 4 | Gunna | 21 | +5 |
+| 5 | Future | 20 | = |
+| 6 | Lil Wayne | 19 | +13 |
+| 7 | Lil Baby | 18 | +7 |
+| 8 | The Alchemist | 18 | -1 |
+| 9 | Young Thug | 17 | +14 |
+| 10 | Kendrick Lamar | 17 | +33 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -25,10 +25,10 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | FEM - Davido | 4 | NEW |
 | 3 | All 70 (feat. Conway) - Benny The Butcher | 3 | NEW |
-| 4 | peter pan. - Brent Faiyaz | 3 | +252 |
-| 5 | Racks 2 Skinny - Migos | 3 | +374 |
+| 4 | peter pan. - Brent Faiyaz | 3 | +253 |
+| 5 | Racks 2 Skinny - Migos | 3 | +375 |
 | 6 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 7 | One Day You'll Be Mine - USHER | 3 | +175 |
+| 7 | One Day You'll Be Mine - USHER | 3 | +177 |
 | 8 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 | 9 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 10 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
@@ -61,7 +61,7 @@ New artists: Davido (6), Swae Lee (5), Nicki Minaj (5), Joeboy (5), Tory Lanez (
 Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ███████████ 101
 Afternoon (12pm-5pm)   ████████████████████ 192
-Evening (5pm-9pm)      █████████████ 129
+Evening (5pm-9pm)      ████████████ 115
 Night (9pm-12am)       █████████ 87
 
 Mon                    ████████████ 73
@@ -70,7 +70,7 @@ Wed                    ███████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
-Sun                    ███████████████████ 116
+Sun                    █████████████████ 102
 ```
 
 ## Streaks
@@ -78,13 +78,13 @@ Sun                    ███████████████████
 - 21 Savage: 11 days in a row
 - Metro Boomin: 11 days in a row
 - J. Cole: 10 days in a row
-- Westside Gunn: 9 days in a row
+- The Alchemist: 9 days in a row
 
 ## Eras
-1990s: 23, 2000s: 44, 2010s: 203, 2020s: 300
+1990s: 22, 2000s: 43, 2010s: 201, 2020s: 290
 
 ## How you listen
-Played from: other 489, playlist 81
+Played from: other 469, playlist 87
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1710 plays recorded total._
+_Log started 2026-10-26 · 1718 plays recorded total._
