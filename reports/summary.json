@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:14-05:00",
+  "generated_at": "2026-11-15T23:54-05:00",
   "window": {
     "start": "2026-11-08",
     "end": "2026-11-15"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1718,
   "this_week": {
-    "plays": 543,
-    "minutes": 1893,
-    "unique_tracks": 462,
-    "unique_artists": 247
+    "plays": 527,
+    "minutes": 1843,
+    "unique_tracks": 456,
+    "unique_artists": 246
   },
   "last_week": {
-    "plays": 482,
-    "minutes": 1649
+    "plays": 497,
+    "minutes": 1694
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 70,
+      "plays": 69,
       "last_week_plays": 48,
       "change": "="
     },
@@ -89,17 +89,17 @@
     },
     {
       "rank": 4,
-      "name": "21 Savage",
-      "plays": 20,
-      "last_week_plays": 19,
-      "change": "+5"
-    },
-    {
-      "rank": 5,
       "name": "Lil Wayne",
       "plays": 19,
       "last_week_plays": 10,
-      "change": "+14"
+      "change": "+15"
+    },
+    {
+      "rank": 5,
+      "name": "21 Savage",
+      "plays": 19,
+      "last_week_plays": 20,
+      "change": "+3"
     },
     {
       "rank": 6,
@@ -117,24 +117,24 @@
     },
     {
       "rank": 8,
-      "name": "Lil Baby",
-      "plays": 16,
-      "last_week_plays": 16,
-      "change": "+4"
-    },
-    {
-      "rank": 9,
       "name": "Westside Gunn",
       "plays": 16,
       "last_week_plays": 31,
-      "change": "-7"
+      "change": "-6"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Kendrick Lamar",
       "plays": 16,
       "last_week_plays": 5,
-      "change": "+26"
+      "change": "+28"
+    },
+    {
+      "rank": 10,
+      "name": "Young Thug",
+      "plays": 16,
+      "last_week_plays": 10,
+      "change": "+11"
     }
   ],
   "top_tracks": [
@@ -171,7 +171,7 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+181"
+      "change": "+183"
     },
     {
       "rank": 6,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "Child's Play (feat. 21 Savage) - Young Nudy",
+      "name": "Lock On Me (with Travis Scott & Future) - Metro Boomin",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+331"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 67,
+    "plays_of_new_tracks_pct": 65,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -299,7 +299,7 @@
     "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 192,
     "Evening (5pm-9pm)": 112,
-    "Night (9pm-12am)": 77
+    "Night (9pm-12am)": 61
   },
   "day_of_week": {
     "Mon": 73,
@@ -308,7 +308,7 @@
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
-    "Sun": 89
+    "Sun": 73
   },
   "busiest_day": "Sat",
   "streaks": [
@@ -335,13 +335,13 @@
   ],
   "release_eras": {
     "1990s": 21,
-    "2000s": 43,
-    "2010s": 195,
-    "2020s": 284
+    "2000s": 42,
+    "2010s": 193,
+    "2020s": 271
   },
   "listening_style": {
     "played_from": {
-      "other": 456,
+      "other": 440,
       "playlist": 87
     },
     "full_album_sessions": 0

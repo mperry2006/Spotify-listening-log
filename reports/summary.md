@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 22:14 ET
+**2026-11-08 to 2026-11-15** · updated 2026-11-15 23:54 ET
 
-**543 plays** (+61 vs last week) · **1893 minutes** · 247 artists · 462 songs
+**527 plays** (+30 vs last week) · **1843 minutes** · 246 artists · 456 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 70 | = |
+| 1 | Drake | 69 | = |
 | 2 | J. Cole | 24 | +4 |
 | 3 | Gunna | 21 | +7 |
-| 4 | 21 Savage | 20 | +5 |
-| 5 | Lil Wayne | 19 | +14 |
+| 4 | Lil Wayne | 19 | +15 |
+| 5 | 21 Savage | 19 | +3 |
 | 6 | Future | 18 | -1 |
 | 7 | The Alchemist | 18 | = |
-| 8 | Lil Baby | 16 | +4 |
-| 9 | Westside Gunn | 16 | -7 |
-| 10 | Kendrick Lamar | 16 | +26 |
+| 8 | Westside Gunn | 16 | -6 |
+| 9 | Kendrick Lamar | 16 | +28 |
+| 10 | Young Thug | 16 | +11 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -26,15 +26,15 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 2 | FEM - Davido | 4 | NEW |
 | 3 | Racks 2 Skinny - Migos | 3 | +378 |
 | 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 5 | One Day You'll Be Mine - USHER | 3 | +181 |
+| 5 | One Day You'll Be Mine - USHER | 3 | +183 |
 | 6 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 | 7 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 8 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
 | 9 | Point and Kill - Little Simz | 3 | NEW |
-| 10 | Child's Play (feat. 21 Savage) - Young Nudy | 2 | +331 |
+| 10 | Lock On Me (with Travis Scott & Future) - Metro Boomin | 2 | NEW |
 
 ## Discovery
-67% of plays were songs not in your log before this week.
+65% of plays were songs not in your log before this week.
 New artists: Davido (6), Swae Lee (5), Nicki Minaj (5), Joeboy (5), Tory Lanez (4), Wale (4), Doodie Lo (3), Rema (3), Little Simz (3), Obongjayar (3)
 
 ## On repeat (3+ plays)
@@ -61,7 +61,7 @@ Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ███████████ 101
 Afternoon (12pm-5pm)   ████████████████████ 192
 Evening (5pm-9pm)      ████████████ 112
-Night (9pm-12am)       ████████ 77
+Night (9pm-12am)       ██████ 61
 
 Mon                    ████████████ 73
 Tue                    █████████████████ 101
@@ -69,7 +69,7 @@ Wed                    ███████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
-Sun                    ███████████████ 89
+Sun                    ████████████ 73
 ```
 
 ## Streaks
@@ -80,10 +80,10 @@ Sun                    ███████████████ 89
 - The Alchemist: 9 days in a row
 
 ## Eras
-1990s: 21, 2000s: 43, 2010s: 195, 2020s: 284
+1990s: 21, 2000s: 42, 2010s: 193, 2020s: 271
 
 ## How you listen
-Played from: other 456, playlist 87
+Played from: other 440, playlist 87
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1718 plays recorded total._
