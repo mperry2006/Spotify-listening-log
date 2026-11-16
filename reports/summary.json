@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T23:54-05:00",
+  "generated_at": "2026-11-16T01:42-05:00",
   "window": {
-    "start": "2026-11-08",
-    "end": "2026-11-15"
+    "start": "2026-11-09",
+    "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 1718,
@@ -13,8 +13,8 @@
     "unique_artists": 246
   },
   "last_week": {
-    "plays": 497,
-    "minutes": 1694
+    "plays": 496,
+    "minutes": 1690
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -325,11 +325,11 @@
       "days": 11
     },
     {
-      "artist": "J. Cole",
-      "days": 10
+      "artist": "The Alchemist",
+      "days": 9
     },
     {
-      "artist": "The Alchemist",
+      "artist": "Westside Gunn",
       "days": 9
     }
   ],

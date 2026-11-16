@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-08 to 2026-11-15** · updated 2026-11-15 23:54 ET
+**2026-11-09 to 2026-11-16** · updated 2026-11-16 01:42 ET
 
-**527 plays** (+30 vs last week) · **1843 minutes** · 246 artists · 456 songs
+**527 plays** (+31 vs last week) · **1843 minutes** · 246 artists · 456 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -76,8 +76,8 @@ Sun                    ████████████ 73
 - Drake: 21 days in a row
 - 21 Savage: 11 days in a row
 - Metro Boomin: 11 days in a row
-- J. Cole: 10 days in a row
 - The Alchemist: 9 days in a row
+- Westside Gunn: 9 days in a row
 
 ## Eras
 1990s: 21, 2000s: 42, 2010s: 193, 2020s: 271
