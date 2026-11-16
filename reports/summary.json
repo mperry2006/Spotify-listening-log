@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T01:42-05:00",
+  "generated_at": "2026-11-16T04:53-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
@@ -13,8 +13,8 @@
     "unique_artists": 246
   },
   "last_week": {
-    "plays": 496,
-    "minutes": 1690
+    "plays": 495,
+    "minutes": 1686
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -85,7 +85,7 @@
       "name": "Gunna",
       "plays": 21,
       "last_week_plays": 18,
-      "change": "+7"
+      "change": "+6"
     },
     {
       "rank": 4,
@@ -157,7 +157,7 @@
       "name": "Racks 2 Skinny - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+378"
+      "change": "+377"
     },
     {
       "rank": 4,
@@ -171,7 +171,7 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+183"
+      "change": "+182"
     },
     {
       "rank": 6,

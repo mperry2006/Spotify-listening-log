@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-09 to 2026-11-16** · updated 2026-11-16 01:42 ET
+**2026-11-09 to 2026-11-16** · updated 2026-11-16 04:53 ET
 
-**527 plays** (+31 vs last week) · **1843 minutes** · 246 artists · 456 songs
+**527 plays** (+32 vs last week) · **1843 minutes** · 246 artists · 456 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -10,7 +10,7 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 |---|---|---|---|
 | 1 | Drake | 69 | = |
 | 2 | J. Cole | 24 | +4 |
-| 3 | Gunna | 21 | +7 |
+| 3 | Gunna | 21 | +6 |
 | 4 | Lil Wayne | 19 | +15 |
 | 5 | 21 Savage | 19 | +3 |
 | 6 | Future | 18 | -1 |
@@ -24,9 +24,9 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 |---|---|---|---|
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | FEM - Davido | 4 | NEW |
-| 3 | Racks 2 Skinny - Migos | 3 | +378 |
+| 3 | Racks 2 Skinny - Migos | 3 | +377 |
 | 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | NEW |
-| 5 | One Day You'll Be Mine - USHER | 3 | +183 |
+| 5 | One Day You'll Be Mine - USHER | 3 | +182 |
 | 6 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
 | 7 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 8 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
