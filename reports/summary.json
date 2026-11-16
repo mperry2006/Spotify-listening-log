@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T12:28-05:00",
+  "generated_at": "2026-11-16T14:14-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1734,
+  "total_plays_logged": 1758,
   "this_week": {
     "plays": 537,
-    "minutes": 1875,
-    "unique_tracks": 468,
-    "unique_artists": 250
+    "minutes": 1865,
+    "unique_tracks": 472,
+    "unique_artists": 255
   },
   "last_week": {
-    "plays": 488,
-    "minutes": 1666
+    "plays": 505,
+    "minutes": 1727
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,29 +69,29 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 67,
-      "last_week_plays": 49,
+      "plays": 66,
+      "last_week_plays": 52,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 21,
+      "plays": 27,
+      "last_week_plays": 22,
       "change": "+4"
     },
     {
       "rank": 3,
       "name": "Gunna",
-      "plays": 21,
+      "plays": 23,
       "last_week_plays": 17,
-      "change": "+8"
+      "change": "+10"
     },
     {
       "rank": 4,
       "name": "21 Savage",
       "plays": 20,
-      "last_week_plays": 20,
+      "last_week_plays": 21,
       "change": "+3"
     },
     {
@@ -99,42 +99,42 @@
       "name": "Lil Wayne",
       "plays": 19,
       "last_week_plays": 9,
-      "change": "+17"
+      "change": "+19"
     },
     {
       "rank": 6,
       "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 19,
-      "change": "+2"
+      "last_week_plays": 18,
+      "change": "+3"
     },
     {
       "rank": 7,
-      "name": "Future",
-      "plays": 17,
-      "last_week_plays": 25,
-      "change": "-2"
+      "name": "Young Thug",
+      "plays": 18,
+      "last_week_plays": 10,
+      "change": "+13"
     },
     {
       "rank": 8,
-      "name": "Westside Gunn",
-      "plays": 16,
-      "last_week_plays": 30,
-      "change": "-6"
-    },
-    {
-      "rank": 9,
       "name": "Kendrick Lamar",
       "plays": 16,
       "last_week_plays": 5,
-      "change": "+29"
+      "change": "+30"
+    },
+    {
+      "rank": 9,
+      "name": "Lil Baby",
+      "plays": 16,
+      "last_week_plays": 17,
+      "change": "+1"
     },
     {
       "rank": 10,
-      "name": "Young Thug",
-      "plays": 16,
-      "last_week_plays": 10,
-      "change": "+10"
+      "name": "Westside Gunn",
+      "plays": 15,
+      "last_week_plays": 30,
+      "change": "-8"
     }
   ],
   "top_tracks": [
@@ -154,56 +154,56 @@
     },
     {
       "rank": 3,
-      "name": "One Day You'll Be Mine - USHER",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+174"
-    },
-    {
-      "rank": 4,
       "name": "1hunnit - A Boogie Wit da Hoodie",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "Leverage - NoCap",
+      "rank": 7,
+      "name": "LOYALTY. FEAT. RIHANNA. - Kendrick Lamar",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+123"
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
+      "name": "Tha Last 1 dec2 - EST Gee",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Got Money - Lil Wayne",
+      "name": "Dead Presidents II - J. Cole",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "RIP Luv - 21 Savage",
+      "name": "Sky - Playboi Carti",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -217,16 +217,16 @@
         "plays": 6
       },
       {
+        "name": "Tory Lanez",
+        "plays": 5
+      },
+      {
         "name": "Nicki Minaj",
         "plays": 5
       },
       {
         "name": "Joeboy",
         "plays": 5
-      },
-      {
-        "name": "Tory Lanez",
-        "plays": 4
       },
       {
         "name": "Wale",
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 65,
+    "plays_of_new_tracks_pct": 64,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -264,10 +264,6 @@
     {
       "track": "FEM - Davido",
       "plays": 4
-    },
-    {
-      "track": "One Day You'll Be Mine - USHER",
-      "plays": 3
     },
     {
       "track": "1hunnit - A Boogie Wit da Hoodie",
@@ -314,22 +310,22 @@
     },
     {
       "artist": "Metro Boomin",
-      "days": 11
-    },
-    {
-      "artist": "The Alchemist",
-      "days": 9
+      "days": 12
     },
     {
       "artist": "Westside Gunn",
+      "days": 10
+    },
+    {
+      "artist": "The Alchemist",
       "days": 9
     }
   ],
   "release_eras": {
     "1990s": 23,
-    "2000s": 43,
+    "2000s": 41,
     "2010s": 192,
-    "2020s": 279
+    "2020s": 281
   },
   "listening_style": {
     "played_from": {
