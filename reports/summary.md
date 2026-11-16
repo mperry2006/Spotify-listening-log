@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-09 to 2026-11-16** · updated 2026-11-16 16:02 ET
+**2026-11-09 to 2026-11-16** · updated 2026-11-16 17:02 ET
 
-**535 plays** (+18 vs last week) · **1867 minutes** · 251 artists · 468 songs
+**551 plays** (+36 vs last week) · **1919 minutes** · 254 artists · 482 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 68 | = |
-| 2 | J. Cole | 28 | +3 |
-| 3 | Gunna | 23 | +9 |
-| 4 | 21 Savage | 21 | +3 |
-| 5 | Lil Wayne | 20 | +20 |
-| 6 | The Alchemist | 18 | +3 |
+| 2 | J. Cole | 28 | +2 |
+| 3 | Gunna | 23 | +8 |
+| 4 | 21 Savage | 22 | +3 |
+| 5 | The Alchemist | 20 | +7 |
+| 6 | Lil Wayne | 20 | +19 |
 | 7 | Young Thug | 18 | +13 |
-| 8 | Future | 16 | -5 |
-| 9 | Lil Baby | 15 | -1 |
-| 10 | Benny The Butcher | 15 | +3 |
+| 8 | Lil Baby | 18 | = |
+| 9 | Future | 16 | -6 |
+| 10 | Kendrick Lamar | 15 | +16 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -55,12 +55,12 @@ New artists: Davido (6), Nicki Minaj (5), Joeboy (5), Wale (4), Cozz (3), Doodie
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 61
-Morning (5am-12pm)     ███████████ 106
-Afternoon (12pm-5pm)   ████████████████████ 195
+Morning (5am-12pm)     ██████████ 106
+Afternoon (12pm-5pm)   ████████████████████ 211
 Evening (5pm-9pm)      ███████████ 112
 Night (9pm-12am)       ██████ 61
 
-Mon                    █████████████ 81
+Mon                    ████████████████ 97
 Tue                    █████████████████ 101
 Wed                    ███████████ 64
 Thu                    █████ 33
@@ -77,10 +77,10 @@ Sun                    ████████████ 73
 - Westside Gunn: 10 days in a row
 
 ## Eras
-1990s: 23, 2000s: 41, 2010s: 190, 2020s: 281
+1990s: 23, 2000s: 42, 2010s: 195, 2020s: 291
 
 ## How you listen
-Played from: other 447, playlist 88
+Played from: other 463, playlist 88
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1780 plays recorded total._
+_Log started 2026-10-26 · 1796 plays recorded total._

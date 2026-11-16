@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T16:02-05:00",
+  "generated_at": "2026-11-16T17:02-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1780,
+  "total_plays_logged": 1796,
   "this_week": {
-    "plays": 535,
-    "minutes": 1867,
-    "unique_tracks": 468,
-    "unique_artists": 251
+    "plays": 551,
+    "minutes": 1919,
+    "unique_tracks": 482,
+    "unique_artists": 254
   },
   "last_week": {
-    "plays": 517,
-    "minutes": 1763
+    "plays": 515,
+    "minutes": 1754
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -78,35 +78,35 @@
       "name": "J. Cole",
       "plays": 28,
       "last_week_plays": 25,
-      "change": "+3"
+      "change": "+2"
     },
     {
       "rank": 3,
       "name": "Gunna",
       "plays": 23,
       "last_week_plays": 17,
-      "change": "+9"
+      "change": "+8"
     },
     {
       "rank": 4,
       "name": "21 Savage",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 21,
       "change": "+3"
     },
     {
       "rank": 5,
-      "name": "Lil Wayne",
+      "name": "The Alchemist",
       "plays": 20,
-      "last_week_plays": 9,
-      "change": "+20"
+      "last_week_plays": 17,
+      "change": "+7"
     },
     {
       "rank": 6,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 18,
-      "change": "+3"
+      "name": "Lil Wayne",
+      "plays": 20,
+      "last_week_plays": 9,
+      "change": "+19"
     },
     {
       "rank": 7,
@@ -117,24 +117,24 @@
     },
     {
       "rank": 8,
-      "name": "Future",
-      "plays": 16,
-      "last_week_plays": 27,
-      "change": "-5"
+      "name": "Lil Baby",
+      "plays": 18,
+      "last_week_plays": 19,
+      "change": "="
     },
     {
       "rank": 9,
-      "name": "Lil Baby",
-      "plays": 15,
-      "last_week_plays": 19,
-      "change": "-1"
+      "name": "Future",
+      "plays": 16,
+      "last_week_plays": 27,
+      "change": "-6"
     },
     {
       "rank": 10,
-      "name": "Benny The Butcher",
+      "name": "Kendrick Lamar",
       "plays": 15,
-      "last_week_plays": 16,
-      "change": "+3"
+      "last_week_plays": 8,
+      "change": "+16"
     }
   ],
   "top_tracks": [
@@ -285,12 +285,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 106,
-    "Afternoon (12pm-5pm)": 195,
+    "Afternoon (12pm-5pm)": 211,
     "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 61
   },
   "day_of_week": {
-    "Mon": 81,
+    "Mon": 97,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -323,13 +323,13 @@
   ],
   "release_eras": {
     "1990s": 23,
-    "2000s": 41,
-    "2010s": 190,
-    "2020s": 281
+    "2000s": 42,
+    "2010s": 195,
+    "2020s": 291
   },
   "listening_style": {
     "played_from": {
-      "other": 447,
+      "other": 463,
       "playlist": 88
     },
     "full_album_sessions": 0
