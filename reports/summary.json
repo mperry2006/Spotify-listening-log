@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T20:29-05:00",
+  "generated_at": "2026-11-16T22:03-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1814,
+  "total_plays_logged": 1824,
   "this_week": {
-    "plays": 563,
-    "minutes": 1967,
-    "unique_tracks": 492,
-    "unique_artists": 256
+    "plays": 569,
+    "minutes": 1985,
+    "unique_tracks": 496,
+    "unique_artists": 255
   },
   "last_week": {
-    "plays": 499,
-    "minutes": 1693
+    "plays": 496,
+    "minutes": 1677
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,72 +69,72 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 71,
-      "last_week_plays": 48,
+      "plays": 74,
+      "last_week_plays": 47,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
       "plays": 28,
-      "last_week_plays": 25,
+      "last_week_plays": 24,
       "change": "+3"
     },
     {
       "rank": 3,
-      "name": "Gunna",
-      "plays": 23,
-      "last_week_plays": 17,
-      "change": "+9"
-    },
-    {
-      "rank": 4,
       "name": "21 Savage",
       "plays": 22,
       "last_week_plays": 21,
-      "change": "+3"
+      "change": "+4"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Lil Wayne",
       "plays": 21,
       "last_week_plays": 9,
-      "change": "+19"
+      "change": "+20"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "The Alchemist",
       "plays": 20,
       "last_week_plays": 18,
-      "change": "+3"
+      "change": "+5"
+    },
+    {
+      "rank": 6,
+      "name": "Gunna",
+      "plays": 20,
+      "last_week_plays": 20,
+      "change": "+2"
     },
     {
       "rank": 7,
-      "name": "Young Thug",
-      "plays": 18,
-      "last_week_plays": 10,
-      "change": "+12"
+      "name": "Lil Baby",
+      "plays": 19,
+      "last_week_plays": 19,
+      "change": "+2"
     },
     {
       "rank": 8,
-      "name": "Lil Baby",
+      "name": "Young Thug",
       "plays": 18,
-      "last_week_plays": 19,
-      "change": "="
+      "last_week_plays": 10,
+      "change": "+11"
     },
     {
       "rank": 9,
-      "name": "Future",
-      "plays": 17,
-      "last_week_plays": 27,
-      "change": "-7"
-    },
-    {
-      "rank": 10,
       "name": "Benny The Butcher",
       "plays": 17,
       "last_week_plays": 15,
-      "change": "+3"
+      "change": "+4"
+    },
+    {
+      "rank": 10,
+      "name": "Kendrick Lamar",
+      "plays": 16,
+      "last_week_plays": 7,
+      "change": "+18"
     }
   ],
   "top_tracks": [
@@ -161,52 +161,52 @@
     },
     {
       "rank": 4,
+      "name": "Won't Be Late (feat. Drake) - Swae Lee",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+388"
+    },
+    {
+      "rank": 5,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "STREET SWEEPER (feat. Future) - Gunna",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 9,
-      "name": "The Realest (feat. Jeezy) - EST Gee",
-      "plays": 2,
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "peter pan. - Brent Faiyaz",
+      "name": "The Realest (feat. Jeezy) - EST Gee",
       "plays": 2,
-      "last_week_plays": 2,
-      "change": "+29"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -225,6 +225,10 @@
         "plays": 5
       },
       {
+        "name": "Rema",
+        "plays": 4
+      },
+      {
         "name": "Wale",
         "plays": 4
       },
@@ -238,10 +242,6 @@
       },
       {
         "name": "Doodie Lo",
-        "plays": 3
-      },
-      {
-        "name": "Rema",
         "plays": 3
       },
       {
@@ -270,6 +270,10 @@
       "plays": 3
     },
     {
+      "track": "Won't Be Late (feat. Drake) - Swae Lee",
+      "plays": 3
+    },
+    {
       "track": "Pallbearers - Rylo Rodriguez",
       "plays": 3
     },
@@ -284,17 +288,21 @@
     {
       "track": "Sorrows - Bryson Tiller",
       "plays": 3
+    },
+    {
+      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 106,
     "Afternoon (12pm-5pm)": 211,
-    "Evening (5pm-9pm)": 124,
-    "Night (9pm-12am)": 61
+    "Evening (5pm-9pm)": 129,
+    "Night (9pm-12am)": 62
   },
   "day_of_week": {
-    "Mon": 109,
+    "Mon": 115,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -327,13 +335,13 @@
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 44,
-    "2010s": 199,
-    "2020s": 295
+    "2000s": 43,
+    "2010s": 204,
+    "2020s": 297
   },
   "listening_style": {
     "played_from": {
-      "other": 475,
+      "other": 481,
       "playlist": 88
     },
     "full_album_sessions": 0
