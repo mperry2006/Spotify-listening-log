@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-17T16:07-05:00",
+  "generated_at": "2026-11-17T17:08-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1848,
+  "total_plays_logged": 1854,
   "this_week": {
-    "plays": 546,
-    "minutes": 1914,
-    "unique_tracks": 475,
+    "plays": 543,
+    "minutes": 1900,
+    "unique_tracks": 471,
     "unique_artists": 249
   },
   "last_week": {
-    "plays": 515,
-    "minutes": 1738
+    "plays": 521,
+    "minutes": 1764
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,71 +70,71 @@
       "rank": 1,
       "name": "Drake",
       "plays": 73,
-      "last_week_plays": 48,
+      "last_week_plays": 50,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 26,
+      "plays": 27,
       "last_week_plays": 24,
-      "change": "+4"
+      "change": "+5"
     },
     {
       "rank": 3,
-      "name": "21 Savage",
+      "name": "Gunna",
       "plays": 20,
-      "last_week_plays": 23,
-      "change": "+4"
+      "last_week_plays": 20,
+      "change": "+6"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 20,
-      "last_week_plays": 21,
-      "change": "+4"
+      "name": "21 Savage",
+      "plays": 19,
+      "last_week_plays": 24,
+      "change": "+2"
     },
     {
       "rank": 5,
-      "name": "Lil Wayne",
-      "plays": 19,
-      "last_week_plays": 10,
-      "change": "+14"
+      "name": "Young Thug",
+      "plays": 18,
+      "last_week_plays": 12,
+      "change": "+11"
     },
     {
       "rank": 6,
-      "name": "Young Thug",
-      "plays": 19,
+      "name": "Lil Wayne",
+      "plays": 18,
       "last_week_plays": 11,
-      "change": "+12"
+      "change": "+13"
     },
     {
       "rank": 7,
       "name": "The Alchemist",
       "plays": 18,
       "last_week_plays": 20,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 8,
-      "name": "Future",
-      "plays": 17,
-      "last_week_plays": 29,
-      "change": "-6"
-    },
-    {
-      "rank": 9,
       "name": "Lil Baby",
       "plays": 17,
       "last_week_plays": 19,
-      "change": "+1"
+      "change": "+2"
+    },
+    {
+      "rank": 9,
+      "name": "Benny The Butcher",
+      "plays": 16,
+      "last_week_plays": 15,
+      "change": "+5"
     },
     {
       "rank": 10,
       "name": "Kendrick Lamar",
-      "plays": 16,
+      "plays": 15,
       "last_week_plays": 8,
-      "change": "+16"
+      "change": "+17"
     }
   ],
   "top_tracks": [
@@ -164,7 +164,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+368"
+      "change": "+369"
     },
     {
       "rank": 5,
@@ -189,24 +189,24 @@
     },
     {
       "rank": 8,
-      "name": "Sorrows - Bryson Tiller",
+      "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "a lot - 21 Savage",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+254"
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 66,
+    "plays_of_new_tracks_pct": 67,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -286,6 +286,10 @@
       "plays": 3
     },
     {
+      "track": "God Gave Me Style - 50 Cent",
+      "plays": 3
+    },
+    {
       "track": "Sorrows - Bryson Tiller",
       "plays": 3
     },
@@ -297,13 +301,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 199,
-    "Evening (5pm-9pm)": 129,
+    "Afternoon (12pm-5pm)": 197,
+    "Evening (5pm-9pm)": 128,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 84,
+    "Tue": 81,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -314,7 +318,7 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 22
+      "days": 23
     },
     {
       "artist": "21 Savage",
@@ -335,14 +339,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 25,
+    "1990s": 24,
     "2000s": 44,
-    "2010s": 192,
-    "2020s": 284
+    "2010s": 191,
+    "2020s": 283
   },
   "listening_style": {
     "played_from": {
-      "other": 458,
+      "other": 455,
       "playlist": 88
     },
     "full_album_sessions": 0
