@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T23:10-05:00",
+  "generated_at": "2026-11-17T00:14-05:00",
   "window": {
-    "start": "2026-11-09",
-    "end": "2026-11-16"
+    "start": "2026-11-10",
+    "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1824,
+  "total_plays_logged": 1827,
   "this_week": {
-    "plays": 564,
-    "minutes": 1970,
-    "unique_tracks": 492,
-    "unique_artists": 252
+    "plays": 563,
+    "minutes": 1965,
+    "unique_tracks": 489,
+    "unique_artists": 251
   },
   "last_week": {
-    "plays": 501,
-    "minutes": 1693
+    "plays": 505,
+    "minutes": 1708
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,15 +69,15 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 74,
+      "plays": 75,
       "last_week_plays": 47,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 28,
-      "last_week_plays": 24,
+      "plays": 27,
+      "last_week_plays": 25,
       "change": "+3"
     },
     {
@@ -99,7 +99,7 @@
       "name": "Lil Wayne",
       "plays": 20,
       "last_week_plays": 10,
-      "change": "+14"
+      "change": "+15"
     },
     {
       "rank": 6,
@@ -110,17 +110,17 @@
     },
     {
       "rank": 7,
-      "name": "Lil Baby",
+      "name": "Young Thug",
       "plays": 19,
-      "last_week_plays": 19,
-      "change": "+2"
+      "last_week_plays": 10,
+      "change": "+14"
     },
     {
       "rank": 8,
-      "name": "Young Thug",
-      "plays": 18,
-      "last_week_plays": 10,
-      "change": "+12"
+      "name": "Lil Baby",
+      "plays": 19,
+      "last_week_plays": 19,
+      "change": "+1"
     },
     {
       "rank": 9,
@@ -131,10 +131,10 @@
     },
     {
       "rank": 10,
-      "name": "Kendrick Lamar",
+      "name": "Future",
       "plays": 16,
-      "last_week_plays": 7,
-      "change": "+19"
+      "last_week_plays": 28,
+      "change": "-8"
     }
   ],
   "top_tracks": [
@@ -206,7 +206,7 @@
       "name": "peter pan. - Brent Faiyaz",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+29"
+      "change": "+30"
     }
   ],
   "dropped_off": [],
@@ -299,10 +299,10 @@
     "Morning (5am-12pm)": 106,
     "Afternoon (12pm-5pm)": 211,
     "Evening (5pm-9pm)": 129,
-    "Night (9pm-12am)": 57
+    "Night (9pm-12am)": 56
   },
   "day_of_week": {
-    "Mon": 110,
+    "Mon": 109,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -335,13 +335,13 @@
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 42,
+    "2000s": 41,
     "2010s": 203,
     "2020s": 294
   },
   "listening_style": {
     "played_from": {
-      "other": 476,
+      "other": 475,
       "playlist": 88
     },
     "full_album_sessions": 0

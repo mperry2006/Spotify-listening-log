@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-09 to 2026-11-16** · updated 2026-11-16 23:10 ET
+**2026-11-10 to 2026-11-17** · updated 2026-11-17 00:14 ET
 
-**564 plays** (+63 vs last week) · **1970 minutes** · 252 artists · 492 songs
+**563 plays** (+58 vs last week) · **1965 minutes** · 251 artists · 489 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 74 | = |
-| 2 | J. Cole | 28 | +3 |
+| 1 | Drake | 75 | = |
+| 2 | J. Cole | 27 | +3 |
 | 3 | 21 Savage | 22 | +4 |
 | 4 | The Alchemist | 20 | +6 |
-| 5 | Lil Wayne | 20 | +14 |
+| 5 | Lil Wayne | 20 | +15 |
 | 6 | Gunna | 20 | +2 |
-| 7 | Lil Baby | 19 | +2 |
-| 8 | Young Thug | 18 | +12 |
+| 7 | Young Thug | 19 | +14 |
+| 8 | Lil Baby | 19 | +1 |
 | 9 | Benny The Butcher | 17 | +4 |
-| 10 | Kendrick Lamar | 16 | +19 |
+| 10 | Future | 16 | -8 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -31,7 +31,7 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 7 | Point and Kill - Little Simz | 3 | NEW |
 | 8 | Sorrows - Bryson Tiller | 3 | NEW |
 | 9 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 3 | NEW |
-| 10 | peter pan. - Brent Faiyaz | 2 | +29 |
+| 10 | peter pan. - Brent Faiyaz | 2 | +30 |
 
 ## Discovery
 64% of plays were songs not in your log before this week.
@@ -61,9 +61,9 @@ Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ██████████ 106
 Afternoon (12pm-5pm)   ████████████████████ 211
 Evening (5pm-9pm)      ████████████ 129
-Night (9pm-12am)       █████ 57
+Night (9pm-12am)       █████ 56
 
-Mon                    ██████████████████ 110
+Mon                    ██████████████████ 109
 Tue                    █████████████████ 101
 Wed                    ███████████ 64
 Thu                    █████ 33
@@ -80,10 +80,10 @@ Sun                    ████████████ 73
 - Westside Gunn: 10 days in a row
 
 ## Eras
-1990s: 25, 2000s: 42, 2010s: 203, 2020s: 294
+1990s: 25, 2000s: 41, 2010s: 203, 2020s: 294
 
 ## How you listen
-Played from: other 476, playlist 88
+Played from: other 475, playlist 88
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1824 plays recorded total._
+_Log started 2026-10-26 · 1827 plays recorded total._
