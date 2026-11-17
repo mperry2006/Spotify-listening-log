@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-17T10:08-05:00",
+  "generated_at": "2026-11-17T11:13-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1831,
+  "total_plays_logged": 1832,
   "this_week": {
     "plays": 558,
     "minutes": 1946,
     "unique_tracks": 485,
-    "unique_artists": 253
+    "unique_artists": 251
   },
   "last_week": {
-    "plays": 509,
-    "minutes": 1718
+    "plays": 507,
+    "minutes": 1712
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -77,8 +77,8 @@
       "rank": 2,
       "name": "J. Cole",
       "plays": 26,
-      "last_week_plays": 26,
-      "change": "+1"
+      "last_week_plays": 25,
+      "change": "+2"
     },
     {
       "rank": 3,
@@ -164,7 +164,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+384"
+      "change": "+382"
     },
     {
       "rank": 5,
@@ -206,7 +206,7 @@
       "name": "dangerous - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+353"
+      "change": "+351"
     }
   ],
   "dropped_off": [],
@@ -336,8 +336,8 @@
   "release_eras": {
     "1990s": 25,
     "2000s": 41,
-    "2010s": 201,
-    "2020s": 291
+    "2010s": 200,
+    "2020s": 292
   },
   "listening_style": {
     "played_from": {
