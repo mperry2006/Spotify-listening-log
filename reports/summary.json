@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-17T17:08-05:00",
+  "generated_at": "2026-11-17T18:08-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1854,
+  "total_plays_logged": 1865,
   "this_week": {
-    "plays": 543,
-    "minutes": 1900,
-    "unique_tracks": 471,
-    "unique_artists": 249
+    "plays": 554,
+    "minutes": 1935,
+    "unique_tracks": 480,
+    "unique_artists": 254
   },
   "last_week": {
-    "plays": 521,
-    "minutes": 1764
+    "plays": 502,
+    "minutes": 1716
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -134,7 +134,7 @@
       "name": "Kendrick Lamar",
       "plays": 15,
       "last_week_plays": 8,
-      "change": "+17"
+      "change": "+15"
     }
   ],
   "top_tracks": [
@@ -161,49 +161,49 @@
     },
     {
       "rank": 4,
-      "name": "Won't Be Late (feat. Drake) - Swae Lee",
+      "name": "One Day You'll Be Mine - USHER",
       "plays": 3,
-      "last_week_plays": 1,
-      "change": "+369"
+      "last_week_plays": 2,
+      "change": "+24"
     },
     {
       "rank": 5,
+      "name": "Wickedest - Tems",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+115"
+    },
+    {
+      "rank": 6,
+      "name": "Won't Be Late (feat. Drake) - Swae Lee",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+351"
+    },
+    {
+      "rank": 7,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "God Gave Me Style - 50 Cent",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 9,
-      "name": "Sorrows - Bryson Tiller",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -245,12 +245,12 @@
         "plays": 3
       },
       {
-        "name": "Big Homiie G",
+        "name": "Jorja Smith",
         "plays": 3
       },
       {
-        "name": "A$AP Ferg",
-        "plays": 2
+        "name": "Big Homiie G",
+        "plays": 3
       }
     ],
     "plays_of_new_tracks_pct": 67,
@@ -267,6 +267,14 @@
     },
     {
       "track": "1hunnit - A Boogie Wit da Hoodie",
+      "plays": 3
+    },
+    {
+      "track": "One Day You'll Be Mine - USHER",
+      "plays": 3
+    },
+    {
+      "track": "Wickedest - Tems",
       "plays": 3
     },
     {
@@ -288,26 +296,18 @@
     {
       "track": "God Gave Me Style - 50 Cent",
       "plays": 3
-    },
-    {
-      "track": "Sorrows - Bryson Tiller",
-      "plays": 3
-    },
-    {
-      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
-      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 197,
-    "Evening (5pm-9pm)": 128,
+    "Evening (5pm-9pm)": 139,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 81,
+    "Tue": 92,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -339,15 +339,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 24,
+    "1990s": 25,
     "2000s": 44,
-    "2010s": 191,
-    "2020s": 283
+    "2010s": 195,
+    "2020s": 289
   },
   "listening_style": {
     "played_from": {
-      "other": 455,
-      "playlist": 88
+      "other": 457,
+      "playlist": 97
     },
     "full_album_sessions": 0
   },
