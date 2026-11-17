@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-17T14:19-05:00",
+  "generated_at": "2026-11-17T16:07-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1841,
+  "total_plays_logged": 1848,
   "this_week": {
-    "plays": 565,
-    "minutes": 1974,
-    "unique_tracks": 491,
-    "unique_artists": 254
+    "plays": 546,
+    "minutes": 1914,
+    "unique_tracks": 475,
+    "unique_artists": 249
   },
   "last_week": {
-    "plays": 506,
-    "minutes": 1712
+    "plays": 515,
+    "minutes": 1738
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -38,7 +38,7 @@
         "skips": 2
       },
       {
-        "track": "Reminisce - Mary J. Blige",
+        "track": "FEM - Davido",
         "skips": 1
       }
     ],
@@ -60,7 +60,7 @@
         "skips": 2
       },
       {
-        "artist": "Mary J. Blige",
+        "artist": "Davido",
         "skips": 1
       }
     ]
@@ -69,72 +69,72 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 75,
-      "last_week_plays": 47,
+      "plays": 73,
+      "last_week_plays": 48,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
       "plays": 26,
-      "last_week_plays": 26,
-      "change": "+1"
+      "last_week_plays": 24,
+      "change": "+4"
     },
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 22,
-      "last_week_plays": 22,
+      "plays": 20,
+      "last_week_plays": 23,
       "change": "+4"
     },
     {
       "rank": 4,
-      "name": "Lil Wayne",
+      "name": "Gunna",
       "plays": 20,
-      "last_week_plays": 10,
-      "change": "+14"
+      "last_week_plays": 21,
+      "change": "+4"
     },
     {
       "rank": 5,
-      "name": "Gunna",
-      "plays": 20,
-      "last_week_plays": 20,
-      "change": "+3"
+      "name": "Lil Wayne",
+      "plays": 19,
+      "last_week_plays": 10,
+      "change": "+14"
     },
     {
       "rank": 6,
       "name": "Young Thug",
       "plays": 19,
-      "last_week_plays": 10,
-      "change": "+13"
+      "last_week_plays": 11,
+      "change": "+12"
     },
     {
       "rank": 7,
-      "name": "Lil Baby",
-      "plays": 19,
-      "last_week_plays": 17,
-      "change": "+4"
-    },
-    {
-      "rank": 8,
       "name": "The Alchemist",
       "plays": 18,
       "last_week_plays": 20,
-      "change": "+1"
+      "change": "+2"
+    },
+    {
+      "rank": 8,
+      "name": "Future",
+      "plays": 17,
+      "last_week_plays": 29,
+      "change": "-6"
     },
     {
       "rank": 9,
-      "name": "Future",
+      "name": "Lil Baby",
       "plays": 17,
-      "last_week_plays": 28,
-      "change": "-7"
+      "last_week_plays": 19,
+      "change": "+1"
     },
     {
       "rank": 10,
-      "name": "Benny The Butcher",
-      "plays": 17,
-      "last_week_plays": 14,
-      "change": "+3"
+      "name": "Kendrick Lamar",
+      "plays": 16,
+      "last_week_plays": 8,
+      "change": "+16"
     }
   ],
   "top_tracks": [
@@ -164,7 +164,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+380"
+      "change": "+368"
     },
     {
       "rank": 5,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "Right On - Lil Baby",
+      "name": "a lot - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+368"
+      "change": "+254"
     }
   ],
   "dropped_off": [],
@@ -215,10 +215,6 @@
       {
         "name": "Davido",
         "plays": 6
-      },
-      {
-        "name": "Nicki Minaj",
-        "plays": 5
       },
       {
         "name": "Joeboy",
@@ -237,10 +233,6 @@
         "plays": 4
       },
       {
-        "name": "Doodie Lo",
-        "plays": 3
-      },
-      {
         "name": "Little Simz",
         "plays": 3
       },
@@ -251,9 +243,17 @@
       {
         "name": "Sampha",
         "plays": 3
+      },
+      {
+        "name": "Big Homiie G",
+        "plays": 3
+      },
+      {
+        "name": "A$AP Ferg",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 65,
+    "plays_of_new_tracks_pct": 66,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -297,13 +297,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 218,
+    "Afternoon (12pm-5pm)": 199,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 103,
+    "Tue": 84,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -322,27 +322,27 @@
     },
     {
       "artist": "Metro Boomin",
-      "days": 12
+      "days": 13
+    },
+    {
+      "artist": "Kanye West",
+      "days": 11
     },
     {
       "artist": "The Alchemist",
-      "days": 10
-    },
-    {
-      "artist": "Westside Gunn",
       "days": 10
     }
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 27,
-    "2000s": 43,
-    "2010s": 201,
-    "2020s": 293
+    "1990s": 25,
+    "2000s": 44,
+    "2010s": 192,
+    "2020s": 284
   },
   "listening_style": {
     "played_from": {
-      "other": 477,
+      "other": 458,
       "playlist": 88
     },
     "full_album_sessions": 0
