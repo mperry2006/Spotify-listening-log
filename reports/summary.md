@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-10 to 2026-11-17** · updated 2026-11-17 11:13 ET
+**2026-11-10 to 2026-11-17** · updated 2026-11-17 12:20 ET
 
-**558 plays** (+51 vs last week) · **1946 minutes** · 251 artists · 485 songs
+**560 plays** (+53 vs last week) · **1954 minutes** · 253 artists · 487 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -9,11 +9,11 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 75 | = |
-| 2 | J. Cole | 26 | +2 |
+| 2 | J. Cole | 25 | +1 |
 | 3 | 21 Savage | 22 | +4 |
-| 4 | Lil Wayne | 20 | +15 |
+| 4 | Lil Wayne | 20 | +14 |
 | 5 | Gunna | 20 | +3 |
-| 6 | Young Thug | 19 | +14 |
+| 6 | Young Thug | 19 | +13 |
 | 7 | Lil Baby | 19 | +3 |
 | 8 | The Alchemist | 18 | +1 |
 | 9 | Benny The Butcher | 17 | +4 |
@@ -25,17 +25,17 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | FEM - Davido | 4 | NEW |
 | 3 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
-| 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +382 |
+| 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +381 |
 | 5 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 6 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
 | 7 | Point and Kill - Little Simz | 3 | NEW |
 | 8 | Sorrows - Bryson Tiller | 3 | NEW |
 | 9 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 3 | NEW |
-| 10 | dangerous - 21 Savage | 2 | +351 |
+| 10 | dangerous - 21 Savage | 2 | +350 |
 
 ## Discovery
 65% of plays were songs not in your log before this week.
-New artists: Davido (6), Nicki Minaj (5), Joeboy (5), Rema (4), Wale (4), Bryson Tiller (4), Cozz (3), Doodie Lo (3), Little Simz (3), Obongjayar (3)
+New artists: Davido (6), Nicki Minaj (5), Joeboy (5), Rema (4), Wale (4), Bryson Tiller (4), Doodie Lo (3), Little Simz (3), Obongjayar (3), Sampha (3)
 
 ## On repeat (3+ plays)
 - Sip (Alcohol) - Joeboy - 5x
@@ -58,13 +58,13 @@ New artists: Davido (6), Nicki Minaj (5), Joeboy (5), Rema (4), Wale (4), Bryson
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 61
-Morning (5am-12pm)     ██████████ 101
-Afternoon (12pm-5pm)   ████████████████████ 211
+Morning (5am-12pm)     █████████ 101
+Afternoon (12pm-5pm)   ████████████████████ 213
 Evening (5pm-9pm)      ████████████ 129
 Night (9pm-12am)       █████ 56
 
 Mon                    ██████████████████ 109
-Tue                    ████████████████ 96
+Tue                    ████████████████ 98
 Wed                    ███████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
@@ -80,10 +80,10 @@ Sun                    ████████████ 73
 - Westside Gunn: 10 days in a row
 
 ## Eras
-1990s: 25, 2000s: 41, 2010s: 200, 2020s: 292
+1980s: 1, 1990s: 26, 2000s: 41, 2010s: 199, 2020s: 293
 
 ## How you listen
-Played from: other 470, playlist 88
+Played from: other 472, playlist 88
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1832 plays recorded total._
+_Log started 2026-10-26 · 1835 plays recorded total._

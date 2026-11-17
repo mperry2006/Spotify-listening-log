@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-17T11:13-05:00",
+  "generated_at": "2026-11-17T12:20-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1832,
+  "total_plays_logged": 1835,
   "this_week": {
-    "plays": 558,
-    "minutes": 1946,
-    "unique_tracks": 485,
-    "unique_artists": 251
+    "plays": 560,
+    "minutes": 1954,
+    "unique_tracks": 487,
+    "unique_artists": 253
   },
   "last_week": {
     "plays": 507,
@@ -76,9 +76,9 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 26,
-      "last_week_plays": 25,
-      "change": "+2"
+      "plays": 25,
+      "last_week_plays": 26,
+      "change": "+1"
     },
     {
       "rank": 3,
@@ -92,7 +92,7 @@
       "name": "Lil Wayne",
       "plays": 20,
       "last_week_plays": 10,
-      "change": "+15"
+      "change": "+14"
     },
     {
       "rank": 5,
@@ -106,7 +106,7 @@
       "name": "Young Thug",
       "plays": 19,
       "last_week_plays": 10,
-      "change": "+14"
+      "change": "+13"
     },
     {
       "rank": 7,
@@ -164,7 +164,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+382"
+      "change": "+381"
     },
     {
       "rank": 5,
@@ -206,7 +206,7 @@
       "name": "dangerous - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+351"
+      "change": "+350"
     }
   ],
   "dropped_off": [],
@@ -237,10 +237,6 @@
         "plays": 4
       },
       {
-        "name": "Cozz",
-        "plays": 3
-      },
-      {
         "name": "Doodie Lo",
         "plays": 3
       },
@@ -250,6 +246,10 @@
       },
       {
         "name": "Obongjayar",
+        "plays": 3
+      },
+      {
+        "name": "Sampha",
         "plays": 3
       }
     ],
@@ -297,13 +297,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 211,
+    "Afternoon (12pm-5pm)": 213,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 96,
+    "Tue": 98,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -334,14 +334,15 @@
     }
   ],
   "release_eras": {
-    "1990s": 25,
+    "1980s": 1,
+    "1990s": 26,
     "2000s": 41,
-    "2010s": 200,
-    "2020s": 292
+    "2010s": 199,
+    "2020s": 293
   },
   "listening_style": {
     "played_from": {
-      "other": 470,
+      "other": 472,
       "playlist": 88
     },
     "full_album_sessions": 0
