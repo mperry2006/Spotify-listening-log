@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-17T12:20-05:00",
+  "generated_at": "2026-11-17T14:19-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1835,
+  "total_plays_logged": 1841,
   "this_week": {
-    "plays": 560,
-    "minutes": 1954,
-    "unique_tracks": 487,
-    "unique_artists": 253
+    "plays": 565,
+    "minutes": 1974,
+    "unique_tracks": 491,
+    "unique_artists": 254
   },
   "last_week": {
-    "plays": 507,
+    "plays": 506,
     "minutes": 1712
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
@@ -76,7 +76,7 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 25,
+      "plays": 26,
       "last_week_plays": 26,
       "change": "+1"
     },
@@ -84,7 +84,7 @@
       "rank": 3,
       "name": "21 Savage",
       "plays": 22,
-      "last_week_plays": 21,
+      "last_week_plays": 22,
       "change": "+4"
     },
     {
@@ -112,8 +112,8 @@
       "rank": 7,
       "name": "Lil Baby",
       "plays": 19,
-      "last_week_plays": 18,
-      "change": "+3"
+      "last_week_plays": 17,
+      "change": "+4"
     },
     {
       "rank": 8,
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "Benny The Butcher",
+      "name": "Future",
       "plays": 17,
-      "last_week_plays": 14,
-      "change": "+4"
+      "last_week_plays": 28,
+      "change": "-7"
     },
     {
       "rank": 10,
-      "name": "Future",
-      "plays": 16,
-      "last_week_plays": 28,
-      "change": "-8"
+      "name": "Benny The Butcher",
+      "plays": 17,
+      "last_week_plays": 14,
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -164,7 +164,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+381"
+      "change": "+380"
     },
     {
       "rank": 5,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "dangerous - 21 Savage",
+      "name": "Right On - Lil Baby",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+350"
+      "change": "+368"
     }
   ],
   "dropped_off": [],
@@ -297,13 +297,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
-    "Afternoon (12pm-5pm)": 213,
+    "Afternoon (12pm-5pm)": 218,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 98,
+    "Tue": 103,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -318,7 +318,7 @@
     },
     {
       "artist": "21 Savage",
-      "days": 12
+      "days": 13
     },
     {
       "artist": "Metro Boomin",
@@ -335,14 +335,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 26,
-    "2000s": 41,
-    "2010s": 199,
+    "1990s": 27,
+    "2000s": 43,
+    "2010s": 201,
     "2020s": 293
   },
   "listening_style": {
     "played_from": {
-      "other": 472,
+      "other": 477,
       "playlist": 88
     },
     "full_album_sessions": 0
