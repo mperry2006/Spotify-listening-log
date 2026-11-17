@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:14-05:00",
+  "generated_at": "2026-11-17T01:18-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
@@ -13,8 +13,8 @@
     "unique_artists": 251
   },
   "last_week": {
-    "plays": 505,
-    "minutes": 1708
+    "plays": 504,
+    "minutes": 1703
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -78,7 +78,7 @@
       "name": "J. Cole",
       "plays": 27,
       "last_week_plays": 25,
-      "change": "+3"
+      "change": "+2"
     },
     {
       "rank": 3,
@@ -126,7 +126,7 @@
       "rank": 9,
       "name": "Benny The Butcher",
       "plays": 17,
-      "last_week_plays": 15,
+      "last_week_plays": 14,
       "change": "+4"
     },
     {
@@ -164,7 +164,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+388"
+      "change": "+387"
     },
     {
       "rank": 5,

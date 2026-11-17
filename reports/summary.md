@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-10 to 2026-11-17** · updated 2026-11-17 00:14 ET
+**2026-11-10 to 2026-11-17** · updated 2026-11-17 01:18 ET
 
-**563 plays** (+58 vs last week) · **1965 minutes** · 251 artists · 489 songs
+**563 plays** (+59 vs last week) · **1965 minutes** · 251 artists · 489 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -9,7 +9,7 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 75 | = |
-| 2 | J. Cole | 27 | +3 |
+| 2 | J. Cole | 27 | +2 |
 | 3 | 21 Savage | 22 | +4 |
 | 4 | The Alchemist | 20 | +6 |
 | 5 | Lil Wayne | 20 | +15 |
@@ -25,7 +25,7 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | FEM - Davido | 4 | NEW |
 | 3 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
-| 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +388 |
+| 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +387 |
 | 5 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 6 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
 | 7 | Point and Kill - Little Simz | 3 | NEW |
