@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-17T08:28-05:00",
+  "generated_at": "2026-11-17T10:08-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1827,
+  "total_plays_logged": 1831,
   "this_week": {
-    "plays": 562,
-    "minutes": 1962,
-    "unique_tracks": 488,
-    "unique_artists": 251
+    "plays": 558,
+    "minutes": 1946,
+    "unique_tracks": 485,
+    "unique_artists": 253
   },
   "last_week": {
-    "plays": 505,
-    "minutes": 1706
+    "plays": 509,
+    "minutes": 1718
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,9 +76,9 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 27,
-      "last_week_plays": 25,
-      "change": "+2"
+      "plays": 26,
+      "last_week_plays": 26,
+      "change": "+1"
     },
     {
       "rank": 3,
@@ -89,37 +89,37 @@
     },
     {
       "rank": 4,
-      "name": "The Alchemist",
-      "plays": 20,
-      "last_week_plays": 18,
-      "change": "+6"
-    },
-    {
-      "rank": 5,
       "name": "Lil Wayne",
       "plays": 20,
       "last_week_plays": 10,
       "change": "+15"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Gunna",
       "plays": 20,
       "last_week_plays": 20,
-      "change": "+2"
+      "change": "+3"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Young Thug",
       "plays": 19,
       "last_week_plays": 10,
       "change": "+14"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Lil Baby",
       "plays": 19,
-      "last_week_plays": 19,
+      "last_week_plays": 18,
+      "change": "+3"
+    },
+    {
+      "rank": 8,
+      "name": "The Alchemist",
+      "plays": 18,
+      "last_week_plays": 20,
       "change": "+1"
     },
     {
@@ -164,7 +164,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+387"
+      "change": "+384"
     },
     {
       "rank": 5,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "peter pan. - Brent Faiyaz",
+      "name": "dangerous - 21 Savage",
       "plays": 2,
-      "last_week_plays": 2,
-      "change": "+30"
+      "last_week_plays": 1,
+      "change": "+353"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 64,
+    "plays_of_new_tracks_pct": 65,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -296,14 +296,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 61,
-    "Morning (5am-12pm)": 105,
+    "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 211,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 56
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 100,
+    "Tue": 96,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -336,12 +336,12 @@
   "release_eras": {
     "1990s": 25,
     "2000s": 41,
-    "2010s": 203,
-    "2020s": 293
+    "2010s": 201,
+    "2020s": 291
   },
   "listening_style": {
     "played_from": {
-      "other": 474,
+      "other": 470,
       "playlist": 88
     },
     "full_album_sessions": 0

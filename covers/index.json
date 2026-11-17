@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:24+00:00",
+  "generated_at": "2026-11-17T15:08+00:00",
   "covers": [
     {
       "album_id": "23RqDWBiD3XeCjtnBWpFHk",
@@ -36,23 +36,6 @@
       "file": "covers/4nOym5RKE8Opauf3rMxPAW.jpg"
     },
     {
-      "album_id": "4v0FSMsulZqfi28KIdwDfb",
-      "album": "Won't Be Late (feat. Drake)",
-      "artists": [
-        "Swae Lee"
-      ],
-      "release_date": "2019-08-16",
-      "spotify_url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb",
-      "tracks": [
-        {
-          "track_id": "2sqsNXfN0HtgDEgaHXiUTa",
-          "track": "Won't Be Late (feat. Drake)",
-          "plays": 6
-        }
-      ],
-      "file": "covers/4v0FSMsulZqfi28KIdwDfb.jpg"
-    },
-    {
       "album_id": "5Pvx6i7lDdbDMO79DE9FHR",
       "album": "Sip (Alcohol)",
       "artists": [
@@ -68,6 +51,23 @@
         }
       ],
       "file": "covers/5Pvx6i7lDdbDMO79DE9FHR.jpg"
+    },
+    {
+      "album_id": "4v0FSMsulZqfi28KIdwDfb",
+      "album": "Won't Be Late (feat. Drake)",
+      "artists": [
+        "Swae Lee"
+      ],
+      "release_date": "2019-08-16",
+      "spotify_url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb",
+      "tracks": [
+        {
+          "track_id": "2sqsNXfN0HtgDEgaHXiUTa",
+          "track": "Won't Be Late (feat. Drake)",
+          "plays": 6
+        }
+      ],
+      "file": "covers/4v0FSMsulZqfi28KIdwDfb.jpg"
     },
     {
       "album_id": "2vt6tirj8PxYErbB7GpkBG",
@@ -104,40 +104,6 @@
       "file": "covers/4OFpcL7vnT8K9P7jfFLDG9.jpg"
     },
     {
-      "album_id": "3PASWLvNfvfMF68dDznEgK",
-      "album": "Racks 2 Skinny",
-      "artists": [
-        "Migos"
-      ],
-      "release_date": "2020-05-11",
-      "spotify_url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK",
-      "tracks": [
-        {
-          "track_id": "568OIKgeHyGRD3uWR44JbO",
-          "track": "Racks 2 Skinny",
-          "plays": 3
-        }
-      ],
-      "file": "covers/3PASWLvNfvfMF68dDznEgK.jpg"
-    },
-    {
-      "album_id": "0fQdoem8dnrl80YcZzQ8f0",
-      "album": "My Way",
-      "artists": [
-        "USHER"
-      ],
-      "release_date": "1997-09-16",
-      "spotify_url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0",
-      "tracks": [
-        {
-          "track_id": "64ujSykVY35bgU74PTmCsJ",
-          "track": "One Day You'll Be Mine",
-          "plays": 3
-        }
-      ],
-      "file": "covers/0fQdoem8dnrl80YcZzQ8f0.jpg"
-    },
-    {
       "album_id": "2OQEAqShAl6SodrGhmYZ4Z",
       "album": "Artist",
       "artists": [
@@ -172,22 +138,72 @@
       "file": "covers/6calbwoH5iMDX9DhLWyqFY.jpg"
     },
     {
-      "album_id": "1ozpmkWcCHwsQ4QTnxOOdT",
-      "album": "What A Time To Be Alive",
+      "album_id": "2upw5IrzeqKApIQZyx5o6r",
+      "album": "Beam Me Up Scotty",
       "artists": [
-        "Drake",
-        "Future"
+        "Nicki Minaj"
       ],
-      "release_date": "2015-09-20",
-      "spotify_url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT",
+      "release_date": "2021-05-14",
+      "spotify_url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r",
       "tracks": [
         {
-          "track_id": "6bqtKURdSWkInAJHDkuaL0",
-          "track": "I'm The Plug",
+          "track_id": "1TZv3bujNaYz646eezRE91",
+          "track": "Seeing Green (with Drake & Lil Wayne)",
+          "plays": 3
+        }
+      ],
+      "file": "covers/2upw5IrzeqKApIQZyx5o6r.jpg"
+    },
+    {
+      "album_id": "0fSfkmx0tdPqFYkJuNX74a",
+      "album": "MUSIC",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "release_date": "2025-03-14",
+      "spotify_url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a",
+      "tracks": [
+        {
+          "track_id": "4qvsNsA4gQKC9HLrmPC2Vx",
+          "track": "TRIM (with Future)",
+          "plays": 3
+        }
+      ],
+      "file": "covers/0fSfkmx0tdPqFYkJuNX74a.jpg"
+    },
+    {
+      "album_id": "4Q7cRXio6mF2ImVUCcezPO",
+      "album": "For All The Dogs Scary Hours Edition",
+      "artists": [
+        "Drake"
+      ],
+      "release_date": "2023-11-17",
+      "spotify_url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO",
+      "tracks": [
+        {
+          "track_id": "2ut4BOQSqxLpcX5MtPjzYa",
+          "track": "Evil Ways (feat. J. Cole)",
           "plays": 2
         }
       ],
-      "file": "covers/1ozpmkWcCHwsQ4QTnxOOdT.jpg"
+      "file": "covers/4Q7cRXio6mF2ImVUCcezPO.jpg"
+    },
+    {
+      "album_id": "2RRYaYHY7fIIdvFlvgb5vq",
+      "album": "american dream",
+      "artists": [
+        "21 Savage"
+      ],
+      "release_date": "2024-01-12",
+      "spotify_url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq",
+      "tracks": [
+        {
+          "track_id": "0fyP96TikhD9sM4eKqw5Yp",
+          "track": "dangerous",
+          "plays": 2
+        }
+      ],
+      "file": "covers/2RRYaYHY7fIIdvFlvgb5vq.jpg"
     },
     {
       "album_id": "4zxXtxhx2Gc2EwEyMOkAeY",
@@ -207,6 +223,109 @@
       "file": "covers/4zxXtxhx2Gc2EwEyMOkAeY.jpg"
     },
     {
+      "album_id": "1YKdJEzlhd5rsq03k7eWmM",
+      "album": "Johnny P's Caddy",
+      "artists": [
+        "Benny The Butcher",
+        "J. Cole"
+      ],
+      "release_date": "2022-01-28",
+      "spotify_url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM",
+      "tracks": [
+        {
+          "track_id": "6AshXllQhobwSXsdpgp41w",
+          "track": "Johnny P's Caddy",
+          "plays": 2
+        }
+      ],
+      "file": "covers/1YKdJEzlhd5rsq03k7eWmM.jpg"
+    },
+    {
+      "album_id": "1dzpQiq9uhCaaeTGFmtn2p",
+      "album": "Right On",
+      "artists": [
+        "Lil Baby"
+      ],
+      "release_date": "2022-04-08",
+      "spotify_url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p",
+      "tracks": [
+        {
+          "track_id": "6ws54n2IzyrIxxyzlG2bVJ",
+          "track": "Right On",
+          "plays": 2
+        }
+      ],
+      "file": "covers/1dzpQiq9uhCaaeTGFmtn2p.jpg"
+    },
+    {
+      "album_id": "02uWB8Kekadkl3yGBoOOcx",
+      "album": "DS4EVER",
+      "artists": [
+        "Gunna"
+      ],
+      "release_date": "2022-01-07",
+      "spotify_url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx",
+      "tracks": [
+        {
+          "track_id": "49BbpJuVsX2wUl0Qo9aVvC",
+          "track": "mop (feat. Young Thug)",
+          "plays": 2
+        }
+      ],
+      "file": "covers/02uWB8Kekadkl3yGBoOOcx.jpg"
+    },
+    {
+      "album_id": "1aefUsOlozdtYI6ukHvrpp",
+      "album": "Hitler Wears Hermes 7",
+      "artists": [
+        "Westside Gunn"
+      ],
+      "release_date": "2019-11-01",
+      "spotify_url": "https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp",
+      "tracks": [
+        {
+          "track_id": "5oEVxzfDc9PYH7zWRBZB7W",
+          "track": "Lucha Bros (feat. Curren$y & Benny the Butcher)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/1aefUsOlozdtYI6ukHvrpp.jpg"
+    },
+    {
+      "album_id": "6vKVBLTsQW5wXOzmOIkPVZ",
+      "album": "s*x m*ney dr*gs",
+      "artists": [
+        "LUCKI"
+      ],
+      "release_date": "2023-07-07",
+      "spotify_url": "https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ",
+      "tracks": [
+        {
+          "track_id": "7sHTyXq2wK6hpCi79KlzbC",
+          "track": "Tunevert",
+          "plays": 2
+        }
+      ],
+      "file": "covers/6vKVBLTsQW5wXOzmOIkPVZ.jpg"
+    },
+    {
+      "album_id": "3PASWLvNfvfMF68dDznEgK",
+      "album": "Racks 2 Skinny",
+      "artists": [
+        "Migos"
+      ],
+      "release_date": "2020-05-11",
+      "spotify_url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK",
+      "tracks": [
+        {
+          "track_id": "568OIKgeHyGRD3uWR44JbO",
+          "track": "Racks 2 Skinny",
+          "plays": 2
+        }
+      ],
+      "file": "covers/3PASWLvNfvfMF68dDznEgK.jpg"
+    },
+    {
       "album_id": "6wTyGUWGCilBFZ837k5aRi",
       "album": "SAVAGE MODE II",
       "artists": [
@@ -217,97 +336,12 @@
       "spotify_url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi",
       "tracks": [
         {
-          "track_id": "1wGnp7ejkCuXRsehXx0PNP",
-          "track": "RIP Luv",
+          "track_id": "4V9ynsDPwHtdItksqjuRu0",
+          "track": "Brand New Draco",
           "plays": 2
         }
       ],
       "file": "covers/6wTyGUWGCilBFZ837k5aRi.jpg"
-    },
-    {
-      "album_id": "6FfYIKA59pCFs2d1FB79Pq",
-      "album": "WUNNA (Deluxe)",
-      "artists": [
-        "Gunna"
-      ],
-      "release_date": "2020-07-24",
-      "spotify_url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq",
-      "tracks": [
-        {
-          "track_id": "3pjzb1lnMOJbWbghMGSp23",
-          "track": "STREET SWEEPER (feat. Future)",
-          "plays": 2
-        }
-      ],
-      "file": "covers/6FfYIKA59pCFs2d1FB79Pq.jpg"
-    },
-    {
-      "album_id": "0h7HHLlC9uaaxhJOaKBLvr",
-      "album": "Flyest Nigga In Charge, Vol. 1",
-      "artists": [
-        "Westside Gunn"
-      ],
-      "release_date": "2005-01-02",
-      "spotify_url": "https://open.spotify.com/album/0h7HHLlC9uaaxhJOaKBLvr",
-      "tracks": [
-        {
-          "track_id": "33YwdmM6I1hBOT0ZQHSQW6",
-          "track": "Freestyle",
-          "plays": 1
-        }
-      ],
-      "file": "covers/0h7HHLlC9uaaxhJOaKBLvr.jpg"
-    },
-    {
-      "album_id": "5BGzOpea6At0Nd7tYtYZOP",
-      "album": "Tha Carter III",
-      "artists": [
-        "Lil Wayne"
-      ],
-      "release_date": "2008-06-10",
-      "spotify_url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP",
-      "tracks": [
-        {
-          "track_id": "46lIt6GmL0VkkbuUyGDbCs",
-          "track": "Got Money",
-          "plays": 2
-        }
-      ],
-      "file": "covers/5BGzOpea6At0Nd7tYtYZOP.jpg"
-    },
-    {
-      "album_id": "4eLPsYPBmXABThSJ821sqY",
-      "album": "DAMN.",
-      "artists": [
-        "Kendrick Lamar"
-      ],
-      "release_date": "2017-04-14",
-      "spotify_url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY",
-      "tracks": [
-        {
-          "track_id": "6SwRhMLwNqEi6alNPVG00n",
-          "track": "LOYALTY. FEAT. RIHANNA.",
-          "plays": 2
-        }
-      ],
-      "file": "covers/4eLPsYPBmXABThSJ821sqY.jpg"
-    },
-    {
-      "album_id": "3VfeeJElCEDeXlDiNZbn3E",
-      "album": "The Dynasty: Roc La Familia",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "release_date": "2000-10-31",
-      "spotify_url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E",
-      "tracks": [
-        {
-          "track_id": "6wc2PCiJf4HZ4HxVMd6igg",
-          "track": "Intro",
-          "plays": 1
-        }
-      ],
-      "file": "covers/3VfeeJElCEDeXlDiNZbn3E.jpg"
     },
     {
       "album_id": "40GMAhriYJRO1rsY4YdrZb",
@@ -319,63 +353,29 @@
       "spotify_url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb",
       "tracks": [
         {
-          "track_id": "03L2AoiRbWhvt7BDMx1jUB",
-          "track": "U With Me?",
+          "track_id": "7sBwAWyXfiIgrYQ8BaJESH",
+          "track": "Keep The Family Close",
           "plays": 1
         }
       ],
       "file": "covers/40GMAhriYJRO1rsY4YdrZb.jpg"
     },
     {
-      "album_id": "1lXY618HWkwYKJWBRYR4MK",
-      "album": "More Life",
+      "album_id": "5OsHMGOg6lRV9REoVxbcWA",
+      "album": "Tana Talk 3",
       "artists": [
-        "Drake"
+        "Benny The Butcher"
       ],
-      "release_date": "2017-03-18",
-      "spotify_url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK",
+      "release_date": "2018-11-23",
+      "spotify_url": "https://open.spotify.com/album/5OsHMGOg6lRV9REoVxbcWA",
       "tracks": [
         {
-          "track_id": "2XlHu0HcujBCkWMdIAvrqt",
-          "track": "Blem",
-          "plays": 1
-        }
-      ],
-      "file": "covers/1lXY618HWkwYKJWBRYR4MK.jpg"
-    },
-    {
-      "album_id": "4JAvwK4APPArjIsOdGoJXX",
-      "album": "The Off-Season",
-      "artists": [
-        "J. Cole"
-      ],
-      "release_date": "2021-05-14",
-      "spotify_url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX",
-      "tracks": [
-        {
-          "track_id": "5BwQjRasNcdRPuVWKcHto2",
-          "track": "h u n g e r . o n . h i l l s i d e (with Bas)",
+          "track_id": "1qzlwbV6SwHYOR3mhu6ZEd",
+          "track": "'97 Hov",
           "plays": 2
         }
       ],
-      "file": "covers/4JAvwK4APPArjIsOdGoJXX.jpg"
-    },
-    {
-      "album_id": "2RRYaYHY7fIIdvFlvgb5vq",
-      "album": "american dream",
-      "artists": [
-        "21 Savage"
-      ],
-      "release_date": "2024-01-12",
-      "spotify_url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq",
-      "tracks": [
-        {
-          "track_id": "02Cp3VTUWNed8hr69BhKz6",
-          "track": "dark days",
-          "plays": 2
-        }
-      ],
-      "file": "covers/2RRYaYHY7fIIdvFlvgb5vq.jpg"
+      "file": "covers/5OsHMGOg6lRV9REoVxbcWA.jpg"
     },
     {
       "album_id": "5mz0mJxb80gqJIcRf9LGHJ",
@@ -387,80 +387,63 @@
       "spotify_url": "https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ",
       "tracks": [
         {
-          "track_id": "5eCRkTcecpAXVWtS11GP5C",
-          "track": "From Time",
-          "plays": 1
+          "track_id": "3eN46sMTppXYMAyWi37wn1",
+          "track": "Come Thru",
+          "plays": 2
         }
       ],
       "file": "covers/5mz0mJxb80gqJIcRf9LGHJ.jpg"
     },
     {
-      "album_id": "3uyOwJu4r3yroAkFywNFM3",
-      "album": "Culture III",
+      "album_id": "1lXY618HWkwYKJWBRYR4MK",
+      "album": "More Life",
       "artists": [
-        "Migos"
+        "Drake"
       ],
-      "release_date": "2021-06-11",
-      "spotify_url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3",
+      "release_date": "2017-03-18",
+      "spotify_url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK",
       "tracks": [
         {
-          "track_id": "2Igem6Q4sfvXGJ3JkG7Baw",
-          "track": "Modern Day",
+          "track_id": "13e6f8t7RKXuxZ0JdaaJRG",
+          "track": "Jorja Interlude",
+          "plays": 1
+        }
+      ],
+      "file": "covers/1lXY618HWkwYKJWBRYR4MK.jpg"
+    },
+    {
+      "album_id": "0FYvMdfTfYJxnJnKs1wDb0",
+      "album": "It's Only Me",
+      "artists": [
+        "Lil Baby"
+      ],
+      "release_date": "2022-10-14",
+      "spotify_url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0",
+      "tracks": [
+        {
+          "track_id": "26Hgx0810XUis01XWvoftB",
+          "track": "Stand On It",
           "plays": 2
         }
       ],
-      "file": "covers/3uyOwJu4r3yroAkFywNFM3.jpg"
+      "file": "covers/0FYvMdfTfYJxnJnKs1wDb0.jpg"
     },
     {
-      "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
-      "album": "To Pimp A Butterfly",
+      "album_id": "5zWZi7tO66MoobIAl9OxWS",
+      "album": "FLAWLESS LIKE ME",
       "artists": [
-        "Kendrick Lamar"
+        "LUCKI"
       ],
-      "release_date": "2015-03-16",
-      "spotify_url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
+      "release_date": "2022-09-23",
+      "spotify_url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS",
       "tracks": [
         {
-          "track_id": "2UOYzhusMTypF7oAQwksCj",
-          "track": "Hood Politics",
+          "track_id": "5xWHivCI4dmg1DsabKUPvZ",
+          "track": "NOTICED YA",
           "plays": 1
         }
       ],
-      "file": "covers/7ycBtnsMtyVbbwTfJwRjSP.jpg"
-    },
-    {
-      "album_id": "6l2aad6LJghHkbd0KX1f7w",
-      "album": "The Last Wun",
-      "artists": [
-        "Gunna"
-      ],
-      "release_date": "2025-08-08",
-      "spotify_url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w",
-      "tracks": [
-        {
-          "track_id": "5dxgZCSp8CDx4WS9CQWYQG",
-          "track": "sakpase",
-          "plays": 1
-        }
-      ],
-      "file": "covers/6l2aad6LJghHkbd0KX1f7w.jpg"
-    },
-    {
-      "album_id": "4FWvo9oS4gRgHtAwDwUjiO",
-      "album": "The Black Album",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "release_date": "2003-11-14",
-      "spotify_url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO",
-      "tracks": [
-        {
-          "track_id": "6Sgm6qofFJPJG1A06mzDIb",
-          "track": "Allure",
-          "plays": 1
-        }
-      ],
-      "file": "covers/4FWvo9oS4gRgHtAwDwUjiO.jpg"
+      "file": "covers/5zWZi7tO66MoobIAl9OxWS.jpg"
     },
     {
       "album_id": "1ATL5GLyefJaxhQzSPVrLX",
@@ -497,141 +480,124 @@
       "file": "covers/6OQ9gBfg5EXeNAEwGSs6jK.jpg"
     },
     {
-      "album_id": "0OcMap99vLEeGkBCfCwRwS",
-      "album": "Watch The Throne",
+      "album_id": "3uyOwJu4r3yroAkFywNFM3",
+      "album": "Culture III",
       "artists": [
-        "JAŸ-Z",
-        "Kanye West"
+        "Migos"
       ],
-      "release_date": "2011-08-08",
-      "spotify_url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS",
+      "release_date": "2021-06-11",
+      "spotify_url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3",
       "tracks": [
         {
-          "track_id": "1BMzxGds8WSK39p4y432fl",
-          "track": "That's My Bitch",
-          "plays": 1
-        }
-      ],
-      "file": "covers/0OcMap99vLEeGkBCfCwRwS.jpg"
-    },
-    {
-      "album_id": "4Q7cRXio6mF2ImVUCcezPO",
-      "album": "For All The Dogs Scary Hours Edition",
-      "artists": [
-        "Drake"
-      ],
-      "release_date": "2023-11-17",
-      "spotify_url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO",
-      "tracks": [
-        {
-          "track_id": "0ZB5pdrM1leH58IgokDPZM",
-          "track": "Stories About My Brother",
-          "plays": 1
-        }
-      ],
-      "file": "covers/4Q7cRXio6mF2ImVUCcezPO.jpg"
-    },
-    {
-      "album_id": "0ptlfJfwGTy0Yvrk14JK1I",
-      "album": "If You're Reading This It's Too Late",
-      "artists": [
-        "Drake"
-      ],
-      "release_date": "2015-02-12",
-      "spotify_url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
-      "tracks": [
-        {
-          "track_id": "1ID1QFSNNxi0hiZCNcwjUC",
-          "track": "Legend",
-          "plays": 1
-        }
-      ],
-      "file": "covers/0ptlfJfwGTy0Yvrk14JK1I.jpg"
-    },
-    {
-      "album_id": "0UMMIkurRUmkruZ3KGBLtG",
-      "album": "2014 Forest Hills Drive",
-      "artists": [
-        "J. Cole"
-      ],
-      "release_date": "2014-12-09",
-      "spotify_url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
-      "tracks": [
-        {
-          "track_id": "0Thqjtu54vKMP06pwZkAWp",
-          "track": "G.O.M.D",
-          "plays": 1
-        }
-      ],
-      "file": "covers/0UMMIkurRUmkruZ3KGBLtG.jpg"
-    },
-    {
-      "album_id": "1oUzjom2A9xtyRM1SdOAGj",
-      "album": "Drip or Drown 2",
-      "artists": [
-        "Gunna"
-      ],
-      "release_date": "2019-02-22",
-      "spotify_url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj",
-      "tracks": [
-        {
-          "track_id": "42vD3VJBNhxLQ1SWmryw8C",
-          "track": "Cash War",
-          "plays": 1
-        }
-      ],
-      "file": "covers/1oUzjom2A9xtyRM1SdOAGj.jpg"
-    },
-    {
-      "album_id": "3DGQ1iZ9XKUQxAUWjfC34w",
-      "album": "good kid, m.A.A.d city (Deluxe)",
-      "artists": [
-        "Kendrick Lamar"
-      ],
-      "release_date": "2012",
-      "spotify_url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w",
-      "tracks": [
-        {
-          "track_id": "2cDCojn6uIBM6A5xTAbl3H",
-          "track": "m.A.A.d city",
-          "plays": 1
-        }
-      ],
-      "file": "covers/3DGQ1iZ9XKUQxAUWjfC34w.jpg"
-    },
-    {
-      "album_id": "4Wv5UAieM1LDEYVq5WmqDd",
-      "album": "KOD",
-      "artists": [
-        "J. Cole"
-      ],
-      "release_date": "2018-04-20",
-      "spotify_url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd",
-      "tracks": [
-        {
-          "track_id": "7EulRO07ZgchxqKUHb8Pvc",
-          "track": "1985 - Intro to “The Fall Off”",
-          "plays": 1
-        }
-      ],
-      "file": "covers/4Wv5UAieM1LDEYVq5WmqDd.jpg"
-    },
-    {
-      "album_id": "1wRfMGVxmo1Gokg7nUwHye",
-      "album": "Lewis Street",
-      "artists": [
-        "J. Cole"
-      ],
-      "release_date": "2020-07-22",
-      "spotify_url": "https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye",
-      "tracks": [
-        {
-          "track_id": "0FlfN5cbUUpIHCRH8X1M44",
-          "track": "t h e . c l i m b . b a c k",
+          "track_id": "2Igem6Q4sfvXGJ3JkG7Baw",
+          "track": "Modern Day",
           "plays": 2
         }
       ],
-      "file": "covers/1wRfMGVxmo1Gokg7nUwHye.jpg"
+      "file": "covers/3uyOwJu4r3yroAkFywNFM3.jpg"
+    },
+    {
+      "album_id": "1ozpmkWcCHwsQ4QTnxOOdT",
+      "album": "What A Time To Be Alive",
+      "artists": [
+        "Drake",
+        "Future"
+      ],
+      "release_date": "2015-09-20",
+      "spotify_url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT",
+      "tracks": [
+        {
+          "track_id": "1DmnEYXa4WfbdhAPwNzgD8",
+          "track": "30 for 30 Freestyle",
+          "plays": 2
+        }
+      ],
+      "file": "covers/1ozpmkWcCHwsQ4QTnxOOdT.jpg"
+    },
+    {
+      "album_id": "6l2aad6LJghHkbd0KX1f7w",
+      "album": "The Last Wun",
+      "artists": [
+        "Gunna"
+      ],
+      "release_date": "2025-08-08",
+      "spotify_url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w",
+      "tracks": [
+        {
+          "track_id": "5dxgZCSp8CDx4WS9CQWYQG",
+          "track": "sakpase",
+          "plays": 1
+        }
+      ],
+      "file": "covers/6l2aad6LJghHkbd0KX1f7w.jpg"
+    },
+    {
+      "album_id": "6uhEg4ASZYLIilZFCBFy1r",
+      "album": "My Turn (Deluxe)",
+      "artists": [
+        "Lil Baby"
+      ],
+      "release_date": "2020-05-01",
+      "spotify_url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r",
+      "tracks": [
+        {
+          "track_id": "16g0MvK60Z79npuD4wvh4E",
+          "track": "Same Thing",
+          "plays": 1
+        }
+      ],
+      "file": "covers/6uhEg4ASZYLIilZFCBFy1r.jpg"
+    },
+    {
+      "album_id": "4JAvwK4APPArjIsOdGoJXX",
+      "album": "The Off-Season",
+      "artists": [
+        "J. Cole"
+      ],
+      "release_date": "2021-05-14",
+      "spotify_url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX",
+      "tracks": [
+        {
+          "track_id": "5BwQjRasNcdRPuVWKcHto2",
+          "track": "h u n g e r . o n . h i l l s i d e (with Bas)",
+          "plays": 2
+        }
+      ],
+      "file": "covers/4JAvwK4APPArjIsOdGoJXX.jpg"
+    },
+    {
+      "album_id": "6FfYIKA59pCFs2d1FB79Pq",
+      "album": "WUNNA (Deluxe)",
+      "artists": [
+        "Gunna"
+      ],
+      "release_date": "2020-07-24",
+      "spotify_url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq",
+      "tracks": [
+        {
+          "track_id": "60XGm1Hmyx7UliCAYjiCd8",
+          "track": "ONE WATCH (feat. Young Thug)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/6FfYIKA59pCFs2d1FB79Pq.jpg"
+    },
+    {
+      "album_id": "0w31mbjD6bT4eckeQFWDt3",
+      "album": "Dr*gs R Bad",
+      "artists": [
+        "LUCKI"
+      ],
+      "release_date": "2026-05-15",
+      "spotify_url": "https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3",
+      "tracks": [
+        {
+          "track_id": "2BPjxkBhFjP2sp1SW6MyhU",
+          "track": "Roundtripski",
+          "plays": 1
+        }
+      ],
+      "file": "covers/0w31mbjD6bT4eckeQFWDt3.jpg"
     },
     {
       "album_id": "6guJZpZ52v4MrJKIH7tASl",
@@ -649,23 +615,6 @@
         }
       ],
       "file": "covers/6guJZpZ52v4MrJKIH7tASl.jpg"
-    },
-    {
-      "album_id": "02uWB8Kekadkl3yGBoOOcx",
-      "album": "DS4EVER",
-      "artists": [
-        "Gunna"
-      ],
-      "release_date": "2022-01-07",
-      "spotify_url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx",
-      "tracks": [
-        {
-          "track_id": "49BbpJuVsX2wUl0Qo9aVvC",
-          "track": "mop (feat. Young Thug)",
-          "plays": 1
-        }
-      ],
-      "file": "covers/02uWB8Kekadkl3yGBoOOcx.jpg"
     },
     {
       "album_id": "4JTOxuvM2jcSqAvEZtZsOO",
@@ -702,6 +651,40 @@
       "file": "covers/5qmZefgh78fN3jsyPPlvuw.jpg"
     },
     {
+      "album_id": "57wh3BpvUF2tmvwoGSjUe3",
+      "album": "Might Delete Later",
+      "artists": [
+        "J. Cole"
+      ],
+      "release_date": "2024-04-05",
+      "spotify_url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3",
+      "tracks": [
+        {
+          "track_id": "2w5BtuWXISpB6NM4xPoeiR",
+          "track": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/57wh3BpvUF2tmvwoGSjUe3.jpg"
+    },
+    {
+      "album_id": "5So31JibrTO74WvuCozsAb",
+      "album": "The Plugs I Met",
+      "artists": [
+        "Benny The Butcher"
+      ],
+      "release_date": "2019-06-21",
+      "spotify_url": "https://open.spotify.com/album/5So31JibrTO74WvuCozsAb",
+      "tracks": [
+        {
+          "track_id": "2GI5NXelgE3SeAhm5QKiFM",
+          "track": "5 to 50 (feat. India)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/5So31JibrTO74WvuCozsAb.jpg"
+    },
+    {
       "album_id": "6ZOa1wCHW2fZlsIYh8Yyw4",
       "album": "FLYGOD",
       "artists": [
@@ -717,6 +700,57 @@
         }
       ],
       "file": "covers/6ZOa1wCHW2fZlsIYh8Yyw4.jpg"
+    },
+    {
+      "album_id": "13IanJ8zx7YcCJ5yIvArIq",
+      "album": "Everybody Can't Go",
+      "artists": [
+        "Benny The Butcher"
+      ],
+      "release_date": "2024-01-26",
+      "spotify_url": "https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq",
+      "tracks": [
+        {
+          "track_id": "1nXdO7eCfedRkDuQOv0B5u",
+          "track": "Jermanie’s Graduation",
+          "plays": 2
+        }
+      ],
+      "file": "covers/13IanJ8zx7YcCJ5yIvArIq.jpg"
+    },
+    {
+      "album_id": "6X1x82kppWZmDzlXXK3y3q",
+      "album": "Take Care (Deluxe)",
+      "artists": [
+        "Drake"
+      ],
+      "release_date": "2011-11-15",
+      "spotify_url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q",
+      "tracks": [
+        {
+          "track_id": "0m1KYWlT6LhFRBDVq9UNx4",
+          "track": "HYFR (Hell Ya Fucking Right)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/6X1x82kppWZmDzlXXK3y3q.jpg"
+    },
+    {
+      "album_id": "5FP9keIJnlSCKnkdVOf623",
+      "album": "Born Sinner (Deluxe Version)",
+      "artists": [
+        "J. Cole"
+      ],
+      "release_date": "2013-06-18",
+      "spotify_url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623",
+      "tracks": [
+        {
+          "track_id": "5gFoAVTN9YlM9uJCrFZtgl",
+          "track": "Crooked Smile (feat. TLC)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/5FP9keIJnlSCKnkdVOf623.jpg"
     },
     {
       "album_id": "7dqpveMVcWgbzqYrOdkFTD",
@@ -736,23 +770,6 @@
       "file": "covers/7dqpveMVcWgbzqYrOdkFTD.jpg"
     },
     {
-      "album_id": "5vfnsOgLqsgmEb3vGyc2FO",
-      "album": "I Am Not A Human Being",
-      "artists": [
-        "Lil Wayne"
-      ],
-      "release_date": "2010-01-01",
-      "spotify_url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO",
-      "tracks": [
-        {
-          "track_id": "1kMuU3TNQvHbqvXCWBodmP",
-          "track": "Right Above It",
-          "plays": 1
-        }
-      ],
-      "file": "covers/5vfnsOgLqsgmEb3vGyc2FO.jpg"
-    },
-    {
       "album_id": "3r5hf3Cj3EMh1C2saQ8jyt",
       "album": "Hoodie SZN",
       "artists": [
@@ -768,23 +785,6 @@
         }
       ],
       "file": "covers/3r5hf3Cj3EMh1C2saQ8jyt.jpg"
-    },
-    {
-      "album_id": "50yFYgKdwJANZ5O9MIbMkg",
-      "album": "Tha Carter V",
-      "artists": [
-        "Lil Wayne"
-      ],
-      "release_date": "2018-09-28",
-      "spotify_url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg",
-      "tracks": [
-        {
-          "track_id": "3BUWNzPWz2mDbptZmGEXpB",
-          "track": "Let It All Work Out",
-          "plays": 1
-        }
-      ],
-      "file": "covers/50yFYgKdwJANZ5O9MIbMkg.jpg"
     },
     {
       "album_id": "0M5cyXHBV0en8q02019vaC",
@@ -821,74 +821,6 @@
       "file": "covers/3HHp5I6Q6SEyU5bkvoCtnV.jpg"
     },
     {
-      "album_id": "3CCnGldVQ90c26aFATC1PW",
-      "album": "4 Your Eyez Only",
-      "artists": [
-        "J. Cole"
-      ],
-      "release_date": "2016-12-09",
-      "spotify_url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW",
-      "tracks": [
-        {
-          "track_id": "6AGON2BGdPmPMJGiiNuuwl",
-          "track": "Immortal",
-          "plays": 1
-        }
-      ],
-      "file": "covers/3CCnGldVQ90c26aFATC1PW.jpg"
-    },
-    {
-      "album_id": "0hvT3yIEysuuvkK73vgdcW",
-      "album": "GNX",
-      "artists": [
-        "Kendrick Lamar"
-      ],
-      "release_date": "2024-11-22",
-      "spotify_url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
-      "tracks": [
-        {
-          "track_id": "5gOfC9UzZQzTyShqPMrpjT",
-          "track": "wacced out murals",
-          "plays": 1
-        }
-      ],
-      "file": "covers/0hvT3yIEysuuvkK73vgdcW.jpg"
-    },
-    {
-      "album_id": "1bkN9nIkkCnXeG4yitVS1J",
-      "album": "Section.80",
-      "artists": [
-        "Kendrick Lamar"
-      ],
-      "release_date": "2011-07-02",
-      "spotify_url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J",
-      "tracks": [
-        {
-          "track_id": "7AaET28qSzlkFBcySHh4ES",
-          "track": "Keisha's Song (Her Pain) (feat. Ashtro Bot)",
-          "plays": 1
-        }
-      ],
-      "file": "covers/1bkN9nIkkCnXeG4yitVS1J.jpg"
-    },
-    {
-      "album_id": "6nfJMRoIjyRwk3ZTHNm0PY",
-      "album": "Pray for Paris",
-      "artists": [
-        "Westside Gunn"
-      ],
-      "release_date": "2020-04-17",
-      "spotify_url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY",
-      "tracks": [
-        {
-          "track_id": "68xjJPxtRpCKxtrTtRYVF9",
-          "track": "$500 Ounces (feat. Freddie Gibbs & Roc Marciano)",
-          "plays": 1
-        }
-      ],
-      "file": "covers/6nfJMRoIjyRwk3ZTHNm0PY.jpg"
-    },
-    {
       "album_id": "2z3NlPY0n0gHJPCPqrzA6V",
       "album": "Sneakin’",
       "artists": [
@@ -904,6 +836,24 @@
         }
       ],
       "file": "covers/2z3NlPY0n0gHJPCPqrzA6V.jpg"
+    },
+    {
+      "album_id": "0BA1h18jGi9tQ4iUAacLMG",
+      "album": "WAKE UP LUCKI",
+      "artists": [
+        "LUCKI",
+        "F1LTHY"
+      ],
+      "release_date": "2021-12-03",
+      "spotify_url": "https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG",
+      "tracks": [
+        {
+          "track_id": "3RQvXGerVBfhONIlE44xKo",
+          "track": "U.G.K",
+          "plays": 1
+        }
+      ],
+      "file": "covers/0BA1h18jGi9tQ4iUAacLMG.jpg"
     },
     {
       "album_id": "2na1cAK6nayzGL0Mt7AZox",
@@ -923,21 +873,21 @@
       "file": "covers/2na1cAK6nayzGL0Mt7AZox.jpg"
     },
     {
-      "album_id": "3YPK0bNOuayhmSrs0sIIBR",
-      "album": "Reasonable Doubt",
+      "album_id": "0ptlfJfwGTy0Yvrk14JK1I",
+      "album": "If You're Reading This It's Too Late",
       "artists": [
-        "JAŸ-Z"
+        "Drake"
       ],
-      "release_date": "1996-06-25",
-      "spotify_url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR",
+      "release_date": "2015-02-12",
+      "spotify_url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
       "tracks": [
         {
-          "track_id": "3u264XNfOLRYzObcd7MeLL",
-          "track": "D'evils",
+          "track_id": "6ImxYXeLDQPIv4qo7bMhSk",
+          "track": "Company",
           "plays": 1
         }
       ],
-      "file": "covers/3YPK0bNOuayhmSrs0sIIBR.jpg"
+      "file": "covers/0ptlfJfwGTy0Yvrk14JK1I.jpg"
     },
     {
       "album_id": "7fd7SEK25VS3gJAUgSwL6y",
@@ -974,40 +924,6 @@
       "file": "covers/3SpBlxme9WbeQdI9kx7KAV.jpg"
     },
     {
-      "album_id": "57wh3BpvUF2tmvwoGSjUe3",
-      "album": "Might Delete Later",
-      "artists": [
-        "J. Cole"
-      ],
-      "release_date": "2024-04-05",
-      "spotify_url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3",
-      "tracks": [
-        {
-          "track_id": "2w5BtuWXISpB6NM4xPoeiR",
-          "track": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
-          "plays": 1
-        }
-      ],
-      "file": "covers/57wh3BpvUF2tmvwoGSjUe3.jpg"
-    },
-    {
-      "album_id": "6Pqlfg42Sc3ElNuyt5NUiK",
-      "album": "I Am Not A Human Being II (Deluxe)",
-      "artists": [
-        "Lil Wayne"
-      ],
-      "release_date": "2013-01-01",
-      "spotify_url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK",
-      "tracks": [
-        {
-          "track_id": "3SShjQBczSt1HMpWA9zbwE",
-          "track": "Rich As Fuck",
-          "plays": 1
-        }
-      ],
-      "file": "covers/6Pqlfg42Sc3ElNuyt5NUiK.jpg"
-    },
-    {
       "album_id": "0MV1yCXcNNQBfwApqAVkH0",
       "album": "Without Warning",
       "artists": [
@@ -1027,21 +943,21 @@
       "file": "covers/0MV1yCXcNNQBfwApqAVkH0.jpg"
     },
     {
-      "album_id": "1aefUsOlozdtYI6ukHvrpp",
-      "album": "Hitler Wears Hermes 7",
+      "album_id": "1oUzjom2A9xtyRM1SdOAGj",
+      "album": "Drip or Drown 2",
       "artists": [
-        "Westside Gunn"
+        "Gunna"
       ],
-      "release_date": "2019-11-01",
-      "spotify_url": "https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp",
+      "release_date": "2019-02-22",
+      "spotify_url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj",
       "tracks": [
         {
-          "track_id": "5oEVxzfDc9PYH7zWRBZB7W",
-          "track": "Lucha Bros (feat. Curren$y & Benny the Butcher)",
+          "track_id": "79Dpa6xXRNsXzMueN8BvAg",
+          "track": "On A Mountain",
           "plays": 1
         }
       ],
-      "file": "covers/1aefUsOlozdtYI6ukHvrpp.jpg"
+      "file": "covers/1oUzjom2A9xtyRM1SdOAGj.jpg"
     },
     {
       "album_id": "6NrUdvJpIEyaBg5zZSOoV4",
@@ -1095,6 +1011,23 @@
       "file": "covers/3LtZUOfccDjNs18684twS8.jpg"
     },
     {
+      "album_id": "4Wv5UAieM1LDEYVq5WmqDd",
+      "album": "KOD",
+      "artists": [
+        "J. Cole"
+      ],
+      "release_date": "2018-04-20",
+      "spotify_url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd",
+      "tracks": [
+        {
+          "track_id": "0bhnUFDQFCEHCBlsQfHnj5",
+          "track": "Photograph",
+          "plays": 1
+        }
+      ],
+      "file": "covers/4Wv5UAieM1LDEYVq5WmqDd.jpg"
+    },
+    {
       "album_id": "7jbMpHxafUjLy1qFpykMq2",
       "album": "Hitler Wears Hermes 6",
       "artists": [
@@ -1112,21 +1045,38 @@
       "file": "covers/7jbMpHxafUjLy1qFpykMq2.jpg"
     },
     {
-      "album_id": "79ONNoS4M9tfIA1mYLBYVX",
-      "album": "Mr. Morale & The Big Steppers",
+      "album_id": "6pZamSyMYxzfmSAUbnzKIf",
+      "album": "Almost There",
       "artists": [
-        "Kendrick Lamar"
+        "LUCKI"
       ],
-      "release_date": "2022-05-13",
-      "spotify_url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX",
+      "release_date": "2020-05-29",
+      "spotify_url": "https://open.spotify.com/album/6pZamSyMYxzfmSAUbnzKIf",
       "tracks": [
         {
-          "track_id": "6BU1RZexmvJcBjgagVVt3M",
-          "track": "Count Me Out",
+          "track_id": "23slkWAmlcxi3XcSwC9RLZ",
+          "track": "Prada Tune",
           "plays": 1
         }
       ],
-      "file": "covers/79ONNoS4M9tfIA1mYLBYVX.jpg"
+      "file": "covers/6pZamSyMYxzfmSAUbnzKIf.jpg"
+    },
+    {
+      "album_id": "1wRfMGVxmo1Gokg7nUwHye",
+      "album": "Lewis Street",
+      "artists": [
+        "J. Cole"
+      ],
+      "release_date": "2020-07-22",
+      "spotify_url": "https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye",
+      "tracks": [
+        {
+          "track_id": "0FlfN5cbUUpIHCRH8X1M44",
+          "track": "t h e . c l i m b . b a c k",
+          "plays": 1
+        }
+      ],
+      "file": "covers/1wRfMGVxmo1Gokg7nUwHye.jpg"
     },
     {
       "album_id": "0iXhSSBfTTH95qZM5ZE8lM",
@@ -1164,38 +1114,38 @@
       "file": "covers/4ghGEhWzY5ffry2IqgrnRg.jpg"
     },
     {
-      "album_id": "6X1x82kppWZmDzlXXK3y3q",
-      "album": "Take Care (Deluxe)",
+      "album_id": "5XYdFmT54volmxN5OCI5Xy",
+      "album": "WHAM (Extended Version)",
       "artists": [
-        "Drake"
+        "Lil Baby"
       ],
-      "release_date": "2011-11-15",
-      "spotify_url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q",
+      "release_date": "2025-01-10",
+      "spotify_url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy",
       "tracks": [
         {
-          "track_id": "0m1KYWlT6LhFRBDVq9UNx4",
-          "track": "HYFR (Hell Ya Fucking Right)",
+          "track_id": "4IKvw1OdeTJIN3g4zWE38f",
+          "track": "Dum, Dumb, and Dumber (with Young Thug & Future)",
           "plays": 1
         }
       ],
-      "file": "covers/6X1x82kppWZmDzlXXK3y3q.jpg"
+      "file": "covers/5XYdFmT54volmxN5OCI5Xy.jpg"
     },
     {
-      "album_id": "5FP9keIJnlSCKnkdVOf623",
-      "album": "Born Sinner (Deluxe Version)",
+      "album_id": "0hSUTpnHqOgP8hy7XKBPyg",
+      "album": "Free Mr. Banks",
       "artists": [
-        "J. Cole"
+        "LUCKI"
       ],
-      "release_date": "2013-06-18",
-      "spotify_url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623",
+      "release_date": "2025-04-04",
+      "spotify_url": "https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg",
       "tracks": [
         {
-          "track_id": "5gFoAVTN9YlM9uJCrFZtgl",
-          "track": "Crooked Smile (feat. TLC)",
+          "track_id": "0Prv7tKONwFjjoJ2KswCoR",
+          "track": "Free Mr. Banks",
           "plays": 1
         }
       ],
-      "file": "covers/5FP9keIJnlSCKnkdVOf623.jpg"
+      "file": "covers/0hSUTpnHqOgP8hy7XKBPyg.jpg"
     },
     {
       "album_id": "1XslIirSxfAhhxRdn4Li9t",
@@ -1215,23 +1165,6 @@
       "file": "covers/1XslIirSxfAhhxRdn4Li9t.jpg"
     },
     {
-      "album_id": "7pnplSgRtopeTNyCxBJf4n",
-      "album": "Believe Me",
-      "artists": [
-        "Lil Wayne"
-      ],
-      "release_date": "2014-05-28",
-      "spotify_url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n",
-      "tracks": [
-        {
-          "track_id": "6t2eIONH4Sax3R21QWiKNp",
-          "track": "Believe Me",
-          "plays": 1
-        }
-      ],
-      "file": "covers/7pnplSgRtopeTNyCxBJf4n.jpg"
-    },
-    {
       "album_id": "0fhmJYVhW0e4i33pCLPA5i",
       "album": "Cole World: The Sideline Story",
       "artists": [
@@ -1247,24 +1180,6 @@
         }
       ],
       "file": "covers/0fhmJYVhW0e4i33pCLPA5i.jpg"
-    },
-    {
-      "album_id": "4Epq84TTM5hHH5jI78R271",
-      "album": "B.B. King Freestyle",
-      "artists": [
-        "Lil Wayne",
-        "Drake"
-      ],
-      "release_date": "2020-11-30",
-      "spotify_url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271",
-      "tracks": [
-        {
-          "track_id": "6EW1fwOk4JHmTZKINZsyjB",
-          "track": "B.B. King Freestyle (with Drake)",
-          "plays": 1
-        }
-      ],
-      "file": "covers/4Epq84TTM5hHH5jI78R271.jpg"
     },
     {
       "album_id": "35Lhx0cJU8MMnENePMmt6f",
@@ -1301,23 +1216,6 @@
       "file": "covers/4v0IxMbMN975IfxFHzgK9d.jpg"
     },
     {
-      "album_id": "69CmkikTHkGKdkrUZTtyWl",
-      "album": "The Blueprint (Explicit Version)",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "release_date": "2001-09-11",
-      "spotify_url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl",
-      "tracks": [
-        {
-          "track_id": "4O7oKy8YADaBrbehcPl0kE",
-          "track": "U Don't Know",
-          "plays": 1
-        }
-      ],
-      "file": "covers/69CmkikTHkGKdkrUZTtyWl.jpg"
-    },
-    {
       "album_id": "0cZAE6guibfcYmTZD7hiae",
       "album": "Artist 2.0",
       "artists": [
@@ -1333,6 +1231,23 @@
         }
       ],
       "file": "covers/0cZAE6guibfcYmTZD7hiae.jpg"
+    },
+    {
+      "album_id": "0UMMIkurRUmkruZ3KGBLtG",
+      "album": "2014 Forest Hills Drive",
+      "artists": [
+        "J. Cole"
+      ],
+      "release_date": "2014-12-09",
+      "spotify_url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
+      "tracks": [
+        {
+          "track_id": "68Dni7IE4VyPkTOH9mRWHr",
+          "track": "No Role Modelz",
+          "plays": 1
+        }
+      ],
+      "file": "covers/0UMMIkurRUmkruZ3KGBLtG.jpg"
     },
     {
       "album_id": "4czdORdCWP9umpbhFXK2fW",
@@ -1384,23 +1299,6 @@
         }
       ],
       "file": "covers/0KtFP56RU7bd32pcvdeWOU.jpg"
-    },
-    {
-      "album_id": "0kL3TYRsSXnu0iJvFO3rud",
-      "album": "untitled unmastered.",
-      "artists": [
-        "Kendrick Lamar"
-      ],
-      "release_date": "2016-03-04",
-      "spotify_url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud",
-      "tracks": [
-        {
-          "track_id": "4M2t7bP4Mq87mGMn0PObUX",
-          "track": "untitled 06 | 06.30.2014.",
-          "plays": 1
-        }
-      ],
-      "file": "covers/0kL3TYRsSXnu0iJvFO3rud.jpg"
     },
     {
       "album_id": "1NIzKm1DqvComMoEF1FZPQ",
@@ -1488,125 +1386,245 @@
       "file": "covers/0gA0nZrZ55PLUp7ARfrICu.jpg"
     },
     {
-      "album_id": "6QOGDVh3mVnAJYPnt66Qj5",
-      "album": "American Gangster",
+      "album_id": "3ti3exZqx77nDf4eIQ1z5o",
+      "album": "WHAT HAPPENED TO THE STREETS?",
       "artists": [
-        "JAŸ-Z"
+        "21 Savage"
       ],
-      "release_date": "2007-11-06",
-      "spotify_url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5",
+      "release_date": "2025-12-12",
+      "spotify_url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o",
       "tracks": [
         {
-          "track_id": "644MFjfIMaBayYEEAb3gjb",
-          "track": "Success",
+          "track_id": "63bPfrifq9QfGYoBhATx6b",
+          "track": "CODE OF HONOR",
           "plays": 1
         }
       ],
-      "file": "covers/6QOGDVh3mVnAJYPnt66Qj5.jpg"
+      "file": "covers/3ti3exZqx77nDf4eIQ1z5o.jpg"
     },
     {
-      "album_id": "7GoZNNb7Yl74fpk8Z6I2cv",
-      "album": "4:44",
+      "album_id": "4jI9SU1GmpIVhHMuYZuvX7",
+      "album": "The Fall-Off",
       "artists": [
-        "JAŸ-Z"
+        "J. Cole"
       ],
-      "release_date": "2017-07-07",
-      "spotify_url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv",
+      "release_date": "2026-02-06",
+      "spotify_url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
       "tracks": [
         {
-          "track_id": "1gT5TGwbkkkUliNzHRIGi1",
-          "track": "4:44",
+          "track_id": "0Awr3NZMkRHQFabkMxW1VT",
+          "track": "Bombs in the Ville/Hit the Gas",
           "plays": 1
         }
       ],
-      "file": "covers/7GoZNNb7Yl74fpk8Z6I2cv.jpg"
+      "file": "covers/4jI9SU1GmpIVhHMuYZuvX7.jpg"
     },
     {
-      "album_id": "18NOKLkZETa4sWwLMIm0UZ",
-      "album": "UTOPIA",
-      "artists": [
-        "Travis Scott"
-      ],
-      "release_date": "2023-07-28",
-      "spotify_url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ",
-      "tracks": [
-        {
-          "track_id": "76gcXhY3Zv6wW0BTe9nHJo",
-          "track": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
-          "plays": 2
-        }
-      ],
-      "file": "covers/18NOKLkZETa4sWwLMIm0UZ.jpg"
-    },
-    {
-      "album_id": "4SZko61aMnmgvNhfhgTuD3",
-      "album": "Graduation",
-      "artists": [
-        "Kanye West"
-      ],
-      "release_date": "2007-09-11",
-      "spotify_url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
-      "tracks": [
-        {
-          "track_id": "4iz9lGMjU1lXS51oPmUmTe",
-          "track": "Homecoming",
-          "plays": 1
-        }
-      ],
-      "file": "covers/4SZko61aMnmgvNhfhgTuD3.jpg"
-    },
-    {
-      "album_id": "5zWZi7tO66MoobIAl9OxWS",
-      "album": "FLAWLESS LIKE ME",
+      "album_id": "0tQDck9jmRmZNuXh1j3wJI",
+      "album": "New Drank",
       "artists": [
         "LUCKI"
       ],
-      "release_date": "2022-09-23",
-      "spotify_url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS",
+      "release_date": "2022-03-31",
+      "spotify_url": "https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI",
       "tracks": [
         {
-          "track_id": "7Bbw4L0uPD2ZrZkE3st4I2",
-          "track": "MADE MY DAY",
-          "plays": 2
-        }
-      ],
-      "file": "covers/5zWZi7tO66MoobIAl9OxWS.jpg"
-    },
-    {
-      "album_id": "3JgtFZroTUGoklTtb2xOne",
-      "album": "Fetti",
-      "artists": [
-        "Curren$y",
-        "Freddie Gibbs",
-        "The Alchemist"
-      ],
-      "release_date": "2018-10-31",
-      "spotify_url": "https://open.spotify.com/album/3JgtFZroTUGoklTtb2xOne",
-      "tracks": [
-        {
-          "track_id": "532dcSo8ZGjxQwM2C3usPO",
-          "track": "New Thangs",
-          "plays": 2
-        }
-      ],
-      "file": "covers/3JgtFZroTUGoklTtb2xOne.jpg"
-    },
-    {
-      "album_id": "4rJgzzfFHAVFhCSt2P4I3j",
-      "album": "Playboi Carti",
-      "artists": [
-        "Playboi Carti"
-      ],
-      "release_date": "2017-04-14",
-      "spotify_url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j",
-      "tracks": [
-        {
-          "track_id": "23QyE9GQpXsX9WgEDADMa6",
-          "track": "Let It Go",
+          "track_id": "3icILkEkTKNPaPQ5usTbsw",
+          "track": "New Drank",
           "plays": 1
         }
       ],
-      "file": "covers/4rJgzzfFHAVFhCSt2P4I3j.jpg"
+      "file": "covers/0tQDck9jmRmZNuXh1j3wJI.jpg"
+    },
+    {
+      "album_id": "2yXnY2NiaZk9QiJJittS81",
+      "album": "Drip Harder",
+      "artists": [
+        "Lil Baby",
+        "Gunna"
+      ],
+      "release_date": "2018-10-05",
+      "spotify_url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81",
+      "tracks": [
+        {
+          "track_id": "6PoKfDY78ih5OveWirggRX",
+          "track": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/2yXnY2NiaZk9QiJJittS81.jpg"
+    },
+    {
+      "album_id": "67AUlGBCiZACO0eBVtEwys",
+      "album": "Butcher on Steroids",
+      "artists": [
+        "Benny The Butcher",
+        "DJ Green Lantern"
+      ],
+      "release_date": "2017-11-27",
+      "spotify_url": "https://open.spotify.com/album/67AUlGBCiZACO0eBVtEwys",
+      "tracks": [
+        {
+          "track_id": "23RwOhKJ6mEjaW85nD3F6R",
+          "track": "Benny vs. Carlito",
+          "plays": 1
+        }
+      ],
+      "file": "covers/67AUlGBCiZACO0eBVtEwys.jpg"
+    },
+    {
+      "album_id": "6xlQNGdro3cCcn8v1ZEGm3",
+      "album": "Burden of Proof",
+      "artists": [
+        "Benny The Butcher"
+      ],
+      "release_date": "2020-10-16",
+      "spotify_url": "https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3",
+      "tracks": [
+        {
+          "track_id": "03jnWnj2qOrYofsyCTuHC6",
+          "track": "One Way Flight (feat. Freddie Gibbs)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/6xlQNGdro3cCcn8v1ZEGm3.jpg"
+    },
+    {
+      "album_id": "2zXJkApMEHfHuZxs6Z1pfA",
+      "album": "Harder Than Hard",
+      "artists": [
+        "Lil Baby"
+      ],
+      "release_date": "2017-08-25",
+      "spotify_url": "https://open.spotify.com/album/2zXJkApMEHfHuZxs6Z1pfA",
+      "tracks": [
+        {
+          "track_id": "07gBz157Fa1fQ5qjhLcBud",
+          "track": "Narcs",
+          "plays": 1
+        }
+      ],
+      "file": "covers/2zXJkApMEHfHuZxs6Z1pfA.jpg"
+    },
+    {
+      "album_id": "2JUpGYRkV6ymlDOX7UFTL7",
+      "album": "Flygod Is An Awesome God",
+      "artists": [
+        "Westside Gunn"
+      ],
+      "release_date": "2019-07-05",
+      "spotify_url": "https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7",
+      "tracks": [
+        {
+          "track_id": "7tPnGGFtSqPpFZnWR3H5zy",
+          "track": "Gunnlib",
+          "plays": 1
+        }
+      ],
+      "file": "covers/2JUpGYRkV6ymlDOX7UFTL7.jpg"
+    },
+    {
+      "album_id": "6CvBb1XqN0igtQrWrbXD80",
+      "album": "The Voice of the Heroes",
+      "artists": [
+        "Lil Baby",
+        "Lil Durk"
+      ],
+      "release_date": "2021-06-04",
+      "spotify_url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80",
+      "tracks": [
+        {
+          "track_id": "1EXRmdtTA2IEnYGiuw9plD",
+          "track": "If You Want To",
+          "plays": 1
+        }
+      ],
+      "file": "covers/6CvBb1XqN0igtQrWrbXD80.jpg"
+    },
+    {
+      "album_id": "4FZ2ilW8I4HxVz0gWEYzX2",
+      "album": "Tana Talk 4",
+      "artists": [
+        "Benny The Butcher"
+      ],
+      "release_date": "2022-03-11",
+      "spotify_url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2",
+      "tracks": [
+        {
+          "track_id": "1NPAh7kSZbCX5MwGmLnLVj",
+          "track": "Super Plug",
+          "plays": 1
+        }
+      ],
+      "file": "covers/4FZ2ilW8I4HxVz0gWEYzX2.jpg"
+    },
+    {
+      "album_id": "6jlrjFR9mJV3jd1IPSplXU",
+      "album": "Thank Me Later",
+      "artists": [
+        "Drake"
+      ],
+      "release_date": "2010-01-01",
+      "spotify_url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU",
+      "tracks": [
+        {
+          "track_id": "1U4mweNwisxNj23ffuC9gO",
+          "track": "Miss Me",
+          "plays": 1
+        }
+      ],
+      "file": "covers/6jlrjFR9mJV3jd1IPSplXU.jpg"
+    },
+    {
+      "album_id": "1LShhEEKRT5MNPcO7jtYHh",
+      "album": "So Far Gone",
+      "artists": [
+        "Drake"
+      ],
+      "release_date": "2009",
+      "spotify_url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh",
+      "tracks": [
+        {
+          "track_id": "4i3GraNMzBKze1WsVl38DS",
+          "track": "Bria's Interlude (feat. Omarion)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/1LShhEEKRT5MNPcO7jtYHh.jpg"
+    },
+    {
+      "album_id": "0IPkm0xx6Ka7b6vGJJD9Xk",
+      "album": "My First Brick",
+      "artists": [
+        "Benny The Butcher"
+      ],
+      "release_date": "2016-10-08",
+      "spotify_url": "https://open.spotify.com/album/0IPkm0xx6Ka7b6vGJJD9Xk",
+      "tracks": [
+        {
+          "track_id": "4epanKctNas3LOJ7Yj5IHg",
+          "track": "Dirty Needles (feat. Conway)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/0IPkm0xx6Ka7b6vGJJD9Xk.jpg"
+    },
+    {
+      "album_id": "750APP0eKVlcgOxaZnBnVt",
+      "album": "Too Hard",
+      "artists": [
+        "Lil Baby"
+      ],
+      "release_date": "2017-12-01",
+      "spotify_url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt",
+      "tracks": [
+        {
+          "track_id": "0XOMoQbYxYPVLxwK4VDmNA",
+          "track": "All Of A Sudden",
+          "plays": 1
+        }
+      ],
+      "file": "covers/750APP0eKVlcgOxaZnBnVt.jpg"
     },
     {
       "album_id": "59zpaLOByFkJhc9D5Xqna9",
@@ -1626,89 +1644,74 @@
       "file": "covers/59zpaLOByFkJhc9D5Xqna9.jpg"
     },
     {
-      "album_id": "0fSfkmx0tdPqFYkJuNX74a",
-      "album": "MUSIC",
+      "album_id": "4SZko61aMnmgvNhfhgTuD3",
+      "album": "Graduation",
       "artists": [
-        "Playboi Carti"
+        "Kanye West"
       ],
-      "release_date": "2025-03-14",
-      "spotify_url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a",
+      "release_date": "2007-09-11",
+      "spotify_url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
       "tracks": [
         {
-          "track_id": "4qvsNsA4gQKC9HLrmPC2Vx",
-          "track": "TRIM (with Future)",
-          "plays": 3
-        }
-      ],
-      "file": "covers/0fSfkmx0tdPqFYkJuNX74a.jpg"
-    },
-    {
-      "album_id": "7txGsnDSqVMoRl6RQ9XyZP",
-      "album": "HEROES & VILLAINS",
-      "artists": [
-        "Metro Boomin"
-      ],
-      "release_date": "2022-12-02",
-      "spotify_url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP",
-      "tracks": [
-        {
-          "track_id": "0OoNzMdPSgbkM5MkcuEZfm",
-          "track": "Lock On Me (with Travis Scott & Future)",
-          "plays": 2
-        }
-      ],
-      "file": "covers/7txGsnDSqVMoRl6RQ9XyZP.jpg"
-    },
-    {
-      "album_id": "26ztFK3E69j5THJQdyxC5w",
-      "album": "Die A Legend",
-      "artists": [
-        "Polo G"
-      ],
-      "release_date": "2019-06-07",
-      "spotify_url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w",
-      "tracks": [
-        {
-          "track_id": "2bGEPdcL80FFHQ3VxcYBJQ",
-          "track": "Dyin Breed",
+          "track_id": "0NrtwAmRAdLxua31SzHvXr",
+          "track": "Everything I Am",
           "plays": 1
         }
       ],
-      "file": "covers/26ztFK3E69j5THJQdyxC5w.jpg"
+      "file": "covers/4SZko61aMnmgvNhfhgTuD3.jpg"
     },
     {
-      "album_id": "7btiyhWzUfzxN3ijSiBpC8",
-      "album": "Only Built 4 Cuban Linx...",
+      "album_id": "5WrpCQmbTUZuzNxGCPUFSV",
+      "album": "Alfredo 2",
       "artists": [
-        "Raekwon"
+        "Freddie Gibbs",
+        "The Alchemist"
       ],
-      "release_date": "1995",
-      "spotify_url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8",
+      "release_date": "2025-07-25",
+      "spotify_url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV",
       "tracks": [
         {
-          "track_id": "1kHPOtD1fo3kWOgcs0oisd",
-          "track": "Verbal Intercourse (feat. Ghostface Killah & Nas)",
+          "track_id": "06ZX08uRQDK02emdw9mN28",
+          "track": "Ensalada (feat. Anderson .Paak)",
           "plays": 1
         }
       ],
-      "file": "covers/7btiyhWzUfzxN3ijSiBpC8.jpg"
+      "file": "covers/5WrpCQmbTUZuzNxGCPUFSV.jpg"
     },
     {
-      "album_id": "1OQ5l5rHKqUumPpn559zJC",
-      "album": "My Life",
+      "album_id": "0OcMap99vLEeGkBCfCwRwS",
+      "album": "Watch The Throne",
       "artists": [
-        "Mary J. Blige"
+        "JAŸ-Z",
+        "Kanye West"
       ],
-      "release_date": "1994-01-01",
-      "spotify_url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC",
+      "release_date": "2011-08-08",
+      "spotify_url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS",
       "tracks": [
         {
-          "track_id": "5X82VFLvjpeWQlTSShqqj0",
-          "track": "Be Happy",
+          "track_id": "1BMzxGds8WSK39p4y432fl",
+          "track": "That's My Bitch",
+          "plays": 1
+        }
+      ],
+      "file": "covers/0OcMap99vLEeGkBCfCwRwS.jpg"
+    },
+    {
+      "album_id": "3p89sh1IV385sHS85PHe8w",
+      "album": "Big Grim Reaper",
+      "artists": [
+        "Big Scarr"
+      ],
+      "release_date": "2021-04-16",
+      "spotify_url": "https://open.spotify.com/album/3p89sh1IV385sHS85PHe8w",
+      "tracks": [
+        {
+          "track_id": "3OwYYkWrCGzZkQm4kHk1kO",
+          "track": "Poppin",
           "plays": 2
         }
       ],
-      "file": "covers/1OQ5l5rHKqUumPpn559zJC.jpg"
+      "file": "covers/3p89sh1IV385sHS85PHe8w.jpg"
     }
   ]
 }
