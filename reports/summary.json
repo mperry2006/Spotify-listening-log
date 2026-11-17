@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T18:55-05:00",
+  "generated_at": "2026-11-16T20:29-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1808,
+  "total_plays_logged": 1814,
   "this_week": {
     "plays": 563,
     "minutes": 1967,
-    "unique_tracks": 493,
-    "unique_artists": 260
+    "unique_tracks": 492,
+    "unique_artists": 256
   },
   "last_week": {
-    "plays": 515,
-    "minutes": 1754
+    "plays": 499,
+    "minutes": 1693
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,7 +70,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 71,
-      "last_week_plays": 52,
+      "last_week_plays": 48,
       "change": "="
     },
     {
@@ -78,14 +78,14 @@
       "name": "J. Cole",
       "plays": 28,
       "last_week_plays": 25,
-      "change": "+2"
+      "change": "+3"
     },
     {
       "rank": 3,
       "name": "Gunna",
       "plays": 23,
       "last_week_plays": 17,
-      "change": "+8"
+      "change": "+9"
     },
     {
       "rank": 4,
@@ -96,24 +96,24 @@
     },
     {
       "rank": 5,
-      "name": "The Alchemist",
-      "plays": 21,
-      "last_week_plays": 17,
-      "change": "+7"
-    },
-    {
-      "rank": 6,
       "name": "Lil Wayne",
       "plays": 21,
       "last_week_plays": 9,
       "change": "+19"
     },
     {
+      "rank": 6,
+      "name": "The Alchemist",
+      "plays": 20,
+      "last_week_plays": 18,
+      "change": "+3"
+    },
+    {
       "rank": 7,
       "name": "Young Thug",
       "plays": 18,
       "last_week_plays": 10,
-      "change": "+13"
+      "change": "+12"
     },
     {
       "rank": 8,
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "Benny The Butcher",
+      "name": "Future",
       "plays": 17,
-      "last_week_plays": 15,
-      "change": "+5"
+      "last_week_plays": 27,
+      "change": "-7"
     },
     {
       "rank": 10,
-      "name": "Future",
-      "plays": 16,
-      "last_week_plays": 27,
-      "change": "-7"
+      "name": "Benny The Butcher",
+      "plays": 17,
+      "last_week_plays": 15,
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -182,31 +182,31 @@
     },
     {
       "rank": 7,
-      "name": "New Thangs - Curren$y",
-      "plays": 2,
+      "name": "Sorrows - Bryson Tiller",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Diamonds - Conway the Machine",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 9,
       "name": "STREET SWEEPER (feat. Future) - Gunna",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "The Realest (feat. Jeezy) - EST Gee",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "peter pan. - Brent Faiyaz",
+      "plays": 2,
+      "last_week_plays": 2,
+      "change": "+29"
     }
   ],
   "dropped_off": [],
@@ -229,6 +229,10 @@
         "plays": 4
       },
       {
+        "name": "Bryson Tiller",
+        "plays": 4
+      },
+      {
         "name": "Cozz",
         "plays": 3
       },
@@ -246,10 +250,6 @@
       },
       {
         "name": "Obongjayar",
-        "plays": 3
-      },
-      {
-        "name": "Bryson Tiller",
         "plays": 3
       }
     ],
@@ -279,6 +279,10 @@
     },
     {
       "track": "Point and Kill - Little Simz",
+      "plays": 3
+    },
+    {
+      "track": "Sorrows - Bryson Tiller",
       "plays": 3
     }
   ],
@@ -322,9 +326,9 @@
     }
   ],
   "release_eras": {
-    "1990s": 24,
+    "1990s": 25,
     "2000s": 44,
-    "2010s": 200,
+    "2010s": 199,
     "2020s": 295
   },
   "listening_style": {
@@ -342,10 +346,10 @@
         "J. Cole",
         "Future",
         "Gunna",
+        "Lil Baby",
         "21 Savage",
         "Migos",
         "Freddie Gibbs",
-        "Lil Baby",
         "Kanye West"
       ]
     },
