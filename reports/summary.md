@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-09 to 2026-11-16** · updated 2026-11-16 22:03 ET
+**2026-11-09 to 2026-11-16** · updated 2026-11-16 23:10 ET
 
-**569 plays** (+73 vs last week) · **1985 minutes** · 255 artists · 496 songs
+**564 plays** (+63 vs last week) · **1970 minutes** · 252 artists · 492 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -11,13 +11,13 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 1 | Drake | 74 | = |
 | 2 | J. Cole | 28 | +3 |
 | 3 | 21 Savage | 22 | +4 |
-| 4 | Lil Wayne | 21 | +20 |
-| 5 | The Alchemist | 20 | +5 |
+| 4 | The Alchemist | 20 | +6 |
+| 5 | Lil Wayne | 20 | +14 |
 | 6 | Gunna | 20 | +2 |
 | 7 | Lil Baby | 19 | +2 |
-| 8 | Young Thug | 18 | +11 |
+| 8 | Young Thug | 18 | +12 |
 | 9 | Benny The Butcher | 17 | +4 |
-| 10 | Kendrick Lamar | 16 | +18 |
+| 10 | Kendrick Lamar | 16 | +19 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -31,7 +31,7 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 | 7 | Point and Kill - Little Simz | 3 | NEW |
 | 8 | Sorrows - Bryson Tiller | 3 | NEW |
 | 9 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 3 | NEW |
-| 10 | The Realest (feat. Jeezy) - EST Gee | 2 | NEW |
+| 10 | peter pan. - Brent Faiyaz | 2 | +29 |
 
 ## Discovery
 64% of plays were songs not in your log before this week.
@@ -61,9 +61,9 @@ Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ██████████ 106
 Afternoon (12pm-5pm)   ████████████████████ 211
 Evening (5pm-9pm)      ████████████ 129
-Night (9pm-12am)       ██████ 62
+Night (9pm-12am)       █████ 57
 
-Mon                    ███████████████████ 115
+Mon                    ██████████████████ 110
 Tue                    █████████████████ 101
 Wed                    ███████████ 64
 Thu                    █████ 33
@@ -80,10 +80,10 @@ Sun                    ████████████ 73
 - Westside Gunn: 10 days in a row
 
 ## Eras
-1990s: 25, 2000s: 43, 2010s: 204, 2020s: 297
+1990s: 25, 2000s: 42, 2010s: 203, 2020s: 294
 
 ## How you listen
-Played from: other 481, playlist 88
+Played from: other 476, playlist 88
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1824 plays recorded total._

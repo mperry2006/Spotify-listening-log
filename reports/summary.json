@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:03-05:00",
+  "generated_at": "2026-11-16T23:10-05:00",
   "window": {
     "start": "2026-11-09",
     "end": "2026-11-16"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1824,
   "this_week": {
-    "plays": 569,
-    "minutes": 1985,
-    "unique_tracks": 496,
-    "unique_artists": 255
+    "plays": 564,
+    "minutes": 1970,
+    "unique_tracks": 492,
+    "unique_artists": 252
   },
   "last_week": {
-    "plays": 496,
-    "minutes": 1677
+    "plays": 501,
+    "minutes": 1693
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -89,17 +89,17 @@
     },
     {
       "rank": 4,
-      "name": "Lil Wayne",
-      "plays": 21,
-      "last_week_plays": 9,
-      "change": "+20"
-    },
-    {
-      "rank": 5,
       "name": "The Alchemist",
       "plays": 20,
       "last_week_plays": 18,
-      "change": "+5"
+      "change": "+6"
+    },
+    {
+      "rank": 5,
+      "name": "Lil Wayne",
+      "plays": 20,
+      "last_week_plays": 10,
+      "change": "+14"
     },
     {
       "rank": 6,
@@ -120,7 +120,7 @@
       "name": "Young Thug",
       "plays": 18,
       "last_week_plays": 10,
-      "change": "+11"
+      "change": "+12"
     },
     {
       "rank": 9,
@@ -134,7 +134,7 @@
       "name": "Kendrick Lamar",
       "plays": 16,
       "last_week_plays": 7,
-      "change": "+18"
+      "change": "+19"
     }
   ],
   "top_tracks": [
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "The Realest (feat. Jeezy) - EST Gee",
+      "name": "peter pan. - Brent Faiyaz",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 2,
+      "change": "+29"
     }
   ],
   "dropped_off": [],
@@ -299,10 +299,10 @@
     "Morning (5am-12pm)": 106,
     "Afternoon (12pm-5pm)": 211,
     "Evening (5pm-9pm)": 129,
-    "Night (9pm-12am)": 62
+    "Night (9pm-12am)": 57
   },
   "day_of_week": {
-    "Mon": 115,
+    "Mon": 110,
     "Tue": 101,
     "Wed": 64,
     "Thu": 33,
@@ -335,13 +335,13 @@
   ],
   "release_eras": {
     "1990s": 25,
-    "2000s": 43,
-    "2010s": 204,
-    "2020s": 297
+    "2000s": 42,
+    "2010s": 203,
+    "2020s": 294
   },
   "listening_style": {
     "played_from": {
-      "other": 481,
+      "other": 476,
       "playlist": 88
     },
     "full_album_sessions": 0
