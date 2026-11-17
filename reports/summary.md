@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-10 to 2026-11-17** · updated 2026-11-17 07:02 ET
+**2026-11-10 to 2026-11-17** · updated 2026-11-17 08:28 ET
 
-**563 plays** (+59 vs last week) · **1965 minutes** · 251 artists · 489 songs
+**562 plays** (+57 vs last week) · **1962 minutes** · 251 artists · 488 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -58,13 +58,13 @@ New artists: Davido (6), Nicki Minaj (5), Joeboy (5), Rema (4), Wale (4), Bryson
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 61
-Morning (5am-12pm)     ██████████ 106
+Morning (5am-12pm)     ██████████ 105
 Afternoon (12pm-5pm)   ████████████████████ 211
 Evening (5pm-9pm)      ████████████ 129
 Night (9pm-12am)       █████ 56
 
 Mon                    ██████████████████ 109
-Tue                    █████████████████ 101
+Tue                    █████████████████ 100
 Wed                    ███████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
@@ -80,10 +80,10 @@ Sun                    ████████████ 73
 - Westside Gunn: 10 days in a row
 
 ## Eras
-1990s: 25, 2000s: 41, 2010s: 203, 2020s: 294
+1990s: 25, 2000s: 41, 2010s: 203, 2020s: 293
 
 ## How you listen
-Played from: other 475, playlist 88
+Played from: other 474, playlist 88
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1827 plays recorded total._
