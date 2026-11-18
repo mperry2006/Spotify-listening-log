@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:35-05:00",
+  "generated_at": "2026-11-17T22:06-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
@@ -7,13 +7,13 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1878,
   "this_week": {
-    "plays": 547,
-    "minutes": 1910,
-    "unique_tracks": 478,
-    "unique_artists": 252
+    "plays": 533,
+    "minutes": 1861,
+    "unique_tracks": 466,
+    "unique_artists": 251
   },
   "last_week": {
-    "plays": 506,
+    "plays": 505,
     "minutes": 1729
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
@@ -69,72 +69,72 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 72,
+      "plays": 70,
       "last_week_plays": 51,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 27,
-      "last_week_plays": 24,
-      "change": "+4"
+      "plays": 26,
+      "last_week_plays": 25,
+      "change": "+3"
     },
     {
       "rank": 3,
       "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 24,
-      "change": "+2"
+      "last_week_plays": 23,
+      "change": "+5"
     },
     {
       "rank": 4,
       "name": "Lil Baby",
-      "plays": 20,
+      "plays": 19,
       "last_week_plays": 20,
       "change": "+5"
     },
     {
       "rank": 5,
-      "name": "Gunna",
-      "plays": 20,
-      "last_week_plays": 23,
-      "change": "+3"
-    },
-    {
-      "rank": 6,
       "name": "Lil Wayne",
       "plays": 18,
       "last_week_plays": 11,
-      "change": "+14"
+      "change": "+15"
+    },
+    {
+      "rank": 6,
+      "name": "The Alchemist",
+      "plays": 18,
+      "last_week_plays": 18,
+      "change": "+4"
     },
     {
       "rank": 7,
-      "name": "The Alchemist",
+      "name": "Future",
       "plays": 18,
-      "last_week_plays": 19,
-      "change": "+3"
+      "last_week_plays": 28,
+      "change": "-5"
     },
     {
       "rank": 8,
-      "name": "Future",
-      "plays": 18,
-      "last_week_plays": 29,
-      "change": "-6"
+      "name": "Gunna",
+      "plays": 17,
+      "last_week_plays": 26,
+      "change": "-4"
     },
     {
       "rank": 9,
       "name": "Young Thug",
-      "plays": 17,
+      "plays": 16,
       "last_week_plays": 13,
-      "change": "+6"
+      "change": "+7"
     },
     {
       "rank": 10,
       "name": "Metro Boomin",
       "plays": 16,
-      "last_week_plays": 17,
-      "change": "+1"
+      "last_week_plays": 16,
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -157,14 +157,14 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+106"
+      "change": "+94"
     },
     {
       "rank": 4,
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+342"
+      "change": "+329"
     },
     {
       "rank": 5,
@@ -206,7 +206,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+272"
+      "change": "+259"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 3
       }
     ],
-    "plays_of_new_tracks_pct": 67,
+    "plays_of_new_tracks_pct": 68,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -302,12 +302,12 @@
     "Late night (12am-5am)": 61,
     "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 197,
-    "Evening (5pm-9pm)": 132,
-    "Night (9pm-12am)": 56
+    "Evening (5pm-9pm)": 129,
+    "Night (9pm-12am)": 45
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 85,
+    "Tue": 71,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -340,14 +340,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 21,
-    "2000s": 43,
-    "2010s": 193,
-    "2020s": 289
+    "2000s": 41,
+    "2010s": 189,
+    "2020s": 281
   },
   "listening_style": {
     "played_from": {
-      "other": 446,
-      "playlist": 101
+      "other": 433,
+      "playlist": 100
     },
     "full_album_sessions": 0
   },

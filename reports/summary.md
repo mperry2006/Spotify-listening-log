@@ -1,40 +1,40 @@
 # Listening Report
-**2026-11-10 to 2026-11-17** · updated 2026-11-17 20:35 ET
+**2026-11-10 to 2026-11-17** · updated 2026-11-17 22:06 ET
 
-**547 plays** (+41 vs last week) · **1910 minutes** · 252 artists · 478 songs
+**533 plays** (+28 vs last week) · **1861 minutes** · 251 artists · 466 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 72 | = |
-| 2 | J. Cole | 27 | +4 |
-| 3 | 21 Savage | 21 | +2 |
-| 4 | Lil Baby | 20 | +5 |
-| 5 | Gunna | 20 | +3 |
-| 6 | Lil Wayne | 18 | +14 |
-| 7 | The Alchemist | 18 | +3 |
-| 8 | Future | 18 | -6 |
-| 9 | Young Thug | 17 | +6 |
-| 10 | Metro Boomin | 16 | +1 |
+| 1 | Drake | 70 | = |
+| 2 | J. Cole | 26 | +3 |
+| 3 | 21 Savage | 21 | +5 |
+| 4 | Lil Baby | 19 | +5 |
+| 5 | Lil Wayne | 18 | +15 |
+| 6 | The Alchemist | 18 | +4 |
+| 7 | Future | 18 | -5 |
+| 8 | Gunna | 17 | -4 |
+| 9 | Young Thug | 16 | +7 |
+| 10 | Metro Boomin | 16 | +3 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | FEM - Davido | 4 | NEW |
-| 3 | Wickedest - Tems | 3 | +106 |
-| 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +342 |
+| 3 | Wickedest - Tems | 3 | +94 |
+| 4 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +329 |
 | 5 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 6 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
 | 7 | Point and Kill - Little Simz | 3 | NEW |
 | 8 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 9 | Sorrows - Bryson Tiller | 3 | NEW |
-| 10 | Modern Day - Migos | 3 | +272 |
+| 10 | Modern Day - Migos | 3 | +259 |
 
 ## Discovery
-67% of plays were songs not in your log before this week.
+68% of plays were songs not in your log before this week.
 New artists: Davido (6), Joeboy (5), Rema (4), Wale (4), Bryson Tiller (4), Little Simz (3), Obongjayar (3), Sampha (3), Jorja Smith (3), Big Homiie G (3)
 
 ## On repeat (3+ plays)
@@ -61,11 +61,11 @@ New artists: Davido (6), Joeboy (5), Rema (4), Wale (4), Bryson Tiller (4), Litt
 Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ██████████ 101
 Afternoon (12pm-5pm)   ████████████████████ 197
-Evening (5pm-9pm)      █████████████ 132
-Night (9pm-12am)       ██████ 56
+Evening (5pm-9pm)      █████████████ 129
+Night (9pm-12am)       █████ 45
 
 Mon                    ██████████████████ 109
-Tue                    ██████████████ 85
+Tue                    ████████████ 71
 Wed                    ███████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
@@ -81,10 +81,10 @@ Sun                    ████████████ 73
 - The Alchemist: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 43, 2010s: 193, 2020s: 289
+1980s: 1, 1990s: 21, 2000s: 41, 2010s: 189, 2020s: 281
 
 ## How you listen
-Played from: other 446, playlist 101
+Played from: other 433, playlist 100
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1878 plays recorded total._
