@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:06-05:00",
+  "generated_at": "2026-11-17T23:12-05:00",
   "window": {
     "start": "2026-11-10",
     "end": "2026-11-17"
@@ -7,19 +7,19 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1878,
   "this_week": {
-    "plays": 533,
-    "minutes": 1861,
-    "unique_tracks": 466,
-    "unique_artists": 251
+    "plays": 515,
+    "minutes": 1809,
+    "unique_tracks": 461,
+    "unique_artists": 250
   },
   "last_week": {
-    "plays": 505,
-    "minutes": 1729
+    "plays": 523,
+    "minutes": 1781
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 5,
-    "skipped_plays": 27,
+    "skipped_plays": 25,
     "most_skipped_tracks": [
       {
         "track": "Confession - Babyboy AV",
@@ -38,7 +38,7 @@
         "skips": 2
       },
       {
-        "track": "FEM - Davido",
+        "track": "Ocean Prime (feat. Boldy James) - The Alchemist",
         "skips": 1
       }
     ],
@@ -60,7 +60,7 @@
         "skips": 2
       },
       {
-        "artist": "Davido",
+        "artist": "The Alchemist",
         "skips": 1
       }
     ]
@@ -140,90 +140,78 @@
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Sip (Alcohol) - Joeboy",
-      "plays": 5,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 2,
-      "name": "FEM - Davido",
-      "plays": 4,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 3,
-      "name": "Wickedest - Tems",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+94"
-    },
-    {
-      "rank": 4,
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+329"
+      "change": "+336"
     },
     {
-      "rank": 5,
+      "rank": 2,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 3,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 5,
       "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+259"
+      "change": "+266"
+    },
+    {
+      "rank": 8,
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "Dead Presidents II - J. Cole",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+359"
+    },
+    {
+      "rank": 10,
+      "name": "Evil Ways (feat. J. Cole) - Drake",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+205"
     }
   ],
   "dropped_off": [],
   "discovery": {
     "new_artists": [
-      {
-        "name": "Davido",
-        "plays": 6
-      },
-      {
-        "name": "Joeboy",
-        "plays": 5
-      },
-      {
-        "name": "Rema",
-        "plays": 4
-      },
       {
         "name": "Wale",
         "plays": 4
@@ -251,24 +239,24 @@
       {
         "name": "Big Homiie G",
         "plays": 3
+      },
+      {
+        "name": "James Blake",
+        "plays": 2
+      },
+      {
+        "name": "J Hus",
+        "plays": 2
+      },
+      {
+        "name": "112",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 68,
+    "plays_of_new_tracks_pct": 67,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
-    {
-      "track": "Sip (Alcohol) - Joeboy",
-      "plays": 5
-    },
-    {
-      "track": "FEM - Davido",
-      "plays": 4
-    },
-    {
-      "track": "Wickedest - Tems",
-      "plays": 3
-    },
     {
       "track": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3
@@ -296,6 +284,10 @@
     {
       "track": "Modern Day - Migos",
       "plays": 3
+    },
+    {
+      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 3
     }
   ],
   "time_of_day": {
@@ -303,11 +295,11 @@
     "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 197,
     "Evening (5pm-9pm)": 129,
-    "Night (9pm-12am)": 45
+    "Night (9pm-12am)": 27
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 71,
+    "Tue": 53,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -341,13 +333,13 @@
     "1980s": 1,
     "1990s": 21,
     "2000s": 41,
-    "2010s": 189,
-    "2020s": 281
+    "2010s": 184,
+    "2020s": 268
   },
   "listening_style": {
     "played_from": {
       "other": 433,
-      "playlist": 100
+      "playlist": 82
     },
     "full_album_sessions": 0
   },
