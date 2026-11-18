@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:39-05:00",
+  "generated_at": "2026-11-18T10:12-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1879,
   "this_week": {
-    "plays": 513,
-    "minutes": 1805,
-    "unique_tracks": 459,
+    "plays": 511,
+    "minutes": 1797,
+    "unique_tracks": 457,
     "unique_artists": 247
   },
   "last_week": {
-    "plays": 526,
-    "minutes": 1788
+    "plays": 528,
+    "minutes": 1796
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -206,7 +206,7 @@
       "name": "Evil Ways (feat. J. Cole) - Drake",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+205"
+      "change": "+206"
     }
   ],
   "dropped_off": [],
@@ -292,7 +292,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 62,
-    "Morning (5am-12pm)": 101,
+    "Morning (5am-12pm)": 99,
     "Afternoon (12pm-5pm)": 197,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 24
@@ -300,7 +300,7 @@
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
-    "Wed": 65,
+    "Wed": 63,
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
@@ -332,13 +332,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 21,
-    "2000s": 41,
-    "2010s": 183,
+    "2000s": 40,
+    "2010s": 182,
     "2020s": 267
   },
   "listening_style": {
     "played_from": {
-      "other": 433,
+      "other": 431,
       "playlist": 80
     },
     "full_album_sessions": 0

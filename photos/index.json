@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-17T15:10+00:00",
+  "generated_at": "2026-11-18T15:14+00:00",
   "week": {
-    "start": "2026-11-10",
-    "end": "2026-11-17"
+    "start": "2026-11-11",
+    "end": "2026-11-18"
   },
   "note": "Credit each photo as: Photo: <credit>, <license>.",
   "photos": [
     {
       "artist": "Drake",
       "why": [
-        "#1 artist this week (75 plays)",
-        "22-day listening streak"
+        "#1 artist this week (70 plays)",
+        "23-day listening streak"
       ],
       "file": "photos/drake.jpg",
       "found_via": "Wikipedia",
@@ -38,8 +38,8 @@
     {
       "artist": "21 Savage",
       "why": [
-        "#3 artist this week (22 plays)",
-        "12-day listening streak"
+        "#3 artist this week (21 plays)",
+        "13-day listening streak"
       ],
       "file": "photos/21-savage.jpg",
       "found_via": "Wikipedia",
@@ -51,37 +51,9 @@
       "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
     },
     {
-      "artist": "Lil Wayne",
-      "why": [
-        "#4 artist this week (20 plays)"
-      ],
-      "file": "photos/lil-wayne.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Wayne",
-      "about": "American rapper (born 1982)",
-      "credit": "Megan Elice Meadows",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Lil_Wayne_(23513397583).jpg"
-    },
-    {
-      "artist": "Gunna",
-      "why": [
-        "#5 artist this week (20 plays)"
-      ],
-      "file": "photos/gunna.png",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Gunna_(rapper)",
-      "about": "American rapper (born 1993)",
-      "credit": "HOTSPOTATL",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Gunna_June_2025.png"
-    },
-    {
       "artist": "Lil Baby",
       "why": [
-        "#7 artist this week (19 plays)"
+        "#4 artist this week (19 plays)"
       ],
       "file": "photos/lil-baby.png",
       "found_via": "Wikipedia",
@@ -93,10 +65,23 @@
       "source": "https://commons.wikimedia.org/wiki/File:Lil_Baby_2023.png"
     },
     {
+      "artist": "Lil Wayne",
+      "why": [
+        "#5 artist this week (18 plays)"
+      ],
+      "file": "photos/lil-wayne.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Wayne",
+      "about": "American rapper (born 1982)",
+      "credit": "Megan Elice Meadows",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lil_Wayne_(23513397583).jpg"
+    },
+    {
       "artist": "The Alchemist",
       "why": [
-        "#8 artist this week (18 plays)",
-        "10-day listening streak"
+        "#6 artist this week (18 plays)"
       ],
       "file": "photos/the-alchemist.jpg",
       "found_via": "Wikipedia",
@@ -108,51 +93,37 @@
       "source": "https://commons.wikimedia.org/wiki/File:The_Alchemist_on_MILLION_DOLLAZ_WORTH_OF_GAME_(cropped).jpg"
     },
     {
-      "artist": "Davido",
+      "artist": "Future",
       "why": [
-        "new discovery (6 plays)"
+        "#7 artist this week (18 plays)"
       ],
-      "file": "photos/davido.jpg",
+      "file": "photos/future.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Davido",
-      "about": "Nigerian-American singer (born 1992)",
-      "credit": "OLAMIPOSI DANIEL",
+      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
+      "about": "American rapper (born 1983)",
+      "credit": "Frank Schwichtenberg",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Davido_2024_(cropped).jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
     },
     {
-      "artist": "Nicki Minaj",
+      "artist": "Sampha",
       "why": [
-        "new discovery (5 plays)"
+        "new discovery (3 plays)"
       ],
-      "file": "photos/nicki-minaj.jpg",
+      "file": "photos/sampha.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Nicki_Minaj",
-      "about": "Trinidadian rapper and singer-songwriter (born 1982)",
-      "credit": "The White House",
-      "license": "Public domain",
-      "license_url": "",
-      "source": "https://commons.wikimedia.org/wiki/File:P20260128DT-0636_President_Donald_Trump_delivers_remarks_on_Trump_Accounts_(cropped_headshot).jpg"
-    },
-    {
-      "artist": "Joeboy",
-      "why": [
-        "new discovery (5 plays)"
-      ],
-      "file": "photos/joeboy.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Joeboy",
-      "about": "Nigerian singer-songwriter (born 1997)",
-      "credit": "Ayomide7",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Joeboy_(new).jpg"
+      "wikipedia": "https://en.wikipedia.org/wiki/Sampha",
+      "about": "English singer and musician",
+      "credit": "Sakena",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sampha_VEGA_(cropped).jpg"
     },
     {
       "artist": "Metro Boomin",
       "why": [
-        "12-day listening streak"
+        "13-day listening streak"
       ],
       "file": "photos/metro-boomin.jpg",
       "found_via": "Wikipedia",
@@ -164,23 +135,26 @@
       "source": "https://commons.wikimedia.org/wiki/File:Metro_Boomin_November_2025.jpg"
     },
     {
-      "artist": "Westside Gunn",
+      "artist": "Kanye West",
       "why": [
-        "10-day listening streak"
+        "11-day listening streak"
       ],
-      "file": "photos/westside-gunn.png",
+      "file": "photos/kanye-west.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Westside_Gunn",
-      "about": "American rapper (born 1982)",
-      "credit": "MILLION DOLLAZ WORTH OF GAME",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Westside_Gunn_2021.png"
+      "wikipedia": "https://en.wikipedia.org/wiki/Kanye_West",
+      "about": "American rapper and producer (born 1977)",
+      "credit": "David Shankbone",
+      "license": "Public domain",
+      "license_url": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg"
     }
   ],
   "no_photo_found": [
-    "Young Thug",
-    "Rema",
-    "Wale"
+    "Gunna",
+    "Wale",
+    "Bryson Tiller",
+    "Little Simz",
+    "Obongjayar",
+    "LUCKI"
   ]
 }

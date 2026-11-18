@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 08:39 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 10:12 ET
 
-**513 plays** (-13 vs last week) · **1805 minutes** · 247 artists · 459 songs
+**511 plays** (-17 vs last week) · **1797 minutes** · 247 artists · 457 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
@@ -31,7 +31,7 @@ _Counting real listens only. 25 skips left out (5% skip rate)._
 | 7 | Modern Day - Migos | 3 | +266 |
 | 8 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 3 | NEW |
 | 9 | Dead Presidents II - J. Cole | 2 | +359 |
-| 10 | Evil Ways (feat. J. Cole) - Drake | 2 | +205 |
+| 10 | Evil Ways (feat. J. Cole) - Drake | 2 | +206 |
 
 ## Discovery
 67% of plays were songs not in your log before this week.
@@ -57,14 +57,14 @@ New artists: Wale (4), Bryson Tiller (4), Little Simz (3), Obongjayar (3), Samph
 ## When you listen
 ```
 Late night (12am-5am)  ██████ 62
-Morning (5am-12pm)     ██████████ 101
+Morning (5am-12pm)     ██████████ 99
 Afternoon (12pm-5pm)   ████████████████████ 197
 Evening (5pm-9pm)      █████████████ 129
 Night (9pm-12am)       ██ 24
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
-Wed                    ███████████ 65
+Wed                    ██████████ 63
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
@@ -79,10 +79,10 @@ Sun                    ████████████ 73
 - LUCKI: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 41, 2010s: 183, 2020s: 267
+1980s: 1, 1990s: 21, 2000s: 40, 2010s: 182, 2020s: 267
 
 ## How you listen
-Played from: other 433, playlist 80
+Played from: other 431, playlist 80
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1879 plays recorded total._
