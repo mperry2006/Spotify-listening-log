@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 17:05 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 18:06 ET
 
-**513 plays** (-11 vs last week) · **1798 minutes** · 245 artists · 456 songs
+**499 plays** (-39 vs last week) · **1742 minutes** · 243 artists · 447 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 70 | = |
+| 1 | Drake | 66 | = |
 | 2 | J. Cole | 24 | = |
-| 3 | 21 Savage | 22 | +2 |
-| 4 | The Alchemist | 18 | +9 |
-| 5 | Future | 18 | -1 |
-| 6 | Gunna | 18 | -3 |
-| 7 | Lil Baby | 17 | -1 |
+| 3 | 21 Savage | 20 | +2 |
+| 4 | Gunna | 18 | = |
+| 5 | Future | 17 | -2 |
+| 6 | Lil Baby | 17 | = |
+| 7 | The Alchemist | 17 | +5 |
 | 8 | Lil Wayne | 17 | +14 |
-| 9 | Westside Gunn | 16 | = |
-| 10 | Young Thug | 16 | +4 |
+| 9 | Young Thug | 16 | +6 |
+| 10 | Kanye West | 15 | +3 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -31,11 +31,11 @@ _Counting real listens only. 25 skips left out (5% skip rate)._
 | 7 | Sorrows - Bryson Tiller | 3 | NEW |
 | 8 | Modern Day - Migos | 3 | +241 |
 | 9 | Poppin - Big Scarr | 3 | NEW |
-| 10 | Gold Roses (feat. Drake) - Rick Ross | 2 | +139 |
+| 10 | h u n g e r . o n . h i l l s i d e (with Bas) - J. Cole | 2 | NEW |
 
 ## Discovery
 66% of plays were songs not in your log before this week.
-New artists: Wale (4), Bryson Tiller (4), Big Homiie G (4), Little Simz (3), Obongjayar (3), Sampha (3), Jorja Smith (3), James Blake (2), J Hus (2), 112 (2)
+New artists: Wale (4), Bryson Tiller (4), Big Homiie G (4), Little Simz (3), Obongjayar (3), Sampha (3), Jorja Smith (3), J Hus (2), 112 (2), Jack Harlow (2)
 
 ## On repeat (3+ plays)
 - Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 - 4x
@@ -60,12 +60,12 @@ New artists: Wale (4), Bryson Tiller (4), Big Homiie G (4), Little Simz (3), Obo
 Late night (12am-5am)  ██████ 62
 Morning (5am-12pm)     █████████ 92
 Afternoon (12pm-5pm)   ████████████████████ 206
-Evening (5pm-9pm)      █████████████ 129
+Evening (5pm-9pm)      ███████████ 115
 Night (9pm-12am)       ██ 24
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
-Wed                    ███████████ 65
+Wed                    ████████ 51
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
@@ -80,10 +80,10 @@ Sun                    ████████████ 73
 - LUCKI: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 40, 2010s: 180, 2020s: 271
+1980s: 1, 1990s: 21, 2000s: 40, 2010s: 174, 2020s: 263
 
 ## How you listen
-Played from: other 433, playlist 80
+Played from: other 431, playlist 68
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1908 plays recorded total._
