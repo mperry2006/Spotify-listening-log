@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-10 to 2026-11-17** · updated 2026-11-17 18:08 ET
+**2026-11-10 to 2026-11-17** · updated 2026-11-17 19:01 ET
 
-**554 plays** (+52 vs last week) · **1935 minutes** · 254 artists · 480 songs
+**556 plays** (+45 vs last week) · **1942 minutes** · 253 artists · 483 songs
 
 _Counting real listens only. 27 skips left out (5% skip rate)._
 
@@ -10,37 +10,36 @@ _Counting real listens only. 27 skips left out (5% skip rate)._
 |---|---|---|---|
 | 1 | Drake | 73 | = |
 | 2 | J. Cole | 27 | +5 |
-| 3 | Gunna | 20 | +6 |
-| 4 | 21 Savage | 19 | +2 |
-| 5 | Young Thug | 18 | +11 |
-| 6 | Lil Wayne | 18 | +13 |
-| 7 | The Alchemist | 18 | +1 |
-| 8 | Lil Baby | 17 | +2 |
-| 9 | Benny The Butcher | 16 | +5 |
-| 10 | Kendrick Lamar | 15 | +15 |
+| 3 | Gunna | 21 | +5 |
+| 4 | 21 Savage | 21 | +2 |
+| 5 | Lil Baby | 20 | +5 |
+| 6 | Lil Wayne | 18 | +14 |
+| 7 | The Alchemist | 18 | +2 |
+| 8 | Young Thug | 17 | +7 |
+| 9 | Future | 17 | -7 |
+| 10 | Benny The Butcher | 16 | +4 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Sip (Alcohol) - Joeboy | 5 | NEW |
 | 2 | FEM - Davido | 4 | NEW |
-| 3 | 1hunnit - A Boogie Wit da Hoodie | 3 | NEW |
-| 4 | One Day You'll Be Mine - USHER | 3 | +24 |
-| 5 | Wickedest - Tems | 3 | +115 |
-| 6 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +351 |
-| 7 | Pallbearers - Rylo Rodriguez | 3 | NEW |
-| 8 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
-| 9 | Point and Kill - Little Simz | 3 | NEW |
-| 10 | God Gave Me Style - 50 Cent | 3 | NEW |
+| 3 | One Day You'll Be Mine - USHER | 3 | +25 |
+| 4 | Wickedest - Tems | 3 | +117 |
+| 5 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +353 |
+| 6 | Pallbearers - Rylo Rodriguez | 3 | NEW |
+| 7 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
+| 8 | Point and Kill - Little Simz | 3 | NEW |
+| 9 | God Gave Me Style - 50 Cent | 3 | NEW |
+| 10 | Sorrows - Bryson Tiller | 3 | NEW |
 
 ## Discovery
-67% of plays were songs not in your log before this week.
+66% of plays were songs not in your log before this week.
 New artists: Davido (6), Joeboy (5), Rema (4), Wale (4), Bryson Tiller (4), Little Simz (3), Obongjayar (3), Sampha (3), Jorja Smith (3), Big Homiie G (3)
 
 ## On repeat (3+ plays)
 - Sip (Alcohol) - Joeboy - 5x
 - FEM - Davido - 4x
-- 1hunnit - A Boogie Wit da Hoodie - 3x
 - One Day You'll Be Mine - USHER - 3x
 - Wickedest - Tems - 3x
 - Won't Be Late (feat. Drake) - Swae Lee - 3x
@@ -48,6 +47,7 @@ New artists: Davido (6), Joeboy (5), Rema (4), Wale (4), Bryson Tiller (4), Litt
 - Seeing Green (with Drake & Lil Wayne) - Nicki Minaj - 3x
 - Point and Kill - Little Simz - 3x
 - God Gave Me Style - 50 Cent - 3x
+- Sorrows - Bryson Tiller - 3x
 
 ## Most skipped
 - Confession - Babyboy AV - skipped 10x
@@ -61,11 +61,11 @@ New artists: Davido (6), Joeboy (5), Rema (4), Wale (4), Bryson Tiller (4), Litt
 Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ██████████ 101
 Afternoon (12pm-5pm)   ████████████████████ 197
-Evening (5pm-9pm)      ██████████████ 139
+Evening (5pm-9pm)      ██████████████ 141
 Night (9pm-12am)       ██████ 56
 
 Mon                    ██████████████████ 109
-Tue                    ███████████████ 92
+Tue                    ████████████████ 94
 Wed                    ███████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
@@ -81,10 +81,10 @@ Sun                    ████████████ 73
 - The Alchemist: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 25, 2000s: 44, 2010s: 195, 2020s: 289
+1980s: 1, 1990s: 23, 2000s: 44, 2010s: 196, 2020s: 292
 
 ## How you listen
-Played from: other 457, playlist 97
+Played from: other 448, playlist 108
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1865 plays recorded total._
+_Log started 2026-10-26 · 1876 plays recorded total._
