@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 15:14 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 16:12 ET
 
-**518 plays** (-8 vs last week) · **1815 minutes** · 245 artists · 459 songs
+**518 plays** (-5 vs last week) · **1815 minutes** · 245 artists · 459 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
@@ -23,13 +23,13 @@ _Counting real listens only. 25 skips left out (5% skip rate)._
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 4 | NEW |
-| 2 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +319 |
+| 2 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +317 |
 | 3 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 4 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
 | 5 | Point and Kill - Little Simz | 3 | NEW |
 | 6 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 7 | Sorrows - Bryson Tiller | 3 | NEW |
-| 8 | Modern Day - Migos | 3 | +246 |
+| 8 | Modern Day - Migos | 3 | +244 |
 | 9 | Poppin - Big Scarr | 3 | NEW |
 | 10 | Johnny P's Caddy - Benny The Butcher | 2 | NEW |
 

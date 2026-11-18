@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:14-05:00",
+  "generated_at": "2026-11-18T16:12-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
@@ -13,8 +13,8 @@
     "unique_artists": 245
   },
   "last_week": {
-    "plays": 526,
-    "minutes": 1781
+    "plays": 523,
+    "minutes": 1771
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -150,7 +150,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+319"
+      "change": "+317"
     },
     {
       "rank": 3,
@@ -192,7 +192,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+246"
+      "change": "+244"
     },
     {
       "rank": 9,
