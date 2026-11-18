@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:12-05:00",
+  "generated_at": "2026-11-18T17:05-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1908,
   "this_week": {
-    "plays": 518,
-    "minutes": 1815,
-    "unique_tracks": 459,
+    "plays": 513,
+    "minutes": 1798,
+    "unique_tracks": 456,
     "unique_artists": 245
   },
   "last_week": {
-    "plays": 523,
-    "minutes": 1771
+    "plays": 524,
+    "minutes": 1777
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,8 +76,8 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 28,
+      "plays": 24,
+      "last_week_plays": 29,
       "change": "="
     },
     {
@@ -89,45 +89,45 @@
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 19,
-      "last_week_plays": 26,
-      "change": "="
+      "name": "The Alchemist",
+      "plays": 18,
+      "last_week_plays": 16,
+      "change": "+9"
     },
     {
       "rank": 5,
-      "name": "The Alchemist",
-      "plays": 19,
-      "last_week_plays": 15,
-      "change": "+8"
+      "name": "Future",
+      "plays": 18,
+      "last_week_plays": 27,
+      "change": "-1"
     },
     {
       "rank": 6,
-      "name": "Future",
+      "name": "Gunna",
       "plays": 18,
       "last_week_plays": 27,
       "change": "-3"
     },
     {
       "rank": 7,
-      "name": "Westside Gunn",
-      "plays": 17,
-      "last_week_plays": 17,
-      "change": "+3"
-    },
-    {
-      "rank": 8,
       "name": "Lil Baby",
       "plays": 17,
       "last_week_plays": 23,
-      "change": "-2"
+      "change": "-1"
+    },
+    {
+      "rank": 8,
+      "name": "Lil Wayne",
+      "plays": 17,
+      "last_week_plays": 10,
+      "change": "+14"
     },
     {
       "rank": 9,
-      "name": "Lil Wayne",
-      "plays": 17,
-      "last_week_plays": 11,
-      "change": "+10"
+      "name": "Westside Gunn",
+      "plays": 16,
+      "last_week_plays": 18,
+      "change": "="
     },
     {
       "rank": 10,
@@ -150,7 +150,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+317"
+      "change": "+314"
     },
     {
       "rank": 3,
@@ -192,7 +192,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+244"
+      "change": "+241"
     },
     {
       "rank": 9,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "Johnny P's Caddy - Benny The Butcher",
+      "name": "Gold Roses (feat. Drake) - Rick Ross",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+139"
     }
   ],
   "dropped_off": [],
@@ -297,14 +297,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 62,
     "Morning (5am-12pm)": 92,
-    "Afternoon (12pm-5pm)": 211,
+    "Afternoon (12pm-5pm)": 206,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 24
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
-    "Wed": 70,
+    "Wed": 65,
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
@@ -337,12 +337,12 @@
     "1980s": 1,
     "1990s": 21,
     "2000s": 40,
-    "2010s": 184,
-    "2020s": 272
+    "2010s": 180,
+    "2020s": 271
   },
   "listening_style": {
     "played_from": {
-      "other": 438,
+      "other": 433,
       "playlist": 80
     },
     "full_album_sessions": 0
