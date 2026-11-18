@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 07:16 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 08:39 ET
 
-**512 plays** (-14 vs last week) · **1802 minutes** · 247 artists · 458 songs
+**513 plays** (-13 vs last week) · **1805 minutes** · 247 artists · 459 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
@@ -56,7 +56,7 @@ New artists: Wale (4), Bryson Tiller (4), Little Simz (3), Obongjayar (3), Samph
 
 ## When you listen
 ```
-Late night (12am-5am)  ██████ 61
+Late night (12am-5am)  ██████ 62
 Morning (5am-12pm)     ██████████ 101
 Afternoon (12pm-5pm)   ████████████████████ 197
 Evening (5pm-9pm)      █████████████ 129
@@ -64,7 +64,7 @@ Night (9pm-12am)       ██ 24
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
-Wed                    ███████████ 64
+Wed                    ███████████ 65
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
@@ -79,10 +79,10 @@ Sun                    ████████████ 73
 - LUCKI: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 41, 2010s: 183, 2020s: 266
+1980s: 1, 1990s: 21, 2000s: 41, 2010s: 183, 2020s: 267
 
 ## How you listen
-Played from: other 433, playlist 79
+Played from: other 433, playlist 80
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1878 plays recorded total._
+_Log started 2026-10-26 · 1879 plays recorded total._
