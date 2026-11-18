@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-18T13:05-05:00",
+  "generated_at": "2026-11-18T14:14-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1887,
+  "total_plays_logged": 1899,
   "this_week": {
-    "plays": 507,
-    "minutes": 1779,
-    "unique_tracks": 452,
-    "unique_artists": 243
+    "plays": 514,
+    "minutes": 1806,
+    "unique_tracks": 454,
+    "unique_artists": 245
   },
   "last_week": {
-    "plays": 528,
-    "minutes": 1790
+    "plays": 521,
+    "minutes": 1763
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 70,
-      "last_week_plays": 49,
+      "plays": 71,
+      "last_week_plays": 48,
       "change": "="
     },
     {
@@ -78,28 +78,28 @@
       "name": "J. Cole",
       "plays": 25,
       "last_week_plays": 27,
-      "change": "+1"
+      "change": "="
     },
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 21,
-      "last_week_plays": 23,
-      "change": "+3"
+      "plays": 22,
+      "last_week_plays": 24,
+      "change": "+2"
     },
     {
       "rank": 4,
       "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 17,
-      "change": "+7"
+      "plays": 19,
+      "last_week_plays": 15,
+      "change": "+9"
     },
     {
       "rank": 5,
       "name": "Future",
       "plays": 18,
-      "last_week_plays": 28,
-      "change": "-3"
+      "last_week_plays": 27,
+      "change": "-2"
     },
     {
       "rank": 6,
@@ -113,28 +113,28 @@
       "name": "Lil Wayne",
       "plays": 17,
       "last_week_plays": 11,
-      "change": "+13"
+      "change": "+12"
     },
     {
       "rank": 8,
-      "name": "Metro Boomin",
+      "name": "Benny The Butcher",
       "plays": 16,
-      "last_week_plays": 16,
-      "change": "+5"
+      "last_week_plays": 10,
+      "change": "+14"
     },
     {
       "rank": 9,
-      "name": "Benny The Butcher",
-      "plays": 16,
-      "last_week_plays": 12,
-      "change": "+9"
-    },
-    {
-      "rank": 10,
       "name": "Lil Baby",
       "plays": 16,
       "last_week_plays": 23,
-      "change": "-5"
+      "change": "-3"
+    },
+    {
+      "rank": 10,
+      "name": "Westside Gunn",
+      "plays": 15,
+      "last_week_plays": 17,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -150,7 +150,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+329"
+      "change": "+319"
     },
     {
       "rank": 3,
@@ -192,7 +192,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+256"
+      "change": "+246"
     },
     {
       "rank": 9,
@@ -206,7 +206,7 @@
       "name": "Evil Ways (feat. J. Cole) - Drake",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+197"
+      "change": "+187"
     }
   ],
   "dropped_off": [],
@@ -297,14 +297,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 62,
     "Morning (5am-12pm)": 92,
-    "Afternoon (12pm-5pm)": 200,
+    "Afternoon (12pm-5pm)": 207,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 24
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
-    "Wed": 59,
+    "Wed": 66,
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
@@ -314,11 +314,11 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 23
+      "days": 24
     },
     {
       "artist": "21 Savage",
-      "days": 13
+      "days": 14
     },
     {
       "artist": "Metro Boomin",
@@ -335,14 +335,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 21,
+    "1990s": 22,
     "2000s": 39,
-    "2010s": 179,
-    "2020s": 267
+    "2010s": 181,
+    "2020s": 271
   },
   "listening_style": {
     "played_from": {
-      "other": 427,
+      "other": 434,
       "playlist": 80
     },
     "full_album_sessions": 0
