@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-18T11:18-05:00",
+  "generated_at": "2026-11-18T13:05-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1879,
+  "total_plays_logged": 1887,
   "this_week": {
-    "plays": 504,
-    "minutes": 1777,
-    "unique_tracks": 451,
+    "plays": 507,
+    "minutes": 1779,
+    "unique_tracks": 452,
     "unique_artists": 243
   },
   "last_week": {
-    "plays": 534,
-    "minutes": 1815
+    "plays": 528,
+    "minutes": 1790
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,13 +70,13 @@
       "rank": 1,
       "name": "Drake",
       "plays": 70,
-      "last_week_plays": 51,
+      "last_week_plays": 49,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 24,
+      "plays": 25,
       "last_week_plays": 27,
       "change": "+1"
     },
@@ -85,128 +85,128 @@
       "name": "21 Savage",
       "plays": 21,
       "last_week_plays": 23,
-      "change": "+5"
+      "change": "+3"
     },
     {
       "rank": 4,
-      "name": "Lil Wayne",
+      "name": "The Alchemist",
       "plays": 18,
-      "last_week_plays": 11,
-      "change": "+16"
+      "last_week_plays": 17,
+      "change": "+7"
     },
     {
       "rank": 5,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 18,
-      "change": "+5"
-    },
-    {
-      "rank": 6,
       "name": "Future",
       "plays": 18,
       "last_week_plays": 28,
-      "change": "-4"
-    },
-    {
-      "rank": 7,
-      "name": "Lil Baby",
-      "plays": 17,
-      "last_week_plays": 22,
-      "change": "+2"
-    },
-    {
-      "rank": 8,
-      "name": "Gunna",
-      "plays": 17,
-      "last_week_plays": 26,
       "change": "-3"
     },
     {
-      "rank": 9,
-      "name": "Young Thug",
-      "plays": 16,
-      "last_week_plays": 13,
-      "change": "+8"
+      "rank": 6,
+      "name": "Gunna",
+      "plays": 17,
+      "last_week_plays": 26,
+      "change": "-2"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "name": "Lil Wayne",
+      "plays": 17,
+      "last_week_plays": 11,
+      "change": "+13"
+    },
+    {
+      "rank": 8,
       "name": "Metro Boomin",
       "plays": 16,
       "last_week_plays": 16,
-      "change": "+3"
+      "change": "+5"
+    },
+    {
+      "rank": 9,
+      "name": "Benny The Butcher",
+      "plays": 16,
+      "last_week_plays": 12,
+      "change": "+9"
+    },
+    {
+      "rank": 10,
+      "name": "Lil Baby",
+      "plays": 16,
+      "last_week_plays": 23,
+      "change": "-5"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Won't Be Late (feat. Drake) - Swae Lee",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+338"
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 4,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 2,
+      "name": "Won't Be Late (feat. Drake) - Swae Lee",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+329"
+    },
+    {
+      "rank": 3,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+267"
+      "change": "+256"
     },
     {
-      "rank": 8,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "rank": 9,
+      "name": "Poppin - Big Scarr",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Evil Ways (feat. J. Cole) - Drake",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+208"
-    },
-    {
-      "rank": 10,
-      "name": "Johnny P's Caddy - Benny The Butcher",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "change": "+197"
     }
   ],
   "dropped_off": [],
@@ -218,6 +218,10 @@
       },
       {
         "name": "Bryson Tiller",
+        "plays": 4
+      },
+      {
+        "name": "Big Homiie G",
         "plays": 4
       },
       {
@@ -237,10 +241,6 @@
         "plays": 3
       },
       {
-        "name": "Big Homiie G",
-        "plays": 3
-      },
-      {
         "name": "James Blake",
         "plays": 2
       },
@@ -257,6 +257,10 @@
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
+    {
+      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 4
+    },
     {
       "track": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3
@@ -286,21 +290,21 @@
       "plays": 3
     },
     {
-      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "track": "Poppin - Big Scarr",
       "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 62,
     "Morning (5am-12pm)": 92,
-    "Afternoon (12pm-5pm)": 197,
+    "Afternoon (12pm-5pm)": 200,
     "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 24
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
-    "Wed": 56,
+    "Wed": 59,
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
@@ -322,7 +326,7 @@
     },
     {
       "artist": "Kanye West",
-      "days": 11
+      "days": 12
     },
     {
       "artist": "LUCKI",
@@ -333,12 +337,12 @@
     "1980s": 1,
     "1990s": 21,
     "2000s": 39,
-    "2010s": 181,
-    "2020s": 262
+    "2010s": 179,
+    "2020s": 267
   },
   "listening_style": {
     "played_from": {
-      "other": 424,
+      "other": 427,
       "playlist": 80
     },
     "full_album_sessions": 0
