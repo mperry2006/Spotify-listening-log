@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-17T23:12-05:00",
+  "generated_at": "2026-11-18T00:17-05:00",
   "window": {
-    "start": "2026-11-10",
-    "end": "2026-11-17"
+    "start": "2026-11-11",
+    "end": "2026-11-18"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 1878,
   "this_week": {
-    "plays": 515,
-    "minutes": 1809,
-    "unique_tracks": 461,
-    "unique_artists": 250
+    "plays": 512,
+    "minutes": 1802,
+    "unique_tracks": 458,
+    "unique_artists": 247
   },
   "last_week": {
-    "plays": 523,
-    "minutes": 1781
+    "plays": 526,
+    "minutes": 1788
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -295,11 +295,11 @@
     "Morning (5am-12pm)": 101,
     "Afternoon (12pm-5pm)": 197,
     "Evening (5pm-9pm)": 129,
-    "Night (9pm-12am)": 27
+    "Night (9pm-12am)": 24
   },
   "day_of_week": {
     "Mon": 109,
-    "Tue": 53,
+    "Tue": 50,
     "Wed": 64,
     "Thu": 33,
     "Fri": 62,
@@ -325,7 +325,7 @@
       "days": 11
     },
     {
-      "artist": "The Alchemist",
+      "artist": "LUCKI",
       "days": 10
     }
   ],
@@ -333,13 +333,13 @@
     "1980s": 1,
     "1990s": 21,
     "2000s": 41,
-    "2010s": 184,
-    "2020s": 268
+    "2010s": 183,
+    "2020s": 266
   },
   "listening_style": {
     "played_from": {
       "other": 433,
-      "playlist": 82
+      "playlist": 79
     },
     "full_album_sessions": 0
   },

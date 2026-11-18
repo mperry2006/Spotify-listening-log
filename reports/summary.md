@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-10 to 2026-11-17** · updated 2026-11-17 23:12 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 00:17 ET
 
-**515 plays** (-8 vs last week) · **1809 minutes** · 250 artists · 461 songs
+**512 plays** (-14 vs last week) · **1802 minutes** · 247 artists · 458 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
@@ -60,10 +60,10 @@ Late night (12am-5am)  ██████ 61
 Morning (5am-12pm)     ██████████ 101
 Afternoon (12pm-5pm)   ████████████████████ 197
 Evening (5pm-9pm)      █████████████ 129
-Night (9pm-12am)       ███ 27
+Night (9pm-12am)       ██ 24
 
 Mon                    ██████████████████ 109
-Tue                    █████████ 53
+Tue                    ████████ 50
 Wed                    ███████████ 64
 Thu                    █████ 33
 Fri                    ██████████ 62
@@ -76,13 +76,13 @@ Sun                    ████████████ 73
 - 21 Savage: 13 days in a row
 - Metro Boomin: 13 days in a row
 - Kanye West: 11 days in a row
-- The Alchemist: 10 days in a row
+- LUCKI: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 41, 2010s: 184, 2020s: 268
+1980s: 1, 1990s: 21, 2000s: 41, 2010s: 183, 2020s: 266
 
 ## How you listen
-Played from: other 433, playlist 82
+Played from: other 433, playlist 79
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1878 plays recorded total._
