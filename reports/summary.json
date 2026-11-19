@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-19T13:06-05:00",
+  "generated_at": "2026-11-19T14:16-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1943,
+  "total_plays_logged": 1954,
   "this_week": {
-    "plays": 495,
-    "minutes": 1718,
-    "unique_tracks": 445,
-    "unique_artists": 237
+    "plays": 506,
+    "minutes": 1746,
+    "unique_tracks": 454,
+    "unique_artists": 239
   },
   "last_week": {
-    "plays": 550,
-    "minutes": 1889
+    "plays": 541,
+    "minutes": 1861
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,14 +70,14 @@
       "rank": 1,
       "name": "Drake",
       "plays": 62,
-      "last_week_plays": 58,
+      "last_week_plays": 56,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
       "plays": 22,
-      "last_week_plays": 31,
+      "last_week_plays": 30,
       "change": "="
     },
     {
@@ -98,8 +98,8 @@
       "rank": 5,
       "name": "Lil Wayne",
       "plays": 17,
-      "last_week_plays": 10,
-      "change": "+17"
+      "last_week_plays": 9,
+      "change": "+19"
     },
     {
       "rank": 6,
@@ -120,35 +120,35 @@
       "name": "Metro Boomin",
       "plays": 16,
       "last_week_plays": 18,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
       "plays": 15,
-      "last_week_plays": 18,
-      "change": "+3"
+      "last_week_plays": 17,
+      "change": "+4"
     },
     {
       "rank": 10,
       "name": "Travis Scott",
       "plays": 15,
       "last_week_plays": 20,
-      "change": "-1"
+      "change": "-3"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "name": "Poppin - Big Scarr",
       "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
-      "name": "Poppin - Big Scarr",
-      "plays": 4,
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -206,7 +206,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+224"
+      "change": "+216"
     }
   ],
   "dropped_off": [],
@@ -253,17 +253,17 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 66,
+    "plays_of_new_tracks_pct": 67,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
-      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "track": "Poppin - Big Scarr",
       "plays": 5
     },
     {
-      "track": "Poppin - Big Scarr",
-      "plays": 4
+      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 5
     },
     {
       "track": "Pallbearers - Rylo Rodriguez",
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 52,
     "Morning (5am-12pm)": 86,
-    "Afternoon (12pm-5pm)": 220,
+    "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 25
   },
@@ -309,7 +309,7 @@
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 27,
+    "Thu": 38,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -342,12 +342,13 @@
     "1990s": 24,
     "2000s": 38,
     "2010s": 175,
-    "2020s": 257
+    "2020s": 268
   },
   "listening_style": {
     "played_from": {
-      "other": 437,
-      "playlist": 58
+      "other": 445,
+      "playlist": 58,
+      "album": 3
     },
     "full_album_sessions": 0
   },
