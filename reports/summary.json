@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-19T11:18-05:00",
+  "generated_at": "2026-11-19T13:06-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1931,
+  "total_plays_logged": 1943,
   "this_week": {
-    "plays": 487,
-    "minutes": 1700,
-    "unique_tracks": 439,
-    "unique_artists": 233
+    "plays": 495,
+    "minutes": 1718,
+    "unique_tracks": 445,
+    "unique_artists": 237
   },
   "last_week": {
-    "plays": 558,
-    "minutes": 1909
+    "plays": 550,
+    "minutes": 1889
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
     "skip_rate_pct": 5,
-    "skipped_plays": 25,
+    "skipped_plays": 24,
     "most_skipped_tracks": [
       {
         "track": "Confession - Babyboy AV",
@@ -38,7 +38,7 @@
         "skips": 2
       },
       {
-        "track": "Ocean Prime (feat. Boldy James) - The Alchemist",
+        "track": "TRIM (with Future) - Playboi Carti",
         "skips": 1
       }
     ],
@@ -60,7 +60,7 @@
         "skips": 2
       },
       {
-        "artist": "The Alchemist",
+        "artist": "Playboi Carti",
         "skips": 1
       }
     ]
@@ -77,21 +77,21 @@
       "rank": 2,
       "name": "J. Cole",
       "plays": 22,
-      "last_week_plays": 34,
+      "last_week_plays": 31,
       "change": "="
     },
     {
       "rank": 3,
       "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 26,
+      "last_week_plays": 27,
       "change": "+2"
     },
     {
       "rank": 4,
       "name": "Future",
       "plays": 21,
-      "last_week_plays": 29,
+      "last_week_plays": 28,
       "change": "="
     },
     {
@@ -103,125 +103,125 @@
     },
     {
       "rank": 6,
-      "name": "Metro Boomin",
-      "plays": 16,
-      "last_week_plays": 18,
-      "change": "+6"
+      "name": "Lil Baby",
+      "plays": 17,
+      "last_week_plays": 24,
+      "change": "="
     },
     {
       "rank": 7,
-      "name": "The Alchemist",
-      "plays": 15,
-      "last_week_plays": 19,
-      "change": "+4"
+      "name": "Gunna",
+      "plays": 17,
+      "last_week_plays": 29,
+      "change": "-4"
     },
     {
       "rank": 8,
-      "name": "Lil Baby",
-      "plays": 15,
-      "last_week_plays": 24,
-      "change": "-2"
+      "name": "Metro Boomin",
+      "plays": 16,
+      "last_week_plays": 18,
+      "change": "+5"
     },
     {
       "rank": 9,
-      "name": "Gunna",
+      "name": "The Alchemist",
       "plays": 15,
-      "last_week_plays": 30,
-      "change": "-6"
+      "last_week_plays": 18,
+      "change": "+3"
     },
     {
       "rank": 10,
       "name": "Travis Scott",
       "plays": 15,
       "last_week_plays": 20,
-      "change": "="
+      "change": "-1"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
       "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
-      "plays": 4,
+      "plays": 5,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 2,
+      "name": "Poppin - Big Scarr",
+      "plays": 4,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "TRIM (with Future) - Playboi Carti",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+235"
-    },
-    {
-      "rank": 10,
-      "name": "Poppin - Big Scarr",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "change": "+224"
     }
   ],
   "dropped_off": [],
   "discovery": {
     "new_artists": [
       {
+        "name": "Big Homiie G",
+        "plays": 5
+      },
+      {
         "name": "Wale",
         "plays": 4
       },
       {
         "name": "Bryson Tiller",
-        "plays": 4
-      },
-      {
-        "name": "Big Homiie G",
         "plays": 4
       },
       {
@@ -253,12 +253,16 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 67,
+    "plays_of_new_tracks_pct": 66,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
       "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 5
+    },
+    {
+      "track": "Poppin - Big Scarr",
       "plays": 4
     },
     {
@@ -292,16 +296,12 @@
     {
       "track": "Modern Day - Migos",
       "plays": 3
-    },
-    {
-      "track": "Poppin - Big Scarr",
-      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 52,
-    "Morning (5am-12pm)": 88,
-    "Afternoon (12pm-5pm)": 210,
+    "Morning (5am-12pm)": 86,
+    "Afternoon (12pm-5pm)": 220,
     "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 25
   },
@@ -309,7 +309,7 @@
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 19,
+    "Thu": 27,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -318,11 +318,11 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 24
+      "days": 25
     },
     {
       "artist": "21 Savage",
-      "days": 14
+      "days": 15
     },
     {
       "artist": "Metro Boomin",
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 23,
-    "2000s": 39,
-    "2010s": 174,
-    "2020s": 250
+    "1990s": 24,
+    "2000s": 38,
+    "2010s": 175,
+    "2020s": 257
   },
   "listening_style": {
     "played_from": {
-      "other": 429,
+      "other": 437,
       "playlist": 58
     },
     "full_album_sessions": 0
