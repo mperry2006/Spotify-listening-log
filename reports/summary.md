@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-12 to 2026-11-19** · updated 2026-11-19 14:16 ET
+**2026-11-12 to 2026-11-19** · updated 2026-11-19 15:20 ET
 
-**506 plays** (-35 vs last week) · **1746 minutes** · 239 artists · 454 songs
+**510 plays** (-30 vs last week) · **1758 minutes** · 239 artists · 458 songs
 
-_Counting real listens only. 24 skips left out (5% skip rate)._
+_Counting real listens only. 24 skips left out (4% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 62 | = |
+| 1 | Drake | 63 | = |
 | 2 | J. Cole | 22 | = |
 | 3 | 21 Savage | 21 | +2 |
 | 4 | Future | 21 | = |
@@ -16,8 +16,8 @@ _Counting real listens only. 24 skips left out (5% skip rate)._
 | 6 | Lil Baby | 17 | = |
 | 7 | Gunna | 17 | -4 |
 | 8 | Metro Boomin | 16 | +4 |
-| 9 | The Alchemist | 15 | +4 |
-| 10 | Travis Scott | 15 | -3 |
+| 9 | Travis Scott | 16 | -2 |
+| 10 | The Alchemist | 15 | +3 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -31,7 +31,7 @@ _Counting real listens only. 24 skips left out (5% skip rate)._
 | 7 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
 | 8 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 9 | Sorrows - Bryson Tiller | 3 | NEW |
-| 10 | Modern Day - Migos | 3 | +216 |
+| 10 | Modern Day - Migos | 3 | +215 |
 
 ## Discovery
 67% of plays were songs not in your log before this week.
@@ -58,16 +58,16 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), Little Simz (3), Obo
 
 ## When you listen
 ```
-Late night (12am-5am)  █████ 52
+Late night (12am-5am)  ████ 52
 Morning (5am-12pm)     ███████ 86
-Afternoon (12pm-5pm)   ████████████████████ 231
+Afternoon (12pm-5pm)   ████████████████████ 235
 Evening (5pm-9pm)      ██████████ 112
 Night (9pm-12am)       ██ 25
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
 Wed                    █████████ 53
-Thu                    ██████ 38
+Thu                    ███████ 42
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
@@ -81,10 +81,10 @@ Sun                    ████████████ 73
 - Brent Faiyaz: 9 days in a row
 
 ## Eras
-1980s: 1, 1990s: 24, 2000s: 38, 2010s: 175, 2020s: 268
+1980s: 1, 1990s: 24, 2000s: 38, 2010s: 177, 2020s: 270
 
 ## How you listen
-Played from: other 445, playlist 58, album 3
+Played from: other 448, playlist 58, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1954 plays recorded total._
+_Log started 2026-10-26 · 1958 plays recorded total._

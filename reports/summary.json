@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-19T14:16-05:00",
+  "generated_at": "2026-11-19T15:20-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1954,
+  "total_plays_logged": 1958,
   "this_week": {
-    "plays": 506,
-    "minutes": 1746,
-    "unique_tracks": 454,
+    "plays": 510,
+    "minutes": 1758,
+    "unique_tracks": 458,
     "unique_artists": 239
   },
   "last_week": {
-    "plays": 541,
-    "minutes": 1861
+    "plays": 540,
+    "minutes": 1857
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 5,
+    "skip_rate_pct": 4,
     "skipped_plays": 24,
     "most_skipped_tracks": [
       {
@@ -69,7 +69,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 62,
+      "plays": 63,
       "last_week_plays": 56,
       "change": "="
     },
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 15,
-      "last_week_plays": 17,
-      "change": "+4"
+      "name": "Travis Scott",
+      "plays": 16,
+      "last_week_plays": 20,
+      "change": "-2"
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
+      "name": "The Alchemist",
       "plays": 15,
-      "last_week_plays": 20,
-      "change": "-3"
+      "last_week_plays": 17,
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -206,7 +206,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+216"
+      "change": "+215"
     }
   ],
   "dropped_off": [],
@@ -301,7 +301,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 52,
     "Morning (5am-12pm)": 86,
-    "Afternoon (12pm-5pm)": 231,
+    "Afternoon (12pm-5pm)": 235,
     "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 25
   },
@@ -309,7 +309,7 @@
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 38,
+    "Thu": 42,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -341,14 +341,14 @@
     "1980s": 1,
     "1990s": 24,
     "2000s": 38,
-    "2010s": 175,
-    "2020s": 268
+    "2010s": 177,
+    "2020s": 270
   },
   "listening_style": {
     "played_from": {
-      "other": 445,
+      "other": 448,
       "playlist": 58,
-      "album": 3
+      "album": 4
     },
     "full_album_sessions": 0
   },
