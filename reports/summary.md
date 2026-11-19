@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-12 to 2026-11-19** · updated 2026-11-19 09:27 ET
+**2026-11-12 to 2026-11-19** · updated 2026-11-19 11:18 ET
 
-**491 plays** (-63 vs last week) · **1713 minutes** · 234 artists · 442 songs
+**487 plays** (-71 vs last week) · **1700 minutes** · 233 artists · 439 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 63 | = |
+| 1 | Drake | 62 | = |
 | 2 | J. Cole | 22 | = |
 | 3 | 21 Savage | 21 | +2 |
 | 4 | Future | 21 | = |
 | 5 | Lil Wayne | 17 | +17 |
-| 6 | The Alchemist | 16 | +5 |
-| 7 | Metro Boomin | 16 | +5 |
-| 8 | Westside Gunn | 15 | +1 |
-| 9 | Lil Baby | 15 | -3 |
-| 10 | Gunna | 15 | -7 |
+| 6 | Metro Boomin | 16 | +6 |
+| 7 | The Alchemist | 15 | +4 |
+| 8 | Lil Baby | 15 | -2 |
+| 9 | Gunna | 15 | -6 |
+| 10 | Travis Scott | 15 | = |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -59,7 +59,7 @@ New artists: Wale (4), Bryson Tiller (4), Big Homiie G (4), Little Simz (3), Obo
 ## When you listen
 ```
 Late night (12am-5am)  █████ 52
-Morning (5am-12pm)     █████████ 92
+Morning (5am-12pm)     ████████ 88
 Afternoon (12pm-5pm)   ████████████████████ 210
 Evening (5pm-9pm)      ███████████ 112
 Night (9pm-12am)       ██ 25
@@ -67,7 +67,7 @@ Night (9pm-12am)       ██ 25
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
 Wed                    █████████ 53
-Thu                    ████ 23
+Thu                    ███ 19
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
@@ -81,10 +81,10 @@ Sun                    ████████████ 73
 - Brent Faiyaz: 9 days in a row
 
 ## Eras
-1980s: 1, 1990s: 23, 2000s: 40, 2010s: 176, 2020s: 251
+1980s: 1, 1990s: 23, 2000s: 39, 2010s: 174, 2020s: 250
 
 ## How you listen
-Played from: other 433, playlist 58
+Played from: other 429, playlist 58
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1931 plays recorded total._
