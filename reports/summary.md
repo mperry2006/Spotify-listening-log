@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 20:31 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 22:06 ET
 
-**500 plays** (-46 vs last week) · **1747 minutes** · 237 artists · 449 songs
+**500 plays** (-44 vs last week) · **1747 minutes** · 237 artists · 449 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
@@ -30,7 +30,7 @@ _Counting real listens only. 25 skips left out (5% skip rate)._
 | 6 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
 | 7 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 8 | Sorrows - Bryson Tiller | 3 | NEW |
-| 9 | Modern Day - Migos | 3 | +234 |
+| 9 | Modern Day - Migos | 3 | +233 |
 | 10 | Poppin - Big Scarr | 3 | NEW |
 
 ## Discovery

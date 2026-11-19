@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:31-05:00",
+  "generated_at": "2026-11-18T22:06-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
@@ -13,8 +13,8 @@
     "unique_artists": 237
   },
   "last_week": {
-    "plays": 546,
-    "minutes": 1864
+    "plays": 544,
+    "minutes": 1857
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -126,7 +126,7 @@
       "rank": 9,
       "name": "Lil Baby",
       "plays": 15,
-      "last_week_plays": 25,
+      "last_week_plays": 24,
       "change": "-3"
     },
     {
@@ -199,7 +199,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+234"
+      "change": "+233"
     },
     {
       "rank": 10,
