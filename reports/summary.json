@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-19T15:20-05:00",
+  "generated_at": "2026-11-19T17:05-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1958,
+  "total_plays_logged": 1968,
   "this_week": {
-    "plays": 510,
-    "minutes": 1758,
-    "unique_tracks": 458,
-    "unique_artists": 239
+    "plays": 520,
+    "minutes": 1786,
+    "unique_tracks": 468,
+    "unique_artists": 242
   },
   "last_week": {
-    "plays": 540,
-    "minutes": 1857
+    "plays": 531,
+    "minutes": 1827
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,64 +70,64 @@
       "rank": 1,
       "name": "Drake",
       "plays": 63,
-      "last_week_plays": 56,
+      "last_week_plays": 54,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 22,
+      "plays": 23,
       "last_week_plays": 30,
       "change": "="
     },
     {
       "rank": 3,
-      "name": "21 Savage",
-      "plays": 21,
-      "last_week_plays": 27,
+      "name": "Future",
+      "plays": 22,
+      "last_week_plays": 26,
       "change": "+2"
     },
     {
       "rank": 4,
-      "name": "Future",
+      "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 28,
+      "last_week_plays": 27,
       "change": "="
     },
     {
       "rank": 5,
-      "name": "Lil Wayne",
+      "name": "Metro Boomin",
       "plays": 17,
-      "last_week_plays": 9,
-      "change": "+19"
+      "last_week_plays": 18,
+      "change": "+7"
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
+      "name": "Lil Wayne",
       "plays": 17,
-      "last_week_plays": 24,
-      "change": "="
+      "last_week_plays": 9,
+      "change": "+18"
     },
     {
       "rank": 7,
-      "name": "Gunna",
+      "name": "Lil Baby",
       "plays": 17,
-      "last_week_plays": 29,
-      "change": "-4"
+      "last_week_plays": 23,
+      "change": "-1"
     },
     {
       "rank": 8,
-      "name": "Metro Boomin",
-      "plays": 16,
-      "last_week_plays": 18,
-      "change": "+4"
+      "name": "Gunna",
+      "plays": 17,
+      "last_week_plays": 29,
+      "change": "-5"
     },
     {
       "rank": 9,
       "name": "Travis Scott",
       "plays": 16,
-      "last_week_plays": 20,
-      "change": "-2"
+      "last_week_plays": 19,
+      "change": "="
     },
     {
       "rank": 10,
@@ -206,7 +206,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+215"
+      "change": "+206"
     }
   ],
   "dropped_off": [],
@@ -301,15 +301,15 @@
   "time_of_day": {
     "Late night (12am-5am)": 52,
     "Morning (5am-12pm)": 86,
-    "Afternoon (12pm-5pm)": 235,
-    "Evening (5pm-9pm)": 112,
+    "Afternoon (12pm-5pm)": 243,
+    "Evening (5pm-9pm)": 114,
     "Night (9pm-12am)": 25
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 42,
+    "Thu": 52,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -326,7 +326,7 @@
     },
     {
       "artist": "Metro Boomin",
-      "days": 14
+      "days": 15
     },
     {
       "artist": "Kanye West",
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 24,
-    "2000s": 38,
-    "2010s": 177,
-    "2020s": 270
+    "1990s": 25,
+    "2000s": 39,
+    "2010s": 180,
+    "2020s": 275
   },
   "listening_style": {
     "played_from": {
-      "other": 448,
+      "other": 458,
       "playlist": 58,
       "album": 4
     },
