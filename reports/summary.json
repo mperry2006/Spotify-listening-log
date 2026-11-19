@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:06-05:00",
+  "generated_at": "2026-11-18T19:02-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1908,
   "this_week": {
-    "plays": 499,
-    "minutes": 1742,
-    "unique_tracks": 447,
-    "unique_artists": 243
+    "plays": 492,
+    "minutes": 1718,
+    "unique_tracks": 442,
+    "unique_artists": 242
   },
   "last_week": {
-    "plays": 538,
-    "minutes": 1832
+    "plays": 535,
+    "minutes": 1828
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,15 +69,15 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 66,
-      "last_week_plays": 53,
+      "plays": 64,
+      "last_week_plays": 55,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 24,
-      "last_week_plays": 29,
+      "plays": 22,
+      "last_week_plays": 31,
       "change": "="
     },
     {
@@ -90,51 +90,51 @@
     {
       "rank": 4,
       "name": "Gunna",
-      "plays": 18,
-      "last_week_plays": 27,
+      "plays": 17,
+      "last_week_plays": 28,
       "change": "="
     },
     {
       "rank": 5,
-      "name": "Future",
+      "name": "The Alchemist",
       "plays": 17,
-      "last_week_plays": 28,
-      "change": "-2"
+      "last_week_plays": 16,
+      "change": "+7"
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
-      "plays": 17,
-      "last_week_plays": 23,
-      "change": "="
-    },
-    {
-      "rank": 7,
-      "name": "The Alchemist",
-      "plays": 17,
-      "last_week_plays": 17,
-      "change": "+5"
-    },
-    {
-      "rank": 8,
       "name": "Lil Wayne",
       "plays": 17,
       "last_week_plays": 10,
-      "change": "+14"
+      "change": "+16"
+    },
+    {
+      "rank": 7,
+      "name": "Lil Baby",
+      "plays": 16,
+      "last_week_plays": 24,
+      "change": "-1"
+    },
+    {
+      "rank": 8,
+      "name": "Future",
+      "plays": 16,
+      "last_week_plays": 29,
+      "change": "-5"
     },
     {
       "rank": 9,
-      "name": "Young Thug",
-      "plays": 16,
-      "last_week_plays": 14,
-      "change": "+6"
+      "name": "Kanye West",
+      "plays": 15,
+      "last_week_plays": 15,
+      "change": "+5"
     },
     {
       "rank": 10,
-      "name": "Kanye West",
+      "name": "Westside Gunn",
       "plays": 15,
-      "last_week_plays": 16,
-      "change": "+3"
+      "last_week_plays": 19,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -150,7 +150,7 @@
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+314"
+      "change": "+307"
     },
     {
       "rank": 3,
@@ -192,7 +192,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+241"
+      "change": "+234"
     },
     {
       "rank": 9,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 10,
-      "name": "h u n g e r . o n . h i l l s i d e (with Bas) - J. Cole",
+      "name": "Sip (Alcohol) - Joeboy",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 3,
+      "change": "+7"
     }
   ],
   "dropped_off": [],
@@ -298,13 +298,13 @@
     "Late night (12am-5am)": 62,
     "Morning (5am-12pm)": 92,
     "Afternoon (12pm-5pm)": 206,
-    "Evening (5pm-9pm)": 115,
+    "Evening (5pm-9pm)": 108,
     "Night (9pm-12am)": 24
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
-    "Wed": 51,
+    "Wed": 44,
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
@@ -338,27 +338,27 @@
     "1990s": 21,
     "2000s": 40,
     "2010s": 174,
-    "2020s": 263
+    "2020s": 256
   },
   "listening_style": {
     "played_from": {
       "other": 431,
-      "playlist": 68
+      "playlist": 61
     },
     "full_album_sessions": 0
   },
   "spotify_top_snapshot": {
     "short_term": {
       "artists": [
-        "Drake",
         "Westside Gunn",
+        "Drake",
         "J. Cole",
         "Future",
+        "Freddie Gibbs",
         "Gunna",
         "Lil Baby",
         "21 Savage",
         "Migos",
-        "Freddie Gibbs",
         "Kanye West"
       ]
     },

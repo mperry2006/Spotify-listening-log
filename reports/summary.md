@@ -1,37 +1,37 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 18:06 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 19:02 ET
 
-**499 plays** (-39 vs last week) · **1742 minutes** · 243 artists · 447 songs
+**492 plays** (-43 vs last week) · **1718 minutes** · 242 artists · 442 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 66 | = |
-| 2 | J. Cole | 24 | = |
+| 1 | Drake | 64 | = |
+| 2 | J. Cole | 22 | = |
 | 3 | 21 Savage | 20 | +2 |
-| 4 | Gunna | 18 | = |
-| 5 | Future | 17 | -2 |
-| 6 | Lil Baby | 17 | = |
-| 7 | The Alchemist | 17 | +5 |
-| 8 | Lil Wayne | 17 | +14 |
-| 9 | Young Thug | 16 | +6 |
-| 10 | Kanye West | 15 | +3 |
+| 4 | Gunna | 17 | = |
+| 5 | The Alchemist | 17 | +7 |
+| 6 | Lil Wayne | 17 | +16 |
+| 7 | Lil Baby | 16 | -1 |
+| 8 | Future | 16 | -5 |
+| 9 | Kanye West | 15 | +5 |
+| 10 | Westside Gunn | 15 | = |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 4 | NEW |
-| 2 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +314 |
+| 2 | Won't Be Late (feat. Drake) - Swae Lee | 3 | +307 |
 | 3 | Pallbearers - Rylo Rodriguez | 3 | NEW |
 | 4 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
 | 5 | Point and Kill - Little Simz | 3 | NEW |
 | 6 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 7 | Sorrows - Bryson Tiller | 3 | NEW |
-| 8 | Modern Day - Migos | 3 | +241 |
+| 8 | Modern Day - Migos | 3 | +234 |
 | 9 | Poppin - Big Scarr | 3 | NEW |
-| 10 | h u n g e r . o n . h i l l s i d e (with Bas) - J. Cole | 2 | NEW |
+| 10 | Sip (Alcohol) - Joeboy | 2 | +7 |
 
 ## Discovery
 66% of plays were songs not in your log before this week.
@@ -60,12 +60,12 @@ New artists: Wale (4), Bryson Tiller (4), Big Homiie G (4), Little Simz (3), Obo
 Late night (12am-5am)  ██████ 62
 Morning (5am-12pm)     █████████ 92
 Afternoon (12pm-5pm)   ████████████████████ 206
-Evening (5pm-9pm)      ███████████ 115
+Evening (5pm-9pm)      ██████████ 108
 Night (9pm-12am)       ██ 24
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
-Wed                    ████████ 51
+Wed                    ███████ 44
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
@@ -80,10 +80,10 @@ Sun                    ████████████ 73
 - LUCKI: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 40, 2010s: 174, 2020s: 263
+1980s: 1, 1990s: 21, 2000s: 40, 2010s: 174, 2020s: 256
 
 ## How you listen
-Played from: other 431, playlist 68
+Played from: other 431, playlist 61
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1908 plays recorded total._
