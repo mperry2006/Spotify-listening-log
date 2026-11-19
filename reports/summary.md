@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 23:15 ET
+**2026-11-12 to 2026-11-19** · updated 2026-11-19 00:25 ET
 
-**501 plays** (-44 vs last week) · **1753 minutes** · 237 artists · 450 songs
+**501 plays** (-43 vs last week) · **1753 minutes** · 237 artists · 450 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
@@ -78,7 +78,7 @@ Sun                    ████████████ 73
 - 21 Savage: 14 days in a row
 - Metro Boomin: 14 days in a row
 - Kanye West: 12 days in a row
-- LUCKI: 10 days in a row
+- Brent Faiyaz: 9 days in a row
 
 ## Eras
 1980s: 1, 1990s: 23, 2000s: 41, 2010s: 179, 2020s: 257
