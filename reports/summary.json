@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:39-05:00",
+  "generated_at": "2026-11-19T04:24-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1931,
   "this_week": {
-    "plays": 501,
-    "minutes": 1753,
-    "unique_tracks": 450,
-    "unique_artists": 237
+    "plays": 491,
+    "minutes": 1713,
+    "unique_tracks": 442,
+    "unique_artists": 234
   },
   "last_week": {
-    "plays": 544,
-    "minutes": 1856
+    "plays": 554,
+    "minutes": 1896
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,8 +76,8 @@
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 31,
+      "plays": 22,
+      "last_week_plays": 34,
       "change": "="
     },
     {
@@ -96,31 +96,31 @@
     },
     {
       "rank": 5,
-      "name": "The Alchemist",
-      "plays": 18,
-      "last_week_plays": 16,
-      "change": "+8"
-    },
-    {
-      "rank": 6,
       "name": "Lil Wayne",
       "plays": 17,
       "last_week_plays": 10,
-      "change": "+16"
+      "change": "+17"
+    },
+    {
+      "rank": 6,
+      "name": "The Alchemist",
+      "plays": 16,
+      "last_week_plays": 18,
+      "change": "+5"
     },
     {
       "rank": 7,
-      "name": "Westside Gunn",
-      "plays": 16,
-      "last_week_plays": 19,
-      "change": "+3"
-    },
-    {
-      "rank": 8,
       "name": "Metro Boomin",
       "plays": 16,
       "last_week_plays": 18,
-      "change": "+3"
+      "change": "+5"
+    },
+    {
+      "rank": 8,
+      "name": "Westside Gunn",
+      "plays": 15,
+      "last_week_plays": 20,
+      "change": "+1"
     },
     {
       "rank": 9,
@@ -199,7 +199,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+233"
+      "change": "+235"
     },
     {
       "rank": 10,
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 66,
+    "plays_of_new_tracks_pct": 67,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -299,7 +299,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 62,
+    "Late night (12am-5am)": 52,
     "Morning (5am-12pm)": 92,
     "Afternoon (12pm-5pm)": 210,
     "Evening (5pm-9pm)": 112,
@@ -309,7 +309,7 @@
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 33,
+    "Thu": 23,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -340,13 +340,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 23,
-    "2000s": 41,
-    "2010s": 179,
-    "2020s": 257
+    "2000s": 40,
+    "2010s": 176,
+    "2020s": 251
   },
   "listening_style": {
     "played_from": {
-      "other": 443,
+      "other": 433,
       "playlist": 58
     },
     "full_album_sessions": 0
