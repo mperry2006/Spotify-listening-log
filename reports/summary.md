@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-11 to 2026-11-18** · updated 2026-11-18 22:06 ET
+**2026-11-11 to 2026-11-18** · updated 2026-11-18 23:15 ET
 
-**500 plays** (-44 vs last week) · **1747 minutes** · 237 artists · 449 songs
+**501 plays** (-44 vs last week) · **1753 minutes** · 237 artists · 450 songs
 
 _Counting real listens only. 25 skips left out (5% skip rate)._
 
@@ -14,8 +14,8 @@ _Counting real listens only. 25 skips left out (5% skip rate)._
 | 4 | Future | 21 | = |
 | 5 | The Alchemist | 18 | +8 |
 | 6 | Lil Wayne | 17 | +16 |
-| 7 | Metro Boomin | 16 | +4 |
-| 8 | Westside Gunn | 15 | +2 |
+| 7 | Westside Gunn | 16 | +3 |
+| 8 | Metro Boomin | 16 | +3 |
 | 9 | Lil Baby | 15 | -3 |
 | 10 | Gunna | 15 | -7 |
 
@@ -62,11 +62,11 @@ Late night (12am-5am)  ██████ 62
 Morning (5am-12pm)     █████████ 92
 Afternoon (12pm-5pm)   ████████████████████ 210
 Evening (5pm-9pm)      ███████████ 112
-Night (9pm-12am)       ██ 24
+Night (9pm-12am)       ██ 25
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
-Wed                    █████████ 52
+Wed                    █████████ 53
 Thu                    █████ 33
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
@@ -81,10 +81,10 @@ Sun                    ████████████ 73
 - LUCKI: 10 days in a row
 
 ## Eras
-1980s: 1, 1990s: 22, 2000s: 41, 2010s: 179, 2020s: 257
+1980s: 1, 1990s: 23, 2000s: 41, 2010s: 179, 2020s: 257
 
 ## How you listen
-Played from: other 442, playlist 58
+Played from: other 443, playlist 58
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1929 plays recorded total._
+_Log started 2026-10-26 · 1931 plays recorded total._

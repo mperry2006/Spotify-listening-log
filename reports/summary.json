@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-18T22:06-05:00",
+  "generated_at": "2026-11-18T23:15-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1929,
+  "total_plays_logged": 1931,
   "this_week": {
-    "plays": 500,
-    "minutes": 1747,
-    "unique_tracks": 449,
+    "plays": 501,
+    "minutes": 1753,
+    "unique_tracks": 450,
     "unique_artists": 237
   },
   "last_week": {
-    "plays": 544,
-    "minutes": 1857
+    "plays": 545,
+    "minutes": 1860
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -110,17 +110,17 @@
     },
     {
       "rank": 7,
-      "name": "Metro Boomin",
+      "name": "Westside Gunn",
       "plays": 16,
-      "last_week_plays": 18,
-      "change": "+4"
+      "last_week_plays": 19,
+      "change": "+3"
     },
     {
       "rank": 8,
-      "name": "Westside Gunn",
-      "plays": 15,
-      "last_week_plays": 19,
-      "change": "+2"
+      "name": "Metro Boomin",
+      "plays": 16,
+      "last_week_plays": 18,
+      "change": "+3"
     },
     {
       "rank": 9,
@@ -303,12 +303,12 @@
     "Morning (5am-12pm)": 92,
     "Afternoon (12pm-5pm)": 210,
     "Evening (5pm-9pm)": 112,
-    "Night (9pm-12am)": 24
+    "Night (9pm-12am)": 25
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
-    "Wed": 52,
+    "Wed": 53,
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 22,
+    "1990s": 23,
     "2000s": 41,
     "2010s": 179,
     "2020s": 257
   },
   "listening_style": {
     "played_from": {
-      "other": 442,
+      "other": 443,
       "playlist": 58
     },
     "full_album_sessions": 0
