@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-18T19:02-05:00",
+  "generated_at": "2026-11-18T20:31-05:00",
   "window": {
     "start": "2026-11-11",
     "end": "2026-11-18"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1908,
+  "total_plays_logged": 1929,
   "this_week": {
-    "plays": 492,
-    "minutes": 1718,
-    "unique_tracks": 442,
-    "unique_artists": 242
+    "plays": 500,
+    "minutes": 1747,
+    "unique_tracks": 449,
+    "unique_artists": 237
   },
   "last_week": {
-    "plays": 535,
-    "minutes": 1828
+    "plays": 546,
+    "minutes": 1864
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,37 +69,37 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 64,
-      "last_week_plays": 55,
+      "plays": 63,
+      "last_week_plays": 57,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 22,
+      "plays": 25,
       "last_week_plays": 31,
       "change": "="
     },
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 26,
       "change": "+2"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 17,
-      "last_week_plays": 28,
+      "name": "Future",
+      "plays": 21,
+      "last_week_plays": 29,
       "change": "="
     },
     {
       "rank": 5,
       "name": "The Alchemist",
-      "plays": 17,
+      "plays": 18,
       "last_week_plays": 16,
-      "change": "+7"
+      "change": "+8"
     },
     {
       "rank": 6,
@@ -110,31 +110,31 @@
     },
     {
       "rank": 7,
-      "name": "Lil Baby",
+      "name": "Metro Boomin",
       "plays": 16,
-      "last_week_plays": 24,
-      "change": "-1"
+      "last_week_plays": 18,
+      "change": "+4"
     },
     {
       "rank": 8,
-      "name": "Future",
-      "plays": 16,
-      "last_week_plays": 29,
-      "change": "-5"
-    },
-    {
-      "rank": 9,
-      "name": "Kanye West",
-      "plays": 15,
-      "last_week_plays": 15,
-      "change": "+5"
-    },
-    {
-      "rank": 10,
       "name": "Westside Gunn",
       "plays": 15,
       "last_week_plays": 19,
-      "change": "="
+      "change": "+2"
+    },
+    {
+      "rank": 9,
+      "name": "Lil Baby",
+      "plays": 15,
+      "last_week_plays": 25,
+      "change": "-3"
+    },
+    {
+      "rank": 10,
+      "name": "Gunna",
+      "plays": 15,
+      "last_week_plays": 30,
+      "change": "-7"
     }
   ],
   "top_tracks": [
@@ -147,21 +147,21 @@
     },
     {
       "rank": 2,
-      "name": "Won't Be Late (feat. Drake) - Swae Lee",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+307"
-    },
-    {
-      "rank": 3,
       "name": "Pallbearers - Rylo Rodriguez",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 4,
+      "name": "TRIM (with Future) - Playboi Carti",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
@@ -175,38 +175,38 @@
     },
     {
       "rank": 6,
-      "name": "God Gave Me Style - 50 Cent",
+      "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Sorrows - Bryson Tiller",
+      "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
+      "name": "Sorrows - Bryson Tiller",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
       "change": "+234"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Poppin - Big Scarr",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
-    },
-    {
-      "rank": 10,
-      "name": "Sip (Alcohol) - Joeboy",
-      "plays": 2,
-      "last_week_plays": 3,
-      "change": "+7"
     }
   ],
   "dropped_off": [],
@@ -241,15 +241,15 @@
         "plays": 3
       },
       {
-        "name": "J Hus",
-        "plays": 2
-      },
-      {
         "name": "112",
         "plays": 2
       },
       {
         "name": "Jack Harlow",
+        "plays": 2
+      },
+      {
+        "name": "Jeremih",
         "plays": 2
       }
     ],
@@ -262,10 +262,6 @@
       "plays": 4
     },
     {
-      "track": "Won't Be Late (feat. Drake) - Swae Lee",
-      "plays": 3
-    },
-    {
       "track": "Pallbearers - Rylo Rodriguez",
       "plays": 3
     },
@@ -274,7 +270,15 @@
       "plays": 3
     },
     {
+      "track": "TRIM (with Future) - Playboi Carti",
+      "plays": 3
+    },
+    {
       "track": "Point and Kill - Little Simz",
+      "plays": 3
+    },
+    {
+      "track": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 3
     },
     {
@@ -297,14 +301,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 62,
     "Morning (5am-12pm)": 92,
-    "Afternoon (12pm-5pm)": 206,
-    "Evening (5pm-9pm)": 108,
+    "Afternoon (12pm-5pm)": 210,
+    "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 24
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
-    "Wed": 44,
+    "Wed": 52,
     "Thu": 33,
     "Fri": 62,
     "Sat": 121,
@@ -322,7 +326,7 @@
     },
     {
       "artist": "Metro Boomin",
-      "days": 13
+      "days": 14
     },
     {
       "artist": "Kanye West",
@@ -335,15 +339,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 21,
-    "2000s": 40,
-    "2010s": 174,
-    "2020s": 256
+    "1990s": 22,
+    "2000s": 41,
+    "2010s": 179,
+    "2020s": 257
   },
   "listening_style": {
     "played_from": {
-      "other": 431,
-      "playlist": 61
+      "other": 442,
+      "playlist": 58
     },
     "full_album_sessions": 0
   },
