@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-20T11:13-05:00",
+  "generated_at": "2026-11-20T12:15-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1998,
+  "total_plays_logged": 1999,
   "this_week": {
-    "plays": 517,
-    "minutes": 1769,
-    "unique_tracks": 469,
-    "unique_artists": 241
+    "plays": 505,
+    "minutes": 1719,
+    "unique_tracks": 457,
+    "unique_artists": 240
   },
   "last_week": {
-    "plays": 522,
-    "minutes": 1792
+    "plays": 528,
+    "minutes": 1822
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 4,
+    "skip_rate_pct": 5,
     "skipped_plays": 24,
     "most_skipped_tracks": [
       {
@@ -69,8 +69,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 62,
-      "last_week_plays": 53,
+      "plays": 61,
+      "last_week_plays": 54,
       "change": "="
     },
     {
@@ -83,8 +83,8 @@
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 23,
-      "last_week_plays": 25,
+      "plays": 22,
+      "last_week_plays": 26,
       "change": "+1"
     },
     {
@@ -96,44 +96,44 @@
     },
     {
       "rank": 5,
-      "name": "Metro Boomin",
+      "name": "Gunna",
       "plays": 18,
-      "last_week_plays": 15,
-      "change": "+10"
+      "last_week_plays": 23,
+      "change": "="
     },
     {
       "rank": 6,
       "name": "Lil Baby",
-      "plays": 18,
-      "last_week_plays": 22,
+      "plays": 17,
+      "last_week_plays": 23,
       "change": "="
     },
     {
       "rank": 7,
-      "name": "Gunna",
-      "plays": 18,
-      "last_week_plays": 23,
-      "change": "-2"
+      "name": "Metro Boomin",
+      "plays": 17,
+      "last_week_plays": 16,
+      "change": "+7"
     },
     {
       "rank": 8,
       "name": "Travis Scott",
       "plays": 17,
       "last_week_plays": 17,
-      "change": "+4"
+      "change": "+3"
     },
     {
       "rank": 9,
-      "name": "Westside Gunn",
-      "plays": 15,
-      "last_week_plays": 19,
-      "change": "-1"
+      "name": "Benny The Butcher",
+      "plays": 14,
+      "last_week_plays": 15,
+      "change": "+7"
     },
     {
       "rank": 10,
       "name": "Lil Wayne",
-      "plays": 15,
-      "last_week_plays": 11,
+      "plays": 14,
+      "last_week_plays": 12,
       "change": "+9"
     }
   ],
@@ -185,7 +185,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+178"
+      "change": "+175"
     },
     {
       "rank": 8,
@@ -288,8 +288,8 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 49,
-    "Morning (5am-12pm)": 77,
-    "Afternoon (12pm-5pm)": 243,
+    "Morning (5am-12pm)": 68,
+    "Afternoon (12pm-5pm)": 240,
     "Evening (5pm-9pm)": 122,
     "Night (9pm-12am)": 26
   },
@@ -298,7 +298,7 @@
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 50,
+    "Fri": 38,
     "Sat": 121,
     "Sun": 73
   },
@@ -327,14 +327,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 26,
-    "2000s": 38,
-    "2010s": 184,
-    "2020s": 268
+    "1990s": 25,
+    "2000s": 35,
+    "2010s": 181,
+    "2020s": 263
   },
   "listening_style": {
     "played_from": {
-      "other": 455,
+      "other": 443,
       "playlist": 58,
       "album": 4
     },

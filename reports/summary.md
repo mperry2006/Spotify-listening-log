@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-13 to 2026-11-20** · updated 2026-11-20 11:13 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 12:15 ET
 
-**517 plays** (-5 vs last week) · **1769 minutes** · 241 artists · 469 songs
+**505 plays** (-23 vs last week) · **1719 minutes** · 240 artists · 457 songs
 
-_Counting real listens only. 24 skips left out (4% skip rate)._
+_Counting real listens only. 24 skips left out (5% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 62 | = |
+| 1 | Drake | 61 | = |
 | 2 | J. Cole | 24 | = |
-| 3 | 21 Savage | 23 | +1 |
+| 3 | 21 Savage | 22 | +1 |
 | 4 | Future | 21 | -1 |
-| 5 | Metro Boomin | 18 | +10 |
-| 6 | Lil Baby | 18 | = |
-| 7 | Gunna | 18 | -2 |
-| 8 | Travis Scott | 17 | +4 |
-| 9 | Westside Gunn | 15 | -1 |
-| 10 | Lil Wayne | 15 | +9 |
+| 5 | Gunna | 18 | = |
+| 6 | Lil Baby | 17 | = |
+| 7 | Metro Boomin | 17 | +7 |
+| 8 | Travis Scott | 17 | +3 |
+| 9 | Benny The Butcher | 14 | +7 |
+| 10 | Lil Wayne | 14 | +9 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -28,7 +28,7 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 | 4 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
 | 5 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 6 | Sorrows - Bryson Tiller | 3 | NEW |
-| 7 | Modern Day - Migos | 3 | +178 |
+| 7 | Modern Day - Migos | 3 | +175 |
 | 8 | Malice in the Palace - Veeze | 2 | NEW |
 | 9 | Won't Be Late (feat. Drake) - Swae Lee | 2 | +41 |
 | 10 | Indonesian Fantasies - Sonder | 2 | NEW |
@@ -56,8 +56,8 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), Little Simz (3), Obo
 ## When you listen
 ```
 Late night (12am-5am)  ████ 49
-Morning (5am-12pm)     ██████ 77
-Afternoon (12pm-5pm)   ████████████████████ 243
+Morning (5am-12pm)     ██████ 68
+Afternoon (12pm-5pm)   ████████████████████ 240
 Evening (5pm-9pm)      ██████████ 122
 Night (9pm-12am)       ██ 26
 
@@ -65,7 +65,7 @@ Mon                    ██████████████████ 10
 Tue                    ████████ 50
 Wed                    █████████ 53
 Thu                    ██████████ 61
-Fri                    ████████ 50
+Fri                    ██████ 38
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
 ```
@@ -78,10 +78,10 @@ Sun                    ████████████ 73
 - Future: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 26, 2000s: 38, 2010s: 184, 2020s: 268
+1980s: 1, 1990s: 25, 2000s: 35, 2010s: 181, 2020s: 263
 
 ## How you listen
-Played from: other 455, playlist 58, album 4
+Played from: other 443, playlist 58, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1998 plays recorded total._
+_Log started 2026-10-26 · 1999 plays recorded total._
