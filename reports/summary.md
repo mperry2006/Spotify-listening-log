@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-13 to 2026-11-20** · updated 2026-11-20 07:14 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 08:35 ET
 
-**526 plays** (+3 vs last week) · **1807 minutes** · 244 artists · 474 songs
+**527 plays** (+4 vs last week) · **1810 minutes** · 244 artists · 475 songs
 
 _Counting real listens only. 24 skips left out (4% skip rate)._
 
@@ -58,7 +58,7 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), Little Simz (3), Obo
 ## When you listen
 ```
 Late night (12am-5am)  ████ 49
-Morning (5am-12pm)     ███████ 86
+Morning (5am-12pm)     ███████ 87
 Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      ██████████ 122
 Night (9pm-12am)       ██ 26
@@ -67,7 +67,7 @@ Mon                    ██████████████████ 10
 Tue                    ████████ 50
 Wed                    █████████ 53
 Thu                    ██████████ 61
-Fri                    ██████████ 59
+Fri                    ██████████ 60
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
 ```
@@ -80,10 +80,10 @@ Sun                    ████████████ 73
 - Future: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 26, 2000s: 38, 2010s: 186, 2020s: 275
+1980s: 1, 1990s: 26, 2000s: 38, 2010s: 186, 2020s: 276
 
 ## How you listen
-Played from: other 464, playlist 58, album 4
+Played from: other 465, playlist 58, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1992 plays recorded total._
+_Log started 2026-10-26 · 1993 plays recorded total._
