@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-13 to 2026-11-20** · updated 2026-11-20 00:18 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 02:37 ET
 
-**529 plays** (+9 vs last week) · **1817 minutes** · 245 artists · 476 songs
+**526 plays** (+3 vs last week) · **1807 minutes** · 244 artists · 474 songs
 
 _Counting real listens only. 24 skips left out (4% skip rate)._
 
@@ -17,21 +17,21 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 | 7 | Lil Wayne | 17 | +15 |
 | 8 | Gunna | 17 | -3 |
 | 9 | Travis Scott | 17 | = |
-| 10 | The Alchemist | 16 | +5 |
+| 10 | The Alchemist | 15 | +4 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Poppin - Big Scarr | 5 | NEW |
 | 2 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 5 | NEW |
-| 3 | Pallbearers - Rylo Rodriguez | 3 | NEW |
-| 4 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
-| 5 | TRIM (with Future) - Playboi Carti | 3 | NEW |
-| 6 | Point and Kill - Little Simz | 3 | NEW |
-| 7 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
-| 8 | God Gave Me Style - 50 Cent | 3 | NEW |
-| 9 | Sorrows - Bryson Tiller | 3 | NEW |
-| 10 | Modern Day - Migos | 3 | +183 |
+| 3 | Seeing Green (with Drake & Lil Wayne) - Nicki Minaj | 3 | NEW |
+| 4 | TRIM (with Future) - Playboi Carti | 3 | NEW |
+| 5 | Point and Kill - Little Simz | 3 | NEW |
+| 6 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
+| 7 | God Gave Me Style - 50 Cent | 3 | NEW |
+| 8 | Sorrows - Bryson Tiller | 3 | NEW |
+| 9 | Modern Day - Migos | 3 | +184 |
+| 10 | Giant Slide - Boldy James | 2 | NEW |
 
 ## Discovery
 66% of plays were songs not in your log before this week.
@@ -40,7 +40,6 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), Little Simz (3), Obo
 ## On repeat (3+ plays)
 - Poppin - Big Scarr - 5x
 - Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 - 5x
-- Pallbearers - Rylo Rodriguez - 3x
 - Seeing Green (with Drake & Lil Wayne) - Nicki Minaj - 3x
 - TRIM (with Future) - Playboi Carti - 3x
 - Point and Kill - Little Simz - 3x
@@ -58,7 +57,7 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), Little Simz (3), Obo
 
 ## When you listen
 ```
-Late night (12am-5am)  ████ 52
+Late night (12am-5am)  ████ 49
 Morning (5am-12pm)     ███████ 86
 Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      ██████████ 122
@@ -68,7 +67,7 @@ Mon                    ██████████████████ 10
 Tue                    ████████ 50
 Wed                    █████████ 53
 Thu                    ██████████ 61
-Fri                    ██████████ 62
+Fri                    ██████████ 59
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
 ```
@@ -81,10 +80,10 @@ Sun                    ████████████ 73
 - Future: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 26, 2000s: 38, 2010s: 187, 2020s: 277
+1980s: 1, 1990s: 26, 2000s: 38, 2010s: 186, 2020s: 275
 
 ## How you listen
-Played from: other 467, playlist 58, album 4
+Played from: other 464, playlist 58, album 4
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 1992 plays recorded total._

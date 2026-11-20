@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:18-05:00",
+  "generated_at": "2026-11-20T02:37-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 1992,
   "this_week": {
-    "plays": 529,
-    "minutes": 1817,
-    "unique_tracks": 476,
-    "unique_artists": 245
+    "plays": 526,
+    "minutes": 1807,
+    "unique_tracks": 474,
+    "unique_artists": 244
   },
   "last_week": {
-    "plays": 520,
-    "minutes": 1784
+    "plays": 523,
+    "minutes": 1794
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -132,9 +132,9 @@
     {
       "rank": 10,
       "name": "The Alchemist",
-      "plays": 16,
-      "last_week_plays": 14,
-      "change": "+5"
+      "plays": 15,
+      "last_week_plays": 15,
+      "change": "+4"
     }
   ],
   "top_tracks": [
@@ -154,59 +154,59 @@
     },
     {
       "rank": 3,
-      "name": "Pallbearers - Rylo Rodriguez",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "TRIM (with Future) - Playboi Carti",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+183"
+      "change": "+184"
+    },
+    {
+      "rank": 10,
+      "name": "Giant Slide - Boldy James",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -266,10 +266,6 @@
       "plays": 5
     },
     {
-      "track": "Pallbearers - Rylo Rodriguez",
-      "plays": 3
-    },
-    {
       "track": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
       "plays": 3
     },
@@ -299,7 +295,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 52,
+    "Late night (12am-5am)": 49,
     "Morning (5am-12pm)": 86,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 122,
@@ -310,7 +306,7 @@
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 62,
+    "Fri": 59,
     "Sat": 121,
     "Sun": 73
   },
@@ -341,12 +337,12 @@
     "1980s": 1,
     "1990s": 26,
     "2000s": 38,
-    "2010s": 187,
-    "2020s": 277
+    "2010s": 186,
+    "2020s": 275
   },
   "listening_style": {
     "played_from": {
-      "other": 467,
+      "other": 464,
       "playlist": 58,
       "album": 4
     },
