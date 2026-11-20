@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-19T22:00-05:00",
+  "generated_at": "2026-11-19T23:10-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1989,
+  "total_plays_logged": 1991,
   "this_week": {
-    "plays": 526,
-    "minutes": 1808,
-    "unique_tracks": 473,
-    "unique_artists": 243
+    "plays": 528,
+    "minutes": 1814,
+    "unique_tracks": 475,
+    "unique_artists": 245
   },
   "last_week": {
-    "plays": 533,
-    "minutes": 1826
+    "plays": 525,
+    "minutes": 1801
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -70,7 +70,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 64,
-      "last_week_plays": 54,
+      "last_week_plays": 53,
       "change": "="
     },
     {
@@ -85,21 +85,21 @@
       "name": "J. Cole",
       "plays": 24,
       "last_week_plays": 29,
-      "change": "="
+      "change": "-1"
     },
     {
       "rank": 4,
       "name": "21 Savage",
       "plays": 23,
       "last_week_plays": 28,
-      "change": "="
+      "change": "-1"
     },
     {
       "rank": 5,
       "name": "Metro Boomin",
       "plays": 18,
-      "last_week_plays": 19,
-      "change": "+2"
+      "last_week_plays": 18,
+      "change": "+6"
     },
     {
       "rank": 6,
@@ -119,15 +119,15 @@
       "rank": 8,
       "name": "Gunna",
       "plays": 17,
-      "last_week_plays": 29,
-      "change": "-6"
+      "last_week_plays": 26,
+      "change": "-4"
     },
     {
       "rank": 9,
       "name": "Travis Scott",
       "plays": 17,
       "last_week_plays": 19,
-      "change": "="
+      "change": "-2"
     },
     {
       "rank": 10,
@@ -206,7 +206,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+195"
+      "change": "+188"
     }
   ],
   "dropped_off": [],
@@ -303,13 +303,13 @@
     "Morning (5am-12pm)": 86,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 122,
-    "Night (9pm-12am)": 23
+    "Night (9pm-12am)": 25
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 58,
+    "Thu": 60,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 25,
+    "1990s": 26,
     "2000s": 38,
-    "2010s": 186,
+    "2010s": 187,
     "2020s": 276
   },
   "listening_style": {
     "played_from": {
-      "other": 464,
+      "other": 466,
       "playlist": 58,
       "album": 4
     },

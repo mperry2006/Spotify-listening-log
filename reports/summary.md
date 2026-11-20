@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-12 to 2026-11-19** · updated 2026-11-19 22:00 ET
+**2026-11-12 to 2026-11-19** · updated 2026-11-19 23:10 ET
 
-**526 plays** (-7 vs last week) · **1808 minutes** · 243 artists · 473 songs
+**528 plays** (+3 vs last week) · **1814 minutes** · 245 artists · 475 songs
 
 _Counting real listens only. 24 skips left out (4% skip rate)._
 
@@ -10,13 +10,13 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 |---|---|---|---|
 | 1 | Drake | 64 | = |
 | 2 | Future | 24 | +3 |
-| 3 | J. Cole | 24 | = |
-| 4 | 21 Savage | 23 | = |
-| 5 | Metro Boomin | 18 | +2 |
+| 3 | J. Cole | 24 | -1 |
+| 4 | 21 Savage | 23 | -1 |
+| 5 | Metro Boomin | 18 | +6 |
 | 6 | Lil Baby | 18 | = |
 | 7 | Lil Wayne | 17 | +15 |
-| 8 | Gunna | 17 | -6 |
-| 9 | Travis Scott | 17 | = |
+| 8 | Gunna | 17 | -4 |
+| 9 | Travis Scott | 17 | -2 |
 | 10 | The Alchemist | 16 | +5 |
 
 ## Top songs
@@ -31,7 +31,7 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 | 7 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
 | 8 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 9 | Sorrows - Bryson Tiller | 3 | NEW |
-| 10 | Modern Day - Migos | 3 | +195 |
+| 10 | Modern Day - Migos | 3 | +188 |
 
 ## Discovery
 66% of plays were songs not in your log before this week.
@@ -62,12 +62,12 @@ Late night (12am-5am)  ████ 52
 Morning (5am-12pm)     ███████ 86
 Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      ██████████ 122
-Night (9pm-12am)       ██ 23
+Night (9pm-12am)       ██ 25
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
 Wed                    █████████ 53
-Thu                    ██████████ 58
+Thu                    ██████████ 60
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
@@ -81,10 +81,10 @@ Sun                    ████████████ 73
 - Brent Faiyaz: 9 days in a row
 
 ## Eras
-1980s: 1, 1990s: 25, 2000s: 38, 2010s: 186, 2020s: 276
+1980s: 1, 1990s: 26, 2000s: 38, 2010s: 187, 2020s: 276
 
 ## How you listen
-Played from: other 464, playlist 58, album 4
+Played from: other 466, playlist 58, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1989 plays recorded total._
+_Log started 2026-10-26 · 1991 plays recorded total._
