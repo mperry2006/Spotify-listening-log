@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:25-05:00",
+  "generated_at": "2026-11-20T16:05-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
@@ -7,60 +7,44 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2005,
   "this_week": {
-    "plays": 499,
-    "minutes": 1701,
-    "unique_tracks": 450,
-    "unique_artists": 238
+    "plays": 496,
+    "minutes": 1692,
+    "unique_tracks": 448,
+    "unique_artists": 236
   },
   "last_week": {
-    "plays": 539,
-    "minutes": 1855
+    "plays": 542,
+    "minutes": 1864
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 4,
-    "skipped_plays": 23,
+    "skip_rate_pct": 1,
+    "skipped_plays": 3,
     "most_skipped_tracks": [
       {
-        "track": "Confession - Babyboy AV",
-        "skips": 10
+        "track": "Blaze a 50 - Nas",
+        "skips": 1
       },
       {
-        "track": "Point and Kill - Little Simz",
-        "skips": 4
+        "track": "My Up and Down - Adina Howard",
+        "skips": 1
       },
       {
-        "track": "Won't Be Late (feat. Drake) - Swae Lee",
-        "skips": 3
-      },
-      {
-        "track": "Commas - Ayra Starr",
-        "skips": 2
-      },
-      {
-        "track": "Sip (Alcohol) - Joeboy",
+        "track": "Good Morning - Kanye West",
         "skips": 1
       }
     ],
     "most_skipped_artists": [
       {
-        "artist": "Babyboy AV",
-        "skips": 10
+        "artist": "Nas",
+        "skips": 1
       },
       {
-        "artist": "Little Simz",
-        "skips": 4
+        "artist": "Adina Howard",
+        "skips": 1
       },
       {
-        "artist": "Swae Lee",
-        "skips": 3
-      },
-      {
-        "artist": "Ayra Starr",
-        "skips": 2
-      },
-      {
-        "artist": "Joeboy",
+        "artist": "Kanye West",
         "skips": 1
       }
     ]
@@ -178,32 +162,32 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+175"
+      "change": "+176"
     },
     {
       "rank": 7,
-      "name": "Point and Kill - Little Simz",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+444"
-    },
-    {
-      "rank": 8,
       "name": "Won't Be Late (feat. Drake) - Swae Lee",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+42"
+      "change": "+43"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Indonesian Fantasies - Sonder",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "That’s How You Feel - Drake",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Oh U Went (feat. Drake) - Young Thug",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -285,7 +269,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 49,
     "Morning (5am-12pm)": 68,
-    "Afternoon (12pm-5pm)": 234,
+    "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 122,
     "Night (9pm-12am)": 26
   },
@@ -294,7 +278,7 @@
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 32,
+    "Fri": 29,
     "Sat": 121,
     "Sun": 73
   },
@@ -326,12 +310,12 @@
     "1990s": 24,
     "2000s": 35,
     "2010s": 182,
-    "2020s": 257
+    "2020s": 254
   },
   "listening_style": {
     "played_from": {
       "other": 437,
-      "playlist": 58,
+      "playlist": 55,
       "album": 4
     },
     "full_album_sessions": 0
