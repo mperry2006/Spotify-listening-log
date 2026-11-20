@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-12 to 2026-11-19** · updated 2026-11-19 23:10 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 00:18 ET
 
-**528 plays** (+3 vs last week) · **1814 minutes** · 245 artists · 475 songs
+**529 plays** (+9 vs last week) · **1817 minutes** · 245 artists · 476 songs
 
 _Counting real listens only. 24 skips left out (4% skip rate)._
 
@@ -9,14 +9,14 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 64 | = |
-| 2 | Future | 24 | +3 |
+| 2 | Future | 24 | +2 |
 | 3 | J. Cole | 24 | -1 |
 | 4 | 21 Savage | 23 | -1 |
-| 5 | Metro Boomin | 18 | +6 |
+| 5 | Metro Boomin | 18 | +7 |
 | 6 | Lil Baby | 18 | = |
 | 7 | Lil Wayne | 17 | +15 |
-| 8 | Gunna | 17 | -4 |
-| 9 | Travis Scott | 17 | -2 |
+| 8 | Gunna | 17 | -3 |
+| 9 | Travis Scott | 17 | = |
 | 10 | The Alchemist | 16 | +5 |
 
 ## Top songs
@@ -31,7 +31,7 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 | 7 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
 | 8 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 9 | Sorrows - Bryson Tiller | 3 | NEW |
-| 10 | Modern Day - Migos | 3 | +188 |
+| 10 | Modern Day - Migos | 3 | +183 |
 
 ## Discovery
 66% of plays were songs not in your log before this week.
@@ -62,12 +62,12 @@ Late night (12am-5am)  ████ 52
 Morning (5am-12pm)     ███████ 86
 Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      ██████████ 122
-Night (9pm-12am)       ██ 25
+Night (9pm-12am)       ██ 26
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
 Wed                    █████████ 53
-Thu                    ██████████ 60
+Thu                    ██████████ 61
 Fri                    ██████████ 62
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
@@ -77,14 +77,14 @@ Sun                    ████████████ 73
 - Drake: 25 days in a row
 - 21 Savage: 15 days in a row
 - Metro Boomin: 15 days in a row
-- Kanye West: 12 days in a row
-- Brent Faiyaz: 9 days in a row
+- Gunna: 7 days in a row
+- Future: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 26, 2000s: 38, 2010s: 187, 2020s: 276
+1980s: 1, 1990s: 26, 2000s: 38, 2010s: 187, 2020s: 277
 
 ## How you listen
-Played from: other 466, playlist 58, album 4
+Played from: other 467, playlist 58, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1991 plays recorded total._
+_Log started 2026-10-26 · 1992 plays recorded total._
