@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-20T10:12-05:00",
+  "generated_at": "2026-11-20T11:13-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1997,
+  "total_plays_logged": 1998,
   "this_week": {
-    "plays": 528,
-    "minutes": 1812,
-    "unique_tracks": 476,
-    "unique_artists": 245
+    "plays": 517,
+    "minutes": 1769,
+    "unique_tracks": 469,
+    "unique_artists": 241
   },
   "last_week": {
-    "plays": 521,
-    "minutes": 1784
+    "plays": 522,
+    "minutes": 1792
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,30 +69,30 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 64,
-      "last_week_plays": 52,
+      "plays": 62,
+      "last_week_plays": 53,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 25,
-      "last_week_plays": 29,
+      "plays": 24,
+      "last_week_plays": 30,
       "change": "="
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 24,
-      "last_week_plays": 25,
-      "change": "="
-    },
-    {
-      "rank": 4,
       "name": "21 Savage",
       "plays": 23,
       "last_week_plays": 25,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 4,
+      "name": "Future",
+      "plays": 21,
+      "last_week_plays": 27,
+      "change": "-1"
     },
     {
       "rank": 5,
@@ -112,29 +112,29 @@
       "rank": 7,
       "name": "Gunna",
       "plays": 18,
-      "last_week_plays": 24,
+      "last_week_plays": 23,
       "change": "-2"
     },
     {
       "rank": 8,
-      "name": "Lil Wayne",
+      "name": "Travis Scott",
       "plays": 17,
-      "last_week_plays": 9,
-      "change": "+14"
+      "last_week_plays": 17,
+      "change": "+4"
     },
     {
       "rank": 9,
-      "name": "Travis Scott",
-      "plays": 17,
-      "last_week_plays": 18,
-      "change": "="
-    },
-    {
-      "rank": 10,
       "name": "Westside Gunn",
       "plays": 15,
       "last_week_plays": 19,
-      "change": "-2"
+      "change": "-1"
+    },
+    {
+      "rank": 10,
+      "name": "Lil Wayne",
+      "plays": 15,
+      "last_week_plays": 11,
+      "change": "+9"
     }
   ],
   "top_tracks": [
@@ -154,59 +154,59 @@
     },
     {
       "rank": 3,
-      "name": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
-      "name": "TRIM (with Future) - Playboi Carti",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "Point and Kill - Little Simz",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "God Gave Me Style - 50 Cent",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+181"
+      "change": "+178"
+    },
+    {
+      "rank": 8,
+      "name": "Malice in the Palace - Veeze",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "Won't Be Late (feat. Drake) - Swae Lee",
+      "plays": 2,
+      "last_week_plays": 2,
+      "change": "+41"
     },
     {
       "rank": 10,
-      "name": "Pallbearers - Rylo Rodriguez",
+      "name": "Indonesian Fantasies - Sonder",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+423"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -253,7 +253,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 66,
+    "plays_of_new_tracks_pct": 65,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -264,14 +264,6 @@
     {
       "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 5
-    },
-    {
-      "track": "Seeing Green (with Drake & Lil Wayne) - Nicki Minaj",
-      "plays": 3
-    },
-    {
-      "track": "TRIM (with Future) - Playboi Carti",
-      "plays": 3
     },
     {
       "track": "Point and Kill - Little Simz",
@@ -296,7 +288,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 49,
-    "Morning (5am-12pm)": 88,
+    "Morning (5am-12pm)": 77,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 122,
     "Night (9pm-12am)": 26
@@ -306,7 +298,7 @@
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 61,
+    "Fri": 50,
     "Sat": 121,
     "Sun": 73
   },
@@ -314,7 +306,7 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 25
+      "days": 26
     },
     {
       "artist": "21 Savage",
@@ -337,12 +329,12 @@
     "1980s": 1,
     "1990s": 26,
     "2000s": 38,
-    "2010s": 185,
-    "2020s": 278
+    "2010s": 184,
+    "2020s": 268
   },
   "listening_style": {
     "played_from": {
-      "other": 466,
+      "other": 455,
       "playlist": 58,
       "album": 4
     },
