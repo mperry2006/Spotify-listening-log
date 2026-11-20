@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-18T15:14+00:00",
+  "generated_at": "2026-11-20T15:13+00:00",
   "week": {
-    "start": "2026-11-11",
-    "end": "2026-11-18"
+    "start": "2026-11-13",
+    "end": "2026-11-20"
   },
   "note": "Credit each photo as: Photo: <credit>, <license>.",
   "photos": [
     {
       "artist": "Drake",
       "why": [
-        "#1 artist this week (70 plays)",
-        "23-day listening streak"
+        "#1 artist this week (64 plays)",
+        "25-day listening streak"
       ],
       "file": "photos/drake.jpg",
       "found_via": "Wikipedia",
@@ -24,7 +24,7 @@
     {
       "artist": "J. Cole",
       "why": [
-        "#2 artist this week (26 plays)"
+        "#2 artist this week (25 plays)"
       ],
       "file": "photos/j-cole.jpg",
       "found_via": "Wikipedia",
@@ -36,66 +36,10 @@
       "source": "https://commons.wikimedia.org/wiki/File:HOTSPOTATL_-_21_Savage_%26_J.Cole_Light_Birthday_Bash_ATL_2023_On_FIRE_(xu6HKf40MX0_-_2m38s)_(cropped)_(cropped).jpg"
     },
     {
-      "artist": "21 Savage",
-      "why": [
-        "#3 artist this week (21 plays)",
-        "13-day listening streak"
-      ],
-      "file": "photos/21-savage.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/21_Savage",
-      "about": "Rapper (born 1992)",
-      "credit": "Ralph Arvesen from Round Mountain, Texas",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
-    },
-    {
-      "artist": "Lil Baby",
-      "why": [
-        "#4 artist this week (19 plays)"
-      ],
-      "file": "photos/lil-baby.png",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Baby",
-      "about": "American rapper (born 1994)",
-      "credit": "MILLION DOLLAZ WORTH OF GAME",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Lil_Baby_2023.png"
-    },
-    {
-      "artist": "Lil Wayne",
-      "why": [
-        "#5 artist this week (18 plays)"
-      ],
-      "file": "photos/lil-wayne.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Wayne",
-      "about": "American rapper (born 1982)",
-      "credit": "Megan Elice Meadows",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Lil_Wayne_(23513397583).jpg"
-    },
-    {
-      "artist": "The Alchemist",
-      "why": [
-        "#6 artist this week (18 plays)"
-      ],
-      "file": "photos/the-alchemist.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/The_Alchemist_(musician)",
-      "about": "American record producer and DJ (born 1977)",
-      "credit": "MILLION DOLLAZ WORTH OF GAME",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:The_Alchemist_on_MILLION_DOLLAZ_WORTH_OF_GAME_(cropped).jpg"
-    },
-    {
       "artist": "Future",
       "why": [
-        "#7 artist this week (18 plays)"
+        "#3 artist this week (24 plays)",
+        "7-day listening streak"
       ],
       "file": "photos/future.jpg",
       "found_via": "Wikipedia",
@@ -107,23 +51,25 @@
       "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
     },
     {
-      "artist": "Sampha",
+      "artist": "21 Savage",
       "why": [
-        "new discovery (3 plays)"
+        "#4 artist this week (23 plays)",
+        "15-day listening streak"
       ],
-      "file": "photos/sampha.jpg",
+      "file": "photos/21-savage.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Sampha",
-      "about": "English singer and musician",
-      "credit": "Sakena",
+      "wikipedia": "https://en.wikipedia.org/wiki/21_Savage",
+      "about": "Rapper (born 1992)",
+      "credit": "Ralph Arvesen from Round Mountain, Texas",
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Sampha_VEGA_(cropped).jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
     },
     {
       "artist": "Metro Boomin",
       "why": [
-        "13-day listening streak"
+        "#5 artist this week (18 plays)",
+        "15-day listening streak"
       ],
       "file": "photos/metro-boomin.jpg",
       "found_via": "Wikipedia",
@@ -135,26 +81,66 @@
       "source": "https://commons.wikimedia.org/wiki/File:Metro_Boomin_November_2025.jpg"
     },
     {
-      "artist": "Kanye West",
+      "artist": "Lil Baby",
       "why": [
-        "11-day listening streak"
+        "#6 artist this week (18 plays)"
       ],
-      "file": "photos/kanye-west.jpg",
+      "file": "photos/lil-baby.jpg",
+      "found_via": "Openverse (flickr)",
+      "wikipedia": "",
+      "about": "Lil Baby",
+      "credit": "rwoan",
+      "license": "BY-NC 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "source": "https://www.flickr.com/photos/8502118@N08/51497977158"
+    },
+    {
+      "artist": "Lil Wayne",
+      "why": [
+        "#8 artist this week (17 plays)"
+      ],
+      "file": "photos/lil-wayne.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Kanye_West",
-      "about": "American rapper and producer (born 1977)",
-      "credit": "David Shankbone",
-      "license": "Public domain",
-      "license_url": "",
-      "source": "https://commons.wikimedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg"
+      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Wayne",
+      "about": "American rapper (born 1982)",
+      "credit": "Megan Elice Meadows",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lil_Wayne_(23513397583).jpg"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "why": [
+        "new discovery (4 plays)"
+      ],
+      "file": "photos/bryson-tiller.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bryson_Tiller",
+      "about": "American rapper and singer (born 1993)",
+      "credit": "AtlantaFX",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bryson_Tiller_August_2018_(cropped).jpg"
+    },
+    {
+      "artist": "Little Simz",
+      "why": [
+        "new discovery (3 plays)"
+      ],
+      "file": "photos/little-simz.png",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Little_Simz",
+      "about": "British rapper (born 1994)",
+      "credit": "JoshPopov",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:SimbiAjikawo-TIFF2025-01-Cropped.png"
     }
   ],
   "no_photo_found": [
     "Gunna",
+    "Big Homiie G",
     "Wale",
-    "Bryson Tiller",
-    "Little Simz",
-    "Obongjayar",
-    "LUCKI"
+    "Obongjayar"
   ]
 }

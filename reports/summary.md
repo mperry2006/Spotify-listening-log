@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-13 to 2026-11-20** · updated 2026-11-20 08:35 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 10:12 ET
 
-**527 plays** (+4 vs last week) · **1810 minutes** · 244 artists · 475 songs
+**528 plays** (+7 vs last week) · **1812 minutes** · 245 artists · 476 songs
 
 _Counting real listens only. 24 skips left out (4% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 64 | = |
-| 2 | Future | 24 | +2 |
-| 3 | J. Cole | 24 | -1 |
-| 4 | 21 Savage | 23 | -1 |
-| 5 | Metro Boomin | 18 | +7 |
+| 2 | J. Cole | 25 | = |
+| 3 | Future | 24 | = |
+| 4 | 21 Savage | 23 | = |
+| 5 | Metro Boomin | 18 | +10 |
 | 6 | Lil Baby | 18 | = |
-| 7 | Lil Wayne | 17 | +15 |
-| 8 | Gunna | 17 | -3 |
+| 7 | Gunna | 18 | -2 |
+| 8 | Lil Wayne | 17 | +14 |
 | 9 | Travis Scott | 17 | = |
-| 10 | The Alchemist | 15 | +4 |
+| 10 | Westside Gunn | 15 | -2 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -30,8 +30,8 @@ _Counting real listens only. 24 skips left out (4% skip rate)._
 | 6 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
 | 7 | God Gave Me Style - 50 Cent | 3 | NEW |
 | 8 | Sorrows - Bryson Tiller | 3 | NEW |
-| 9 | Modern Day - Migos | 3 | +184 |
-| 10 | Giant Slide - Boldy James | 2 | NEW |
+| 9 | Modern Day - Migos | 3 | +181 |
+| 10 | Pallbearers - Rylo Rodriguez | 2 | +423 |
 
 ## Discovery
 66% of plays were songs not in your log before this week.
@@ -58,7 +58,7 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), Little Simz (3), Obo
 ## When you listen
 ```
 Late night (12am-5am)  ████ 49
-Morning (5am-12pm)     ███████ 87
+Morning (5am-12pm)     ███████ 88
 Afternoon (12pm-5pm)   ████████████████████ 243
 Evening (5pm-9pm)      ██████████ 122
 Night (9pm-12am)       ██ 26
@@ -67,7 +67,7 @@ Mon                    ██████████████████ 10
 Tue                    ████████ 50
 Wed                    █████████ 53
 Thu                    ██████████ 61
-Fri                    ██████████ 60
+Fri                    ██████████ 61
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
 ```
@@ -76,14 +76,14 @@ Sun                    ████████████ 73
 - Drake: 25 days in a row
 - 21 Savage: 15 days in a row
 - Metro Boomin: 15 days in a row
-- Gunna: 7 days in a row
+- Gunna: 8 days in a row
 - Future: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 26, 2000s: 38, 2010s: 186, 2020s: 276
+1980s: 1, 1990s: 26, 2000s: 38, 2010s: 185, 2020s: 278
 
 ## How you listen
-Played from: other 465, playlist 58, album 4
+Played from: other 466, playlist 58, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 1993 plays recorded total._
+_Log started 2026-10-26 · 1997 plays recorded total._

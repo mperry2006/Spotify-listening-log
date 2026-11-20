@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-20T08:35-05:00",
+  "generated_at": "2026-11-20T10:12-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1993,
+  "total_plays_logged": 1997,
   "this_week": {
-    "plays": 527,
-    "minutes": 1810,
-    "unique_tracks": 475,
-    "unique_artists": 244
+    "plays": 528,
+    "minutes": 1812,
+    "unique_tracks": 476,
+    "unique_artists": 245
   },
   "last_week": {
-    "plays": 523,
-    "minutes": 1794
+    "plays": 521,
+    "minutes": 1784
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -75,31 +75,31 @@
     },
     {
       "rank": 2,
-      "name": "Future",
-      "plays": 24,
-      "last_week_plays": 25,
-      "change": "+2"
+      "name": "J. Cole",
+      "plays": 25,
+      "last_week_plays": 29,
+      "change": "="
     },
     {
       "rank": 3,
-      "name": "J. Cole",
+      "name": "Future",
       "plays": 24,
-      "last_week_plays": 29,
-      "change": "-1"
+      "last_week_plays": 25,
+      "change": "="
     },
     {
       "rank": 4,
       "name": "21 Savage",
       "plays": 23,
-      "last_week_plays": 27,
-      "change": "-1"
+      "last_week_plays": 25,
+      "change": "="
     },
     {
       "rank": 5,
       "name": "Metro Boomin",
       "plays": 18,
-      "last_week_plays": 17,
-      "change": "+7"
+      "last_week_plays": 15,
+      "change": "+10"
     },
     {
       "rank": 6,
@@ -110,17 +110,17 @@
     },
     {
       "rank": 7,
-      "name": "Lil Wayne",
-      "plays": 17,
-      "last_week_plays": 9,
-      "change": "+15"
+      "name": "Gunna",
+      "plays": 18,
+      "last_week_plays": 24,
+      "change": "-2"
     },
     {
       "rank": 8,
-      "name": "Gunna",
+      "name": "Lil Wayne",
       "plays": 17,
-      "last_week_plays": 24,
-      "change": "-3"
+      "last_week_plays": 9,
+      "change": "+14"
     },
     {
       "rank": 9,
@@ -131,10 +131,10 @@
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
+      "name": "Westside Gunn",
       "plays": 15,
-      "last_week_plays": 15,
-      "change": "+4"
+      "last_week_plays": 19,
+      "change": "-2"
     }
   ],
   "top_tracks": [
@@ -199,14 +199,14 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+184"
+      "change": "+181"
     },
     {
       "rank": 10,
-      "name": "Giant Slide - Boldy James",
+      "name": "Pallbearers - Rylo Rodriguez",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+423"
     }
   ],
   "dropped_off": [],
@@ -296,7 +296,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 49,
-    "Morning (5am-12pm)": 87,
+    "Morning (5am-12pm)": 88,
     "Afternoon (12pm-5pm)": 243,
     "Evening (5pm-9pm)": 122,
     "Night (9pm-12am)": 26
@@ -306,7 +306,7 @@
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 60,
+    "Fri": 61,
     "Sat": 121,
     "Sun": 73
   },
@@ -326,7 +326,7 @@
     },
     {
       "artist": "Gunna",
-      "days": 7
+      "days": 8
     },
     {
       "artist": "Future",
@@ -337,12 +337,12 @@
     "1980s": 1,
     "1990s": 26,
     "2000s": 38,
-    "2010s": 186,
-    "2020s": 276
+    "2010s": 185,
+    "2020s": 278
   },
   "listening_style": {
     "played_from": {
-      "other": 465,
+      "other": 466,
       "playlist": 58,
       "album": 4
     },
