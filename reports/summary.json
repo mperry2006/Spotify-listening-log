@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-19T18:57-05:00",
+  "generated_at": "2026-11-19T20:26-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1978,
+  "total_plays_logged": 1985,
   "this_week": {
-    "plays": 527,
-    "minutes": 1809,
-    "unique_tracks": 474,
+    "plays": 525,
+    "minutes": 1804,
+    "unique_tracks": 471,
     "unique_artists": 243
   },
   "last_week": {
-    "plays": 527,
-    "minutes": 1812
+    "plays": 531,
+    "minutes": 1820
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -69,51 +69,51 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 63,
+      "plays": 64,
       "last_week_plays": 54,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "Future",
+      "name": "21 Savage",
       "plays": 24,
-      "last_week_plays": 26,
-      "change": "+3"
+      "last_week_plays": 27,
+      "change": "+2"
     },
     {
       "rank": 3,
-      "name": "J. Cole",
+      "name": "Future",
       "plays": 24,
-      "last_week_plays": 29,
-      "change": "="
+      "last_week_plays": 25,
+      "change": "+2"
     },
     {
       "rank": 4,
-      "name": "21 Savage",
-      "plays": 22,
-      "last_week_plays": 27,
-      "change": "="
+      "name": "J. Cole",
+      "plays": 24,
+      "last_week_plays": 29,
+      "change": "-1"
     },
     {
       "rank": 5,
       "name": "Metro Boomin",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 18,
       "change": "+6"
     },
     {
       "rank": 6,
-      "name": "Lil Wayne",
-      "plays": 17,
-      "last_week_plays": 9,
-      "change": "+17"
+      "name": "Lil Baby",
+      "plays": 18,
+      "last_week_plays": 23,
+      "change": "="
     },
     {
       "rank": 7,
-      "name": "Lil Baby",
+      "name": "Lil Wayne",
       "plays": 17,
-      "last_week_plays": 23,
-      "change": "-1"
+      "last_week_plays": 9,
+      "change": "+15"
     },
     {
       "rank": 8,
@@ -124,17 +124,17 @@
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 16,
-      "last_week_plays": 14,
-      "change": "+6"
+      "name": "Travis Scott",
+      "plays": 17,
+      "last_week_plays": 19,
+      "change": "-1"
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
+      "name": "The Alchemist",
       "plays": 16,
-      "last_week_plays": 19,
-      "change": "-2"
+      "last_week_plays": 14,
+      "change": "+5"
     }
   ],
   "top_tracks": [
@@ -206,7 +206,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+201"
+      "change": "+196"
     }
   ],
   "dropped_off": [],
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 52,
     "Morning (5am-12pm)": 86,
     "Afternoon (12pm-5pm)": 243,
-    "Evening (5pm-9pm)": 121,
+    "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 25
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 59,
+    "Thu": 57,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -340,13 +340,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 26,
-    "2000s": 38,
-    "2010s": 184,
-    "2020s": 278
+    "2000s": 37,
+    "2010s": 185,
+    "2020s": 276
   },
   "listening_style": {
     "played_from": {
-      "other": 465,
+      "other": 463,
       "playlist": 58,
       "album": 4
     },
@@ -355,12 +355,12 @@
   "spotify_top_snapshot": {
     "short_term": {
       "artists": [
-        "Westside Gunn",
         "Drake",
         "J. Cole",
+        "Westside Gunn",
         "Future",
-        "Freddie Gibbs",
         "Gunna",
+        "Freddie Gibbs",
         "Lil Baby",
         "21 Savage",
         "Migos",
