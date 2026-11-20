@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-19T20:26-05:00",
+  "generated_at": "2026-11-19T22:00-05:00",
   "window": {
     "start": "2026-11-12",
     "end": "2026-11-19"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 1985,
+  "total_plays_logged": 1989,
   "this_week": {
-    "plays": 525,
-    "minutes": 1804,
-    "unique_tracks": 471,
+    "plays": 526,
+    "minutes": 1808,
+    "unique_tracks": 473,
     "unique_artists": 243
   },
   "last_week": {
-    "plays": 531,
-    "minutes": 1820
+    "plays": 533,
+    "minutes": 1826
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -75,31 +75,31 @@
     },
     {
       "rank": 2,
-      "name": "21 Savage",
-      "plays": 24,
-      "last_week_plays": 27,
-      "change": "+2"
-    },
-    {
-      "rank": 3,
       "name": "Future",
       "plays": 24,
       "last_week_plays": 25,
-      "change": "+2"
+      "change": "+3"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "J. Cole",
       "plays": 24,
       "last_week_plays": 29,
-      "change": "-1"
+      "change": "="
+    },
+    {
+      "rank": 4,
+      "name": "21 Savage",
+      "plays": 23,
+      "last_week_plays": 28,
+      "change": "="
     },
     {
       "rank": 5,
       "name": "Metro Boomin",
-      "plays": 19,
-      "last_week_plays": 18,
-      "change": "+6"
+      "plays": 18,
+      "last_week_plays": 19,
+      "change": "+2"
     },
     {
       "rank": 6,
@@ -127,7 +127,7 @@
       "name": "Travis Scott",
       "plays": 17,
       "last_week_plays": 19,
-      "change": "-1"
+      "change": "="
     },
     {
       "rank": 10,
@@ -206,7 +206,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+196"
+      "change": "+195"
     }
   ],
   "dropped_off": [],
@@ -233,16 +233,16 @@
         "plays": 3
       },
       {
+        "name": "112",
+        "plays": 3
+      },
+      {
         "name": "Sampha",
         "plays": 3
       },
       {
         "name": "Jorja Smith",
         "plays": 3
-      },
-      {
-        "name": "112",
-        "plays": 2
       },
       {
         "name": "Jack Harlow",
@@ -302,14 +302,14 @@
     "Late night (12am-5am)": 52,
     "Morning (5am-12pm)": 86,
     "Afternoon (12pm-5pm)": 243,
-    "Evening (5pm-9pm)": 119,
-    "Night (9pm-12am)": 25
+    "Evening (5pm-9pm)": 122,
+    "Night (9pm-12am)": 23
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
-    "Thu": 57,
+    "Thu": 58,
     "Fri": 62,
     "Sat": 121,
     "Sun": 73
@@ -339,14 +339,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 26,
-    "2000s": 37,
-    "2010s": 185,
+    "1990s": 25,
+    "2000s": 38,
+    "2010s": 186,
     "2020s": 276
   },
   "listening_style": {
     "played_from": {
-      "other": 463,
+      "other": 464,
       "playlist": 58,
       "album": 4
     },
