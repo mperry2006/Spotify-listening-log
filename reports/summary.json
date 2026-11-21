@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-20T18:59-05:00",
+  "generated_at": "2026-11-20T20:30-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2007,
+  "total_plays_logged": 2008,
   "this_week": {
-    "plays": 498,
-    "minutes": 1700,
-    "unique_tracks": 450,
-    "unique_artists": 237
+    "plays": 486,
+    "minutes": 1659,
+    "unique_tracks": 440,
+    "unique_artists": 234
   },
   "last_week": {
-    "plays": 542,
-    "minutes": 1864
+    "plays": 555,
+    "minutes": 1908
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,22 +53,22 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 62,
-      "last_week_plays": 54,
+      "plays": 60,
+      "last_week_plays": 56,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 23,
-      "last_week_plays": 30,
+      "plays": 21,
+      "last_week_plays": 32,
       "change": "="
     },
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 22,
-      "last_week_plays": 26,
+      "plays": 21,
+      "last_week_plays": 27,
       "change": "+1"
     },
     {
@@ -80,31 +80,31 @@
     },
     {
       "rank": 5,
-      "name": "Gunna",
-      "plays": 19,
-      "last_week_plays": 23,
-      "change": "+1"
-    },
-    {
-      "rank": 6,
-      "name": "Metro Boomin",
-      "plays": 17,
-      "last_week_plays": 16,
-      "change": "+8"
-    },
-    {
-      "rank": 7,
       "name": "Travis Scott",
       "plays": 17,
       "last_week_plays": 17,
-      "change": "+5"
+      "change": "+8"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Lil Baby",
       "plays": 17,
       "last_week_plays": 24,
-      "change": "-3"
+      "change": "="
+    },
+    {
+      "rank": 7,
+      "name": "Gunna",
+      "plays": 16,
+      "last_week_plays": 26,
+      "change": "-2"
+    },
+    {
+      "rank": 8,
+      "name": "Metro Boomin",
+      "plays": 16,
+      "last_week_plays": 17,
+      "change": "+7"
     },
     {
       "rank": 9,
@@ -115,10 +115,10 @@
     },
     {
       "rank": 10,
-      "name": "Benny The Butcher",
+      "name": "Lil Wayne",
       "plays": 14,
-      "last_week_plays": 15,
-      "change": "+7"
+      "last_week_plays": 12,
+      "change": "+9"
     }
   ],
   "top_tracks": [
@@ -138,56 +138,56 @@
     },
     {
       "rank": 3,
-      "name": "Jermanie’s Graduation - Benny The Butcher",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
-      "name": "God Gave Me Style - 50 Cent",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "Sorrows - Bryson Tiller",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+176"
+      "change": "+179"
     },
     {
-      "rank": 7,
-      "name": "Won't Be Late (feat. Drake) - Swae Lee",
-      "plays": 2,
-      "last_week_plays": 2,
-      "change": "+43"
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "name": "Indonesian Fantasies - Sonder",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "name": "That’s How You Feel - Drake",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "name": "God Gave Me Style - 50 Cent",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+456"
+    },
+    {
+      "rank": 8,
       "name": "Oh U Went (feat. Drake) - Young Thug",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "U Don't Know - JAŸ-Z",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Freak Like Me - Adina Howard",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -250,14 +250,6 @@
       "plays": 5
     },
     {
-      "track": "Jermanie’s Graduation - Benny The Butcher",
-      "plays": 3
-    },
-    {
-      "track": "God Gave Me Style - 50 Cent",
-      "plays": 3
-    },
-    {
       "track": "Sorrows - Bryson Tiller",
       "plays": 3
     },
@@ -270,7 +262,7 @@
     "Late night (12am-5am)": 49,
     "Morning (5am-12pm)": 68,
     "Afternoon (12pm-5pm)": 231,
-    "Evening (5pm-9pm)": 124,
+    "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 26
   },
   "day_of_week": {
@@ -278,7 +270,7 @@
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 31,
+    "Fri": 19,
     "Sat": 121,
     "Sun": 73
   },
@@ -308,13 +300,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 24,
-    "2000s": 35,
-    "2010s": 182,
-    "2020s": 256
+    "2000s": 34,
+    "2010s": 179,
+    "2020s": 248
   },
   "listening_style": {
     "played_from": {
-      "other": 438,
+      "other": 426,
       "playlist": 56,
       "album": 4
     },

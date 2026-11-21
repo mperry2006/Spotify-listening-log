@@ -1,37 +1,37 @@
 # Listening Report
-**2026-11-13 to 2026-11-20** · updated 2026-11-20 18:59 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 20:30 ET
 
-**498 plays** (-44 vs last week) · **1700 minutes** · 237 artists · 450 songs
+**486 plays** (-69 vs last week) · **1659 minutes** · 234 artists · 440 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 62 | = |
-| 2 | J. Cole | 23 | = |
-| 3 | 21 Savage | 22 | +1 |
+| 1 | Drake | 60 | = |
+| 2 | J. Cole | 21 | = |
+| 3 | 21 Savage | 21 | +1 |
 | 4 | Future | 20 | -1 |
-| 5 | Gunna | 19 | +1 |
-| 6 | Metro Boomin | 17 | +8 |
-| 7 | Travis Scott | 17 | +5 |
-| 8 | Lil Baby | 17 | -3 |
+| 5 | Travis Scott | 17 | +8 |
+| 6 | Lil Baby | 17 | = |
+| 7 | Gunna | 16 | -2 |
+| 8 | Metro Boomin | 16 | +7 |
 | 9 | Migos | 15 | +14 |
-| 10 | Benny The Butcher | 14 | +7 |
+| 10 | Lil Wayne | 14 | +9 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Poppin - Big Scarr | 5 | NEW |
 | 2 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 5 | NEW |
-| 3 | Jermanie’s Graduation - Benny The Butcher | 3 | NEW |
-| 4 | God Gave Me Style - 50 Cent | 3 | NEW |
-| 5 | Sorrows - Bryson Tiller | 3 | NEW |
-| 6 | Modern Day - Migos | 3 | +176 |
-| 7 | Won't Be Late (feat. Drake) - Swae Lee | 2 | +43 |
-| 8 | Indonesian Fantasies - Sonder | 2 | NEW |
-| 9 | That’s How You Feel - Drake | 2 | NEW |
-| 10 | Oh U Went (feat. Drake) - Young Thug | 2 | NEW |
+| 3 | Sorrows - Bryson Tiller | 3 | NEW |
+| 4 | Modern Day - Migos | 3 | +179 |
+| 5 | Indonesian Fantasies - Sonder | 2 | NEW |
+| 6 | That’s How You Feel - Drake | 2 | NEW |
+| 7 | God Gave Me Style - 50 Cent | 2 | +456 |
+| 8 | Oh U Went (feat. Drake) - Young Thug | 2 | NEW |
+| 9 | U Don't Know - JAŸ-Z | 2 | NEW |
+| 10 | Freak Like Me - Adina Howard | 2 | NEW |
 
 ## Discovery
 64% of plays were songs not in your log before this week.
@@ -40,8 +40,6 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), 112 (3), Sampha (3),
 ## On repeat (3+ plays)
 - Poppin - Big Scarr - 5x
 - Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 - 5x
-- Jermanie’s Graduation - Benny The Butcher - 3x
-- God Gave Me Style - 50 Cent - 3x
 - Sorrows - Bryson Tiller - 3x
 - Modern Day - Migos - 3x
 
@@ -55,14 +53,14 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), 112 (3), Sampha (3),
 Late night (12am-5am)  ████ 49
 Morning (5am-12pm)     ██████ 68
 Afternoon (12pm-5pm)   ████████████████████ 231
-Evening (5pm-9pm)      ███████████ 124
+Evening (5pm-9pm)      ██████████ 112
 Night (9pm-12am)       ██ 26
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
 Wed                    █████████ 53
 Thu                    ██████████ 61
-Fri                    █████ 31
+Fri                    ███ 19
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
 ```
@@ -75,10 +73,10 @@ Sun                    ████████████ 73
 - Future: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 24, 2000s: 35, 2010s: 182, 2020s: 256
+1980s: 1, 1990s: 24, 2000s: 34, 2010s: 179, 2020s: 248
 
 ## How you listen
-Played from: other 438, playlist 56, album 4
+Played from: other 426, playlist 56, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 2007 plays recorded total._
+_Log started 2026-10-26 · 2008 plays recorded total._
