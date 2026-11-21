@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:56-05:00",
+  "generated_at": "2026-11-21T14:05-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2033,
   "this_week": {
-    "plays": 434,
-    "minutes": 1439,
-    "unique_tracks": 389,
-    "unique_artists": 219
+    "plays": 421,
+    "minutes": 1390,
+    "unique_tracks": 377,
+    "unique_artists": 216
   },
   "last_week": {
-    "plays": 624,
-    "minutes": 2172
+    "plays": 619,
+    "minutes": 2155
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -54,71 +54,71 @@
       "rank": 1,
       "name": "Drake",
       "plays": 30,
-      "last_week_plays": 84,
+      "last_week_plays": 78,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "21 Savage",
-      "plays": 22,
-      "last_week_plays": 28,
-      "change": "+1"
-    },
-    {
-      "rank": 3,
-      "name": "Future",
-      "plays": 21,
-      "last_week_plays": 27,
-      "change": "+2"
-    },
-    {
-      "rank": 4,
       "name": "J. Cole",
       "plays": 21,
-      "last_week_plays": 34,
-      "change": "-2"
-    },
-    {
-      "rank": 5,
-      "name": "Metro Boomin",
-      "plays": 17,
-      "last_week_plays": 17,
-      "change": "+11"
-    },
-    {
-      "rank": 6,
-      "name": "Lil Baby",
-      "plays": 17,
-      "last_week_plays": 24,
+      "last_week_plays": 31,
       "change": "="
     },
     {
-      "rank": 7,
-      "name": "Gunna",
-      "plays": 15,
-      "last_week_plays": 27,
-      "change": "-3"
+      "rank": 3,
+      "name": "21 Savage",
+      "plays": 21,
+      "last_week_plays": 29,
+      "change": "="
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "name": "Future",
+      "plays": 20,
+      "last_week_plays": 27,
+      "change": "="
+    },
+    {
+      "rank": 5,
+      "name": "Lil Baby",
+      "plays": 17,
+      "last_week_plays": 23,
+      "change": "+2"
+    },
+    {
+      "rank": 6,
+      "name": "Metro Boomin",
+      "plays": 16,
+      "last_week_plays": 18,
+      "change": "+8"
+    },
+    {
+      "rank": 7,
       "name": "Travis Scott",
       "plays": 15,
       "last_week_plays": 18,
-      "change": "+6"
+      "change": "+8"
+    },
+    {
+      "rank": 8,
+      "name": "Gunna",
+      "plays": 14,
+      "last_week_plays": 26,
+      "change": "-3"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 14,
-      "last_week_plays": 19,
-      "change": "+1"
+      "plays": 13,
+      "last_week_plays": 18,
+      "change": "+4"
     },
     {
       "rank": 10,
       "name": "Big Scarr",
       "plays": 13,
       "last_week_plays": 1,
-      "change": "+235"
+      "change": "+234"
     }
   ],
   "top_tracks": [
@@ -141,56 +141,56 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+175"
+      "change": "+162"
     },
     {
       "rank": 4,
-      "name": "U Don't Know - JAŸ-Z",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "Freak Like Me - Adina Howard",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Drowning (feat. Kodak Black) - A Boogie Wit da Hoodie",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+446"
+      "change": "+435"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Upset (feat. Tommy Richman & FELIX!) - Brent Faiyaz",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "On Me - The Game",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Bad and Boujee (feat. Lil Uzi Vert) - Migos",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "One Day You'll Be Mine - USHER",
+      "plays": 2,
+      "last_week_plays": 2,
+      "change": "+41"
     }
   ],
   "dropped_off": [],
@@ -229,11 +229,11 @@
         "plays": 2
       },
       {
-        "name": "D'Angelo",
+        "name": "Mr. Biggs",
         "plays": 1
       },
       {
-        "name": "Bobby V.",
+        "name": "Party Supplies",
         "plays": 1
       }
     ],
@@ -257,7 +257,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 47,
-    "Afternoon (12pm-5pm)": 232,
+    "Afternoon (12pm-5pm)": 219,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 30
   },
@@ -267,7 +267,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 58,
+    "Sat": 45,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -295,14 +295,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 23,
-    "2000s": 31,
-    "2010s": 135,
-    "2020s": 244
+    "1990s": 22,
+    "2000s": 29,
+    "2010s": 130,
+    "2020s": 239
   },
   "listening_style": {
     "played_from": {
-      "other": 370,
+      "other": 357,
       "playlist": 60,
       "album": 4
     },
