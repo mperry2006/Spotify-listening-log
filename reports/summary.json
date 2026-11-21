@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:10-05:00",
+  "generated_at": "2026-11-21T02:28-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2021,
   "this_week": {
-    "plays": 496,
-    "minutes": 1689,
-    "unique_tracks": 447,
-    "unique_artists": 236
+    "plays": 491,
+    "minutes": 1667,
+    "unique_tracks": 442,
+    "unique_artists": 235
   },
   "last_week": {
-    "plays": 558,
-    "minutes": 1921
+    "plays": 563,
+    "minutes": 1942
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,8 +53,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 59,
-      "last_week_plays": 58,
+      "plays": 57,
+      "last_week_plays": 60,
       "change": "="
     },
     {
@@ -62,7 +62,7 @@
       "name": "21 Savage",
       "plays": 22,
       "last_week_plays": 27,
-      "change": "+2"
+      "change": "+3"
     },
     {
       "rank": 3,
@@ -94,24 +94,24 @@
     },
     {
       "rank": 7,
-      "name": "Gunna",
-      "plays": 16,
-      "last_week_plays": 26,
-      "change": "-2"
-    },
-    {
-      "rank": 8,
       "name": "Metro Boomin",
       "plays": 16,
       "last_week_plays": 17,
-      "change": "+7"
+      "change": "+8"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Migos",
       "plays": 15,
       "last_week_plays": 9,
-      "change": "+14"
+      "change": "+15"
+    },
+    {
+      "rank": 9,
+      "name": "Gunna",
+      "plays": 15,
+      "last_week_plays": 27,
+      "change": "-5"
     },
     {
       "rank": 10,
@@ -209,10 +209,6 @@
         "plays": 4
       },
       {
-        "name": "112",
-        "plays": 3
-      },
-      {
         "name": "Sampha",
         "plays": 3
       },
@@ -235,9 +231,13 @@
       {
         "name": "FELIX!",
         "plays": 2
+      },
+      {
+        "name": "Tommy Richman",
+        "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 64,
+    "plays_of_new_tracks_pct": 63,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -259,7 +259,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 49,
+    "Late night (12am-5am)": 44,
     "Morning (5am-12pm)": 68,
     "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 119,
@@ -271,7 +271,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 29,
-    "Sat": 121,
+    "Sat": 116,
     "Sun": 73
   },
   "busiest_day": "Sat",
@@ -299,14 +299,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 24,
-    "2000s": 35,
-    "2010s": 182,
-    "2020s": 254
+    "1990s": 23,
+    "2000s": 34,
+    "2010s": 180,
+    "2020s": 253
   },
   "listening_style": {
     "played_from": {
-      "other": 432,
+      "other": 427,
       "playlist": 60,
       "album": 4
     },

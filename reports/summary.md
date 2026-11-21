@@ -1,22 +1,22 @@
 # Listening Report
-**2026-11-14 to 2026-11-21** · updated 2026-11-21 01:10 ET
+**2026-11-14 to 2026-11-21** · updated 2026-11-21 02:28 ET
 
-**496 plays** (-62 vs last week) · **1689 minutes** · 236 artists · 447 songs
+**491 plays** (-72 vs last week) · **1667 minutes** · 235 artists · 442 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 59 | = |
-| 2 | 21 Savage | 22 | +2 |
+| 1 | Drake | 57 | = |
+| 2 | 21 Savage | 22 | +3 |
 | 3 | J. Cole | 22 | -1 |
 | 4 | Future | 21 | -1 |
 | 5 | Travis Scott | 17 | +8 |
 | 6 | Lil Baby | 17 | = |
-| 7 | Gunna | 16 | -2 |
-| 8 | Metro Boomin | 16 | +7 |
-| 9 | Migos | 15 | +14 |
+| 7 | Metro Boomin | 16 | +8 |
+| 8 | Migos | 15 | +15 |
+| 9 | Gunna | 15 | -5 |
 | 10 | Lil Wayne | 14 | +8 |
 
 ## Top songs
@@ -34,8 +34,8 @@ _Counting real listens only. 3 skips left out (1% skip rate)._
 | 10 | Freak Like Me - Adina Howard | 2 | NEW |
 
 ## Discovery
-64% of plays were songs not in your log before this week.
-New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), 112 (3), Sampha (3), Jorja Smith (3), Jack Harlow (2), Jeremih (2), Adina Howard (2), FELIX! (2)
+63% of plays were songs not in your log before this week.
+New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), Sampha (3), Jorja Smith (3), Jack Harlow (2), Jeremih (2), Adina Howard (2), FELIX! (2), Tommy Richman (2)
 
 ## On repeat (3+ plays)
 - Poppin - Big Scarr - 5x
@@ -50,19 +50,19 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), 112 (3), Sampha (3),
 
 ## When you listen
 ```
-Late night (12am-5am)  ████ 49
+Late night (12am-5am)  ████ 44
 Morning (5am-12pm)     ██████ 68
 Afternoon (12pm-5pm)   ████████████████████ 231
 Evening (5pm-9pm)      ██████████ 119
 Night (9pm-12am)       ███ 29
 
-Mon                    ██████████████████ 109
-Tue                    ████████ 50
+Mon                    ███████████████████ 109
+Tue                    █████████ 50
 Wed                    █████████ 53
-Thu                    ██████████ 61
+Thu                    ███████████ 61
 Fri                    █████ 29
-Sat                    ████████████████████ 121
-Sun                    ████████████ 73
+Sat                    ████████████████████ 116
+Sun                    █████████████ 73
 ```
 
 ## Streaks
@@ -73,10 +73,10 @@ Sun                    ████████████ 73
 - Lil Baby: 6 days in a row
 
 ## Eras
-1980s: 1, 1990s: 24, 2000s: 35, 2010s: 182, 2020s: 254
+1980s: 1, 1990s: 23, 2000s: 34, 2010s: 180, 2020s: 253
 
 ## How you listen
-Played from: other 432, playlist 60, album 4
+Played from: other 427, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 2021 plays recorded total._
