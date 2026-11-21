@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-13 to 2026-11-20** · updated 2026-11-20 22:01 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 23:08 ET
 
-**499 plays** (-56 vs last week) · **1701 minutes** · 237 artists · 450 songs
+**498 plays** (-58 vs last week) · **1697 minutes** · 237 artists · 449 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 61 | = |
+| 1 | Drake | 60 | = |
 | 2 | J. Cole | 23 | = |
 | 3 | 21 Savage | 22 | +1 |
 | 4 | Future | 21 | -1 |
@@ -25,7 +25,7 @@ _Counting real listens only. 3 skips left out (1% skip rate)._
 | 1 | Poppin - Big Scarr | 5 | NEW |
 | 2 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 5 | NEW |
 | 3 | Sorrows - Bryson Tiller | 3 | NEW |
-| 4 | Modern Day - Migos | 3 | +179 |
+| 4 | Modern Day - Migos | 3 | +180 |
 | 5 | Indonesian Fantasies - Sonder | 2 | NEW |
 | 6 | That’s How You Feel - Drake | 2 | NEW |
 | 7 | God Gave Me Style - 50 Cent | 2 | +456 |
@@ -54,13 +54,13 @@ Late night (12am-5am)  ████ 49
 Morning (5am-12pm)     ██████ 68
 Afternoon (12pm-5pm)   ████████████████████ 231
 Evening (5pm-9pm)      ██████████ 119
-Night (9pm-12am)       ███ 32
+Night (9pm-12am)       ███ 31
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
 Wed                    █████████ 53
 Thu                    ██████████ 61
-Fri                    █████ 32
+Fri                    █████ 31
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
 ```
@@ -73,10 +73,10 @@ Sun                    ████████████ 73
 - Future: 8 days in a row
 
 ## Eras
-1980s: 1, 1990s: 24, 2000s: 35, 2010s: 185, 2020s: 254
+1980s: 1, 1990s: 24, 2000s: 35, 2010s: 184, 2020s: 254
 
 ## How you listen
-Played from: other 435, playlist 60, album 4
+Played from: other 434, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 2021 plays recorded total._

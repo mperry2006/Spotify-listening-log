@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:01-05:00",
+  "generated_at": "2026-11-20T23:08-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2021,
   "this_week": {
-    "plays": 499,
-    "minutes": 1701,
-    "unique_tracks": 450,
+    "plays": 498,
+    "minutes": 1697,
+    "unique_tracks": 449,
     "unique_artists": 237
   },
   "last_week": {
-    "plays": 555,
-    "minutes": 1908
+    "plays": 556,
+    "minutes": 1913
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,8 +53,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 61,
-      "last_week_plays": 56,
+      "plays": 60,
+      "last_week_plays": 57,
       "change": "="
     },
     {
@@ -148,7 +148,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+179"
+      "change": "+180"
     },
     {
       "rank": 5,
@@ -263,14 +263,14 @@
     "Morning (5am-12pm)": 68,
     "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 119,
-    "Night (9pm-12am)": 32
+    "Night (9pm-12am)": 31
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 32,
+    "Fri": 31,
     "Sat": 121,
     "Sun": 73
   },
@@ -301,12 +301,12 @@
     "1980s": 1,
     "1990s": 24,
     "2000s": 35,
-    "2010s": 185,
+    "2010s": 184,
     "2020s": 254
   },
   "listening_style": {
     "played_from": {
-      "other": 435,
+      "other": 434,
       "playlist": 60,
       "album": 4
     },
