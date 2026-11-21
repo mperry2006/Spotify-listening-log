@@ -1,40 +1,40 @@
 # Listening Report
-**2026-11-14 to 2026-11-21** · updated 2026-11-21 05:02 ET
+**2026-11-14 to 2026-11-21** · updated 2026-11-21 06:01 ET
 
-**452 plays** (-150 vs last week) · **1513 minutes** · 221 artists · 405 songs
+**437 plays** (-180 vs last week) · **1455 minutes** · 221 artists · 393 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 41 | = |
+| 1 | Drake | 32 | = |
 | 2 | 21 Savage | 21 | +2 |
 | 3 | Future | 21 | = |
 | 4 | J. Cole | 21 | -2 |
 | 5 | Lil Baby | 17 | +1 |
-| 6 | Travis Scott | 16 | +6 |
-| 7 | Metro Boomin | 16 | +8 |
-| 8 | Gunna | 15 | -3 |
-| 9 | Migos | 13 | +13 |
-| 10 | Westside Gunn | 13 | -2 |
+| 6 | Metro Boomin | 16 | +10 |
+| 7 | Gunna | 15 | -2 |
+| 8 | Travis Scott | 15 | +2 |
+| 9 | Westside Gunn | 13 | -1 |
+| 10 | The Alchemist | 13 | +1 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Poppin - Big Scarr | 5 | NEW |
 | 2 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 5 | NEW |
-| 3 | Modern Day - Migos | 3 | +181 |
-| 4 | That’s How You Feel - Drake | 2 | NEW |
-| 5 | God Gave Me Style - 50 Cent | 2 | +458 |
-| 6 | Oh U Went (feat. Drake) - Young Thug | 2 | NEW |
-| 7 | U Don't Know - JAŸ-Z | 2 | NEW |
-| 8 | Freak Like Me - Adina Howard | 2 | NEW |
-| 9 | Drowning (feat. Kodak Black) - A Boogie Wit da Hoodie | 2 | NEW |
-| 10 | Jermanie’s Graduation - Benny The Butcher | 2 | +448 |
+| 3 | Modern Day - Migos | 3 | +182 |
+| 4 | U Don't Know - JAŸ-Z | 2 | NEW |
+| 5 | Freak Like Me - Adina Howard | 2 | NEW |
+| 6 | Drowning (feat. Kodak Black) - A Boogie Wit da Hoodie | 2 | NEW |
+| 7 | Jermanie’s Graduation - Benny The Butcher | 2 | +452 |
+| 8 | Upset (feat. Tommy Richman & FELIX!) - Brent Faiyaz | 2 | NEW |
+| 9 | On Me - The Game | 2 | NEW |
+| 10 | Bad and Boujee (feat. Lil Uzi Vert) - Migos | 2 | NEW |
 
 ## Discovery
-61% of plays were songs not in your log before this week.
+59% of plays were songs not in your log before this week.
 New artists: Big Homiie G (5), Sampha (3), Jorja Smith (3), Adina Howard (2), FELIX! (2), Tommy Richman (2), Sadder Days (2), Dwele (2), Mustafa (2), D'Angelo (1)
 
 ## On repeat (3+ plays)
@@ -50,7 +50,7 @@ New artists: Big Homiie G (5), Sampha (3), Jorja Smith (3), Adina Howard (2), FE
 ## When you listen
 ```
 Late night (12am-5am)  █ 6
-Morning (5am-12pm)     ██████ 67
+Morning (5am-12pm)     █████ 52
 Afternoon (12pm-5pm)   ████████████████████ 231
 Evening (5pm-9pm)      ██████████ 119
 Night (9pm-12am)       ███ 29
@@ -60,7 +60,7 @@ Tue                    █████████ 50
 Wed                    ██████████ 53
 Thu                    ███████████ 61
 Fri                    █████ 29
-Sat                    ██████████████ 77
+Sat                    ███████████ 62
 Sun                    █████████████ 73
 ```
 
@@ -72,10 +72,10 @@ Sun                    █████████████ 73
 - Lil Baby: 6 days in a row
 
 ## Eras
-1980s: 1, 1990s: 23, 2000s: 32, 2010s: 151, 2020s: 245
+1980s: 1, 1990s: 23, 2000s: 30, 2010s: 142, 2020s: 241
 
 ## How you listen
-Played from: other 388, playlist 60, album 4
+Played from: other 373, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 2021 plays recorded total._

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T05:02-05:00",
+  "generated_at": "2026-11-21T06:01-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2021,
   "this_week": {
-    "plays": 452,
-    "minutes": 1513,
-    "unique_tracks": 405,
+    "plays": 437,
+    "minutes": 1455,
+    "unique_tracks": 393,
     "unique_artists": 221
   },
   "last_week": {
-    "plays": 602,
-    "minutes": 2097
+    "plays": 617,
+    "minutes": 2155
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,8 +53,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 41,
-      "last_week_plays": 76,
+      "plays": 32,
+      "last_week_plays": 85,
       "change": "="
     },
     {
@@ -87,38 +87,38 @@
     },
     {
       "rank": 6,
-      "name": "Travis Scott",
-      "plays": 16,
-      "last_week_plays": 18,
-      "change": "+6"
-    },
-    {
-      "rank": 7,
       "name": "Metro Boomin",
       "plays": 16,
       "last_week_plays": 17,
-      "change": "+8"
+      "change": "+10"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Gunna",
       "plays": 15,
       "last_week_plays": 27,
-      "change": "-3"
+      "change": "-2"
+    },
+    {
+      "rank": 8,
+      "name": "Travis Scott",
+      "plays": 15,
+      "last_week_plays": 19,
+      "change": "+2"
     },
     {
       "rank": 9,
-      "name": "Migos",
-      "plays": 13,
-      "last_week_plays": 11,
-      "change": "+13"
-    },
-    {
-      "rank": 10,
       "name": "Westside Gunn",
       "plays": 13,
       "last_week_plays": 21,
-      "change": "-2"
+      "change": "-1"
+    },
+    {
+      "rank": 10,
+      "name": "The Alchemist",
+      "plays": 13,
+      "last_week_plays": 19,
+      "change": "+1"
     }
   ],
   "top_tracks": [
@@ -141,56 +141,56 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+181"
+      "change": "+182"
     },
     {
       "rank": 4,
-      "name": "That’s How You Feel - Drake",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
-      "name": "God Gave Me Style - 50 Cent",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+458"
-    },
-    {
-      "rank": 6,
-      "name": "Oh U Went (feat. Drake) - Young Thug",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
       "name": "U Don't Know - JAŸ-Z",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 5,
       "name": "Freak Like Me - Adina Howard",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "name": "Drowning (feat. Kodak Black) - A Boogie Wit da Hoodie",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+448"
+      "change": "+452"
+    },
+    {
+      "rank": 8,
+      "name": "Upset (feat. Tommy Richman & FELIX!) - Brent Faiyaz",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "On Me - The Game",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Bad and Boujee (feat. Lil Uzi Vert) - Migos",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -237,7 +237,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 61,
+    "plays_of_new_tracks_pct": 59,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -256,7 +256,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 67,
+    "Morning (5am-12pm)": 52,
     "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 29
@@ -267,7 +267,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 29,
-    "Sat": 77,
+    "Sat": 62,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -296,13 +296,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 23,
-    "2000s": 32,
-    "2010s": 151,
-    "2020s": 245
+    "2000s": 30,
+    "2010s": 142,
+    "2020s": 241
   },
   "listening_style": {
     "played_from": {
-      "other": 388,
+      "other": 373,
       "playlist": 60,
       "album": 4
     },
