@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-21T10:59-05:00",
+  "generated_at": "2026-11-21T12:00-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2022,
+  "total_plays_logged": 2031,
   "this_week": {
-    "plays": 424,
-    "minutes": 1407,
-    "unique_tracks": 380,
-    "unique_artists": 214
+    "plays": 433,
+    "minutes": 1436,
+    "unique_tracks": 388,
+    "unique_artists": 219
   },
   "last_week": {
-    "plays": 630,
-    "minutes": 2201
+    "plays": 626,
+    "minutes": 2184
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,14 +53,14 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 28,
-      "last_week_plays": 88,
+      "plays": 30,
+      "last_week_plays": 87,
       "change": "="
     },
     {
       "rank": 2,
       "name": "21 Savage",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 28,
       "change": "+2"
     },
@@ -80,17 +80,17 @@
     },
     {
       "rank": 5,
-      "name": "Lil Baby",
+      "name": "Metro Boomin",
       "plays": 17,
-      "last_week_plays": 24,
-      "change": "+1"
+      "last_week_plays": 17,
+      "change": "+11"
     },
     {
       "rank": 6,
-      "name": "Metro Boomin",
-      "plays": 16,
-      "last_week_plays": 17,
-      "change": "+10"
+      "name": "Lil Baby",
+      "plays": 17,
+      "last_week_plays": 24,
+      "change": "="
     },
     {
       "rank": 7,
@@ -108,17 +108,17 @@
     },
     {
       "rank": 9,
-      "name": "Westside Gunn",
-      "plays": 13,
-      "last_week_plays": 21,
-      "change": "-1"
+      "name": "The Alchemist",
+      "plays": 14,
+      "last_week_plays": 19,
+      "change": "+2"
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
+      "name": "Westside Gunn",
       "plays": 13,
-      "last_week_plays": 19,
-      "change": "+1"
+      "last_week_plays": 21,
+      "change": "-2"
     }
   ],
   "top_tracks": [
@@ -141,7 +141,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+182"
+      "change": "+178"
     },
     {
       "rank": 4,
@@ -169,7 +169,7 @@
       "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+452"
+      "change": "+448"
     },
     {
       "rank": 8,
@@ -237,7 +237,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 59,
+    "plays_of_new_tracks_pct": 58,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -256,7 +256,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 38,
+    "Morning (5am-12pm)": 47,
     "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 30
@@ -267,18 +267,18 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 48,
+    "Sat": 57,
     "Sun": 73
   },
   "busiest_day": "Mon",
   "streaks": [
     {
       "artist": "Drake",
-      "days": 26
+      "days": 27
     },
     {
       "artist": "21 Savage",
-      "days": 16
+      "days": 17
     },
     {
       "artist": "Gunna",
@@ -296,13 +296,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 23,
-    "2000s": 30,
-    "2010s": 133,
-    "2020s": 237
+    "2000s": 31,
+    "2010s": 135,
+    "2020s": 243
   },
   "listening_style": {
     "played_from": {
-      "other": 360,
+      "other": 369,
       "playlist": 60,
       "album": 4
     },
