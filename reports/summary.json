@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:01-05:00",
+  "generated_at": "2026-11-21T05:02-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2021,
   "this_week": {
-    "plays": 468,
-    "minutes": 1573,
-    "unique_tracks": 420,
-    "unique_artists": 232
+    "plays": 452,
+    "minutes": 1513,
+    "unique_tracks": 405,
+    "unique_artists": 221
   },
   "last_week": {
-    "plays": 586,
-    "minutes": 2036
+    "plays": 602,
+    "minutes": 2097
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,8 +53,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 46,
-      "last_week_plays": 71,
+      "plays": 41,
+      "last_week_plays": 76,
       "change": "="
     },
     {
@@ -111,7 +111,7 @@
       "name": "Migos",
       "plays": 13,
       "last_week_plays": 11,
-      "change": "+12"
+      "change": "+13"
     },
     {
       "rank": 10,
@@ -145,52 +145,52 @@
     },
     {
       "rank": 4,
-      "name": "Indonesian Fantasies - Sonder",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
       "name": "That’s How You Feel - Drake",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "God Gave Me Style - 50 Cent",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+457"
+      "change": "+458"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Oh U Went (feat. Drake) - Young Thug",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "U Don't Know - JAŸ-Z",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Freak Like Me - Adina Howard",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Drowning (feat. Kodak Black) - A Boogie Wit da Hoodie",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Jermanie’s Graduation - Benny The Butcher",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+448"
     }
   ],
   "dropped_off": [],
@@ -233,11 +233,11 @@
         "plays": 2
       },
       {
-        "name": "Paperboy Fabe",
+        "name": "D'Angelo",
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 62,
+    "plays_of_new_tracks_pct": 61,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -255,8 +255,8 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 21,
-    "Morning (5am-12pm)": 68,
+    "Late night (12am-5am)": 6,
+    "Morning (5am-12pm)": 67,
     "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 29
@@ -267,7 +267,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 29,
-    "Sat": 93,
+    "Sat": 77,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -296,13 +296,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 23,
-    "2000s": 34,
-    "2010s": 162,
-    "2020s": 248
+    "2000s": 32,
+    "2010s": 151,
+    "2020s": 245
   },
   "listening_style": {
     "played_from": {
-      "other": 404,
+      "other": 388,
       "playlist": 60,
       "album": 4
     },
