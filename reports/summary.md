@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-14 to 2026-11-21** · updated 2026-11-21 15:56 ET
+**2026-11-14 to 2026-11-21** · updated 2026-11-21 16:55 ET
 
-**400 plays** (-236 vs last week) · **1306 minutes** · 210 artists · 361 songs
+**402 plays** (-234 vs last week) · **1312 minutes** · 212 artists · 363 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
@@ -51,7 +51,7 @@ New artists: Big Homiie G (5), Jorja Smith (3), Sadder Days (2), Dwele (2), Must
 ```
 Late night (12am-5am)  █ 6
 Morning (5am-12pm)     █████ 47
-Afternoon (12pm-5pm)   ████████████████████ 198
+Afternoon (12pm-5pm)   ████████████████████ 200
 Evening (5pm-9pm)      ████████████ 119
 Night (9pm-12am)       ███ 30
 
@@ -60,7 +60,7 @@ Tue                    █████████ 50
 Wed                    ██████████ 53
 Thu                    ███████████ 61
 Fri                    ██████ 30
-Sat                    ████ 24
+Sat                    █████ 26
 Sun                    █████████████ 73
 ```
 
@@ -72,10 +72,10 @@ Sun                    █████████████ 73
 - Lil Baby: 6 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 27, 2010s: 118, 2020s: 233
+1980s: 1, 1990s: 21, 2000s: 27, 2010s: 119, 2020s: 234
 
 ## How you listen
-Played from: other 336, playlist 60, album 4
+Played from: other 338, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 2033 plays recorded total._
+_Log started 2026-10-26 · 2035 plays recorded total._

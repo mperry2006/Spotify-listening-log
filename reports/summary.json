@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-21T15:56-05:00",
+  "generated_at": "2026-11-21T16:55-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2033,
+  "total_plays_logged": 2035,
   "this_week": {
-    "plays": 400,
-    "minutes": 1306,
-    "unique_tracks": 361,
-    "unique_artists": 210
+    "plays": 402,
+    "minutes": 1312,
+    "unique_tracks": 363,
+    "unique_artists": 212
   },
   "last_week": {
     "plays": 636,
@@ -257,7 +257,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 47,
-    "Afternoon (12pm-5pm)": 198,
+    "Afternoon (12pm-5pm)": 200,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 30
   },
@@ -267,7 +267,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 24,
+    "Sat": 26,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -297,12 +297,12 @@
     "1980s": 1,
     "1990s": 21,
     "2000s": 27,
-    "2010s": 118,
-    "2020s": 233
+    "2010s": 119,
+    "2020s": 234
   },
   "listening_style": {
     "played_from": {
-      "other": 336,
+      "other": 338,
       "playlist": 60,
       "album": 4
     },
