@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:58-05:00",
+  "generated_at": "2026-11-21T15:56-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2033,
   "this_week": {
-    "plays": 411,
-    "minutes": 1354,
-    "unique_tracks": 369,
-    "unique_artists": 215
+    "plays": 400,
+    "minutes": 1306,
+    "unique_tracks": 361,
+    "unique_artists": 210
   },
   "last_week": {
-    "plays": 625,
-    "minutes": 2177
+    "plays": 636,
+    "minutes": 2224
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,8 +53,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 28,
-      "last_week_plays": 80,
+      "plays": 27,
+      "last_week_plays": 81,
       "change": "="
     },
     {
@@ -90,7 +90,7 @@
       "name": "Metro Boomin",
       "plays": 16,
       "last_week_plays": 18,
-      "change": "+5"
+      "change": "+6"
     },
     {
       "rank": 7,
@@ -111,7 +111,7 @@
       "name": "Big Scarr",
       "plays": 13,
       "last_week_plays": 1,
-      "change": "+235"
+      "change": "+236"
     },
     {
       "rank": 10,
@@ -141,53 +141,53 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+159"
+      "change": "+161"
     },
     {
       "rank": 4,
-      "name": "Jermanie’s Graduation - Benny The Butcher",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+434"
-    },
-    {
-      "rank": 5,
-      "name": "Upset (feat. Tommy Richman & FELIX!) - Brent Faiyaz",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
-      "name": "On Me - The Game",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
       "name": "Bad and Boujee (feat. Lil Uzi Vert) - Migos",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 5,
       "name": "One Day You'll Be Mine - USHER",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+43"
+      "change": "+46"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "name": "TRIM (with Future) - Playboi Carti",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+403"
+      "change": "+407"
+    },
+    {
+      "rank": 7,
+      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
+      "name": "Jane - Migos",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "Menace - Migos",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
+      "name": "Things Done Changed - 2005 Remaster - The Notorious B.I.G.",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -205,14 +205,6 @@
         "plays": 3
       },
       {
-        "name": "FELIX!",
-        "plays": 2
-      },
-      {
-        "name": "Tommy Richman",
-        "plays": 2
-      },
-      {
         "name": "Sadder Days",
         "plays": 2
       },
@@ -225,19 +217,27 @@
         "plays": 2
       },
       {
-        "name": "Mr. Biggs",
+        "name": "Lil Loaded",
         "plays": 1
       },
       {
-        "name": "Party Supplies",
+        "name": "Chlöe",
         "plays": 1
       },
       {
-        "name": "Black Atlass",
+        "name": "Teezo Touchdown",
+        "plays": 1
+      },
+      {
+        "name": "Finesse2tymes",
+        "plays": 1
+      },
+      {
+        "name": "Rina Sawayama",
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 57,
+    "plays_of_new_tracks_pct": 56,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -257,7 +257,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 47,
-    "Afternoon (12pm-5pm)": 209,
+    "Afternoon (12pm-5pm)": 198,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 30
   },
@@ -267,7 +267,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 35,
+    "Sat": 24,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -296,13 +296,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 21,
-    "2000s": 28,
-    "2010s": 125,
-    "2020s": 236
+    "2000s": 27,
+    "2010s": 118,
+    "2020s": 233
   },
   "listening_style": {
     "played_from": {
-      "other": 347,
+      "other": 336,
       "playlist": 60,
       "album": 4
     },
