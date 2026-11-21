@@ -1,33 +1,33 @@
 # Listening Report
-**2026-11-14 to 2026-11-21** · updated 2026-11-21 16:55 ET
+**2026-11-14 to 2026-11-21** · updated 2026-11-21 17:55 ET
 
-**402 plays** (-234 vs last week) · **1312 minutes** · 212 artists · 363 songs
+**408 plays** (-219 vs last week) · **1323 minutes** · 212 artists · 367 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 27 | = |
+| 1 | Drake | 26 | = |
 | 2 | 21 Savage | 21 | +2 |
 | 3 | Future | 20 | +2 |
 | 4 | J. Cole | 20 | -2 |
-| 5 | Lil Baby | 17 | +1 |
-| 6 | Metro Boomin | 16 | +6 |
-| 7 | Travis Scott | 15 | +7 |
-| 8 | The Alchemist | 13 | +7 |
-| 9 | Big Scarr | 13 | +236 |
-| 10 | Gunna | 13 | -7 |
+| 5 | Lil Baby | 18 | +4 |
+| 6 | Metro Boomin | 16 | +8 |
+| 7 | Travis Scott | 15 | +5 |
+| 8 | Big Scarr | 13 | +237 |
+| 9 | Gunna | 13 | -6 |
+| 10 | The Alchemist | 12 | +7 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
 | 1 | Poppin - Big Scarr | 5 | NEW |
 | 2 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 5 | NEW |
-| 3 | Modern Day - Migos | 3 | +161 |
-| 4 | Bad and Boujee (feat. Lil Uzi Vert) - Migos | 2 | NEW |
-| 5 | One Day You'll Be Mine - USHER | 2 | +46 |
-| 6 | TRIM (with Future) - Playboi Carti | 2 | +407 |
+| 3 | Modern Day - Migos | 3 | +148 |
+| 4 | Livin' - Lil Double 0 | 3 | NEW |
+| 5 | One Day You'll Be Mine - USHER | 2 | +47 |
+| 6 | TRIM (with Future) - Playboi Carti | 2 | +394 |
 | 7 | Ugly (feat. Gucci Mane) - Pooh Shiesty | 2 | NEW |
 | 8 | Jane - Migos | 2 | NEW |
 | 9 | Menace - Migos | 2 | NEW |
@@ -41,6 +41,7 @@ New artists: Big Homiie G (5), Jorja Smith (3), Sadder Days (2), Dwele (2), Must
 - Poppin - Big Scarr - 5x
 - Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 - 5x
 - Modern Day - Migos - 3x
+- Livin' - Lil Double 0 - 3x
 
 ## Most skipped
 - Blaze a 50 - Nas - skipped 1x
@@ -51,8 +52,8 @@ New artists: Big Homiie G (5), Jorja Smith (3), Sadder Days (2), Dwele (2), Must
 ```
 Late night (12am-5am)  █ 6
 Morning (5am-12pm)     █████ 47
-Afternoon (12pm-5pm)   ████████████████████ 200
-Evening (5pm-9pm)      ████████████ 119
+Afternoon (12pm-5pm)   ████████████████████ 201
+Evening (5pm-9pm)      ████████████ 124
 Night (9pm-12am)       ███ 30
 
 Mon                    ████████████████████ 109
@@ -60,7 +61,7 @@ Tue                    █████████ 50
 Wed                    ██████████ 53
 Thu                    ███████████ 61
 Fri                    ██████ 30
-Sat                    █████ 26
+Sat                    ██████ 32
 Sun                    █████████████ 73
 ```
 
@@ -69,13 +70,13 @@ Sun                    █████████████ 73
 - 21 Savage: 17 days in a row
 - Gunna: 8 days in a row
 - Future: 8 days in a row
-- Lil Baby: 6 days in a row
+- Lil Baby: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 21, 2000s: 27, 2010s: 119, 2020s: 234
+1980s: 1, 1990s: 21, 2000s: 27, 2010s: 118, 2020s: 241
 
 ## How you listen
-Played from: other 338, playlist 60, album 4
+Played from: other 344, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 2035 plays recorded total._
+_Log started 2026-10-26 · 2045 plays recorded total._

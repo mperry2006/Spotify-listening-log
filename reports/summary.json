@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-21T16:55-05:00",
+  "generated_at": "2026-11-21T17:55-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2035,
+  "total_plays_logged": 2045,
   "this_week": {
-    "plays": 402,
-    "minutes": 1312,
-    "unique_tracks": 363,
+    "plays": 408,
+    "minutes": 1323,
+    "unique_tracks": 367,
     "unique_artists": 212
   },
   "last_week": {
-    "plays": 636,
-    "minutes": 2224
+    "plays": 627,
+    "minutes": 2201
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 27,
+      "plays": 26,
       "last_week_plays": 81,
       "change": "="
     },
@@ -61,64 +61,64 @@
       "rank": 2,
       "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 27,
+      "last_week_plays": 26,
       "change": "+2"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 20,
-      "last_week_plays": 27,
+      "last_week_plays": 25,
       "change": "+2"
     },
     {
       "rank": 4,
       "name": "J. Cole",
       "plays": 20,
-      "last_week_plays": 32,
+      "last_week_plays": 31,
       "change": "-2"
     },
     {
       "rank": 5,
       "name": "Lil Baby",
-      "plays": 17,
-      "last_week_plays": 23,
-      "change": "+1"
+      "plays": 18,
+      "last_week_plays": 21,
+      "change": "+4"
     },
     {
       "rank": 6,
       "name": "Metro Boomin",
       "plays": 16,
-      "last_week_plays": 18,
-      "change": "+6"
+      "last_week_plays": 17,
+      "change": "+8"
     },
     {
       "rank": 7,
       "name": "Travis Scott",
       "plays": 15,
       "last_week_plays": 18,
-      "change": "+7"
+      "change": "+5"
     },
     {
       "rank": 8,
-      "name": "The Alchemist",
-      "plays": 13,
-      "last_week_plays": 17,
-      "change": "+7"
-    },
-    {
-      "rank": 9,
       "name": "Big Scarr",
       "plays": 13,
       "last_week_plays": 1,
-      "change": "+236"
+      "change": "+237"
+    },
+    {
+      "rank": 9,
+      "name": "Gunna",
+      "plays": 13,
+      "last_week_plays": 26,
+      "change": "-6"
     },
     {
       "rank": 10,
-      "name": "Gunna",
-      "plays": 13,
-      "last_week_plays": 27,
-      "change": "-7"
+      "name": "The Alchemist",
+      "plays": 12,
+      "last_week_plays": 17,
+      "change": "+7"
     }
   ],
   "top_tracks": [
@@ -141,12 +141,12 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+161"
+      "change": "+148"
     },
     {
       "rank": 4,
-      "name": "Bad and Boujee (feat. Lil Uzi Vert) - Migos",
-      "plays": 2,
+      "name": "Livin' - Lil Double 0",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -155,14 +155,14 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+46"
+      "change": "+47"
     },
     {
       "rank": 6,
       "name": "TRIM (with Future) - Playboi Carti",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+407"
+      "change": "+394"
     },
     {
       "rank": 7,
@@ -252,13 +252,17 @@
     {
       "track": "Modern Day - Migos",
       "plays": 3
+    },
+    {
+      "track": "Livin' - Lil Double 0",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 47,
-    "Afternoon (12pm-5pm)": 200,
-    "Evening (5pm-9pm)": 119,
+    "Afternoon (12pm-5pm)": 201,
+    "Evening (5pm-9pm)": 124,
     "Night (9pm-12am)": 30
   },
   "day_of_week": {
@@ -267,7 +271,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 26,
+    "Sat": 32,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -290,19 +294,19 @@
     },
     {
       "artist": "Lil Baby",
-      "days": 6
+      "days": 7
     }
   ],
   "release_eras": {
     "1980s": 1,
     "1990s": 21,
     "2000s": 27,
-    "2010s": 119,
-    "2020s": 234
+    "2010s": 118,
+    "2020s": 241
   },
   "listening_style": {
     "played_from": {
-      "other": 338,
+      "other": 344,
       "playlist": 60,
       "album": 4
     },
