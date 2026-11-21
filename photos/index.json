@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-20T15:13+00:00",
+  "generated_at": "2026-11-21T15:09+00:00",
   "week": {
-    "start": "2026-11-13",
-    "end": "2026-11-20"
+    "start": "2026-11-14",
+    "end": "2026-11-21"
   },
   "note": "Credit each photo as: Photo: <credit>, <license>.",
   "photos": [
     {
       "artist": "Drake",
       "why": [
-        "#1 artist this week (64 plays)",
-        "25-day listening streak"
+        "#1 artist this week (28 plays)",
+        "26-day listening streak"
       ],
       "file": "photos/drake.jpg",
       "found_via": "Wikipedia",
@@ -22,39 +22,10 @@
       "source": "https://commons.wikimedia.org/wiki/File:Drake_at_The_Carter_Effect_2017_(36818935200)_(cropped).jpg"
     },
     {
-      "artist": "J. Cole",
-      "why": [
-        "#2 artist this week (25 plays)"
-      ],
-      "file": "photos/j-cole.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/J._Cole",
-      "about": "American rapper (born 1985)",
-      "credit": "HOTSPOTATL",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:HOTSPOTATL_-_21_Savage_%26_J.Cole_Light_Birthday_Bash_ATL_2023_On_FIRE_(xu6HKf40MX0_-_2m38s)_(cropped)_(cropped).jpg"
-    },
-    {
-      "artist": "Future",
-      "why": [
-        "#3 artist this week (24 plays)",
-        "7-day listening streak"
-      ],
-      "file": "photos/future.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
-      "about": "American rapper (born 1983)",
-      "credit": "Frank Schwichtenberg",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
-    },
-    {
       "artist": "21 Savage",
       "why": [
-        "#4 artist this week (23 plays)",
-        "15-day listening streak"
+        "#2 artist this week (21 plays)",
+        "16-day listening streak"
       ],
       "file": "photos/21-savage.jpg",
       "found_via": "Wikipedia",
@@ -66,10 +37,53 @@
       "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
     },
     {
+      "artist": "Future",
+      "why": [
+        "#3 artist this week (21 plays)",
+        "8-day listening streak"
+      ],
+      "file": "photos/future.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
+      "about": "American rapper (born 1983)",
+      "credit": "Frank Schwichtenberg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
+    },
+    {
+      "artist": "J. Cole",
+      "why": [
+        "#4 artist this week (21 plays)"
+      ],
+      "file": "photos/j-cole.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/J._Cole",
+      "about": "American rapper (born 1985)",
+      "credit": "HOTSPOTATL",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:HOTSPOTATL_-_21_Savage_%26_J.Cole_Light_Birthday_Bash_ATL_2023_On_FIRE_(xu6HKf40MX0_-_2m38s)_(cropped)_(cropped).jpg"
+    },
+    {
+      "artist": "Lil Baby",
+      "why": [
+        "#5 artist this week (17 plays)",
+        "6-day listening streak"
+      ],
+      "file": "photos/lil-baby.png",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Baby",
+      "about": "American rapper (born 1994)",
+      "credit": "MILLION DOLLAZ WORTH OF GAME",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lil_Baby_2023.png"
+    },
+    {
       "artist": "Metro Boomin",
       "why": [
-        "#5 artist this week (18 plays)",
-        "15-day listening streak"
+        "#6 artist this week (16 plays)"
       ],
       "file": "photos/metro-boomin.jpg",
       "found_via": "Wikipedia",
@@ -81,66 +95,65 @@
       "source": "https://commons.wikimedia.org/wiki/File:Metro_Boomin_November_2025.jpg"
     },
     {
-      "artist": "Lil Baby",
+      "artist": "Travis Scott",
       "why": [
-        "#6 artist this week (18 plays)"
+        "#8 artist this week (15 plays)"
       ],
-      "file": "photos/lil-baby.jpg",
-      "found_via": "Openverse (flickr)",
-      "wikipedia": "",
-      "about": "Lil Baby",
-      "credit": "rwoan",
-      "license": "BY-NC 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
-      "source": "https://www.flickr.com/photos/8502118@N08/51497977158"
-    },
-    {
-      "artist": "Lil Wayne",
-      "why": [
-        "#8 artist this week (17 plays)"
-      ],
-      "file": "photos/lil-wayne.jpg",
+      "file": "photos/travis-scott.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Wayne",
-      "about": "American rapper (born 1982)",
-      "credit": "Megan Elice Meadows",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Lil_Wayne_(23513397583).jpg"
+      "wikipedia": "https://en.wikipedia.org/wiki/Travis_Scott",
+      "about": "American rapper (born 1991)",
+      "credit": "PhilipRomano",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:TravisScott-byPhilipRomano_(cropped).jpg"
     },
     {
-      "artist": "Bryson Tiller",
-      "why": [
-        "new discovery (4 plays)"
-      ],
-      "file": "photos/bryson-tiller.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Bryson_Tiller",
-      "about": "American rapper and singer (born 1993)",
-      "credit": "AtlantaFX",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Bryson_Tiller_August_2018_(cropped).jpg"
-    },
-    {
-      "artist": "Little Simz",
+      "artist": "Jorja Smith",
       "why": [
         "new discovery (3 plays)"
       ],
-      "file": "photos/little-simz.png",
+      "file": "photos/jorja-smith.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Little_Simz",
-      "about": "British rapper (born 1994)",
-      "credit": "JoshPopov",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jorja_Smith",
+      "about": "British singer and songwriter (born 1997)",
+      "credit": "Justin Higuchi from Los Angeles, CA, USA",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jorja_Smith_11_26_2018_-5_(45772599074).jpg"
+    },
+    {
+      "artist": "FELIX!",
+      "why": [
+        "new discovery (2 plays)"
+      ],
+      "file": "photos/felix.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_(music_producer)",
+      "about": "British producer and DJ",
+      "credit": "FELIX, Crazybonesmusic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:FELIX_%22Francis_Wright%22.jpg"
+    },
+    {
+      "artist": "Tommy Richman",
+      "why": [
+        "new discovery (2 plays)"
+      ],
+      "file": "photos/tommy-richman.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tommy_Richman",
+      "about": "American singer and rapper (born 2000)",
+      "credit": "Industry Plants",
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:SimbiAjikawo-TIFF2025-01-Cropped.png"
+      "source": "https://commons.wikimedia.org/wiki/File:Tommy_Richman_2025.jpg"
     }
   ],
   "no_photo_found": [
     "Gunna",
     "Big Homiie G",
-    "Wale",
-    "Obongjayar"
+    "Adina Howard"
   ]
 }
