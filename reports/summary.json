@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:01-05:00",
+  "generated_at": "2026-11-21T06:58-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2021,
   "this_week": {
-    "plays": 437,
-    "minutes": 1455,
-    "unique_tracks": 393,
-    "unique_artists": 221
+    "plays": 423,
+    "minutes": 1404,
+    "unique_tracks": 379,
+    "unique_artists": 213
   },
   "last_week": {
-    "plays": 617,
-    "minutes": 2155
+    "plays": 630,
+    "minutes": 2201
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,8 +53,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 32,
-      "last_week_plays": 85,
+      "plays": 28,
+      "last_week_plays": 88,
       "change": "="
     },
     {
@@ -201,10 +201,6 @@
         "plays": 5
       },
       {
-        "name": "Sampha",
-        "plays": 3
-      },
-      {
         "name": "Jorja Smith",
         "plays": 3
       },
@@ -235,6 +231,10 @@
       {
         "name": "D'Angelo",
         "plays": 1
+      },
+      {
+        "name": "Bobby V.",
+        "plays": 1
       }
     ],
     "plays_of_new_tracks_pct": 59,
@@ -256,7 +256,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 52,
+    "Morning (5am-12pm)": 38,
     "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 29
@@ -267,7 +267,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 29,
-    "Sat": 62,
+    "Sat": 48,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -297,12 +297,12 @@
     "1980s": 1,
     "1990s": 23,
     "2000s": 30,
-    "2010s": 142,
-    "2020s": 241
+    "2010s": 133,
+    "2020s": 236
   },
   "listening_style": {
     "played_from": {
-      "other": 373,
+      "other": 359,
       "playlist": 60,
       "album": 4
     },

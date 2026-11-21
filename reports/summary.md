@@ -1,14 +1,14 @@
 # Listening Report
-**2026-11-14 to 2026-11-21** · updated 2026-11-21 06:01 ET
+**2026-11-14 to 2026-11-21** · updated 2026-11-21 06:58 ET
 
-**437 plays** (-180 vs last week) · **1455 minutes** · 221 artists · 393 songs
+**423 plays** (-207 vs last week) · **1404 minutes** · 213 artists · 379 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 32 | = |
+| 1 | Drake | 28 | = |
 | 2 | 21 Savage | 21 | +2 |
 | 3 | Future | 21 | = |
 | 4 | J. Cole | 21 | -2 |
@@ -35,7 +35,7 @@ _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Discovery
 59% of plays were songs not in your log before this week.
-New artists: Big Homiie G (5), Sampha (3), Jorja Smith (3), Adina Howard (2), FELIX! (2), Tommy Richman (2), Sadder Days (2), Dwele (2), Mustafa (2), D'Angelo (1)
+New artists: Big Homiie G (5), Jorja Smith (3), Adina Howard (2), FELIX! (2), Tommy Richman (2), Sadder Days (2), Dwele (2), Mustafa (2), D'Angelo (1), Bobby V. (1)
 
 ## On repeat (3+ plays)
 - Poppin - Big Scarr - 5x
@@ -50,7 +50,7 @@ New artists: Big Homiie G (5), Sampha (3), Jorja Smith (3), Adina Howard (2), FE
 ## When you listen
 ```
 Late night (12am-5am)  █ 6
-Morning (5am-12pm)     █████ 52
+Morning (5am-12pm)     ███ 38
 Afternoon (12pm-5pm)   ████████████████████ 231
 Evening (5pm-9pm)      ██████████ 119
 Night (9pm-12am)       ███ 29
@@ -60,7 +60,7 @@ Tue                    █████████ 50
 Wed                    ██████████ 53
 Thu                    ███████████ 61
 Fri                    █████ 29
-Sat                    ███████████ 62
+Sat                    █████████ 48
 Sun                    █████████████ 73
 ```
 
@@ -72,10 +72,10 @@ Sun                    █████████████ 73
 - Lil Baby: 6 days in a row
 
 ## Eras
-1980s: 1, 1990s: 23, 2000s: 30, 2010s: 142, 2020s: 241
+1980s: 1, 1990s: 23, 2000s: 30, 2010s: 133, 2020s: 236
 
 ## How you listen
-Played from: other 373, playlist 60, album 4
+Played from: other 359, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 2021 plays recorded total._
