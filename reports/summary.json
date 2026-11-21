@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-20T23:08-05:00",
+  "generated_at": "2026-11-21T00:10-05:00",
   "window": {
-    "start": "2026-11-13",
-    "end": "2026-11-20"
+    "start": "2026-11-14",
+    "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 2021,
   "this_week": {
-    "plays": 498,
-    "minutes": 1697,
-    "unique_tracks": 449,
-    "unique_artists": 237
+    "plays": 496,
+    "minutes": 1689,
+    "unique_tracks": 447,
+    "unique_artists": 236
   },
   "last_week": {
-    "plays": 556,
-    "minutes": 1913
+    "plays": 558,
+    "minutes": 1921
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,23 +53,23 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 60,
-      "last_week_plays": 57,
+      "plays": 59,
+      "last_week_plays": 58,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "J. Cole",
-      "plays": 23,
-      "last_week_plays": 32,
-      "change": "="
-    },
-    {
-      "rank": 3,
       "name": "21 Savage",
       "plays": 22,
       "last_week_plays": 27,
-      "change": "+1"
+      "change": "+2"
+    },
+    {
+      "rank": 3,
+      "name": "J. Cole",
+      "plays": 22,
+      "last_week_plays": 33,
+      "change": "-1"
     },
     {
       "rank": 4,
@@ -108,17 +108,17 @@
     },
     {
       "rank": 9,
-      "name": "Lil Wayne",
-      "plays": 15,
-      "last_week_plays": 12,
-      "change": "+10"
-    },
-    {
-      "rank": 10,
       "name": "Migos",
       "plays": 15,
       "last_week_plays": 9,
-      "change": "+13"
+      "change": "+14"
+    },
+    {
+      "rank": 10,
+      "name": "Lil Wayne",
+      "plays": 14,
+      "last_week_plays": 13,
+      "change": "+8"
     }
   ],
   "top_tracks": [
@@ -237,7 +237,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 63,
+    "plays_of_new_tracks_pct": 64,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -263,14 +263,14 @@
     "Morning (5am-12pm)": 68,
     "Afternoon (12pm-5pm)": 231,
     "Evening (5pm-9pm)": 119,
-    "Night (9pm-12am)": 31
+    "Night (9pm-12am)": 29
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 31,
+    "Fri": 29,
     "Sat": 121,
     "Sun": 73
   },
@@ -285,28 +285,28 @@
       "days": 16
     },
     {
-      "artist": "Metro Boomin",
-      "days": 15
-    },
-    {
       "artist": "Gunna",
       "days": 8
     },
     {
       "artist": "Future",
       "days": 8
+    },
+    {
+      "artist": "Lil Baby",
+      "days": 6
     }
   ],
   "release_eras": {
     "1980s": 1,
     "1990s": 24,
     "2000s": 35,
-    "2010s": 184,
+    "2010s": 182,
     "2020s": 254
   },
   "listening_style": {
     "played_from": {
-      "other": 434,
+      "other": 432,
       "playlist": 60,
       "album": 4
     },
