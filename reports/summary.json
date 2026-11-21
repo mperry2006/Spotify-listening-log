@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-21T17:55-05:00",
+  "generated_at": "2026-11-21T18:52-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2045,
+  "total_plays_logged": 2056,
   "this_week": {
-    "plays": 408,
-    "minutes": 1323,
-    "unique_tracks": 367,
-    "unique_artists": 212
+    "plays": 419,
+    "minutes": 1357,
+    "unique_tracks": 375,
+    "unique_artists": 215
   },
   "last_week": {
-    "plays": 627,
-    "minutes": 2201
+    "plays": 620,
+    "minutes": 2171
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,72 +53,72 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 26,
-      "last_week_plays": 81,
+      "plays": 27,
+      "last_week_plays": 80,
       "change": "="
     },
     {
       "rank": 2,
       "name": "21 Savage",
-      "plays": 21,
-      "last_week_plays": 26,
-      "change": "+2"
+      "plays": 22,
+      "last_week_plays": 25,
+      "change": "+1"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 20,
-      "last_week_plays": 25,
+      "plays": 21,
+      "last_week_plays": 23,
       "change": "+2"
     },
     {
       "rank": 4,
       "name": "J. Cole",
       "plays": 20,
-      "last_week_plays": 31,
+      "last_week_plays": 29,
       "change": "-2"
     },
     {
       "rank": 5,
       "name": "Lil Baby",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 21,
-      "change": "+4"
+      "change": "+2"
     },
     {
       "rank": 6,
       "name": "Metro Boomin",
       "plays": 16,
-      "last_week_plays": 17,
-      "change": "+8"
+      "last_week_plays": 16,
+      "change": "+11"
     },
     {
       "rank": 7,
       "name": "Travis Scott",
-      "plays": 15,
+      "plays": 16,
       "last_week_plays": 18,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 8,
       "name": "Big Scarr",
       "plays": 13,
       "last_week_plays": 1,
-      "change": "+237"
+      "change": "+235"
     },
     {
       "rank": 9,
-      "name": "Gunna",
+      "name": "The Alchemist",
       "plays": 13,
-      "last_week_plays": 26,
-      "change": "-6"
+      "last_week_plays": 17,
+      "change": "+7"
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
-      "plays": 12,
-      "last_week_plays": 17,
-      "change": "+7"
+      "name": "Conway the Machine",
+      "plays": 13,
+      "last_week_plays": 21,
+      "change": "-2"
     }
   ],
   "top_tracks": [
@@ -141,53 +141,53 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+148"
+      "change": "+141"
     },
     {
       "rank": 4,
-      "name": "Livin' - Lil Double 0",
+      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
-      "name": "One Day You'll Be Mine - USHER",
-      "plays": 2,
-      "last_week_plays": 2,
-      "change": "+47"
+      "name": "Livin' - Lil Double 0",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 6,
-      "name": "TRIM (with Future) - Playboi Carti",
+      "name": "One Day You'll Be Mine - USHER",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+394"
+      "last_week_plays": 2,
+      "change": "+44"
     },
     {
       "rank": 7,
+      "name": "TRIM (with Future) - Playboi Carti",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+387"
+    },
+    {
+      "rank": 8,
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Jane - Migos",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Menace - Migos",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Things Done Changed - 2005 Remaster - The Notorious B.I.G.",
+      "name": "Menace - Migos",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -254,6 +254,10 @@
       "plays": 3
     },
     {
+      "track": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "plays": 3
+    },
+    {
       "track": "Livin' - Lil Double 0",
       "plays": 3
     }
@@ -262,7 +266,7 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 47,
     "Afternoon (12pm-5pm)": 201,
-    "Evening (5pm-9pm)": 124,
+    "Evening (5pm-9pm)": 135,
     "Night (9pm-12am)": 30
   },
   "day_of_week": {
@@ -271,7 +275,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 32,
+    "Sat": 43,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -285,11 +289,11 @@
       "days": 17
     },
     {
-      "artist": "Gunna",
-      "days": 8
+      "artist": "Future",
+      "days": 9
     },
     {
-      "artist": "Future",
+      "artist": "Gunna",
       "days": 8
     },
     {
@@ -301,12 +305,12 @@
     "1980s": 1,
     "1990s": 21,
     "2000s": 27,
-    "2010s": 118,
-    "2020s": 241
+    "2010s": 121,
+    "2020s": 249
   },
   "listening_style": {
     "played_from": {
-      "other": 344,
+      "other": 355,
       "playlist": 60,
       "album": 4
     },
