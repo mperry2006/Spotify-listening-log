@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-13 to 2026-11-20** · updated 2026-11-20 20:30 ET
+**2026-11-13 to 2026-11-20** · updated 2026-11-20 22:01 ET
 
-**486 plays** (-69 vs last week) · **1659 minutes** · 234 artists · 440 songs
+**499 plays** (-56 vs last week) · **1701 minutes** · 237 artists · 450 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 60 | = |
-| 2 | J. Cole | 21 | = |
-| 3 | 21 Savage | 21 | +1 |
-| 4 | Future | 20 | -1 |
+| 1 | Drake | 61 | = |
+| 2 | J. Cole | 23 | = |
+| 3 | 21 Savage | 22 | +1 |
+| 4 | Future | 21 | -1 |
 | 5 | Travis Scott | 17 | +8 |
 | 6 | Lil Baby | 17 | = |
 | 7 | Gunna | 16 | -2 |
 | 8 | Metro Boomin | 16 | +7 |
-| 9 | Migos | 15 | +14 |
-| 10 | Lil Wayne | 14 | +9 |
+| 9 | Lil Wayne | 15 | +10 |
+| 10 | Migos | 15 | +13 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -34,7 +34,7 @@ _Counting real listens only. 3 skips left out (1% skip rate)._
 | 10 | Freak Like Me - Adina Howard | 2 | NEW |
 
 ## Discovery
-64% of plays were songs not in your log before this week.
+63% of plays were songs not in your log before this week.
 New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), 112 (3), Sampha (3), Jorja Smith (3), Jack Harlow (2), Jeremih (2), Adina Howard (2), FELIX! (2)
 
 ## On repeat (3+ plays)
@@ -53,30 +53,30 @@ New artists: Big Homiie G (5), Wale (4), Bryson Tiller (4), 112 (3), Sampha (3),
 Late night (12am-5am)  ████ 49
 Morning (5am-12pm)     ██████ 68
 Afternoon (12pm-5pm)   ████████████████████ 231
-Evening (5pm-9pm)      ██████████ 112
-Night (9pm-12am)       ██ 26
+Evening (5pm-9pm)      ██████████ 119
+Night (9pm-12am)       ███ 32
 
 Mon                    ██████████████████ 109
 Tue                    ████████ 50
 Wed                    █████████ 53
 Thu                    ██████████ 61
-Fri                    ███ 19
+Fri                    █████ 32
 Sat                    ████████████████████ 121
 Sun                    ████████████ 73
 ```
 
 ## Streaks
 - Drake: 26 days in a row
-- 21 Savage: 15 days in a row
+- 21 Savage: 16 days in a row
 - Metro Boomin: 15 days in a row
 - Gunna: 8 days in a row
-- Future: 7 days in a row
+- Future: 8 days in a row
 
 ## Eras
-1980s: 1, 1990s: 24, 2000s: 34, 2010s: 179, 2020s: 248
+1980s: 1, 1990s: 24, 2000s: 35, 2010s: 185, 2020s: 254
 
 ## How you listen
-Played from: other 426, playlist 56, album 4
+Played from: other 435, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 2008 plays recorded total._
+_Log started 2026-10-26 · 2021 plays recorded total._

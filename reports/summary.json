@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-20T20:30-05:00",
+  "generated_at": "2026-11-20T22:01-05:00",
   "window": {
     "start": "2026-11-13",
     "end": "2026-11-20"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2008,
+  "total_plays_logged": 2021,
   "this_week": {
-    "plays": 486,
-    "minutes": 1659,
-    "unique_tracks": 440,
-    "unique_artists": 234
+    "plays": 499,
+    "minutes": 1701,
+    "unique_tracks": 450,
+    "unique_artists": 237
   },
   "last_week": {
     "plays": 555,
@@ -53,28 +53,28 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 60,
+      "plays": 61,
       "last_week_plays": 56,
       "change": "="
     },
     {
       "rank": 2,
       "name": "J. Cole",
-      "plays": 21,
+      "plays": 23,
       "last_week_plays": 32,
       "change": "="
     },
     {
       "rank": 3,
       "name": "21 Savage",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 27,
       "change": "+1"
     },
     {
       "rank": 4,
       "name": "Future",
-      "plays": 20,
+      "plays": 21,
       "last_week_plays": 28,
       "change": "-1"
     },
@@ -108,17 +108,17 @@
     },
     {
       "rank": 9,
-      "name": "Migos",
+      "name": "Lil Wayne",
       "plays": 15,
-      "last_week_plays": 9,
-      "change": "+14"
+      "last_week_plays": 12,
+      "change": "+10"
     },
     {
       "rank": 10,
-      "name": "Lil Wayne",
-      "plays": 14,
-      "last_week_plays": 12,
-      "change": "+9"
+      "name": "Migos",
+      "plays": 15,
+      "last_week_plays": 9,
+      "change": "+13"
     }
   ],
   "top_tracks": [
@@ -237,7 +237,7 @@
         "plays": 2
       }
     ],
-    "plays_of_new_tracks_pct": 64,
+    "plays_of_new_tracks_pct": 63,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -262,15 +262,15 @@
     "Late night (12am-5am)": 49,
     "Morning (5am-12pm)": 68,
     "Afternoon (12pm-5pm)": 231,
-    "Evening (5pm-9pm)": 112,
-    "Night (9pm-12am)": 26
+    "Evening (5pm-9pm)": 119,
+    "Night (9pm-12am)": 32
   },
   "day_of_week": {
     "Mon": 109,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
-    "Fri": 19,
+    "Fri": 32,
     "Sat": 121,
     "Sun": 73
   },
@@ -282,7 +282,7 @@
     },
     {
       "artist": "21 Savage",
-      "days": 15
+      "days": 16
     },
     {
       "artist": "Metro Boomin",
@@ -294,20 +294,20 @@
     },
     {
       "artist": "Future",
-      "days": 7
+      "days": 8
     }
   ],
   "release_eras": {
     "1980s": 1,
     "1990s": 24,
-    "2000s": 34,
-    "2010s": 179,
-    "2020s": 248
+    "2000s": 35,
+    "2010s": 185,
+    "2020s": 254
   },
   "listening_style": {
     "played_from": {
-      "other": 426,
-      "playlist": 56,
+      "other": 435,
+      "playlist": 60,
       "album": 4
     },
     "full_album_sessions": 0
