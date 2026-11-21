@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-14 to 2026-11-21** · updated 2026-11-21 10:06 ET
+**2026-11-14 to 2026-11-21** · updated 2026-11-21 10:59 ET
 
-**423 plays** (-207 vs last week) · **1404 minutes** · 213 artists · 379 songs
+**424 plays** (-206 vs last week) · **1407 minutes** · 214 artists · 380 songs
 
 _Counting real listens only. 3 skips left out (1% skip rate)._
 
@@ -53,13 +53,13 @@ Late night (12am-5am)  █ 6
 Morning (5am-12pm)     ███ 38
 Afternoon (12pm-5pm)   ████████████████████ 231
 Evening (5pm-9pm)      ██████████ 119
-Night (9pm-12am)       ███ 29
+Night (9pm-12am)       ███ 30
 
 Mon                    ████████████████████ 109
 Tue                    █████████ 50
 Wed                    ██████████ 53
 Thu                    ███████████ 61
-Fri                    █████ 29
+Fri                    ██████ 30
 Sat                    █████████ 48
 Sun                    █████████████ 73
 ```
@@ -72,10 +72,10 @@ Sun                    █████████████ 73
 - Lil Baby: 6 days in a row
 
 ## Eras
-1980s: 1, 1990s: 23, 2000s: 30, 2010s: 133, 2020s: 236
+1980s: 1, 1990s: 23, 2000s: 30, 2010s: 133, 2020s: 237
 
 ## How you listen
-Played from: other 359, playlist 60, album 4
+Played from: other 360, playlist 60, album 4
 Full-album sessions (4+ tracks in a row): 0
 
-_Log started 2026-10-26 · 2021 plays recorded total._
+_Log started 2026-10-26 · 2022 plays recorded total._

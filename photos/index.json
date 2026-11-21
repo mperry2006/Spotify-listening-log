@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:09+00:00",
+  "generated_at": "2026-11-21T16:01+00:00",
   "week": {
     "start": "2026-11-14",
     "end": "2026-11-21"
@@ -81,20 +81,6 @@
       "source": "https://commons.wikimedia.org/wiki/File:Lil_Baby_2023.png"
     },
     {
-      "artist": "Metro Boomin",
-      "why": [
-        "#6 artist this week (16 plays)"
-      ],
-      "file": "photos/metro-boomin.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Metro_Boomin",
-      "about": "American record producer (born 1993)",
-      "credit": "HOTSPOTATL",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Metro_Boomin_November_2025.jpg"
-    },
-    {
       "artist": "Travis Scott",
       "why": [
         "#8 artist this week (15 plays)"
@@ -152,6 +138,7 @@
     }
   ],
   "no_photo_found": [
+    "Metro Boomin",
     "Gunna",
     "Big Homiie G",
     "Adina Howard"
