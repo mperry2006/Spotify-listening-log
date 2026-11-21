@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-21T12:00-05:00",
+  "generated_at": "2026-11-21T12:56-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2031,
+  "total_plays_logged": 2033,
   "this_week": {
-    "plays": 433,
-    "minutes": 1436,
-    "unique_tracks": 388,
+    "plays": 434,
+    "minutes": 1439,
+    "unique_tracks": 389,
     "unique_artists": 219
   },
   "last_week": {
-    "plays": 626,
-    "minutes": 2184
+    "plays": 624,
+    "minutes": 2172
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -54,7 +54,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 30,
-      "last_week_plays": 87,
+      "last_week_plays": 84,
       "change": "="
     },
     {
@@ -62,14 +62,14 @@
       "name": "21 Savage",
       "plays": 22,
       "last_week_plays": 28,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 21,
-      "last_week_plays": 28,
-      "change": "="
+      "last_week_plays": 27,
+      "change": "+2"
     },
     {
       "rank": 4,
@@ -97,28 +97,28 @@
       "name": "Gunna",
       "plays": 15,
       "last_week_plays": 27,
-      "change": "-2"
+      "change": "-3"
     },
     {
       "rank": 8,
       "name": "Travis Scott",
       "plays": 15,
-      "last_week_plays": 19,
-      "change": "+2"
+      "last_week_plays": 18,
+      "change": "+6"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
       "plays": 14,
       "last_week_plays": 19,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 10,
-      "name": "Westside Gunn",
+      "name": "Big Scarr",
       "plays": 13,
-      "last_week_plays": 21,
-      "change": "-2"
+      "last_week_plays": 1,
+      "change": "+235"
     }
   ],
   "top_tracks": [
@@ -141,7 +141,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+178"
+      "change": "+175"
     },
     {
       "rank": 4,
@@ -169,7 +169,7 @@
       "name": "Jermanie’s Graduation - Benny The Butcher",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+448"
+      "change": "+446"
     },
     {
       "rank": 8,
@@ -257,7 +257,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 47,
-    "Afternoon (12pm-5pm)": 231,
+    "Afternoon (12pm-5pm)": 232,
     "Evening (5pm-9pm)": 119,
     "Night (9pm-12am)": 30
   },
@@ -267,7 +267,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 57,
+    "Sat": 58,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -298,11 +298,11 @@
     "1990s": 23,
     "2000s": 31,
     "2010s": 135,
-    "2020s": 243
+    "2020s": 244
   },
   "listening_style": {
     "played_from": {
-      "other": 369,
+      "other": 370,
       "playlist": 60,
       "album": 4
     },
