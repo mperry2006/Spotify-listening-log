@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-21T20:27-05:00",
+  "generated_at": "2026-11-21T22:03-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2057,
+  "total_plays_logged": 2062,
   "this_week": {
-    "plays": 420,
-    "minutes": 1362,
-    "unique_tracks": 376,
+    "plays": 421,
+    "minutes": 1368,
+    "unique_tracks": 378,
     "unique_artists": 215
   },
   "last_week": {
-    "plays": 598,
-    "minutes": 2093
+    "plays": 585,
+    "minutes": 2048
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,8 +53,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 27,
-      "last_week_plays": 78,
+      "plays": 28,
+      "last_week_plays": 73,
       "change": "="
     },
     {
@@ -62,14 +62,14 @@
       "name": "21 Savage",
       "plays": 22,
       "last_week_plays": 21,
-      "change": "+3"
+      "change": "+2"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 21,
-      "last_week_plays": 23,
-      "change": "="
+      "last_week_plays": 21,
+      "change": "+2"
     },
     {
       "rank": 4,
@@ -82,15 +82,15 @@
       "rank": 5,
       "name": "Lil Baby",
       "plays": 19,
-      "last_week_plays": 21,
-      "change": "+1"
+      "last_week_plays": 19,
+      "change": "+4"
     },
     {
       "rank": 6,
       "name": "Metro Boomin",
-      "plays": 16,
+      "plays": 17,
       "last_week_plays": 13,
-      "change": "+13"
+      "change": "+12"
     },
     {
       "rank": 7,
@@ -101,23 +101,23 @@
     },
     {
       "rank": 8,
-      "name": "Big Scarr",
-      "plays": 13,
-      "last_week_plays": 1,
-      "change": "+231"
-    },
-    {
-      "rank": 9,
       "name": "The Alchemist",
       "plays": 13,
       "last_week_plays": 17,
-      "change": "+4"
+      "change": "+5"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Conway the Machine",
       "plays": 13,
       "last_week_plays": 21,
+      "change": "-6"
+    },
+    {
+      "rank": 10,
+      "name": "Gunna",
+      "plays": 13,
+      "last_week_plays": 20,
       "change": "-3"
     }
   ],
@@ -141,7 +141,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+119"
+      "change": "+103"
     },
     {
       "rank": 4,
@@ -159,35 +159,35 @@
     },
     {
       "rank": 6,
-      "name": "One Day You'll Be Mine - USHER",
-      "plays": 2,
-      "last_week_plays": 2,
-      "change": "+39"
-    },
-    {
-      "rank": 7,
       "name": "TRIM (with Future) - Playboi Carti",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+370"
+      "change": "+358"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Jane - Migos",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Menace - Migos",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Things Done Changed - 2005 Remaster - The Notorious B.I.G.",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -217,10 +217,6 @@
         "plays": 2
       },
       {
-        "name": "Lil Loaded",
-        "plays": 1
-      },
-      {
         "name": "Chlöe",
         "plays": 1
       },
@@ -234,6 +230,10 @@
       },
       {
         "name": "Rina Sawayama",
+        "plays": 1
+      },
+      {
+        "name": "ZaeFyeHunnit",
         "plays": 1
       }
     ],
@@ -267,7 +267,7 @@
     "Morning (5am-12pm)": 47,
     "Afternoon (12pm-5pm)": 201,
     "Evening (5pm-9pm)": 136,
-    "Night (9pm-12am)": 30
+    "Night (9pm-12am)": 31
   },
   "day_of_week": {
     "Mon": 109,
@@ -275,7 +275,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 44,
+    "Sat": 45,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -303,15 +303,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 21,
-    "2000s": 27,
-    "2010s": 122,
-    "2020s": 249
+    "1990s": 20,
+    "2000s": 29,
+    "2010s": 123,
+    "2020s": 248
   },
   "listening_style": {
     "played_from": {
-      "other": 356,
-      "playlist": 60,
+      "other": 354,
+      "playlist": 63,
       "album": 4
     },
     "full_album_sessions": 0
