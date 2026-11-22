@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:55-05:00",
+  "generated_at": "2026-11-22T14:07-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2090,
   "this_week": {
-    "plays": 418,
-    "minutes": 1373,
-    "unique_tracks": 377,
-    "unique_artists": 210
+    "plays": 415,
+    "minutes": 1365,
+    "unique_tracks": 374,
+    "unique_artists": 209
   },
   "last_week": {
-    "plays": 579,
-    "minutes": 2019
+    "plays": 580,
+    "minutes": 2017
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -38,7 +38,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 31,
-      "last_week_plays": 72,
+      "last_week_plays": 71,
       "change": "="
     },
     {
@@ -201,10 +201,6 @@
         "plays": 2
       },
       {
-        "name": "Finesse2tymes",
-        "plays": 1
-      },
-      {
         "name": "Rina Sawayama",
         "plays": 1
       },
@@ -218,6 +214,10 @@
       },
       {
         "name": "Rico Ace",
+        "plays": 1
+      },
+      {
+        "name": "Madonna",
         "plays": 1
       }
     ],
@@ -245,7 +245,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
-    "Afternoon (12pm-5pm)": 197,
+    "Afternoon (12pm-5pm)": 194,
     "Evening (5pm-9pm)": 136,
     "Night (9pm-12am)": 40
   },
@@ -256,7 +256,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 61
+    "Sun": 58
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -286,11 +286,11 @@
     "1990s": 24,
     "2000s": 30,
     "2010s": 121,
-    "2020s": 242
+    "2020s": 239
   },
   "listening_style": {
     "played_from": {
-      "other": 337,
+      "other": 334,
       "playlist": 77,
       "album": 4
     },

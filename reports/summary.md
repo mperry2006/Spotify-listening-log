@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-15 to 2026-11-22** · updated 2026-11-22 12:55 ET
+**2026-11-15 to 2026-11-22** · updated 2026-11-22 14:07 ET
 
-**418 plays** (-161 vs last week) · **1373 minutes** · 210 artists · 377 songs
+**415 plays** (-165 vs last week) · **1365 minutes** · 209 artists · 374 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -35,7 +35,7 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Discovery
 57% of plays were songs not in your log before this week.
-New artists: Big Homiie G (5), Jorja Smith (3), Sadder Days (2), Dwele (2), Mustafa (2), Finesse2tymes (1), Rina Sawayama (1), ZaeFyeHunnit (1), EsDeeKid (1), Rico Ace (1)
+New artists: Big Homiie G (5), Jorja Smith (3), Sadder Days (2), Dwele (2), Mustafa (2), Rina Sawayama (1), ZaeFyeHunnit (1), EsDeeKid (1), Rico Ace (1), Madonna (1)
 
 ## On repeat (3+ plays)
 - Poppin - Big Scarr - 5x
@@ -50,7 +50,7 @@ New artists: Big Homiie G (5), Jorja Smith (3), Sadder Days (2), Dwele (2), Must
 ```
 Late night (12am-5am)  █ 6
 Morning (5am-12pm)     ████ 39
-Afternoon (12pm-5pm)   ████████████████████ 197
+Afternoon (12pm-5pm)   ████████████████████ 194
 Evening (5pm-9pm)      ██████████████ 136
 Night (9pm-12am)       ████ 40
 
@@ -60,7 +60,7 @@ Wed                    ██████████ 53
 Thu                    ███████████ 61
 Fri                    ██████ 30
 Sat                    ██████████ 54
-Sun                    ███████████ 61
+Sun                    ███████████ 58
 ```
 
 ## Streaks
@@ -71,10 +71,10 @@ Sun                    ███████████ 61
 - J. Cole: 7 days in a row
 
 ## Eras
-1980s: 1, 1990s: 24, 2000s: 30, 2010s: 121, 2020s: 242
+1980s: 1, 1990s: 24, 2000s: 30, 2010s: 121, 2020s: 239
 
 ## How you listen
-Played from: other 337, playlist 77, album 4
+Played from: other 334, playlist 77, album 4
 Full-album sessions (4+ tracks in a row): 0
 
 _Log started 2026-10-26 · 2090 plays recorded total._
