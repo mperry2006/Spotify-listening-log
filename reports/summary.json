@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:13-05:00",
+  "generated_at": "2026-11-22T01:12-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -7,42 +7,26 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2076,
   "this_week": {
-    "plays": 430,
-    "minutes": 1404,
-    "unique_tracks": 385,
-    "unique_artists": 215
+    "plays": 425,
+    "minutes": 1390,
+    "unique_tracks": 381,
+    "unique_artists": 212
   },
   "last_week": {
-    "plays": 590,
-    "minutes": 2064
+    "plays": 595,
+    "minutes": 2079
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
-    "skip_rate_pct": 1,
-    "skipped_plays": 3,
+    "skip_rate_pct": 0,
+    "skipped_plays": 1,
     "most_skipped_tracks": [
-      {
-        "track": "Blaze a 50 - Nas",
-        "skips": 1
-      },
-      {
-        "track": "My Up and Down - Adina Howard",
-        "skips": 1
-      },
       {
         "track": "Good Morning - Kanye West",
         "skips": 1
       }
     ],
     "most_skipped_artists": [
-      {
-        "artist": "Nas",
-        "skips": 1
-      },
-      {
-        "artist": "Adina Howard",
-        "skips": 1
-      },
       {
         "artist": "Kanye West",
         "skips": 1
@@ -62,21 +46,21 @@
       "name": "21 Savage",
       "plays": 22,
       "last_week_plays": 21,
-      "change": "+2"
+      "change": "+3"
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 21,
-      "last_week_plays": 21,
-      "change": "+2"
-    },
-    {
-      "rank": 4,
       "name": "J. Cole",
       "plays": 21,
       "last_week_plays": 28,
-      "change": "-2"
+      "change": "-1"
+    },
+    {
+      "rank": 4,
+      "name": "Future",
+      "plays": 20,
+      "last_week_plays": 22,
+      "change": "-1"
     },
     {
       "rank": 5,
@@ -111,7 +95,7 @@
       "name": "Conway the Machine",
       "plays": 13,
       "last_week_plays": 21,
-      "change": "-6"
+      "change": "-5"
     },
     {
       "rank": 10,
@@ -141,7 +125,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+104"
+      "change": "+105"
     },
     {
       "rank": 4,
@@ -159,35 +143,35 @@
     },
     {
       "rank": 6,
-      "name": "TRIM (with Future) - Playboi Carti",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+358"
-    },
-    {
-      "rank": 7,
       "name": "Ugly (feat. Gucci Mane) - Pooh Shiesty",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Jane - Migos",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Menace - Migos",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Things Done Changed - 2005 Remaster - The Notorious B.I.G.",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Flashing Lights - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -217,10 +201,6 @@
         "plays": 2
       },
       {
-        "name": "Chlöe",
-        "plays": 1
-      },
-      {
         "name": "Teezo Touchdown",
         "plays": 1
       },
@@ -234,6 +214,10 @@
       },
       {
         "name": "ZaeFyeHunnit",
+        "plays": 1
+      },
+      {
+        "name": "EsDeeKid",
         "plays": 1
       }
     ],
@@ -263,7 +247,7 @@
     }
   ],
   "time_of_day": {
-    "Late night (12am-5am)": 6,
+    "Late night (12am-5am)": 1,
     "Morning (5am-12pm)": 47,
     "Afternoon (12pm-5pm)": 201,
     "Evening (5pm-9pm)": 136,
@@ -276,7 +260,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 73
+    "Sun": 68
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -305,13 +289,13 @@
     "1980s": 1,
     "1990s": 23,
     "2000s": 30,
-    "2010s": 126,
-    "2020s": 250
+    "2010s": 125,
+    "2020s": 246
   },
   "listening_style": {
     "played_from": {
-      "other": 349,
-      "playlist": 77,
+      "other": 348,
+      "playlist": 73,
       "album": 4
     },
     "full_album_sessions": 0
