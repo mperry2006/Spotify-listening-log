@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:02+00:00",
+  "generated_at": "2026-11-22T15:58+00:00",
   "covers": [
     {
       "album_id": "3p89sh1IV385sHS85PHe8w",
@@ -92,23 +92,6 @@
       "file": "covers/2tOUqvQ76XbBPUxjNmrK3j.jpg"
     },
     {
-      "album_id": "2UwJ4Nt10VStLczYefhcEV",
-      "album": "Shiesty Season",
-      "artists": [
-        "Pooh Shiesty"
-      ],
-      "release_date": "2021-02-05",
-      "spotify_url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV",
-      "tracks": [
-        {
-          "track_id": "1YL2Gvo36BnxY8mGzjLWHd",
-          "track": "Ugly (feat. Gucci Mane)",
-          "plays": 2
-        }
-      ],
-      "file": "covers/2UwJ4Nt10VStLczYefhcEV.jpg"
-    },
-    {
       "album_id": "2actLFtpiiBZm1z0TUzMx2",
       "album": "Culture III (Deluxe)",
       "artists": [
@@ -160,6 +143,23 @@
       "file": "covers/4SZko61aMnmgvNhfhgTuD3.jpg"
     },
     {
+      "album_id": "6guJZpZ52v4MrJKIH7tASl",
+      "album": "i am > i was (Deluxe)",
+      "artists": [
+        "21 Savage"
+      ],
+      "release_date": "2018-12-24",
+      "spotify_url": "https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl",
+      "tracks": [
+        {
+          "track_id": "3WXJOVqIyZKSkdLa82PF0L",
+          "track": "a lot",
+          "plays": 2
+        }
+      ],
+      "file": "covers/6guJZpZ52v4MrJKIH7tASl.jpg"
+    },
+    {
       "album_id": "1lXY618HWkwYKJWBRYR4MK",
       "album": "More Life",
       "artists": [
@@ -192,23 +192,6 @@
         }
       ],
       "file": "covers/4zxXtxhx2Gc2EwEyMOkAeY.jpg"
-    },
-    {
-      "album_id": "6guJZpZ52v4MrJKIH7tASl",
-      "album": "i am > i was (Deluxe)",
-      "artists": [
-        "21 Savage"
-      ],
-      "release_date": "2018-12-24",
-      "spotify_url": "https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl",
-      "tracks": [
-        {
-          "track_id": "3WXJOVqIyZKSkdLa82PF0L",
-          "track": "a lot",
-          "plays": 2
-        }
-      ],
-      "file": "covers/6guJZpZ52v4MrJKIH7tASl.jpg"
     },
     {
       "album_id": "3BWM8S25HOnReh0dy18P0e",
@@ -622,23 +605,6 @@
         }
       ],
       "file": "covers/2juInocve2NIFoNCX1cwWH.jpg"
-    },
-    {
-      "album_id": "1NIzKm1DqvComMoEF1FZPQ",
-      "album": "No Label II",
-      "artists": [
-        "Migos"
-      ],
-      "release_date": "2014-02-25",
-      "spotify_url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ",
-      "tracks": [
-        {
-          "track_id": "2ZBnK2CGFK6jcagWrpyPzA",
-          "track": "Handsome And Wealthy",
-          "plays": 1
-        }
-      ],
-      "file": "covers/1NIzKm1DqvComMoEF1FZPQ.jpg"
     },
     {
       "album_id": "007DWn799UWvfY1wwZeENR",
@@ -1326,21 +1292,21 @@
       "file": "covers/4rJgzzfFHAVFhCSt2P4I3j.jpg"
     },
     {
-      "album_id": "5zWZi7tO66MoobIAl9OxWS",
-      "album": "FLAWLESS LIKE ME",
+      "album_id": "2UwJ4Nt10VStLczYefhcEV",
+      "album": "Shiesty Season",
       "artists": [
-        "LUCKI"
+        "Pooh Shiesty"
       ],
-      "release_date": "2022-09-23",
-      "spotify_url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS",
+      "release_date": "2021-02-05",
+      "spotify_url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV",
       "tracks": [
         {
-          "track_id": "2KFt4FHUFb2tpZqceXTgBV",
-          "track": "FREE SEX!",
-          "plays": 1
+          "track_id": "6PDiL8QLrNj1Bi85vkZTcK",
+          "track": "Master P (feat. Tay Keith)",
+          "plays": 2
         }
       ],
-      "file": "covers/5zWZi7tO66MoobIAl9OxWS.jpg"
+      "file": "covers/2UwJ4Nt10VStLczYefhcEV.jpg"
     },
     {
       "album_id": "0JvoIKuIaMFmGeRUmHvvQg",
@@ -1410,23 +1376,6 @@
         }
       ],
       "file": "covers/3znl1qe13kyjQv7KcR685N.jpg"
-    },
-    {
-      "album_id": "18NOKLkZETa4sWwLMIm0UZ",
-      "album": "UTOPIA",
-      "artists": [
-        "Travis Scott"
-      ],
-      "release_date": "2023-07-28",
-      "spotify_url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ",
-      "tracks": [
-        {
-          "track_id": "3KCNiDi9Pza6ZD8FggNoaw",
-          "track": "MODERN JAM (feat. Teezo Touchdown)",
-          "plays": 1
-        }
-      ],
-      "file": "covers/18NOKLkZETa4sWwLMIm0UZ.jpg"
     },
     {
       "album_id": "6FJxoadUE4JNVwWHghBwnb",
@@ -1650,6 +1599,23 @@
       "file": "covers/5Co3CGD9lBQVNnn7q0px1g.jpg"
     },
     {
+      "album_id": "5zWZi7tO66MoobIAl9OxWS",
+      "album": "FLAWLESS LIKE ME",
+      "artists": [
+        "LUCKI"
+      ],
+      "release_date": "2022-09-23",
+      "spotify_url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS",
+      "tracks": [
+        {
+          "track_id": "2P1oNlBGmFudn3ZyUrj7hJ",
+          "track": "KAPITOL DENIM",
+          "plays": 1
+        }
+      ],
+      "file": "covers/5zWZi7tO66MoobIAl9OxWS.jpg"
+    },
+    {
       "album_id": "4KLUvDEJRMLGNHy8xZCLrX",
       "album": "My World",
       "artists": [
@@ -1717,6 +1683,42 @@
         }
       ],
       "file": "covers/1RsqFdvHFKN9VGpBmJtUku.jpg"
+    },
+    {
+      "album_id": "0bwlrhBRjtqdy4eTlfg2UD",
+      "album": "Reject 2",
+      "artists": [
+        "Conway the Machine"
+      ],
+      "release_date": "2015-11-07",
+      "spotify_url": "https://open.spotify.com/album/0bwlrhBRjtqdy4eTlfg2UD",
+      "tracks": [
+        {
+          "track_id": "5KIwtG97Qt2XrAIpxT51Or",
+          "track": "Beloved (feat. Mach Hommy & Benny)",
+          "plays": 1
+        }
+      ],
+      "file": "covers/0bwlrhBRjtqdy4eTlfg2UD.jpg"
+    },
+    {
+      "album_id": "2eKy2HAQ2J3WY4Q4rVCha2",
+      "album": "Life Is Beautiful (Deluxe)",
+      "artists": [
+        "Larry June",
+        "2 Chainz",
+        "The Alchemist"
+      ],
+      "release_date": "2025-02-07",
+      "spotify_url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2",
+      "tracks": [
+        {
+          "track_id": "5dP2uyMEIcXEBhfR70LnwK",
+          "track": "LLC",
+          "plays": 1
+        }
+      ],
+      "file": "covers/2eKy2HAQ2J3WY4Q4rVCha2.jpg"
     }
   ]
 }

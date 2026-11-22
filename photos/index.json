@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:05+00:00",
+  "generated_at": "2026-11-22T16:00+00:00",
   "week": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -82,6 +82,20 @@
       "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
     },
     {
+      "artist": "Travis Scott",
+      "why": [
+        "#7 artist this week (16 plays)"
+      ],
+      "file": "photos/travis-scott.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Travis_Scott",
+      "about": "American rapper (born 1991)",
+      "credit": "PhilipRomano",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:TravisScott-byPhilipRomano_(cropped).jpg"
+    },
+    {
       "artist": "Jorja Smith",
       "why": [
         "new discovery (3 plays)"
@@ -94,28 +108,14 @@
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Jorja_Smith_11_26_2018_-5_(45772599074).jpg"
-    },
-    {
-      "artist": "Dwele",
-      "why": [
-        "new discovery (2 plays)"
-      ],
-      "file": "photos/dwele.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Dwele",
-      "about": "American singer",
-      "credit": "Jalylah Burrell Brooklyn, NY",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Dwele_2.jpg"
     }
   ],
   "no_photo_found": [
     "Metro Boomin",
-    "Travis Scott",
     "Gunna",
     "Big Homiie G",
     "Sadder Days",
+    "Dwele",
     "Mustafa"
   ]
 }
