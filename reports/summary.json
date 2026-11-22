@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-22T14:07-05:00",
+  "generated_at": "2026-11-22T14:59-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2090,
+  "total_plays_logged": 2103,
   "this_week": {
-    "plays": 415,
-    "minutes": 1365,
-    "unique_tracks": 374,
+    "plays": 419,
+    "minutes": 1372,
+    "unique_tracks": 375,
     "unique_artists": 209
   },
   "last_week": {
-    "plays": 580,
-    "minutes": 2017
+    "plays": 583,
+    "minutes": 2029
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -44,7 +44,7 @@
     {
       "rank": 2,
       "name": "Future",
-      "plays": 22,
+      "plays": 23,
       "last_week_plays": 20,
       "change": "+2"
     },
@@ -74,14 +74,14 @@
       "name": "Metro Boomin",
       "plays": 17,
       "last_week_plays": 13,
-      "change": "+13"
+      "change": "+12"
     },
     {
       "rank": 7,
       "name": "Travis Scott",
-      "plays": 16,
-      "last_week_plays": 14,
-      "change": "+9"
+      "plays": 17,
+      "last_week_plays": 13,
+      "change": "+12"
     },
     {
       "rank": 8,
@@ -92,17 +92,17 @@
     },
     {
       "rank": 9,
-      "name": "Westside Gunn",
+      "name": "The Alchemist",
       "plays": 13,
-      "last_week_plays": 14,
-      "change": "+9"
+      "last_week_plays": 18,
+      "change": "+1"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
-      "plays": 13,
-      "last_week_plays": 17,
-      "change": "+1"
+      "plays": 12,
+      "last_week_plays": 18,
+      "change": "-1"
     }
   ],
   "top_tracks": [
@@ -122,52 +122,52 @@
     },
     {
       "rank": 3,
-      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "name": "Gotta Have It - JAŸ-Z",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Livin' - Lil Double 0",
+      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 5,
+      "name": "Livin' - Lil Double 0",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 6,
       "name": "Flashing Lights - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
-      "name": "Gotta Have It - JAŸ-Z",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+72"
-    },
-    {
       "rank": 7,
       "name": "a lot - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+204"
+      "change": "+199"
     },
     {
       "rank": 8,
       "name": "RIP Luv - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+141"
+      "change": "+136"
     },
     {
       "rank": 9,
       "name": "Diamonds - Conway the Machine",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+173"
+      "change": "+168"
     },
     {
       "rank": 10,
@@ -197,16 +197,12 @@
         "plays": 2
       },
       {
-        "name": "Mustafa",
+        "name": "brazy",
         "plays": 2
       },
       {
-        "name": "Rina Sawayama",
-        "plays": 1
-      },
-      {
-        "name": "ZaeFyeHunnit",
-        "plays": 1
+        "name": "Mustafa",
+        "plays": 2
       },
       {
         "name": "EsDeeKid",
@@ -218,6 +214,10 @@
       },
       {
         "name": "Madonna",
+        "plays": 1
+      },
+      {
+        "name": "rommulas",
         "plays": 1
       }
     ],
@@ -234,6 +234,10 @@
       "plays": 5
     },
     {
+      "track": "Gotta Have It - JAŸ-Z",
+      "plays": 3
+    },
+    {
       "track": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3
     },
@@ -245,7 +249,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
-    "Afternoon (12pm-5pm)": 194,
+    "Afternoon (12pm-5pm)": 198,
     "Evening (5pm-9pm)": 136,
     "Night (9pm-12am)": 40
   },
@@ -256,7 +260,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 58
+    "Sun": 62
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -284,14 +288,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 24,
-    "2000s": 30,
-    "2010s": 121,
-    "2020s": 239
+    "2000s": 32,
+    "2010s": 122,
+    "2020s": 240
   },
   "listening_style": {
     "played_from": {
-      "other": 334,
-      "playlist": 77,
+      "other": 333,
+      "playlist": 82,
       "album": 4
     },
     "full_album_sessions": 0
