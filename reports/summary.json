@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:58-05:00",
+  "generated_at": "2026-11-22T16:57-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2113,
   "this_week": {
-    "plays": 420,
-    "minutes": 1373,
-    "unique_tracks": 369,
-    "unique_artists": 203
+    "plays": 413,
+    "minutes": 1346,
+    "unique_tracks": 363,
+    "unique_artists": 196
   },
   "last_week": {
-    "plays": 587,
-    "minutes": 2036
+    "plays": 591,
+    "minutes": 2052
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,15 +37,15 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 32,
-      "last_week_plays": 71,
+      "plays": 31,
+      "last_week_plays": 72,
       "change": "="
     },
     {
       "rank": 2,
       "name": "Future",
-      "plays": 23,
-      "last_week_plays": 20,
+      "plays": 22,
+      "last_week_plays": 21,
       "change": "+2"
     },
     {
@@ -71,17 +71,17 @@
     },
     {
       "rank": 6,
-      "name": "Metro Boomin",
-      "plays": 17,
-      "last_week_plays": 13,
-      "change": "+12"
-    },
-    {
-      "rank": 7,
       "name": "Travis Scott",
       "plays": 17,
       "last_week_plays": 13,
-      "change": "+12"
+      "change": "+13"
+    },
+    {
+      "rank": 7,
+      "name": "Metro Boomin",
+      "plays": 16,
+      "last_week_plays": 14,
+      "change": "+9"
     },
     {
       "rank": 8,
@@ -132,7 +132,7 @@
       "name": "FEM - Davido",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+6"
+      "change": "+5"
     },
     {
       "rank": 5,
@@ -146,7 +146,7 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+51"
+      "change": "+50"
     },
     {
       "rank": 7,
@@ -157,24 +157,24 @@
     },
     {
       "rank": 8,
-      "name": "Flashing Lights - Kanye West",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 9,
       "name": "a lot - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+192"
+      "change": "+193"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "RIP Luv - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
       "change": "+129"
+    },
+    {
+      "rank": 10,
+      "name": "Diamonds - Conway the Machine",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+162"
     }
   ],
   "dropped_off": [],
@@ -185,14 +185,6 @@
         "plays": 5
       },
       {
-        "name": "Jorja Smith",
-        "plays": 3
-      },
-      {
-        "name": "Dwele",
-        "plays": 2
-      },
-      {
         "name": "brazy",
         "plays": 2
       },
@@ -201,27 +193,35 @@
         "plays": 2
       },
       {
-        "name": "GloRilla",
-        "plays": 1
-      },
-      {
-        "name": "Megan Thee Stallion",
-        "plays": 1
-      },
-      {
-        "name": "Kyle Richh",
-        "plays": 1
-      },
-      {
         "name": "Paper Route EMPIRE",
         "plays": 1
       },
       {
         "name": "Bigg Unccc",
         "plays": 1
+      },
+      {
+        "name": "Cochise",
+        "plays": 1
+      },
+      {
+        "name": "Dr. Dre",
+        "plays": 1
+      },
+      {
+        "name": "Ma$e",
+        "plays": 1
+      },
+      {
+        "name": "Tony! Toni! Toné!",
+        "plays": 1
+      },
+      {
+        "name": "Jermaine Paul",
+        "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 55,
+    "plays_of_new_tracks_pct": 54,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -257,7 +257,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
-    "Afternoon (12pm-5pm)": 199,
+    "Afternoon (12pm-5pm)": 192,
     "Evening (5pm-9pm)": 136,
     "Night (9pm-12am)": 40
   },
@@ -268,7 +268,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 63
+    "Sun": 56
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -296,14 +296,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 24,
-    "2000s": 28,
-    "2010s": 122,
-    "2020s": 245
+    "2000s": 27,
+    "2010s": 121,
+    "2020s": 240
   },
   "listening_style": {
     "played_from": {
-      "other": 329,
-      "playlist": 87,
+      "other": 328,
+      "playlist": 81,
       "album": 4
     },
     "full_album_sessions": 0
