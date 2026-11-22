@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-22T10:58-05:00",
+  "generated_at": "2026-11-22T12:00-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2081,
+  "total_plays_logged": 2090,
   "this_week": {
-    "plays": 424,
-    "minutes": 1385,
+    "plays": 422,
+    "minutes": 1388,
     "unique_tracks": 380,
-    "unique_artists": 211
+    "unique_artists": 213
   },
   "last_week": {
-    "plays": 592,
-    "minutes": 2065
+    "plays": 589,
+    "minutes": 2049
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,44 +37,44 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 30,
-      "last_week_plays": 73,
+      "plays": 31,
+      "last_week_plays": 72,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "21 Savage",
+      "name": "Future",
       "plays": 22,
-      "last_week_plays": 20,
-      "change": "+4"
+      "last_week_plays": 21,
+      "change": "+2"
     },
     {
       "rank": 3,
       "name": "J. Cole",
       "plays": 22,
-      "last_week_plays": 28,
+      "last_week_plays": 26,
       "change": "-1"
     },
     {
       "rank": 4,
-      "name": "Lil Baby",
-      "plays": 20,
-      "last_week_plays": 19,
-      "change": "+5"
+      "name": "21 Savage",
+      "plays": 21,
+      "last_week_plays": 21,
+      "change": "+1"
     },
     {
       "rank": 5,
-      "name": "Future",
-      "plays": 20,
-      "last_week_plays": 22,
-      "change": "-2"
+      "name": "Lil Baby",
+      "plays": 21,
+      "last_week_plays": 20,
+      "change": "+1"
     },
     {
       "rank": 6,
       "name": "Metro Boomin",
       "plays": 17,
       "last_week_plays": 14,
-      "change": "+12"
+      "change": "+11"
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
     {
       "rank": 8,
       "name": "Gunna",
-      "plays": 14,
+      "plays": 15,
       "last_week_plays": 20,
       "change": "-1"
     },
@@ -94,15 +94,15 @@
       "rank": 9,
       "name": "Westside Gunn",
       "plays": 13,
-      "last_week_plays": 18,
-      "change": "+2"
+      "last_week_plays": 15,
+      "change": "+6"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
       "plays": 13,
-      "last_week_plays": 20,
-      "change": "-5"
+      "last_week_plays": 18,
+      "change": "-1"
     }
   ],
   "top_tracks": [
@@ -122,59 +122,59 @@
     },
     {
       "rank": 3,
-      "name": "Modern Day - Migos",
-      "plays": 3,
-      "last_week_plays": 1,
-      "change": "+97"
-    },
-    {
-      "rank": 4,
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
-      "name": "Jane - Migos",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
-      "name": "Menace - Migos",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "name": "Things Done Changed - 2005 Remaster - The Notorious B.I.G.",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "name": "Flashing Lights - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "name": "Gotta Have It - JAŸ-Z",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+91"
+      "change": "+85"
+    },
+    {
+      "rank": 8,
+      "name": "a lot - 21 Savage",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+217"
+    },
+    {
+      "rank": 9,
+      "name": "RIP Luv - 21 Savage",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+154"
+    },
+    {
+      "rank": 10,
+      "name": "Diamonds - Conway the Machine",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+186"
     }
   ],
   "dropped_off": [],
@@ -221,7 +221,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 56,
+    "plays_of_new_tracks_pct": 57,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -234,10 +234,6 @@
       "plays": 5
     },
     {
-      "track": "Modern Day - Migos",
-      "plays": 3
-    },
-    {
       "track": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3
     },
@@ -248,7 +244,7 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 41,
+    "Morning (5am-12pm)": 39,
     "Afternoon (12pm-5pm)": 201,
     "Evening (5pm-9pm)": 136,
     "Night (9pm-12am)": 40
@@ -260,13 +256,13 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 67
+    "Sun": 65
   },
   "busiest_day": "Mon",
   "streaks": [
     {
       "artist": "Drake",
-      "days": 27
+      "days": 28
     },
     {
       "artist": "21 Savage",
@@ -274,7 +270,7 @@
     },
     {
       "artist": "Future",
-      "days": 9
+      "days": 10
     },
     {
       "artist": "Lil Baby",
@@ -287,15 +283,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 23,
+    "1990s": 25,
     "2000s": 31,
-    "2010s": 123,
-    "2020s": 246
+    "2010s": 122,
+    "2020s": 243
   },
   "listening_style": {
     "played_from": {
-      "other": 347,
-      "playlist": 73,
+      "other": 341,
+      "playlist": 77,
       "album": 4
     },
     "full_album_sessions": 0
