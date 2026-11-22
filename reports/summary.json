@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-21T18:52-05:00",
+  "generated_at": "2026-11-21T20:27-05:00",
   "window": {
     "start": "2026-11-14",
     "end": "2026-11-21"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2056,
+  "total_plays_logged": 2057,
   "this_week": {
-    "plays": 419,
-    "minutes": 1357,
-    "unique_tracks": 375,
+    "plays": 420,
+    "minutes": 1362,
+    "unique_tracks": 376,
     "unique_artists": 215
   },
   "last_week": {
-    "plays": 620,
-    "minutes": 2171
+    "plays": 598,
+    "minutes": 2093
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -54,28 +54,28 @@
       "rank": 1,
       "name": "Drake",
       "plays": 27,
-      "last_week_plays": 80,
+      "last_week_plays": 78,
       "change": "="
     },
     {
       "rank": 2,
       "name": "21 Savage",
       "plays": 22,
-      "last_week_plays": 25,
-      "change": "+1"
+      "last_week_plays": 21,
+      "change": "+3"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 21,
       "last_week_plays": 23,
-      "change": "+2"
+      "change": "="
     },
     {
       "rank": 4,
       "name": "J. Cole",
       "plays": 20,
-      "last_week_plays": 29,
+      "last_week_plays": 28,
       "change": "-2"
     },
     {
@@ -83,42 +83,42 @@
       "name": "Lil Baby",
       "plays": 19,
       "last_week_plays": 21,
-      "change": "+2"
+      "change": "+1"
     },
     {
       "rank": 6,
       "name": "Metro Boomin",
       "plays": 16,
-      "last_week_plays": 16,
-      "change": "+11"
+      "last_week_plays": 13,
+      "change": "+13"
     },
     {
       "rank": 7,
       "name": "Travis Scott",
       "plays": 16,
-      "last_week_plays": 18,
-      "change": "+4"
+      "last_week_plays": 15,
+      "change": "+8"
     },
     {
       "rank": 8,
       "name": "Big Scarr",
       "plays": 13,
       "last_week_plays": 1,
-      "change": "+235"
+      "change": "+231"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
       "plays": 13,
       "last_week_plays": 17,
-      "change": "+7"
+      "change": "+4"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
       "plays": 13,
       "last_week_plays": 21,
-      "change": "-2"
+      "change": "-3"
     }
   ],
   "top_tracks": [
@@ -141,7 +141,7 @@
       "name": "Modern Day - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+141"
+      "change": "+119"
     },
     {
       "rank": 4,
@@ -162,14 +162,14 @@
       "name": "One Day You'll Be Mine - USHER",
       "plays": 2,
       "last_week_plays": 2,
-      "change": "+44"
+      "change": "+39"
     },
     {
       "rank": 7,
       "name": "TRIM (with Future) - Playboi Carti",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+387"
+      "change": "+370"
     },
     {
       "rank": 8,
@@ -266,7 +266,7 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 47,
     "Afternoon (12pm-5pm)": 201,
-    "Evening (5pm-9pm)": 135,
+    "Evening (5pm-9pm)": 136,
     "Night (9pm-12am)": 30
   },
   "day_of_week": {
@@ -275,7 +275,7 @@
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
-    "Sat": 43,
+    "Sat": 44,
     "Sun": 73
   },
   "busiest_day": "Mon",
@@ -305,12 +305,12 @@
     "1980s": 1,
     "1990s": 21,
     "2000s": 27,
-    "2010s": 121,
+    "2010s": 122,
     "2020s": 249
   },
   "listening_style": {
     "played_from": {
-      "other": 355,
+      "other": 356,
       "playlist": 60,
       "album": 4
     },
@@ -323,26 +323,26 @@
         "J. Cole",
         "Westside Gunn",
         "Future",
-        "Gunna",
         "Freddie Gibbs",
+        "Gunna",
         "Lil Baby",
         "21 Savage",
         "Migos",
-        "Kanye West"
+        "Kendrick Lamar"
       ]
     },
     "medium_term": {
       "artists": [
-        "J. Cole",
         "Future",
-        "LUCKI",
+        "J. Cole",
         "Drake",
-        "Westside Gunn",
+        "LUCKI",
         "Lil Baby",
+        "Westside Gunn",
         "Freddie Gibbs",
         "Curren$y",
         "Gunna",
-        "Young Thug"
+        "Lil Wayne"
       ]
     },
     "long_term": {
