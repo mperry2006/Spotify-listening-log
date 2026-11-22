@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-22T14:59-05:00",
+  "generated_at": "2026-11-22T15:58-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2103,
+  "total_plays_logged": 2113,
   "this_week": {
-    "plays": 419,
-    "minutes": 1372,
-    "unique_tracks": 375,
-    "unique_artists": 209
+    "plays": 420,
+    "minutes": 1373,
+    "unique_tracks": 369,
+    "unique_artists": 203
   },
   "last_week": {
-    "plays": 583,
-    "minutes": 2029
+    "plays": 587,
+    "minutes": 2036
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 31,
+      "plays": 32,
       "last_week_plays": 71,
       "change": "="
     },
@@ -129,52 +129,52 @@
     },
     {
       "rank": 4,
+      "name": "FEM - Davido",
+      "plays": 3,
+      "last_week_plays": 3,
+      "change": "+6"
+    },
+    {
+      "rank": 5,
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "Wickedest - Tems",
+      "plays": 3,
+      "last_week_plays": 2,
+      "change": "+51"
+    },
+    {
+      "rank": 7,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Flashing Lights - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "a lot - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+199"
-    },
-    {
-      "rank": 8,
-      "name": "RIP Luv - 21 Savage",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+136"
-    },
-    {
-      "rank": 9,
-      "name": "Diamonds - Conway the Machine",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+168"
+      "change": "+192"
     },
     {
       "rank": 10,
-      "name": "Get It In - Big Scarr",
+      "name": "RIP Luv - 21 Savage",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+129"
     }
   ],
   "dropped_off": [],
@@ -189,10 +189,6 @@
         "plays": 3
       },
       {
-        "name": "Sadder Days",
-        "plays": 2
-      },
-      {
         "name": "Dwele",
         "plays": 2
       },
@@ -205,23 +201,27 @@
         "plays": 2
       },
       {
-        "name": "EsDeeKid",
+        "name": "GloRilla",
         "plays": 1
       },
       {
-        "name": "Rico Ace",
+        "name": "Megan Thee Stallion",
         "plays": 1
       },
       {
-        "name": "Madonna",
+        "name": "Kyle Richh",
         "plays": 1
       },
       {
-        "name": "rommulas",
+        "name": "Paper Route EMPIRE",
+        "plays": 1
+      },
+      {
+        "name": "Bigg Unccc",
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 57,
+    "plays_of_new_tracks_pct": 55,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -238,7 +238,15 @@
       "plays": 3
     },
     {
+      "track": "FEM - Davido",
+      "plays": 3
+    },
+    {
       "track": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "plays": 3
+    },
+    {
+      "track": "Wickedest - Tems",
       "plays": 3
     },
     {
@@ -249,7 +257,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
-    "Afternoon (12pm-5pm)": 198,
+    "Afternoon (12pm-5pm)": 199,
     "Evening (5pm-9pm)": 136,
     "Night (9pm-12am)": 40
   },
@@ -260,7 +268,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 62
+    "Sun": 63
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -288,14 +296,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 24,
-    "2000s": 32,
+    "2000s": 28,
     "2010s": 122,
-    "2020s": 240
+    "2020s": 245
   },
   "listening_style": {
     "played_from": {
-      "other": 333,
-      "playlist": 82,
+      "other": 329,
+      "playlist": 87,
       "album": 4
     },
     "full_album_sessions": 0
