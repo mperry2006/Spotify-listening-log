@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:00-05:00",
+  "generated_at": "2026-11-22T12:55-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2090,
   "this_week": {
-    "plays": 422,
-    "minutes": 1388,
-    "unique_tracks": 380,
-    "unique_artists": 213
+    "plays": 418,
+    "minutes": 1373,
+    "unique_tracks": 377,
+    "unique_artists": 210
   },
   "last_week": {
-    "plays": 589,
-    "minutes": 2049
+    "plays": 579,
+    "minutes": 2019
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -45,42 +45,42 @@
       "rank": 2,
       "name": "Future",
       "plays": 22,
-      "last_week_plays": 21,
+      "last_week_plays": 20,
       "change": "+2"
     },
     {
       "rank": 3,
       "name": "J. Cole",
       "plays": 22,
-      "last_week_plays": 26,
+      "last_week_plays": 25,
       "change": "-1"
     },
     {
       "rank": 4,
       "name": "21 Savage",
       "plays": 21,
-      "last_week_plays": 21,
-      "change": "+1"
+      "last_week_plays": 20,
+      "change": "+2"
     },
     {
       "rank": 5,
       "name": "Lil Baby",
       "plays": 21,
       "last_week_plays": 20,
-      "change": "+1"
+      "change": "="
     },
     {
       "rank": 6,
       "name": "Metro Boomin",
       "plays": 17,
-      "last_week_plays": 14,
-      "change": "+11"
+      "last_week_plays": 13,
+      "change": "+13"
     },
     {
       "rank": 7,
       "name": "Travis Scott",
       "plays": 16,
-      "last_week_plays": 15,
+      "last_week_plays": 14,
       "change": "+9"
     },
     {
@@ -94,15 +94,15 @@
       "rank": 9,
       "name": "Westside Gunn",
       "plays": 13,
-      "last_week_plays": 15,
-      "change": "+6"
+      "last_week_plays": 14,
+      "change": "+9"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
       "plays": 13,
-      "last_week_plays": 18,
-      "change": "-1"
+      "last_week_plays": 17,
+      "change": "+1"
     }
   ],
   "top_tracks": [
@@ -136,45 +136,45 @@
     },
     {
       "rank": 5,
-      "name": "Things Done Changed - 2005 Remaster - The Notorious B.I.G.",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
       "name": "Flashing Lights - Kanye West",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Gotta Have It - JAŸ-Z",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+85"
+      "change": "+72"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "a lot - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+217"
+      "change": "+204"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "RIP Luv - 21 Savage",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+154"
+      "change": "+141"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Diamonds - Conway the Machine",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+186"
+      "change": "+173"
+    },
+    {
+      "rank": 10,
+      "name": "Get It In - Big Scarr",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -245,7 +245,7 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
-    "Afternoon (12pm-5pm)": 201,
+    "Afternoon (12pm-5pm)": 197,
     "Evening (5pm-9pm)": 136,
     "Night (9pm-12am)": 40
   },
@@ -256,7 +256,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 65
+    "Sun": 61
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -283,14 +283,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 25,
-    "2000s": 31,
-    "2010s": 122,
-    "2020s": 243
+    "1990s": 24,
+    "2000s": 30,
+    "2010s": 121,
+    "2020s": 242
   },
   "listening_style": {
     "played_from": {
-      "other": 341,
+      "other": 337,
       "playlist": 77,
       "album": 4
     },
