@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:57-05:00",
+  "generated_at": "2026-11-22T17:57-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2113,
   "this_week": {
-    "plays": 413,
-    "minutes": 1346,
-    "unique_tracks": 363,
-    "unique_artists": 196
+    "plays": 406,
+    "minutes": 1322,
+    "unique_tracks": 359,
+    "unique_artists": 193
   },
   "last_week": {
-    "plays": 591,
-    "minutes": 2052
+    "plays": 585,
+    "minutes": 2031
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -45,8 +45,8 @@
       "rank": 2,
       "name": "Future",
       "plays": 22,
-      "last_week_plays": 21,
-      "change": "+2"
+      "last_week_plays": 20,
+      "change": "+5"
     },
     {
       "rank": 3,
@@ -57,52 +57,52 @@
     },
     {
       "rank": 4,
-      "name": "21 Savage",
-      "plays": 21,
-      "last_week_plays": 20,
-      "change": "+2"
-    },
-    {
-      "rank": 5,
       "name": "Lil Baby",
       "plays": 21,
       "last_week_plays": 20,
-      "change": "="
+      "change": "+1"
+    },
+    {
+      "rank": 5,
+      "name": "21 Savage",
+      "plays": 19,
+      "last_week_plays": 22,
+      "change": "-2"
     },
     {
       "rank": 6,
       "name": "Travis Scott",
       "plays": 17,
       "last_week_plays": 13,
-      "change": "+13"
+      "change": "+14"
     },
     {
       "rank": 7,
       "name": "Metro Boomin",
-      "plays": 16,
-      "last_week_plays": 14,
-      "change": "+9"
+      "plays": 15,
+      "last_week_plays": 15,
+      "change": "+8"
     },
     {
       "rank": 8,
       "name": "Gunna",
-      "plays": 15,
-      "last_week_plays": 20,
-      "change": "-1"
+      "plays": 14,
+      "last_week_plays": 21,
+      "change": "-4"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
       "plays": 13,
       "last_week_plays": 18,
-      "change": "+1"
+      "change": "="
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
       "plays": 12,
-      "last_week_plays": 18,
-      "change": "-1"
+      "last_week_plays": 17,
+      "change": "="
     }
   ],
   "top_tracks": [
@@ -122,59 +122,59 @@
     },
     {
       "rank": 3,
-      "name": "Gotta Have It - JAŸ-Z",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "FEM - Davido",
       "plays": 3,
       "last_week_plays": 3,
       "change": "+5"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
       "change": "+50"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
-      "name": "a lot - 21 Savage",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+193"
-    },
-    {
-      "rank": 9,
-      "name": "RIP Luv - 21 Savage",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+129"
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "name": "Diamonds - Conway the Machine",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+162"
+      "change": "+158"
+    },
+    {
+      "rank": 8,
+      "name": "Get It In - Big Scarr",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 9,
+      "name": "CODE OF HONOR - 21 Savage",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Sorrows - Bryson Tiller",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+360"
     }
   ],
   "dropped_off": [],
@@ -221,7 +221,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 54,
+    "plays_of_new_tracks_pct": 55,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -232,10 +232,6 @@
     {
       "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 5
-    },
-    {
-      "track": "Gotta Have It - JAŸ-Z",
-      "plays": 3
     },
     {
       "track": "FEM - Davido",
@@ -258,7 +254,7 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
     "Afternoon (12pm-5pm)": 192,
-    "Evening (5pm-9pm)": 136,
+    "Evening (5pm-9pm)": 129,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
@@ -268,7 +264,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 56
+    "Sun": 49
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -296,14 +292,14 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 24,
-    "2000s": 27,
-    "2010s": 121,
-    "2020s": 240
+    "2000s": 26,
+    "2010s": 118,
+    "2020s": 237
   },
   "listening_style": {
     "played_from": {
-      "other": 328,
-      "playlist": 81,
+      "other": 322,
+      "playlist": 80,
       "album": 4
     },
     "full_album_sessions": 0
