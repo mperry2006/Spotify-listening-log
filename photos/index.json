@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-21T16:01+00:00",
+  "generated_at": "2026-11-22T15:05+00:00",
   "week": {
-    "start": "2026-11-14",
-    "end": "2026-11-21"
+    "start": "2026-11-15",
+    "end": "2026-11-22"
   },
   "note": "Credit each photo as: Photo: <credit>, <license>.",
   "photos": [
     {
       "artist": "Drake",
       "why": [
-        "#1 artist this week (28 plays)",
-        "26-day listening streak"
+        "#1 artist this week (30 plays)",
+        "27-day listening streak"
       ],
       "file": "photos/drake.jpg",
       "found_via": "Wikipedia",
@@ -24,8 +24,8 @@
     {
       "artist": "21 Savage",
       "why": [
-        "#2 artist this week (21 plays)",
-        "16-day listening streak"
+        "#2 artist this week (22 plays)",
+        "17-day listening streak"
       ],
       "file": "photos/21-savage.jpg",
       "found_via": "Wikipedia",
@@ -37,24 +37,10 @@
       "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
     },
     {
-      "artist": "Future",
-      "why": [
-        "#3 artist this week (21 plays)",
-        "8-day listening streak"
-      ],
-      "file": "photos/future.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
-      "about": "American rapper (born 1983)",
-      "credit": "Frank Schwichtenberg",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
-    },
-    {
       "artist": "J. Cole",
       "why": [
-        "#4 artist this week (21 plays)"
+        "#3 artist this week (22 plays)",
+        "7-day listening streak"
       ],
       "file": "photos/j-cole.jpg",
       "found_via": "Wikipedia",
@@ -68,8 +54,8 @@
     {
       "artist": "Lil Baby",
       "why": [
-        "#5 artist this week (17 plays)",
-        "6-day listening streak"
+        "#4 artist this week (20 plays)",
+        "8-day listening streak"
       ],
       "file": "photos/lil-baby.png",
       "found_via": "Wikipedia",
@@ -81,18 +67,19 @@
       "source": "https://commons.wikimedia.org/wiki/File:Lil_Baby_2023.png"
     },
     {
-      "artist": "Travis Scott",
+      "artist": "Future",
       "why": [
-        "#8 artist this week (15 plays)"
+        "#5 artist this week (20 plays)",
+        "9-day listening streak"
       ],
-      "file": "photos/travis-scott.jpg",
+      "file": "photos/future.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Travis_Scott",
-      "about": "American rapper (born 1991)",
-      "credit": "PhilipRomano",
+      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
+      "about": "American rapper (born 1983)",
+      "credit": "Frank Schwichtenberg",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:TravisScott-byPhilipRomano_(cropped).jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
     },
     {
       "artist": "Jorja Smith",
@@ -109,38 +96,26 @@
       "source": "https://commons.wikimedia.org/wiki/File:Jorja_Smith_11_26_2018_-5_(45772599074).jpg"
     },
     {
-      "artist": "FELIX!",
+      "artist": "Dwele",
       "why": [
         "new discovery (2 plays)"
       ],
-      "file": "photos/felix.jpg",
+      "file": "photos/dwele.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Felix_(music_producer)",
-      "about": "British producer and DJ",
-      "credit": "FELIX, Crazybonesmusic",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:FELIX_%22Francis_Wright%22.jpg"
-    },
-    {
-      "artist": "Tommy Richman",
-      "why": [
-        "new discovery (2 plays)"
-      ],
-      "file": "photos/tommy-richman.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Tommy_Richman",
-      "about": "American singer and rapper (born 2000)",
-      "credit": "Industry Plants",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Tommy_Richman_2025.jpg"
+      "wikipedia": "https://en.wikipedia.org/wiki/Dwele",
+      "about": "American singer",
+      "credit": "Jalylah Burrell Brooklyn, NY",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dwele_2.jpg"
     }
   ],
   "no_photo_found": [
     "Metro Boomin",
+    "Travis Scott",
     "Gunna",
     "Big Homiie G",
-    "Adina Howard"
+    "Sadder Days",
+    "Mustafa"
   ]
 }
