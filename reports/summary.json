@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-22T17:57-05:00",
+  "generated_at": "2026-11-22T18:55-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2113,
+  "total_plays_logged": 2114,
   "this_week": {
-    "plays": 406,
-    "minutes": 1322,
-    "unique_tracks": 359,
+    "plays": 403,
+    "minutes": 1310,
+    "unique_tracks": 357,
     "unique_artists": 193
   },
   "last_week": {
-    "plays": 585,
-    "minutes": 2031
+    "plays": 570,
+    "minutes": 1991
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -46,7 +46,7 @@
       "name": "Future",
       "plays": 22,
       "last_week_plays": 20,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 3,
@@ -59,29 +59,29 @@
       "rank": 4,
       "name": "Lil Baby",
       "plays": 21,
-      "last_week_plays": 20,
-      "change": "+1"
+      "last_week_plays": 18,
+      "change": "+3"
     },
     {
       "rank": 5,
       "name": "21 Savage",
-      "plays": 19,
-      "last_week_plays": 22,
+      "plays": 18,
+      "last_week_plays": 23,
       "change": "-2"
     },
     {
       "rank": 6,
       "name": "Travis Scott",
-      "plays": 17,
-      "last_week_plays": 13,
-      "change": "+14"
+      "plays": 16,
+      "last_week_plays": 14,
+      "change": "+12"
     },
     {
       "rank": 7,
       "name": "Metro Boomin",
       "plays": 15,
-      "last_week_plays": 15,
-      "change": "+8"
+      "last_week_plays": 14,
+      "change": "+10"
     },
     {
       "rank": 8,
@@ -94,15 +94,15 @@
       "rank": 9,
       "name": "The Alchemist",
       "plays": 13,
-      "last_week_plays": 18,
-      "change": "="
+      "last_week_plays": 17,
+      "change": "+1"
     },
     {
       "rank": 10,
       "name": "Conway the Machine",
       "plays": 12,
-      "last_week_plays": 17,
-      "change": "="
+      "last_week_plays": 15,
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -122,59 +122,59 @@
     },
     {
       "rank": 3,
-      "name": "FEM - Davido",
-      "plays": 3,
-      "last_week_plays": 3,
-      "change": "+5"
-    },
-    {
-      "rank": 4,
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+50"
+      "change": "+49"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Diamonds - Conway the Machine",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+158"
+      "change": "+142"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Get It In - Big Scarr",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "CODE OF HONOR - 21 Savage",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Sorrows - Bryson Tiller",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+360"
+      "change": "+344"
+    },
+    {
+      "rank": 10,
+      "name": "New Drank - LUCKI",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -221,7 +221,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 55,
+    "plays_of_new_tracks_pct": 56,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -232,10 +232,6 @@
     {
       "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 5
-    },
-    {
-      "track": "FEM - Davido",
-      "plays": 3
     },
     {
       "track": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
@@ -254,7 +250,7 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
     "Afternoon (12pm-5pm)": 192,
-    "Evening (5pm-9pm)": 129,
+    "Evening (5pm-9pm)": 126,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
@@ -264,7 +260,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 49
+    "Sun": 46
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -293,12 +289,12 @@
     "1980s": 1,
     "1990s": 24,
     "2000s": 26,
-    "2010s": 118,
-    "2020s": 237
+    "2010s": 117,
+    "2020s": 235
   },
   "listening_style": {
     "played_from": {
-      "other": 322,
+      "other": 319,
       "playlist": 80,
       "album": 4
     },
