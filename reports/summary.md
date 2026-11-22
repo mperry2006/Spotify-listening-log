@@ -1,5 +1,5 @@
 # Listening Report
-**2026-11-14 to 2026-11-21** · updated 2026-11-21 23:10 ET
+**2026-11-15 to 2026-11-22** · updated 2026-11-22 00:13 ET
 
 **430 plays** (-160 vs last week) · **1404 minutes** · 215 artists · 385 songs
 
@@ -70,8 +70,8 @@ Sun                    █████████████ 73
 - Drake: 27 days in a row
 - 21 Savage: 17 days in a row
 - Future: 9 days in a row
-- Gunna: 8 days in a row
 - Lil Baby: 7 days in a row
+- J. Cole: 6 days in a row
 
 ## Eras
 1980s: 1, 1990s: 23, 2000s: 30, 2010s: 126, 2020s: 250

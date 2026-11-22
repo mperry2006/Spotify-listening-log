@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T23:10-05:00",
+  "generated_at": "2026-11-22T00:13-05:00",
   "window": {
-    "start": "2026-11-14",
-    "end": "2026-11-21"
+    "start": "2026-11-15",
+    "end": "2026-11-22"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 2076,
@@ -293,12 +293,12 @@
       "days": 9
     },
     {
-      "artist": "Gunna",
-      "days": 8
-    },
-    {
       "artist": "Lil Baby",
       "days": 7
+    },
+    {
+      "artist": "J. Cole",
+      "days": 6
     }
   ],
   "release_eras": {
