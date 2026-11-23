@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T14:18-05:00",
+  "generated_at": "2026-11-23T16:05-05:00",
   "window": {
     "start": "2026-11-16",
     "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2140,
+  "total_plays_logged": 2169,
   "this_week": {
-    "plays": 380,
-    "minutes": 1231,
-    "unique_tracks": 334,
-    "unique_artists": 186
+    "plays": 386,
+    "minutes": 1240,
+    "unique_tracks": 335,
+    "unique_artists": 187
   },
   "last_week": {
     "plays": 537,
-    "minutes": 1865
+    "minutes": 1871
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -38,134 +38,134 @@
       "rank": 1,
       "name": "Drake",
       "plays": 29,
-      "last_week_plays": 66,
+      "last_week_plays": 68,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "Future",
-      "plays": 23,
-      "last_week_plays": 15,
-      "change": "+9"
+      "name": "Big Scarr",
+      "plays": 26,
+      "last_week_plays": 5,
+      "change": "+42"
     },
     {
       "rank": 3,
-      "name": "Lil Baby",
-      "plays": 22,
+      "name": "Future",
+      "plays": 23,
       "last_week_plays": 16,
       "change": "+5"
     },
     {
       "rank": 4,
-      "name": "J. Cole",
-      "plays": 19,
-      "last_week_plays": 27,
-      "change": "-2"
-    },
-    {
-      "rank": 5,
-      "name": "21 Savage",
-      "plays": 16,
-      "last_week_plays": 20,
-      "change": "="
-    },
-    {
-      "rank": 6,
-      "name": "Metro Boomin",
-      "plays": 14,
-      "last_week_plays": 12,
-      "change": "+12"
-    },
-    {
-      "rank": 7,
-      "name": "Travis Scott",
-      "plays": 14,
-      "last_week_plays": 14,
+      "name": "Lil Baby",
+      "plays": 22,
+      "last_week_plays": 15,
       "change": "+6"
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "name": "Travis Scott",
+      "plays": 16,
+      "last_week_plays": 13,
+      "change": "+12"
+    },
+    {
+      "rank": 6,
       "name": "Gunna",
-      "plays": 13,
+      "plays": 16,
       "last_week_plays": 23,
-      "change": "-5"
+      "change": "-3"
+    },
+    {
+      "rank": 7,
+      "name": "21 Savage",
+      "plays": 15,
+      "last_week_plays": 21,
+      "change": "-3"
+    },
+    {
+      "rank": 8,
+      "name": "J. Cole",
+      "plays": 15,
+      "last_week_plays": 28,
+      "change": "-6"
     },
     {
       "rank": 9,
-      "name": "The Alchemist",
-      "plays": 12,
-      "last_week_plays": 18,
-      "change": "-3"
+      "name": "Metro Boomin",
+      "plays": 13,
+      "last_week_plays": 13,
+      "change": "+7"
     },
     {
       "rank": 10,
       "name": "BIG30",
-      "plays": 12,
+      "plays": 13,
       "last_week_plays": 2,
-      "change": "+95"
+      "change": "+93"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
-      "plays": 4,
+      "name": "Poppin - Big Scarr",
+      "plays": 5,
       "last_week_plays": 1,
-      "change": "+442"
+      "change": "+419"
     },
     {
       "rank": 2,
-      "name": "Poppin - Big Scarr",
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+437"
+      "change": "+422"
     },
     {
       "rank": 3,
+      "name": "Having Our Way (feat. Drake) - Migos",
+      "plays": 4,
+      "last_week_plays": 1,
+      "change": "+280"
+    },
+    {
+      "rank": 4,
       "name": "SEAHAWK - BIG30",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+21"
-    },
-    {
-      "rank": 6,
-      "name": "Livin' - Lil Double 0",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "change": "+18"
     },
     {
       "rank": 7,
-      "name": "COUNT UP - Gunna",
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Having Our Way (feat. Drake) - Migos",
+      "name": "Livin' - Lil Double 0",
       "plays": 3,
-      "last_week_plays": 1,
-      "change": "+294"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Narcs - Lil Baby",
-      "plays": 2,
+      "name": "COUNT UP - Gunna",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
@@ -189,8 +189,12 @@
         "plays": 2
       },
       {
-        "name": "Dr. Dre",
-        "plays": 1
+        "name": "Montana 700",
+        "plays": 2
+      },
+      {
+        "name": "Foogiano",
+        "plays": 2
       },
       {
         "name": "Ma$e",
@@ -215,22 +219,22 @@
       {
         "name": "Diana Ross",
         "plays": 1
-      },
-      {
-        "name": "702",
-        "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 52,
+    "plays_of_new_tracks_pct": 53,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
+    {
+      "track": "Poppin - Big Scarr",
+      "plays": 5
+    },
     {
       "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 4
     },
     {
-      "track": "Poppin - Big Scarr",
+      "track": "Having Our Way (feat. Drake) - Migos",
       "plays": 4
     },
     {
@@ -246,27 +250,27 @@
       "plays": 3
     },
     {
+      "track": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
+      "plays": 3
+    },
+    {
       "track": "Livin' - Lil Double 0",
       "plays": 3
     },
     {
       "track": "COUNT UP - Gunna",
       "plays": 3
-    },
-    {
-      "track": "Having Our Way (feat. Drake) - Migos",
-      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 31,
-    "Afternoon (12pm-5pm)": 185,
+    "Afternoon (12pm-5pm)": 191,
     "Evening (5pm-9pm)": 118,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
-    "Mon": 94,
+    "Mon": 100,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -299,18 +303,18 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 19,
-    "2000s": 24,
-    "2010s": 107,
-    "2020s": 229
+    "1990s": 18,
+    "2000s": 22,
+    "2010s": 100,
+    "2020s": 245
   },
   "listening_style": {
     "played_from": {
-      "other": 296,
+      "other": 282,
       "playlist": 80,
-      "album": 4
+      "album": 24
     },
-    "full_album_sessions": 0
+    "full_album_sessions": 1
   },
   "spotify_top_snapshot": {
     "short_term": {
