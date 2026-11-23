@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:33-05:00",
+  "generated_at": "2026-11-22T22:12-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -13,8 +13,8 @@
     "unique_artists": 193
   },
   "last_week": {
-    "plays": 558,
-    "minutes": 1946
+    "plays": 543,
+    "minutes": 1893
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -38,15 +38,15 @@
       "rank": 1,
       "name": "Drake",
       "plays": 31,
-      "last_week_plays": 71,
+      "last_week_plays": 70,
       "change": "="
     },
     {
       "rank": 2,
       "name": "Future",
       "plays": 22,
-      "last_week_plays": 20,
-      "change": "+3"
+      "last_week_plays": 18,
+      "change": "+4"
     },
     {
       "rank": 3,
@@ -59,28 +59,28 @@
       "rank": 4,
       "name": "Lil Baby",
       "plays": 21,
-      "last_week_plays": 18,
-      "change": "+3"
+      "last_week_plays": 16,
+      "change": "+4"
     },
     {
       "rank": 5,
       "name": "21 Savage",
       "plays": 18,
-      "last_week_plays": 22,
-      "change": "-2"
+      "last_week_plays": 20,
+      "change": "-1"
     },
     {
       "rank": 6,
       "name": "Travis Scott",
       "plays": 16,
       "last_week_plays": 14,
-      "change": "+11"
+      "change": "+9"
     },
     {
       "rank": 7,
       "name": "Metro Boomin",
       "plays": 15,
-      "last_week_plays": 14,
+      "last_week_plays": 13,
       "change": "+9"
     },
     {
@@ -88,21 +88,21 @@
       "name": "Gunna",
       "plays": 14,
       "last_week_plays": 21,
-      "change": "-4"
+      "change": "-5"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
       "plays": 12,
       "last_week_plays": 18,
-      "change": "-1"
+      "change": "-2"
     },
     {
       "rank": 10,
       "name": "Big Scarr",
       "plays": 11,
       "last_week_plays": 3,
-      "change": "+70"
+      "change": "+68"
     }
   ],
   "top_tracks": [
@@ -132,7 +132,7 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+47"
+      "change": "+40"
     },
     {
       "rank": 5,
@@ -160,7 +160,7 @@
       "name": "Sorrows - Bryson Tiller",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+329"
+      "change": "+323"
     },
     {
       "rank": 9,

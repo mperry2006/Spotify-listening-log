@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-15 to 2026-11-22** · updated 2026-11-22 20:33 ET
+**2026-11-15 to 2026-11-22** · updated 2026-11-22 22:12 ET
 
-**395 plays** (-163 vs last week) · **1284 minutes** · 193 artists · 350 songs
+**395 plays** (-148 vs last week) · **1284 minutes** · 193 artists · 350 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
@@ -9,15 +9,15 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 31 | = |
-| 2 | Future | 22 | +3 |
+| 2 | Future | 22 | +4 |
 | 3 | J. Cole | 22 | -1 |
-| 4 | Lil Baby | 21 | +3 |
-| 5 | 21 Savage | 18 | -2 |
-| 6 | Travis Scott | 16 | +11 |
+| 4 | Lil Baby | 21 | +4 |
+| 5 | 21 Savage | 18 | -1 |
+| 6 | Travis Scott | 16 | +9 |
 | 7 | Metro Boomin | 15 | +9 |
-| 8 | Gunna | 14 | -4 |
-| 9 | The Alchemist | 12 | -1 |
-| 10 | Big Scarr | 11 | +70 |
+| 8 | Gunna | 14 | -5 |
+| 9 | The Alchemist | 12 | -2 |
+| 10 | Big Scarr | 11 | +68 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -25,11 +25,11 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | 1 | Poppin - Big Scarr | 5 | NEW |
 | 2 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 5 | NEW |
 | 3 | Bless Em (Takeoff feat. Travis Scott) - Quality Control | 3 | NEW |
-| 4 | Wickedest - Tems | 3 | +47 |
+| 4 | Wickedest - Tems | 3 | +40 |
 | 5 | Livin' - Lil Double 0 | 3 | NEW |
 | 6 | Get It In - Big Scarr | 2 | NEW |
 | 7 | CODE OF HONOR - 21 Savage | 2 | NEW |
-| 8 | Sorrows - Bryson Tiller | 2 | +329 |
+| 8 | Sorrows - Bryson Tiller | 2 | +323 |
 | 9 | New Drank - LUCKI | 2 | NEW |
 | 10 | Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV) - Lil Baby | 2 | NEW |
 
