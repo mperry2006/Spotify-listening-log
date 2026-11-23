@@ -1,23 +1,23 @@
 # Listening Report
-**2026-11-16 to 2026-11-23** · updated 2026-11-23 16:05 ET
+**2026-11-16 to 2026-11-23** · updated 2026-11-23 17:06 ET
 
-**386 plays** (-151 vs last week) · **1240 minutes** · 187 artists · 335 songs
+**376 plays** (-177 vs last week) · **1205 minutes** · 181 artists · 324 songs
 
 _Counting real listens only. 1 skips left out (0% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 29 | = |
+| 1 | Drake | 30 | = |
 | 2 | Big Scarr | 26 | +42 |
-| 3 | Future | 23 | +5 |
-| 4 | Lil Baby | 22 | +6 |
-| 5 | Travis Scott | 16 | +12 |
-| 6 | Gunna | 16 | -3 |
-| 7 | 21 Savage | 15 | -3 |
-| 8 | J. Cole | 15 | -6 |
-| 9 | Metro Boomin | 13 | +7 |
-| 10 | BIG30 | 13 | +93 |
+| 3 | Future | 23 | +6 |
+| 4 | Lil Baby | 19 | +4 |
+| 5 | Travis Scott | 17 | +13 |
+| 6 | J. Cole | 17 | -4 |
+| 7 | Gunna | 16 | -4 |
+| 8 | 21 Savage | 15 | -4 |
+| 9 | BIG30 | 13 | +97 |
+| 10 | Metro Boomin | 13 | +5 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
@@ -27,15 +27,15 @@ _Counting real listens only. 1 skips left out (0% skip rate)._
 | 3 | Having Our Way (feat. Drake) - Migos | 4 | +280 |
 | 4 | SEAHAWK - BIG30 | 3 | NEW |
 | 5 | Bless Em (Takeoff feat. Travis Scott) - Quality Control | 3 | NEW |
-| 6 | Wickedest - Tems | 3 | +18 |
+| 6 | Wickedest - Tems | 3 | +19 |
 | 7 | Never Sleep (with Lil Baby feat. Travis Scott) - NAV | 3 | NEW |
 | 8 | Livin' - Lil Double 0 | 3 | NEW |
 | 9 | COUNT UP - Gunna | 3 | NEW |
-| 10 | Baby $hit - Freddie Gibbs | 2 | NEW |
+| 10 | Gotta Have It - JAŸ-Z | 2 | +395 |
 
 ## Discovery
-53% of plays were songs not in your log before this week.
-New artists: brazy (2), Mustafa (2), Montana 700 (2), Foogiano (2), Ma$e (1), Tony! Toni! Toné! (1), Jermaine Paul (1), Makaveli (1), DaBaby (1), Diana Ross (1)
+52% of plays were songs not in your log before this week.
+New artists: brazy (2), Mustafa (2), Montana 700 (2), Foogiano (2), Tony! Toni! Toné! (1), Jermaine Paul (1), Makaveli (1), DaBaby (1), Diana Ross (1), 702 (1)
 
 ## On repeat (3+ plays)
 - Poppin - Big Scarr - 5x
@@ -55,16 +55,16 @@ New artists: brazy (2), Mustafa (2), Montana 700 (2), Foogiano (2), Ma$e (1), To
 ```
 Late night (12am-5am)  █ 6
 Morning (5am-12pm)     ███ 31
-Afternoon (12pm-5pm)   ████████████████████ 191
-Evening (5pm-9pm)      ████████████ 118
+Afternoon (12pm-5pm)   ████████████████████ 182
+Evening (5pm-9pm)      █████████████ 117
 Night (9pm-12am)       ████ 40
 
-Mon                    ████████████████████ 100
-Tue                    ██████████ 50
-Wed                    ███████████ 53
-Thu                    ████████████ 61
-Fri                    ██████ 30
-Sat                    ███████████ 54
+Mon                    ████████████████████ 90
+Tue                    ███████████ 50
+Wed                    ████████████ 53
+Thu                    ██████████████ 61
+Fri                    ███████ 30
+Sat                    ████████████ 54
 Sun                    ████████ 38
 ```
 
@@ -76,10 +76,10 @@ Sun                    ████████ 38
 - The Alchemist: 5 days in a row
 
 ## Eras
-1980s: 1, 1990s: 18, 2000s: 22, 2010s: 100, 2020s: 245
+1980s: 1, 1990s: 17, 2000s: 22, 2010s: 99, 2020s: 237
 
 ## How you listen
-Played from: other 282, playlist 80, album 24
+Played from: other 272, playlist 80, album 24
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 2169 plays recorded total._
+_Log started 2026-10-26 · 2175 plays recorded total._
