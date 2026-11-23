@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T17:06-05:00",
+  "generated_at": "2026-11-23T18:08-05:00",
   "window": {
     "start": "2026-11-16",
     "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2175,
+  "total_plays_logged": 2184,
   "this_week": {
-    "plays": 376,
-    "minutes": 1205,
-    "unique_tracks": 324,
-    "unique_artists": 181
+    "plays": 379,
+    "minutes": 1214,
+    "unique_tracks": 326,
+    "unique_artists": 184
   },
   "last_week": {
-    "plays": 553,
-    "minutes": 1928
+    "plays": 559,
+    "minutes": 1949
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,8 +37,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 30,
-      "last_week_plays": 68,
+      "plays": 28,
+      "last_week_plays": 71,
       "change": "="
     },
     {
@@ -53,7 +53,7 @@
       "name": "Future",
       "plays": 23,
       "last_week_plays": 16,
-      "change": "+6"
+      "change": "+7"
     },
     {
       "rank": 4,
@@ -67,7 +67,7 @@
       "name": "Travis Scott",
       "plays": 17,
       "last_week_plays": 13,
-      "change": "+13"
+      "change": "+14"
     },
     {
       "rank": 6,
@@ -102,7 +102,7 @@
       "name": "Metro Boomin",
       "plays": 13,
       "last_week_plays": 14,
-      "change": "+5"
+      "change": "+6"
     }
   ],
   "top_tracks": [
@@ -125,7 +125,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+280"
+      "change": "+281"
     },
     {
       "rank": 4,
@@ -171,10 +171,10 @@
     },
     {
       "rank": 10,
-      "name": "Gotta Have It - JAŸ-Z",
+      "name": "Really Like That - G Herbo",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+395"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -221,7 +221,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 52,
+    "plays_of_new_tracks_pct": 51,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -266,11 +266,11 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 31,
     "Afternoon (12pm-5pm)": 182,
-    "Evening (5pm-9pm)": 117,
+    "Evening (5pm-9pm)": 120,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
-    "Mon": 90,
+    "Mon": 93,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -304,13 +304,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 17,
-    "2000s": 22,
-    "2010s": 99,
-    "2020s": 237
+    "2000s": 23,
+    "2010s": 98,
+    "2020s": 240
   },
   "listening_style": {
     "played_from": {
-      "other": 272,
+      "other": 275,
       "playlist": 80,
       "album": 24
     },
