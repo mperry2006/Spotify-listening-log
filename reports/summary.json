@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:55-05:00",
+  "generated_at": "2026-11-22T20:33-05:00",
   "window": {
     "start": "2026-11-15",
     "end": "2026-11-22"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2114,
   "this_week": {
-    "plays": 403,
-    "minutes": 1310,
-    "unique_tracks": 357,
+    "plays": 395,
+    "minutes": 1284,
+    "unique_tracks": 350,
     "unique_artists": 193
   },
   "last_week": {
-    "plays": 570,
-    "minutes": 1991
+    "plays": 558,
+    "minutes": 1946
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -38,7 +38,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 31,
-      "last_week_plays": 72,
+      "last_week_plays": 71,
       "change": "="
     },
     {
@@ -46,13 +46,13 @@
       "name": "Future",
       "plays": 22,
       "last_week_plays": 20,
-      "change": "+4"
+      "change": "+3"
     },
     {
       "rank": 3,
       "name": "J. Cole",
       "plays": 22,
-      "last_week_plays": 25,
+      "last_week_plays": 24,
       "change": "-1"
     },
     {
@@ -66,7 +66,7 @@
       "rank": 5,
       "name": "21 Savage",
       "plays": 18,
-      "last_week_plays": 23,
+      "last_week_plays": 22,
       "change": "-2"
     },
     {
@@ -74,14 +74,14 @@
       "name": "Travis Scott",
       "plays": 16,
       "last_week_plays": 14,
-      "change": "+12"
+      "change": "+11"
     },
     {
       "rank": 7,
       "name": "Metro Boomin",
       "plays": 15,
       "last_week_plays": 14,
-      "change": "+10"
+      "change": "+9"
     },
     {
       "rank": 8,
@@ -93,16 +93,16 @@
     {
       "rank": 9,
       "name": "The Alchemist",
-      "plays": 13,
-      "last_week_plays": 17,
-      "change": "+1"
+      "plays": 12,
+      "last_week_plays": 18,
+      "change": "-1"
     },
     {
       "rank": 10,
-      "name": "Conway the Machine",
-      "plays": 12,
-      "last_week_plays": 15,
-      "change": "+3"
+      "name": "Big Scarr",
+      "plays": 11,
+      "last_week_plays": 3,
+      "change": "+70"
     }
   ],
   "top_tracks": [
@@ -132,7 +132,7 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+49"
+      "change": "+47"
     },
     {
       "rank": 5,
@@ -143,35 +143,35 @@
     },
     {
       "rank": 6,
-      "name": "Diamonds - Conway the Machine",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+142"
-    },
-    {
-      "rank": 7,
       "name": "Get It In - Big Scarr",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "CODE OF HONOR - 21 Savage",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Sorrows - Bryson Tiller",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+344"
+      "change": "+329"
+    },
+    {
+      "rank": 9,
+      "name": "New Drank - LUCKI",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "New Drank - LUCKI",
+      "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV) - Lil Baby",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -221,7 +221,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 56,
+    "plays_of_new_tracks_pct": 55,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -250,7 +250,7 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 39,
     "Afternoon (12pm-5pm)": 192,
-    "Evening (5pm-9pm)": 126,
+    "Evening (5pm-9pm)": 118,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
@@ -260,7 +260,7 @@
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
-    "Sun": 46
+    "Sun": 38
   },
   "busiest_day": "Mon",
   "streaks": [
@@ -289,13 +289,13 @@
     "1980s": 1,
     "1990s": 24,
     "2000s": 26,
-    "2010s": 117,
-    "2020s": 235
+    "2010s": 114,
+    "2020s": 230
   },
   "listening_style": {
     "played_from": {
-      "other": 319,
-      "playlist": 80,
+      "other": 317,
+      "playlist": 74,
       "album": 4
     },
     "full_album_sessions": 0
@@ -307,12 +307,12 @@
         "J. Cole",
         "Westside Gunn",
         "Future",
-        "Freddie Gibbs",
         "Gunna",
         "Lil Baby",
         "21 Savage",
         "Migos",
-        "Kendrick Lamar"
+        "Kendrick Lamar",
+        "Lil Wayne"
       ]
     },
     "medium_term": {
