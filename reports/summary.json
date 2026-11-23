@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T10:24-05:00",
+  "generated_at": "2026-11-23T12:19-05:00",
   "window": {
     "start": "2026-11-16",
     "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2114,
+  "total_plays_logged": 2118,
   "this_week": {
-    "plays": 395,
-    "minutes": 1284,
-    "unique_tracks": 350,
-    "unique_artists": 193
+    "plays": 385,
+    "minutes": 1255,
+    "unique_tracks": 343,
+    "unique_artists": 191
   },
   "last_week": {
-    "plays": 527,
-    "minutes": 1843
+    "plays": 535,
+    "minutes": 1867
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -38,21 +38,21 @@
       "rank": 1,
       "name": "Drake",
       "plays": 31,
-      "last_week_plays": 69,
+      "last_week_plays": 67,
       "change": "="
     },
     {
       "rank": 2,
       "name": "Future",
       "plays": 22,
-      "last_week_plays": 18,
-      "change": "+4"
+      "last_week_plays": 17,
+      "change": "+5"
     },
     {
       "rank": 3,
       "name": "J. Cole",
-      "plays": 22,
-      "last_week_plays": 24,
+      "plays": 21,
+      "last_week_plays": 25,
       "change": "-1"
     },
     {
@@ -60,65 +60,65 @@
       "name": "Lil Baby",
       "plays": 21,
       "last_week_plays": 15,
-      "change": "+8"
+      "change": "+7"
     },
     {
       "rank": 5,
       "name": "21 Savage",
-      "plays": 18,
-      "last_week_plays": 19,
-      "change": "="
+      "plays": 17,
+      "last_week_plays": 20,
+      "change": "-1"
     },
     {
       "rank": 6,
       "name": "Travis Scott",
       "plays": 16,
-      "last_week_plays": 14,
-      "change": "+7"
+      "last_week_plays": 13,
+      "change": "+8"
     },
     {
       "rank": 7,
-      "name": "Metro Boomin",
+      "name": "Gunna",
       "plays": 15,
-      "last_week_plays": 13,
-      "change": "+7"
+      "last_week_plays": 21,
+      "change": "-4"
     },
     {
       "rank": 8,
-      "name": "Gunna",
-      "plays": 14,
-      "last_week_plays": 21,
-      "change": "-5"
+      "name": "Metro Boomin",
+      "plays": 15,
+      "last_week_plays": 12,
+      "change": "+11"
     },
     {
       "rank": 9,
       "name": "The Alchemist",
       "plays": 12,
       "last_week_plays": 18,
-      "change": "-2"
+      "change": "-3"
     },
     {
       "rank": 10,
-      "name": "Big Scarr",
+      "name": "Veeze",
       "plays": 11,
-      "last_week_plays": 3,
-      "change": "+64"
+      "last_week_plays": 4,
+      "change": "+50"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Poppin - Big Scarr",
-      "plays": 5,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 4,
+      "last_week_plays": 1,
+      "change": "+460"
     },
     {
       "rank": 2,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
-      "plays": 5,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "name": "Poppin - Big Scarr",
+      "plays": 4,
+      "last_week_plays": 1,
+      "change": "+455"
     },
     {
       "rank": 3,
@@ -132,7 +132,7 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+30"
+      "change": "+27"
     },
     {
       "rank": 5,
@@ -143,35 +143,35 @@
     },
     {
       "rank": 6,
-      "name": "Get It In - Big Scarr",
-      "plays": 2,
+      "name": "COUNT UP - Gunna",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "CODE OF HONOR - 21 Savage",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "name": "Having Our Way (feat. Drake) - Migos",
+      "plays": 3,
+      "last_week_plays": 1,
+      "change": "+314"
     },
     {
       "rank": 8,
-      "name": "Sorrows - Bryson Tiller",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+317"
-    },
-    {
-      "rank": 9,
       "name": "New Drank - LUCKI",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV) - Lil Baby",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Narcs - Lil Baby",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -181,24 +181,12 @@
   "discovery": {
     "new_artists": [
       {
-        "name": "Big Homiie G",
-        "plays": 5
-      },
-      {
         "name": "brazy",
         "plays": 2
       },
       {
         "name": "Mustafa",
         "plays": 2
-      },
-      {
-        "name": "Paper Route EMPIRE",
-        "plays": 1
-      },
-      {
-        "name": "Bigg Unccc",
-        "plays": 1
       },
       {
         "name": "Cochise",
@@ -219,19 +207,31 @@
       {
         "name": "Jermaine Paul",
         "plays": 1
+      },
+      {
+        "name": "Makaveli",
+        "plays": 1
+      },
+      {
+        "name": "DaBaby",
+        "plays": 1
+      },
+      {
+        "name": "Diana Ross",
+        "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 55,
+    "plays_of_new_tracks_pct": 53,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
-      "track": "Poppin - Big Scarr",
-      "plays": 5
+      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 4
     },
     {
-      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
-      "plays": 5
+      "track": "Poppin - Big Scarr",
+      "plays": 4
     },
     {
       "track": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
@@ -244,17 +244,25 @@
     {
       "track": "Livin' - Lil Double 0",
       "plays": 3
+    },
+    {
+      "track": "COUNT UP - Gunna",
+      "plays": 3
+    },
+    {
+      "track": "Having Our Way (feat. Drake) - Migos",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 39,
-    "Afternoon (12pm-5pm)": 192,
+    "Morning (5am-12pm)": 31,
+    "Afternoon (12pm-5pm)": 190,
     "Evening (5pm-9pm)": 118,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
-    "Mon": 109,
+    "Mon": 99,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -266,11 +274,11 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 28
+      "days": 29
     },
     {
       "artist": "Future",
-      "days": 10
+      "days": 11
     },
     {
       "artist": "Lil Baby",
@@ -287,15 +295,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 24,
-    "2000s": 26,
-    "2010s": 114,
-    "2020s": 230
+    "1990s": 23,
+    "2000s": 25,
+    "2010s": 113,
+    "2020s": 223
   },
   "listening_style": {
     "played_from": {
-      "other": 317,
-      "playlist": 74,
+      "other": 306,
+      "playlist": 75,
       "album": 4
     },
     "full_album_sessions": 0
