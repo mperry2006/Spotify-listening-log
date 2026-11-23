@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T12:19-05:00",
+  "generated_at": "2026-11-23T14:18-05:00",
   "window": {
     "start": "2026-11-16",
     "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2118,
+  "total_plays_logged": 2140,
   "this_week": {
-    "plays": 385,
-    "minutes": 1255,
-    "unique_tracks": 343,
-    "unique_artists": 191
+    "plays": 380,
+    "minutes": 1231,
+    "unique_tracks": 334,
+    "unique_artists": 186
   },
   "last_week": {
-    "plays": 535,
-    "minutes": 1867
+    "plays": 537,
+    "minutes": 1865
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,58 +37,58 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 31,
-      "last_week_plays": 67,
+      "plays": 29,
+      "last_week_plays": 66,
       "change": "="
     },
     {
       "rank": 2,
       "name": "Future",
-      "plays": 22,
-      "last_week_plays": 17,
-      "change": "+5"
+      "plays": 23,
+      "last_week_plays": 15,
+      "change": "+9"
     },
     {
       "rank": 3,
-      "name": "J. Cole",
-      "plays": 21,
-      "last_week_plays": 25,
-      "change": "-1"
+      "name": "Lil Baby",
+      "plays": 22,
+      "last_week_plays": 16,
+      "change": "+5"
     },
     {
       "rank": 4,
-      "name": "Lil Baby",
-      "plays": 21,
-      "last_week_plays": 15,
-      "change": "+7"
+      "name": "J. Cole",
+      "plays": 19,
+      "last_week_plays": 27,
+      "change": "-2"
     },
     {
       "rank": 5,
       "name": "21 Savage",
-      "plays": 17,
+      "plays": 16,
       "last_week_plays": 20,
-      "change": "-1"
+      "change": "="
     },
     {
       "rank": 6,
-      "name": "Travis Scott",
-      "plays": 16,
-      "last_week_plays": 13,
-      "change": "+8"
+      "name": "Metro Boomin",
+      "plays": 14,
+      "last_week_plays": 12,
+      "change": "+12"
     },
     {
       "rank": 7,
-      "name": "Gunna",
-      "plays": 15,
-      "last_week_plays": 21,
-      "change": "-4"
+      "name": "Travis Scott",
+      "plays": 14,
+      "last_week_plays": 14,
+      "change": "+6"
     },
     {
       "rank": 8,
-      "name": "Metro Boomin",
-      "plays": 15,
-      "last_week_plays": 12,
-      "change": "+11"
+      "name": "Gunna",
+      "plays": 13,
+      "last_week_plays": 23,
+      "change": "-5"
     },
     {
       "rank": 9,
@@ -99,10 +99,10 @@
     },
     {
       "rank": 10,
-      "name": "Veeze",
-      "plays": 11,
-      "last_week_plays": 4,
-      "change": "+50"
+      "name": "BIG30",
+      "plays": 12,
+      "last_week_plays": 2,
+      "change": "+95"
     }
   ],
   "top_tracks": [
@@ -111,67 +111,67 @@
       "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+460"
+      "change": "+442"
     },
     {
       "rank": 2,
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+455"
+      "change": "+437"
     },
     {
       "rank": 3,
-      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "name": "SEAHAWK - BIG30",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Wickedest - Tems",
+      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 3,
-      "last_week_plays": 2,
-      "change": "+27"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 5,
+      "name": "Wickedest - Tems",
+      "plays": 3,
+      "last_week_plays": 2,
+      "change": "+21"
+    },
+    {
+      "rank": 6,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "COUNT UP - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+314"
-    },
-    {
-      "rank": 8,
-      "name": "New Drank - LUCKI",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "change": "+294"
     },
     {
       "rank": 9,
-      "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV) - Lil Baby",
+      "name": "Narcs - Lil Baby",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Narcs - Lil Baby",
+      "name": "Baby $hit - Freddie Gibbs",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -187,10 +187,6 @@
       {
         "name": "Mustafa",
         "plays": 2
-      },
-      {
-        "name": "Cochise",
-        "plays": 1
       },
       {
         "name": "Dr. Dre",
@@ -219,9 +215,13 @@
       {
         "name": "Diana Ross",
         "plays": 1
+      },
+      {
+        "name": "702",
+        "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 53,
+    "plays_of_new_tracks_pct": 52,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -232,6 +232,10 @@
     {
       "track": "Poppin - Big Scarr",
       "plays": 4
+    },
+    {
+      "track": "SEAHAWK - BIG30",
+      "plays": 3
     },
     {
       "track": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
@@ -257,12 +261,12 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 31,
-    "Afternoon (12pm-5pm)": 190,
+    "Afternoon (12pm-5pm)": 185,
     "Evening (5pm-9pm)": 118,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
-    "Mon": 99,
+    "Mon": 94,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -282,11 +286,11 @@
     },
     {
       "artist": "Lil Baby",
-      "days": 8
+      "days": 9
     },
     {
       "artist": "J. Cole",
-      "days": 7
+      "days": 8
     },
     {
       "artist": "The Alchemist",
@@ -295,15 +299,15 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 23,
-    "2000s": 25,
-    "2010s": 113,
-    "2020s": 223
+    "1990s": 19,
+    "2000s": 24,
+    "2010s": 107,
+    "2020s": 229
   },
   "listening_style": {
     "played_from": {
-      "other": 306,
-      "playlist": 75,
+      "other": 296,
+      "playlist": 80,
       "album": 4
     },
     "full_album_sessions": 0
