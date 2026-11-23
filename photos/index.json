@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-22T16:00+00:00",
+  "generated_at": "2026-11-23T15:26+00:00",
   "week": {
-    "start": "2026-11-15",
-    "end": "2026-11-22"
+    "start": "2026-11-16",
+    "end": "2026-11-23"
   },
   "note": "Credit each photo as: Photo: <credit>, <license>.",
   "photos": [
     {
       "artist": "Drake",
       "why": [
-        "#1 artist this week (30 plays)",
-        "27-day listening streak"
+        "#1 artist this week (31 plays)",
+        "28-day listening streak"
       ],
       "file": "photos/drake.jpg",
       "found_via": "Wikipedia",
@@ -22,19 +22,19 @@
       "source": "https://commons.wikimedia.org/wiki/File:Drake_at_The_Carter_Effect_2017_(36818935200)_(cropped).jpg"
     },
     {
-      "artist": "21 Savage",
+      "artist": "Future",
       "why": [
         "#2 artist this week (22 plays)",
-        "17-day listening streak"
+        "10-day listening streak"
       ],
-      "file": "photos/21-savage.jpg",
+      "file": "photos/future.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/21_Savage",
-      "about": "Rapper (born 1992)",
-      "credit": "Ralph Arvesen from Round Mountain, Texas",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
+      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
+      "about": "American rapper (born 1983)",
+      "credit": "Frank Schwichtenberg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
     },
     {
       "artist": "J. Cole",
@@ -54,7 +54,7 @@
     {
       "artist": "Lil Baby",
       "why": [
-        "#4 artist this week (20 plays)",
+        "#4 artist this week (21 plays)",
         "8-day listening streak"
       ],
       "file": "photos/lil-baby.png",
@@ -67,55 +67,68 @@
       "source": "https://commons.wikimedia.org/wiki/File:Lil_Baby_2023.png"
     },
     {
-      "artist": "Future",
+      "artist": "21 Savage",
       "why": [
-        "#5 artist this week (20 plays)",
-        "9-day listening streak"
+        "#5 artist this week (18 plays)"
       ],
-      "file": "photos/future.jpg",
+      "file": "photos/21-savage.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
-      "about": "American rapper (born 1983)",
-      "credit": "Frank Schwichtenberg",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
-    },
-    {
-      "artist": "Travis Scott",
-      "why": [
-        "#7 artist this week (16 plays)"
-      ],
-      "file": "photos/travis-scott.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Travis_Scott",
-      "about": "American rapper (born 1991)",
-      "credit": "PhilipRomano",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:TravisScott-byPhilipRomano_(cropped).jpg"
-    },
-    {
-      "artist": "Jorja Smith",
-      "why": [
-        "new discovery (3 plays)"
-      ],
-      "file": "photos/jorja-smith.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Jorja_Smith",
-      "about": "British singer and songwriter (born 1997)",
-      "credit": "Justin Higuchi from Los Angeles, CA, USA",
+      "wikipedia": "https://en.wikipedia.org/wiki/21_Savage",
+      "about": "Rapper (born 1992)",
+      "credit": "Ralph Arvesen from Round Mountain, Texas",
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Jorja_Smith_11_26_2018_-5_(45772599074).jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
+    },
+    {
+      "artist": "Metro Boomin",
+      "why": [
+        "#7 artist this week (15 plays)"
+      ],
+      "file": "photos/metro-boomin.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Metro_Boomin",
+      "about": "American record producer (born 1993)",
+      "credit": "HOTSPOTATL",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Metro_Boomin_November_2025.jpg"
+    },
+    {
+      "artist": "Gunna",
+      "why": [
+        "#8 artist this week (14 plays)"
+      ],
+      "file": "photos/gunna.png",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gunna_(rapper)",
+      "about": "American rapper (born 1993)",
+      "credit": "HOTSPOTATL",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunna_June_2025.png"
+    },
+    {
+      "artist": "The Alchemist",
+      "why": [
+        "5-day listening streak"
+      ],
+      "file": "photos/the-alchemist.jpg",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Alchemist_(musician)",
+      "about": "American record producer and DJ (born 1977)",
+      "credit": "MILLION DOLLAZ WORTH OF GAME",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Alchemist_on_MILLION_DOLLAZ_WORTH_OF_GAME_(cropped).jpg"
     }
   ],
   "no_photo_found": [
-    "Metro Boomin",
-    "Gunna",
+    "Travis Scott",
     "Big Homiie G",
-    "Sadder Days",
-    "Dwele",
-    "Mustafa"
+    "brazy",
+    "Mustafa",
+    "Paper Route EMPIRE",
+    "Bigg Unccc"
   ]
 }
