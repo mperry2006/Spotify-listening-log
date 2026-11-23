@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T23:28-05:00",
+  "generated_at": "2026-11-23T01:23-05:00",
   "window": {
-    "start": "2026-11-15",
-    "end": "2026-11-22"
+    "start": "2026-11-16",
+    "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 2114,
@@ -269,10 +269,6 @@
       "days": 28
     },
     {
-      "artist": "21 Savage",
-      "days": 17
-    },
-    {
       "artist": "Future",
       "days": 10
     },
@@ -283,6 +279,10 @@
     {
       "artist": "J. Cole",
       "days": 7
+    },
+    {
+      "artist": "The Alchemist",
+      "days": 5
     }
   ],
   "release_eras": {

@@ -1,5 +1,5 @@
 # Listening Report
-**2026-11-15 to 2026-11-22** · updated 2026-11-22 23:28 ET
+**2026-11-16 to 2026-11-23** · updated 2026-11-23 01:23 ET
 
 **395 plays** (-132 vs last week) · **1284 minutes** · 193 artists · 350 songs
 
@@ -66,10 +66,10 @@ Sun                    ███████ 38
 
 ## Streaks
 - Drake: 28 days in a row
-- 21 Savage: 17 days in a row
 - Future: 10 days in a row
 - Lil Baby: 8 days in a row
 - J. Cole: 7 days in a row
+- The Alchemist: 5 days in a row
 
 ## Eras
 1980s: 1, 1990s: 24, 2000s: 26, 2010s: 114, 2020s: 230
