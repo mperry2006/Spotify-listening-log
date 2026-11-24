@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T23:17-05:00",
+  "generated_at": "2026-11-24T01:12-05:00",
   "window": {
-    "start": "2026-11-16",
-    "end": "2026-11-23"
+    "start": "2026-11-17",
+    "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 2215,
   "this_week": {
-    "plays": 390,
-    "minutes": 1250,
-    "unique_tracks": 340,
+    "plays": 387,
+    "minutes": 1240,
+    "unique_tracks": 338,
     "unique_artists": 186
   },
   "last_week": {
-    "plays": 564,
-    "minutes": 1970
+    "plays": 563,
+    "minutes": 1965
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,8 +37,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 28,
-      "last_week_plays": 74,
+      "plays": 27,
+      "last_week_plays": 75,
       "change": "="
     },
     {
@@ -46,7 +46,7 @@
       "name": "Future",
       "plays": 26,
       "last_week_plays": 16,
-      "change": "+9"
+      "change": "+8"
     },
     {
       "rank": 3,
@@ -59,7 +59,7 @@
       "rank": 4,
       "name": "J. Cole",
       "plays": 19,
-      "last_week_plays": 28,
+      "last_week_plays": 27,
       "change": "-2"
     },
     {
@@ -74,7 +74,7 @@
       "name": "Lil Baby",
       "plays": 19,
       "last_week_plays": 19,
-      "change": "+1"
+      "change": "+2"
     },
     {
       "rank": 7,
@@ -95,14 +95,14 @@
       "name": "Metro Boomin",
       "plays": 15,
       "last_week_plays": 14,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 10,
       "name": "Migos",
       "plays": 13,
       "last_week_plays": 14,
-      "change": "+5"
+      "change": "+4"
     }
   ],
   "top_tracks": [
@@ -111,14 +111,14 @@
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+59"
+      "change": "+60"
     },
     {
       "rank": 2,
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+270"
+      "change": "+268"
     },
     {
       "rank": 3,
@@ -150,31 +150,31 @@
     },
     {
       "rank": 7,
-      "name": "She Gon Wink - Takeoff",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 8,
       "name": "Packed Up - AZ Chike",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+105"
+      "change": "+104"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Mugello Red (feat. Rick Ross) - Curren$y",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Heavy On My Heart - LUCKI",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+476"
     }
   ],
   "dropped_off": [],
@@ -255,10 +255,10 @@
     "Morning (5am-12pm)": 31,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 130,
-    "Night (9pm-12am)": 41
+    "Night (9pm-12am)": 38
   },
   "day_of_week": {
-    "Mon": 104,
+    "Mon": 101,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -285,20 +285,20 @@
       "days": 8
     },
     {
-      "artist": "The Alchemist",
-      "days": 5
+      "artist": "Tems",
+      "days": 3
     }
   ],
   "release_eras": {
     "1980s": 1,
     "1990s": 16,
     "2000s": 22,
-    "2010s": 99,
-    "2020s": 252
+    "2010s": 97,
+    "2020s": 251
   },
   "listening_style": {
     "played_from": {
-      "other": 286,
+      "other": 283,
       "playlist": 80,
       "album": 24
     },
