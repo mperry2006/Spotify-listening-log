@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-24T18:11-05:00",
+  "generated_at": "2026-11-24T18:59-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2246,
+  "total_plays_logged": 2249,
   "this_week": {
-    "plays": 381,
-    "minutes": 1213,
-    "unique_tracks": 321,
-    "unique_artists": 172
+    "plays": 373,
+    "minutes": 1186,
+    "unique_tracks": 315,
+    "unique_artists": 173
   },
   "last_week": {
-    "plays": 554,
-    "minutes": 1935
+    "plays": 556,
+    "minutes": 1942
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -36,20 +36,20 @@
       "name": "Big Scarr",
       "plays": 26,
       "last_week_plays": 6,
-      "change": "+35"
+      "change": "+37"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 24,
-      "last_week_plays": 15,
-      "change": "+8"
+      "plays": 22,
+      "last_week_plays": 17,
+      "change": "+6"
     },
     {
       "rank": 4,
       "name": "Gunna",
-      "plays": 21,
-      "last_week_plays": 20,
+      "plays": 19,
+      "last_week_plays": 21,
       "change": "-1"
     },
     {
@@ -61,38 +61,38 @@
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
-      "plays": 18,
-      "last_week_plays": 17,
-      "change": "+2"
+      "name": "21 Savage",
+      "plays": 17,
+      "last_week_plays": 21,
+      "change": "-2"
     },
     {
       "rank": 7,
-      "name": "21 Savage",
-      "plays": 18,
-      "last_week_plays": 19,
-      "change": "-3"
+      "name": "Lil Baby",
+      "plays": 16,
+      "last_week_plays": 20,
+      "change": "-2"
     },
     {
       "rank": 8,
       "name": "Travis Scott",
-      "plays": 16,
-      "last_week_plays": 12,
-      "change": "+11"
+      "plays": 15,
+      "last_week_plays": 13,
+      "change": "+9"
     },
     {
       "rank": 9,
-      "name": "Migos",
+      "name": "Pooh Shiesty",
       "plays": 14,
-      "last_week_plays": 13,
-      "change": "+6"
+      "last_week_plays": 7,
+      "change": "+23"
     },
     {
       "rank": 10,
       "name": "Metro Boomin",
-      "plays": 14,
-      "last_week_plays": 13,
-      "change": "+7"
+      "plays": 12,
+      "last_week_plays": 15,
+      "change": "+1"
     }
   ],
   "top_tracks": [
@@ -101,14 +101,14 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+228"
+      "change": "+222"
     },
     {
       "rank": 2,
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+55"
+      "change": "+53"
     },
     {
       "rank": 3,
@@ -140,28 +140,28 @@
     },
     {
       "rank": 7,
-      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "name": "Lock On Me (with Travis Scott & Future) - Metro Boomin",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+440"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "25k jacket (feat. Lil Baby) - Gunna",
+      "name": "Get Lucki - Veeze",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa] - Metro Boomin",
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 3,
+      "change": "+3"
     },
     {
       "rank": 10,
-      "name": "Runnin - 21 Savage",
+      "name": "c l o s e - J. Cole",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -170,10 +170,6 @@
   "dropped_off": [],
   "discovery": {
     "new_artists": [
-      {
-        "name": "Mustafa",
-        "plays": 2
-      },
       {
         "name": "Montana 700",
         "plays": 2
@@ -209,9 +205,13 @@
       {
         "name": "Money Man",
         "plays": 1
+      },
+      {
+        "name": "SK Da King",
+        "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 47,
+    "plays_of_new_tracks_pct": 45,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -244,12 +244,12 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 46,
     "Afternoon (12pm-5pm)": 171,
-    "Evening (5pm-9pm)": 120,
+    "Evening (5pm-9pm)": 112,
     "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 44,
+    "Tue": 36,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -267,11 +267,11 @@
       "days": 12
     },
     {
-      "artist": "J. Cole",
-      "days": 9
+      "artist": "Lil Baby",
+      "days": 10
     },
     {
-      "artist": "Lil Baby",
+      "artist": "J. Cole",
       "days": 9
     },
     {
@@ -282,13 +282,13 @@
   "release_eras": {
     "1990s": 13,
     "2000s": 17,
-    "2010s": 93,
-    "2020s": 258
+    "2010s": 90,
+    "2020s": 253
   },
   "listening_style": {
     "played_from": {
-      "other": 286,
-      "playlist": 71,
+      "other": 289,
+      "playlist": 60,
       "album": 24
     },
     "full_album_sessions": 1
