@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-24T10:20-05:00",
+  "generated_at": "2026-11-24T12:16-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2223,
+  "total_plays_logged": 2236,
   "this_week": {
-    "plays": 391,
-    "minutes": 1258,
-    "unique_tracks": 341,
+    "plays": 400,
+    "minutes": 1283,
+    "unique_tracks": 345,
     "unique_artists": 184
   },
   "last_week": {
-    "plays": 558,
-    "minutes": 1946
+    "plays": 560,
+    "minutes": 1954
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 28,
+      "plays": 31,
       "last_week_plays": 75,
       "change": "="
     },
@@ -51,7 +51,7 @@
     {
       "rank": 3,
       "name": "Big Scarr",
-      "plays": 25,
+      "plays": 26,
       "last_week_plays": 6,
       "change": "+35"
     },
@@ -66,7 +66,7 @@
       "rank": 5,
       "name": "J. Cole",
       "plays": 20,
-      "last_week_plays": 26,
+      "last_week_plays": 25,
       "change": "-3"
     },
     {
@@ -88,7 +88,7 @@
       "name": "Travis Scott",
       "plays": 16,
       "last_week_plays": 14,
-      "change": "+7"
+      "change": "+8"
     },
     {
       "rank": 9,
@@ -100,78 +100,78 @@
     {
       "rank": 10,
       "name": "Migos",
-      "plays": 13,
+      "plays": 14,
       "last_week_plays": 14,
-      "change": "+3"
+      "change": "+4"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
-      "name": "Poppin - Big Scarr",
-      "plays": 4,
-      "last_week_plays": 2,
-      "change": "+59"
+      "name": "Having Our Way (feat. Drake) - Migos",
+      "plays": 5,
+      "last_week_plays": 1,
+      "change": "+260"
     },
     {
       "rank": 2,
-      "name": "Having Our Way (feat. Drake) - Migos",
+      "name": "Poppin - Big Scarr",
       "plays": 4,
-      "last_week_plays": 1,
-      "change": "+261"
+      "last_week_plays": 2,
+      "change": "+58"
     },
     {
       "rank": 3,
-      "name": "Heavy On My Heart - LUCKI",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+19"
+      "change": "+20"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "COUNT UP - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+471"
+      "change": "+470"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "25k jacket (feat. Lil Baby) - Gunna",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa] - Metro Boomin",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Runnin - 21 Savage",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -197,14 +197,6 @@
         "plays": 2
       },
       {
-        "name": "Diana Ross",
-        "plays": 1
-      },
-      {
-        "name": "702",
-        "plays": 1
-      },
-      {
         "name": "LeToya",
         "plays": 1
       },
@@ -219,6 +211,14 @@
       {
         "name": "Cleo Sol",
         "plays": 1
+      },
+      {
+        "name": "Sam Gendel",
+        "plays": 1
+      },
+      {
+        "name": "Jay Worthy",
+        "plays": 1
       }
     ],
     "plays_of_new_tracks_pct": 48,
@@ -226,16 +226,12 @@
   },
   "on_repeat": [
     {
+      "track": "Having Our Way (feat. Drake) - Migos",
+      "plays": 5
+    },
+    {
       "track": "Poppin - Big Scarr",
       "plays": 4
-    },
-    {
-      "track": "Having Our Way (feat. Drake) - Migos",
-      "plays": 4
-    },
-    {
-      "track": "Heavy On My Heart - LUCKI",
-      "plays": 3
     },
     {
       "track": "Wickedest - Tems",
@@ -256,14 +252,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 35,
-    "Afternoon (12pm-5pm)": 182,
+    "Morning (5am-12pm)": 46,
+    "Afternoon (12pm-5pm)": 180,
     "Evening (5pm-9pm)": 130,
     "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 54,
+    "Tue": 63,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -294,15 +290,14 @@
     }
   ],
   "release_eras": {
-    "1980s": 1,
-    "1990s": 16,
+    "1990s": 15,
     "2000s": 22,
-    "2010s": 98,
-    "2020s": 254
+    "2010s": 100,
+    "2020s": 263
   },
   "listening_style": {
     "played_from": {
-      "other": 287,
+      "other": 296,
       "playlist": 80,
       "album": 24
     },
