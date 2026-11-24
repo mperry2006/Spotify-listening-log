@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-24T17:13-05:00",
+  "generated_at": "2026-11-24T18:11-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2245,
+  "total_plays_logged": 2246,
   "this_week": {
-    "plays": 391,
-    "minutes": 1245,
-    "unique_tracks": 330,
-    "unique_artists": 181
+    "plays": 381,
+    "minutes": 1213,
+    "unique_tracks": 321,
+    "unique_artists": 172
   },
   "last_week": {
-    "plays": 543,
-    "minutes": 1900
+    "plays": 554,
+    "minutes": 1935
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -119,49 +119,49 @@
     },
     {
       "rank": 4,
-      "name": "Wickedest - Tems",
-      "plays": 3,
-      "last_week_plays": 2,
-      "change": "+16"
-    },
-    {
-      "rank": 5,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Master P (feat. Tay Keith) - Pooh Shiesty",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+439"
+      "change": "+440"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "25k jacket (feat. Lil Baby) - Gunna",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa] - Metro Boomin",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Runnin - 21 Savage",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -191,14 +191,6 @@
         "plays": 2
       },
       {
-        "name": "Cleo Sol",
-        "plays": 1
-      },
-      {
-        "name": "Sam Gendel",
-        "plays": 1
-      },
-      {
         "name": "Jay Worthy",
         "plays": 1
       },
@@ -208,6 +200,14 @@
       },
       {
         "name": "Tracey Lee",
+        "plays": 1
+      },
+      {
+        "name": "Hotboii",
+        "plays": 1
+      },
+      {
+        "name": "Money Man",
         "plays": 1
       }
     ],
@@ -228,10 +228,6 @@
       "plays": 4
     },
     {
-      "track": "Wickedest - Tems",
-      "plays": 3
-    },
-    {
       "track": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
       "plays": 3
     },
@@ -248,12 +244,12 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 46,
     "Afternoon (12pm-5pm)": 171,
-    "Evening (5pm-9pm)": 130,
+    "Evening (5pm-9pm)": 120,
     "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 54,
+    "Tue": 44,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -284,15 +280,15 @@
     }
   ],
   "release_eras": {
-    "1990s": 14,
+    "1990s": 13,
     "2000s": 17,
-    "2010s": 97,
-    "2020s": 263
+    "2010s": 93,
+    "2020s": 258
   },
   "listening_style": {
     "played_from": {
-      "other": 287,
-      "playlist": 80,
+      "other": 286,
+      "playlist": 71,
       "album": 24
     },
     "full_album_sessions": 1
