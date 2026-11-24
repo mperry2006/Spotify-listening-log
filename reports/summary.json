@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-24T13:09-05:00",
+  "generated_at": "2026-11-24T14:17-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2237,
+  "total_plays_logged": 2240,
   "this_week": {
-    "plays": 399,
-    "minutes": 1277,
-    "unique_tracks": 343,
-    "unique_artists": 183
+    "plays": 398,
+    "minutes": 1273,
+    "unique_tracks": 340,
+    "unique_artists": 182
   },
   "last_week": {
-    "plays": 562,
-    "minutes": 1963
+    "plays": 565,
+    "minutes": 1974
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -64,45 +64,45 @@
     },
     {
       "rank": 5,
-      "name": "J. Cole",
-      "plays": 20,
-      "last_week_plays": 25,
-      "change": "-3"
-    },
-    {
-      "rank": 6,
-      "name": "21 Savage",
-      "plays": 19,
-      "last_week_plays": 22,
-      "change": "-3"
-    },
-    {
-      "rank": 7,
       "name": "Lil Baby",
       "plays": 19,
       "last_week_plays": 19,
-      "change": "="
+      "change": "+2"
+    },
+    {
+      "rank": 6,
+      "name": "J. Cole",
+      "plays": 19,
+      "last_week_plays": 26,
+      "change": "-4"
+    },
+    {
+      "rank": 7,
+      "name": "21 Savage",
+      "plays": 18,
+      "last_week_plays": 22,
+      "change": "-4"
     },
     {
       "rank": 8,
       "name": "Travis Scott",
       "plays": 16,
       "last_week_plays": 14,
-      "change": "+8"
+      "change": "+7"
     },
     {
       "rank": 9,
       "name": "Metro Boomin",
       "plays": 15,
-      "last_week_plays": 14,
-      "change": "+3"
+      "last_week_plays": 13,
+      "change": "+8"
     },
     {
       "rank": 10,
       "name": "Migos",
       "plays": 14,
       "last_week_plays": 14,
-      "change": "+4"
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -118,7 +118,7 @@
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+59"
+      "change": "+58"
     },
     {
       "rank": 3,
@@ -132,7 +132,7 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+20"
+      "change": "+19"
     },
     {
       "rank": 5,
@@ -143,35 +143,35 @@
     },
     {
       "rank": 6,
-      "name": "Livin' - Lil Double 0",
+      "name": "Master P (feat. Tay Keith) - Pooh Shiesty",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+470"
+      "name": "Livin' - Lil Double 0",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 8,
+      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+469"
+    },
+    {
+      "rank": 9,
       "name": "25k jacket (feat. Lil Baby) - Gunna",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
-      "name": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa] - Metro Boomin",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
       "rank": 10,
-      "name": "Runnin - 21 Savage",
+      "name": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa] - Metro Boomin",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -189,16 +189,16 @@
         "plays": 2
       },
       {
+        "name": "SWV",
+        "plays": 2
+      },
+      {
         "name": "Foogiano",
         "plays": 2
       },
       {
         "name": "Grand Theft Auto VI",
         "plays": 2
-      },
-      {
-        "name": "LeToya",
-        "plays": 1
       },
       {
         "name": "YTB Trench",
@@ -246,6 +246,10 @@
       "plays": 3
     },
     {
+      "track": "Master P (feat. Tay Keith) - Pooh Shiesty",
+      "plays": 3
+    },
+    {
       "track": "Livin' - Lil Double 0",
       "plays": 3
     }
@@ -253,13 +257,13 @@
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 46,
-    "Afternoon (12pm-5pm)": 179,
+    "Afternoon (12pm-5pm)": 178,
     "Evening (5pm-9pm)": 130,
     "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 62,
+    "Tue": 61,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -290,14 +294,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 14,
-    "2000s": 22,
-    "2010s": 99,
-    "2020s": 264
+    "1990s": 15,
+    "2000s": 20,
+    "2010s": 98,
+    "2020s": 265
   },
   "listening_style": {
     "played_from": {
-      "other": 295,
+      "other": 294,
       "playlist": 80,
       "album": 24
     },
