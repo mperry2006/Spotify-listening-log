@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T19:02-05:00",
+  "generated_at": "2026-11-23T20:31-05:00",
   "window": {
     "start": "2026-11-16",
     "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2193,
+  "total_plays_logged": 2209,
   "this_week": {
-    "plays": 382,
-    "minutes": 1223,
-    "unique_tracks": 328,
-    "unique_artists": 180
+    "plays": 394,
+    "minutes": 1259,
+    "unique_tracks": 339,
+    "unique_artists": 184
   },
   "last_week": {
-    "plays": 565,
-    "minutes": 1973
+    "plays": 563,
+    "minutes": 1967
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,28 +37,28 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 30,
+      "plays": 31,
       "last_week_plays": 71,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "Big Scarr",
+      "name": "Future",
       "plays": 26,
-      "last_week_plays": 5,
-      "change": "+42"
+      "last_week_plays": 17,
+      "change": "+7"
     },
     {
       "rank": 3,
-      "name": "Future",
+      "name": "Big Scarr",
       "plays": 25,
-      "last_week_plays": 16,
-      "change": "+7"
+      "last_week_plays": 6,
+      "change": "+36"
     },
     {
       "rank": 4,
       "name": "Lil Baby",
-      "plays": 19,
+      "plays": 20,
       "last_week_plays": 18,
       "change": "+4"
     },
@@ -71,22 +71,22 @@
     },
     {
       "rank": 6,
-      "name": "Travis Scott",
-      "plays": 17,
-      "last_week_plays": 13,
-      "change": "+13"
+      "name": "Gunna",
+      "plays": 18,
+      "last_week_plays": 23,
+      "change": "-3"
     },
     {
       "rank": 7,
-      "name": "Gunna",
+      "name": "Travis Scott",
       "plays": 17,
-      "last_week_plays": 23,
-      "change": "-4"
+      "last_week_plays": 13,
+      "change": "+11"
     },
     {
       "rank": 8,
       "name": "21 Savage",
-      "plays": 15,
+      "plays": 17,
       "last_week_plays": 22,
       "change": "-4"
     },
@@ -95,37 +95,37 @@
       "name": "Metro Boomin",
       "plays": 14,
       "last_week_plays": 14,
-      "change": "+7"
+      "change": "+5"
     },
     {
       "rank": 10,
       "name": "BIG30",
       "plays": 12,
       "last_week_plays": 3,
-      "change": "+62"
+      "change": "+61"
     }
   ],
   "top_tracks": [
     {
       "rank": 1,
       "name": "Poppin - Big Scarr",
-      "plays": 5,
-      "last_week_plays": 1,
-      "change": "+420"
+      "plays": 4,
+      "last_week_plays": 2,
+      "change": "+59"
     },
     {
       "rank": 2,
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+283"
+      "change": "+279"
     },
     {
       "rank": 3,
       "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+59"
+      "change": "+58"
     },
     {
       "rank": 4,
@@ -146,7 +146,7 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+20"
+      "change": "+18"
     },
     {
       "rank": 7,
@@ -171,7 +171,7 @@
     },
     {
       "rank": 10,
-      "name": "Really Like That - G Herbo",
+      "name": "Be Easy - Odeal",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -197,8 +197,8 @@
         "plays": 2
       },
       {
-        "name": "Makaveli",
-        "plays": 1
+        "name": "Grand Theft Auto VI",
+        "plays": 2
       },
       {
         "name": "DaBaby",
@@ -221,13 +221,13 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 51,
+    "plays_of_new_tracks_pct": 50,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
     {
       "track": "Poppin - Big Scarr",
-      "plays": 5
+      "plays": 4
     },
     {
       "track": "Having Our Way (feat. Drake) - Migos",
@@ -266,11 +266,11 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 31,
     "Afternoon (12pm-5pm)": 182,
-    "Evening (5pm-9pm)": 123,
+    "Evening (5pm-9pm)": 135,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
-    "Mon": 96,
+    "Mon": 108,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -303,14 +303,14 @@
   ],
   "release_eras": {
     "1980s": 1,
-    "1990s": 17,
+    "1990s": 16,
     "2000s": 22,
-    "2010s": 100,
-    "2020s": 242
+    "2010s": 102,
+    "2020s": 253
   },
   "listening_style": {
     "played_from": {
-      "other": 278,
+      "other": 290,
       "playlist": 80,
       "album": 24
     },
