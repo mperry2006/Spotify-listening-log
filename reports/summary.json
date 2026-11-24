@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T18:08-05:00",
+  "generated_at": "2026-11-23T19:02-05:00",
   "window": {
     "start": "2026-11-16",
     "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2184,
+  "total_plays_logged": 2193,
   "this_week": {
-    "plays": 379,
-    "minutes": 1214,
-    "unique_tracks": 326,
-    "unique_artists": 184
+    "plays": 382,
+    "minutes": 1223,
+    "unique_tracks": 328,
+    "unique_artists": 180
   },
   "last_week": {
-    "plays": 559,
-    "minutes": 1949
+    "plays": 565,
+    "minutes": 1973
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 28,
+      "plays": 30,
       "last_week_plays": 71,
       "change": "="
     },
@@ -51,7 +51,7 @@
     {
       "rank": 3,
       "name": "Future",
-      "plays": 23,
+      "plays": 25,
       "last_week_plays": 16,
       "change": "+7"
     },
@@ -64,22 +64,22 @@
     },
     {
       "rank": 5,
-      "name": "Travis Scott",
-      "plays": 17,
-      "last_week_plays": 13,
-      "change": "+14"
+      "name": "J. Cole",
+      "plays": 18,
+      "last_week_plays": 28,
+      "change": "-3"
     },
     {
       "rank": 6,
-      "name": "J. Cole",
+      "name": "Travis Scott",
       "plays": 17,
-      "last_week_plays": 28,
-      "change": "-4"
+      "last_week_plays": 13,
+      "change": "+13"
     },
     {
       "rank": 7,
       "name": "Gunna",
-      "plays": 16,
+      "plays": 17,
       "last_week_plays": 23,
       "change": "-4"
     },
@@ -92,17 +92,17 @@
     },
     {
       "rank": 9,
-      "name": "BIG30",
-      "plays": 13,
-      "last_week_plays": 2,
-      "change": "+97"
+      "name": "Metro Boomin",
+      "plays": 14,
+      "last_week_plays": 14,
+      "change": "+7"
     },
     {
       "rank": 10,
-      "name": "Metro Boomin",
-      "plays": 13,
-      "last_week_plays": 14,
-      "change": "+6"
+      "name": "BIG30",
+      "plays": 12,
+      "last_week_plays": 3,
+      "change": "+62"
     }
   ],
   "top_tracks": [
@@ -111,21 +111,21 @@
       "name": "Poppin - Big Scarr",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+419"
+      "change": "+420"
     },
     {
       "rank": 2,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
-      "plays": 4,
-      "last_week_plays": 1,
-      "change": "+422"
-    },
-    {
-      "rank": 3,
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+281"
+      "change": "+283"
+    },
+    {
+      "rank": 3,
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 3,
+      "last_week_plays": 2,
+      "change": "+59"
     },
     {
       "rank": 4,
@@ -146,7 +146,7 @@
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+19"
+      "change": "+20"
     },
     {
       "rank": 7,
@@ -197,14 +197,6 @@
         "plays": 2
       },
       {
-        "name": "Tony! Toni! Toné!",
-        "plays": 1
-      },
-      {
-        "name": "Jermaine Paul",
-        "plays": 1
-      },
-      {
         "name": "Makaveli",
         "plays": 1
       },
@@ -219,6 +211,14 @@
       {
         "name": "702",
         "plays": 1
+      },
+      {
+        "name": "LeToya",
+        "plays": 1
+      },
+      {
+        "name": "YTB Trench",
+        "plays": 1
       }
     ],
     "plays_of_new_tracks_pct": 51,
@@ -230,12 +230,12 @@
       "plays": 5
     },
     {
-      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "track": "Having Our Way (feat. Drake) - Migos",
       "plays": 4
     },
     {
-      "track": "Having Our Way (feat. Drake) - Migos",
-      "plays": 4
+      "track": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
+      "plays": 3
     },
     {
       "track": "SEAHAWK - BIG30",
@@ -266,11 +266,11 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 31,
     "Afternoon (12pm-5pm)": 182,
-    "Evening (5pm-9pm)": 120,
+    "Evening (5pm-9pm)": 123,
     "Night (9pm-12am)": 40
   },
   "day_of_week": {
-    "Mon": 93,
+    "Mon": 96,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -304,13 +304,13 @@
   "release_eras": {
     "1980s": 1,
     "1990s": 17,
-    "2000s": 23,
-    "2010s": 98,
-    "2020s": 240
+    "2000s": 22,
+    "2010s": 100,
+    "2020s": 242
   },
   "listening_style": {
     "played_from": {
-      "other": 275,
+      "other": 278,
       "playlist": 80,
       "album": 24
     },
@@ -321,14 +321,14 @@
       "artists": [
         "Drake",
         "J. Cole",
-        "Westside Gunn",
         "Future",
-        "Gunna",
-        "Lil Baby",
+        "Westside Gunn",
         "21 Savage",
         "Migos",
-        "Kendrick Lamar",
-        "Lil Wayne"
+        "Lil Baby",
+        "Gunna",
+        "Young Thug",
+        "Kendrick Lamar"
       ]
     },
     "medium_term": {
