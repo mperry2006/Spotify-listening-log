@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-24T08:39-05:00",
+  "generated_at": "2026-11-24T10:20-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2218,
+  "total_plays_logged": 2223,
   "this_week": {
-    "plays": 390,
-    "minutes": 1253,
-    "unique_tracks": 340,
-    "unique_artists": 186
+    "plays": 391,
+    "minutes": 1258,
+    "unique_tracks": 341,
+    "unique_artists": 184
   },
   "last_week": {
-    "plays": 562,
-    "minutes": 1962
+    "plays": 558,
+    "minutes": 1946
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -53,56 +53,56 @@
       "name": "Big Scarr",
       "plays": 25,
       "last_week_plays": 6,
-      "change": "+36"
+      "change": "+35"
     },
     {
       "rank": 4,
-      "name": "J. Cole",
-      "plays": 20,
-      "last_week_plays": 27,
-      "change": "-2"
+      "name": "Gunna",
+      "plays": 21,
+      "last_week_plays": 20,
+      "change": "+1"
     },
     {
       "rank": 5,
-      "name": "21 Savage",
-      "plays": 19,
-      "last_week_plays": 22,
-      "change": "-2"
+      "name": "J. Cole",
+      "plays": 20,
+      "last_week_plays": 26,
+      "change": "-3"
     },
     {
       "rank": 6,
-      "name": "Gunna",
+      "name": "21 Savage",
       "plays": 19,
-      "last_week_plays": 20,
-      "change": "="
+      "last_week_plays": 22,
+      "change": "-3"
     },
     {
       "rank": 7,
       "name": "Lil Baby",
       "plays": 19,
       "last_week_plays": 19,
-      "change": "+1"
+      "change": "="
     },
     {
       "rank": 8,
       "name": "Travis Scott",
       "plays": 16,
       "last_week_plays": 14,
-      "change": "+8"
+      "change": "+7"
     },
     {
       "rank": 9,
       "name": "Metro Boomin",
       "plays": 15,
       "last_week_plays": 14,
-      "change": "+4"
+      "change": "+3"
     },
     {
       "rank": 10,
       "name": "Migos",
       "plays": 13,
       "last_week_plays": 14,
-      "change": "+4"
+      "change": "+3"
     }
   ],
   "top_tracks": [
@@ -111,70 +111,70 @@
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+60"
+      "change": "+59"
     },
     {
       "rank": 2,
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+267"
+      "change": "+261"
     },
     {
       "rank": 3,
-      "name": "Wickedest - Tems",
+      "name": "Heavy On My Heart - LUCKI",
       "plays": 3,
-      "last_week_plays": 2,
-      "change": "+21"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 4,
+      "name": "Wickedest - Tems",
+      "plays": 3,
+      "last_week_plays": 2,
+      "change": "+19"
+    },
+    {
+      "rank": 5,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "COUNT UP - Gunna",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
-      "name": "Packed Up - AZ Chike",
+      "rank": 8,
+      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+103"
-    },
-    {
-      "rank": 8,
-      "name": "Mugello Red (feat. Rick Ross) - Curren$y",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "change": "+471"
     },
     {
       "rank": 9,
-      "name": "Heavy On My Heart - LUCKI",
+      "name": "25k jacket (feat. Lil Baby) - Gunna",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
+      "name": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa] - Metro Boomin",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+475"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -197,10 +197,6 @@
         "plays": 2
       },
       {
-        "name": "DaBaby",
-        "plays": 1
-      },
-      {
         "name": "Diana Ross",
         "plays": 1
       },
@@ -219,6 +215,10 @@
       {
         "name": "Black Coffee",
         "plays": 1
+      },
+      {
+        "name": "Cleo Sol",
+        "plays": 1
       }
     ],
     "plays_of_new_tracks_pct": 48,
@@ -232,6 +232,10 @@
     {
       "track": "Having Our Way (feat. Drake) - Migos",
       "plays": 4
+    },
+    {
+      "track": "Heavy On My Heart - LUCKI",
+      "plays": 3
     },
     {
       "track": "Wickedest - Tems",
@@ -252,14 +256,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 34,
+    "Morning (5am-12pm)": 35,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 130,
     "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 53,
+    "Tue": 54,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -285,8 +289,8 @@
       "days": 9
     },
     {
-      "artist": "Gunna",
-      "days": 3
+      "artist": "Tems",
+      "days": 4
     }
   ],
   "release_eras": {
@@ -294,11 +298,11 @@
     "1990s": 16,
     "2000s": 22,
     "2010s": 98,
-    "2020s": 253
+    "2020s": 254
   },
   "listening_style": {
     "played_from": {
-      "other": 286,
+      "other": 287,
       "playlist": 80,
       "album": 24
     },

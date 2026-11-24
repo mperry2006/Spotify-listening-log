@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-23T15:26+00:00",
+  "generated_at": "2026-11-24T15:21+00:00",
   "week": {
-    "start": "2026-11-16",
-    "end": "2026-11-23"
+    "start": "2026-11-17",
+    "end": "2026-11-24"
   },
   "note": "Credit each photo as: Photo: <credit>, <license>.",
   "photos": [
     {
       "artist": "Drake",
       "why": [
-        "#1 artist this week (31 plays)",
-        "28-day listening streak"
+        "#1 artist this week (28 plays)",
+        "30-day listening streak"
       ],
       "file": "photos/drake.jpg",
       "found_via": "Wikipedia",
@@ -24,8 +24,8 @@
     {
       "artist": "Future",
       "why": [
-        "#2 artist this week (22 plays)",
-        "10-day listening streak"
+        "#2 artist this week (26 plays)",
+        "11-day listening streak"
       ],
       "file": "photos/future.jpg",
       "found_via": "Wikipedia",
@@ -37,10 +37,24 @@
       "source": "https://commons.wikimedia.org/wiki/File:Future_-_Openair_Frauenfeld_2019_01_(rectangular_crop).jpg"
     },
     {
+      "artist": "Gunna",
+      "why": [
+        "#4 artist this week (21 plays)"
+      ],
+      "file": "photos/gunna.png",
+      "found_via": "Wikipedia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gunna_(rapper)",
+      "about": "American rapper (born 1993)",
+      "credit": "HOTSPOTATL",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunna_June_2025.png"
+    },
+    {
       "artist": "J. Cole",
       "why": [
-        "#3 artist this week (22 plays)",
-        "7-day listening streak"
+        "#5 artist this week (20 plays)",
+        "9-day listening streak"
       ],
       "file": "photos/j-cole.jpg",
       "found_via": "Wikipedia",
@@ -54,81 +68,67 @@
     {
       "artist": "Lil Baby",
       "why": [
-        "#4 artist this week (21 plays)",
-        "8-day listening streak"
+        "#7 artist this week (19 plays)",
+        "9-day listening streak"
       ],
-      "file": "photos/lil-baby.png",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Lil_Baby",
-      "about": "American rapper (born 1994)",
-      "credit": "MILLION DOLLAZ WORTH OF GAME",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Lil_Baby_2023.png"
+      "file": "photos/lil-baby.jpg",
+      "found_via": "Openverse (flickr)",
+      "wikipedia": "",
+      "about": "Lil Baby",
+      "credit": "rwoan",
+      "license": "BY-NC 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "source": "https://www.flickr.com/photos/8502118@N08/51497977158"
     },
     {
-      "artist": "21 Savage",
+      "artist": "Montana 700",
       "why": [
-        "#5 artist this week (18 plays)"
+        "new discovery (2 plays)"
       ],
-      "file": "photos/21-savage.jpg",
+      "file": "photos/montana-700.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/21_Savage",
-      "about": "Rapper (born 1992)",
-      "credit": "Ralph Arvesen from Round Mountain, Texas",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:21_Savage_2018.jpg"
-    },
-    {
-      "artist": "Metro Boomin",
-      "why": [
-        "#7 artist this week (15 plays)"
-      ],
-      "file": "photos/metro-boomin.jpg",
-      "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Metro_Boomin",
-      "about": "American record producer (born 1993)",
-      "credit": "HOTSPOTATL",
+      "wikipedia": "https://en.wikipedia.org/wiki/Montana_700",
+      "about": "American rapper",
+      "credit": "Montana700",
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Metro_Boomin_November_2025.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:MONTANA700EDITS-70.jpg"
     },
     {
-      "artist": "Gunna",
+      "artist": "Diana Ross",
       "why": [
-        "#8 artist this week (14 plays)"
+        "new discovery (1 plays)"
       ],
-      "file": "photos/gunna.png",
+      "file": "photos/diana-ross.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/Gunna_(rapper)",
-      "about": "American rapper (born 1993)",
-      "credit": "HOTSPOTATL",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Gunna_June_2025.png"
+      "wikipedia": "https://en.wikipedia.org/wiki/Diana_Ross",
+      "about": "American singer and actress (born 1944)",
+      "credit": "Raph_PH",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:DRossLongleat010722_(9_of_43)_(52189231585)_(cropped).jpg"
     },
     {
-      "artist": "The Alchemist",
+      "artist": "Tems",
       "why": [
-        "5-day listening streak"
+        "4-day listening streak"
       ],
-      "file": "photos/the-alchemist.jpg",
+      "file": "photos/tems.jpg",
       "found_via": "Wikipedia",
-      "wikipedia": "https://en.wikipedia.org/wiki/The_Alchemist_(musician)",
-      "about": "American record producer and DJ (born 1977)",
-      "credit": "MILLION DOLLAZ WORTH OF GAME",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:The_Alchemist_on_MILLION_DOLLAZ_WORTH_OF_GAME_(cropped).jpg"
+      "wikipedia": "https://en.wikipedia.org/wiki/Tems",
+      "about": "Nigerian singer (born 1995)",
+      "credit": "Maryland GovPics",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tems_Afro_Plus_Fest_(55514652102).jpg"
     }
   ],
   "no_photo_found": [
+    "Big Scarr",
+    "21 Savage",
     "Travis Scott",
-    "Big Homiie G",
-    "brazy",
     "Mustafa",
-    "Paper Route EMPIRE",
-    "Bigg Unccc"
+    "Foogiano",
+    "Grand Theft Auto VI"
   ]
 }
