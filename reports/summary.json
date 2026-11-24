@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-24T07:14-05:00",
+  "generated_at": "2026-11-24T08:39-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2215,
+  "total_plays_logged": 2218,
   "this_week": {
-    "plays": 387,
-    "minutes": 1240,
-    "unique_tracks": 338,
+    "plays": 390,
+    "minutes": 1253,
+    "unique_tracks": 340,
     "unique_artists": 186
   },
   "last_week": {
-    "plays": 563,
-    "minutes": 1965
+    "plays": 562,
+    "minutes": 1962
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -37,7 +37,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 27,
+      "plays": 28,
       "last_week_plays": 75,
       "change": "="
     },
@@ -58,7 +58,7 @@
     {
       "rank": 4,
       "name": "J. Cole",
-      "plays": 19,
+      "plays": 20,
       "last_week_plays": 27,
       "change": "-2"
     },
@@ -71,17 +71,17 @@
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
+      "name": "Gunna",
       "plays": 19,
-      "last_week_plays": 19,
-      "change": "+2"
+      "last_week_plays": 20,
+      "change": "="
     },
     {
       "rank": 7,
-      "name": "Gunna",
-      "plays": 18,
-      "last_week_plays": 20,
-      "change": "-1"
+      "name": "Lil Baby",
+      "plays": 19,
+      "last_week_plays": 19,
+      "change": "+1"
     },
     {
       "rank": 8,
@@ -118,7 +118,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+268"
+      "change": "+267"
     },
     {
       "rank": 3,
@@ -153,7 +153,7 @@
       "name": "Packed Up - AZ Chike",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+104"
+      "change": "+103"
     },
     {
       "rank": 8,
@@ -174,7 +174,7 @@
       "name": "Bless Em (Takeoff feat. Travis Scott) - Quality Control",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+476"
+      "change": "+475"
     }
   ],
   "dropped_off": [],
@@ -221,7 +221,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 49,
+    "plays_of_new_tracks_pct": 48,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -252,14 +252,14 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
-    "Morning (5am-12pm)": 31,
+    "Morning (5am-12pm)": 34,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 130,
     "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 50,
+    "Tue": 53,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -270,22 +270,22 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 29
+      "days": 30
     },
     {
       "artist": "Future",
       "days": 11
     },
     {
+      "artist": "J. Cole",
+      "days": 9
+    },
+    {
       "artist": "Lil Baby",
       "days": 9
     },
     {
-      "artist": "J. Cole",
-      "days": 8
-    },
-    {
-      "artist": "Tems",
+      "artist": "Gunna",
       "days": 3
     }
   ],
@@ -293,12 +293,12 @@
     "1980s": 1,
     "1990s": 16,
     "2000s": 22,
-    "2010s": 97,
-    "2020s": 251
+    "2010s": 98,
+    "2020s": 253
   },
   "listening_style": {
     "played_from": {
-      "other": 283,
+      "other": 286,
       "playlist": 80,
       "album": 24
     },
