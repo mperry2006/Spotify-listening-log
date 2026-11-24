@@ -1,41 +1,41 @@
 # Listening Report
-**2026-11-17 to 2026-11-24** · updated 2026-11-24 16:09 ET
+**2026-11-17 to 2026-11-24** · updated 2026-11-24 17:13 ET
 
-**396 plays** (-150 vs last week) · **1262 minutes** · 182 artists · 335 songs
+**391 plays** (-152 vs last week) · **1245 minutes** · 181 artists · 330 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
 ## Top artists
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
-| 1 | Drake | 32 | = |
+| 1 | Drake | 30 | = |
 | 2 | Big Scarr | 26 | +35 |
-| 3 | Future | 24 | +6 |
-| 4 | Gunna | 21 | = |
-| 5 | J. Cole | 20 | -3 |
+| 3 | Future | 24 | +8 |
+| 4 | Gunna | 21 | -1 |
+| 5 | J. Cole | 19 | -3 |
 | 6 | Lil Baby | 18 | +2 |
-| 7 | 21 Savage | 18 | -4 |
-| 8 | Travis Scott | 16 | +8 |
-| 9 | Migos | 14 | +8 |
-| 10 | Metro Boomin | 14 | +9 |
+| 7 | 21 Savage | 18 | -3 |
+| 8 | Travis Scott | 16 | +11 |
+| 9 | Migos | 14 | +6 |
+| 10 | Metro Boomin | 14 | +7 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Having Our Way (feat. Drake) - Migos | 5 | +235 |
+| 1 | Having Our Way (feat. Drake) - Migos | 5 | +228 |
 | 2 | Poppin - Big Scarr | 4 | +55 |
 | 3 | COUNT UP - Gunna | 4 | NEW |
 | 4 | Wickedest - Tems | 3 | +16 |
 | 5 | Never Sleep (with Lil Baby feat. Travis Scott) - NAV | 3 | NEW |
 | 6 | Master P (feat. Tay Keith) - Pooh Shiesty | 3 | NEW |
 | 7 | Livin' - Lil Double 0 | 3 | NEW |
-| 8 | Bless Em (Takeoff feat. Travis Scott) - Quality Control | 2 | +446 |
+| 8 | Bless Em (Takeoff feat. Travis Scott) - Quality Control | 2 | +439 |
 | 9 | 25k jacket (feat. Lil Baby) - Gunna | 2 | NEW |
 | 10 | Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa] - Metro Boomin | 2 | NEW |
 
 ## Discovery
 47% of plays were songs not in your log before this week.
-New artists: Mustafa (2), Montana 700 (2), SWV (2), Foogiano (2), Grand Theft Auto VI (2), Black Coffee (1), Cleo Sol (1), Sam Gendel (1), Jay Worthy (1), Wiz Khalifa (1)
+New artists: Mustafa (2), Montana 700 (2), SWV (2), Foogiano (2), Grand Theft Auto VI (2), Cleo Sol (1), Sam Gendel (1), Jay Worthy (1), Wiz Khalifa (1), Tracey Lee (1)
 
 ## On repeat (3+ plays)
 - Having Our Way (feat. Drake) - Migos - 5x
@@ -50,12 +50,12 @@ New artists: Mustafa (2), Montana 700 (2), SWV (2), Foogiano (2), Grand Theft Au
 ```
 Late night (12am-5am)  █ 6
 Morning (5am-12pm)     █████ 46
-Afternoon (12pm-5pm)   ████████████████████ 176
+Afternoon (12pm-5pm)   ████████████████████ 171
 Evening (5pm-9pm)      ███████████████ 130
 Night (9pm-12am)       ████ 38
 
 Mon                    ████████████████████ 101
-Tue                    ████████████ 59
+Tue                    ███████████ 54
 Wed                    ██████████ 53
 Thu                    ████████████ 61
 Fri                    ██████ 30
@@ -71,10 +71,10 @@ Sun                    ████████ 38
 - Tems: 4 days in a row
 
 ## Eras
-1990s: 14, 2000s: 18, 2010s: 100, 2020s: 264
+1990s: 14, 2000s: 17, 2010s: 97, 2020s: 263
 
 ## How you listen
-Played from: other 292, playlist 80, album 24
+Played from: other 287, playlist 80, album 24
 Full-album sessions (4+ tracks in a row): 1
 
 _Log started 2026-10-26 · 2245 plays recorded total._
