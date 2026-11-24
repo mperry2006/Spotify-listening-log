@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-23T22:07-05:00",
+  "generated_at": "2026-11-23T23:17-05:00",
   "window": {
     "start": "2026-11-16",
     "end": "2026-11-23"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2213,
+  "total_plays_logged": 2215,
   "this_week": {
-    "plays": 388,
-    "minutes": 1241,
-    "unique_tracks": 338,
-    "unique_artists": 183
+    "plays": 390,
+    "minutes": 1250,
+    "unique_tracks": 340,
+    "unique_artists": 186
   },
   "last_week": {
-    "plays": 569,
-    "minutes": 1985
+    "plays": 564,
+    "minutes": 1970
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -64,24 +64,24 @@
     },
     {
       "rank": 5,
-      "name": "Lil Baby",
+      "name": "21 Savage",
       "plays": 19,
-      "last_week_plays": 19,
-      "change": "+2"
+      "last_week_plays": 22,
+      "change": "-2"
     },
     {
       "rank": 6,
-      "name": "Gunna",
-      "plays": 18,
-      "last_week_plays": 20,
-      "change": "="
+      "name": "Lil Baby",
+      "plays": 19,
+      "last_week_plays": 19,
+      "change": "+1"
     },
     {
       "rank": 7,
-      "name": "21 Savage",
-      "plays": 17,
-      "last_week_plays": 22,
-      "change": "-4"
+      "name": "Gunna",
+      "plays": 18,
+      "last_week_plays": 20,
+      "change": "-1"
     },
     {
       "rank": 8,
@@ -93,14 +93,14 @@
     {
       "rank": 9,
       "name": "Metro Boomin",
-      "plays": 14,
+      "plays": 15,
       "last_week_plays": 14,
       "change": "+5"
     },
     {
       "rank": 10,
       "name": "Migos",
-      "plays": 12,
+      "plays": 13,
       "last_week_plays": 14,
       "change": "+5"
     }
@@ -111,21 +111,21 @@
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+60"
+      "change": "+59"
     },
     {
       "rank": 2,
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 4,
       "last_week_plays": 1,
-      "change": "+275"
+      "change": "+270"
     },
     {
       "rank": 3,
       "name": "Wickedest - Tems",
       "plays": 3,
       "last_week_plays": 2,
-      "change": "+22"
+      "change": "+21"
     },
     {
       "rank": 4,
@@ -160,7 +160,7 @@
       "name": "Packed Up - AZ Chike",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+110"
+      "change": "+105"
     },
     {
       "rank": 9,
@@ -255,10 +255,10 @@
     "Morning (5am-12pm)": 31,
     "Afternoon (12pm-5pm)": 182,
     "Evening (5pm-9pm)": 130,
-    "Night (9pm-12am)": 39
+    "Night (9pm-12am)": 41
   },
   "day_of_week": {
-    "Mon": 102,
+    "Mon": 104,
     "Tue": 50,
     "Wed": 53,
     "Thu": 61,
@@ -293,12 +293,12 @@
     "1980s": 1,
     "1990s": 16,
     "2000s": 22,
-    "2010s": 97,
+    "2010s": 99,
     "2020s": 252
   },
   "listening_style": {
     "played_from": {
-      "other": 284,
+      "other": 286,
       "playlist": 80,
       "album": 24
     },
