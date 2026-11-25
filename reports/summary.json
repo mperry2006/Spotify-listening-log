@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-25T11:26-05:00",
+  "generated_at": "2026-11-25T12:59-05:00",
   "window": {
     "start": "2026-11-18",
     "end": "2026-11-25"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2258,
+  "total_plays_logged": 2274,
   "this_week": {
-    "plays": 379,
-    "minutes": 1203,
-    "unique_tracks": 319,
-    "unique_artists": 175
+    "plays": 389,
+    "minutes": 1234,
+    "unique_tracks": 330,
+    "unique_artists": 182
   },
   "last_week": {
-    "plays": 504,
-    "minutes": 1777
+    "plays": 505,
+    "minutes": 1773
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -34,65 +34,65 @@
     {
       "rank": 2,
       "name": "Big Scarr",
-      "plays": 26,
-      "last_week_plays": 6,
-      "change": "+31"
+      "plays": 25,
+      "last_week_plays": 7,
+      "change": "+30"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 23,
       "last_week_plays": 18,
-      "change": "+3"
+      "change": "+2"
     },
     {
       "rank": 4,
       "name": "J. Cole",
-      "plays": 20,
-      "last_week_plays": 24,
+      "plays": 21,
+      "last_week_plays": 25,
       "change": "-2"
     },
     {
       "rank": 5,
       "name": "21 Savage",
-      "plays": 18,
+      "plays": 19,
       "last_week_plays": 21,
       "change": "-2"
     },
     {
       "rank": 6,
       "name": "Gunna",
-      "plays": 18,
-      "last_week_plays": 17,
-      "change": "+2"
-    },
-    {
-      "rank": 7,
-      "name": "Lil Baby",
-      "plays": 16,
+      "plays": 19,
       "last_week_plays": 17,
       "change": "="
     },
     {
+      "rank": 7,
+      "name": "Lil Baby",
+      "plays": 18,
+      "last_week_plays": 16,
+      "change": "+3"
+    },
+    {
       "rank": 8,
-      "name": "Travis Scott",
-      "plays": 14,
-      "last_week_plays": 12,
-      "change": "+10"
+      "name": "Pooh Shiesty",
+      "plays": 15,
+      "last_week_plays": 7,
+      "change": "+23"
     },
     {
       "rank": 9,
-      "name": "Pooh Shiesty",
+      "name": "Westside Gunn",
       "plays": 14,
-      "last_week_plays": 7,
-      "change": "+21"
+      "last_week_plays": 14,
+      "change": "+4"
     },
     {
       "rank": 10,
-      "name": "Westside Gunn",
-      "plays": 13,
-      "last_week_plays": 14,
-      "change": "+4"
+      "name": "Travis Scott",
+      "plays": 14,
+      "last_week_plays": 12,
+      "change": "+8"
     }
   ],
   "top_tracks": [
@@ -101,28 +101,28 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+181"
+      "change": "+176"
     },
     {
       "rank": 2,
-      "name": "Poppin - Big Scarr",
-      "plays": 4,
-      "last_week_plays": 2,
-      "change": "+39"
-    },
-    {
-      "rank": 3,
       "name": "COUNT UP - Gunna",
       "plays": 4,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 4,
+      "name": "Poppin - Big Scarr",
+      "plays": 3,
+      "last_week_plays": 3,
+      "change": "+5"
     },
     {
       "rank": 5,
@@ -147,24 +147,24 @@
     },
     {
       "rank": 8,
-      "name": "Get Lucki - Veeze",
-      "plays": 2,
+      "name": "Echo Long (feat. WestsideGunn & Meyhem Lauren) - Benny The Butcher",
+      "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
-      "plays": 2,
-      "last_week_plays": 3,
-      "change": "-1"
-    },
-    {
-      "rank": 10,
-      "name": "c l o s e - J. Cole",
+      "name": "PABLO FINAL GOTTI version (feat. Yo Gotti) - EST Gee",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "SEAHAWK - BIG30",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+388"
     }
   ],
   "dropped_off": [],
@@ -220,15 +220,15 @@
       "plays": 5
     },
     {
-      "track": "Poppin - Big Scarr",
-      "plays": 4
-    },
-    {
       "track": "COUNT UP - Gunna",
       "plays": 4
     },
     {
       "track": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
+      "plays": 3
+    },
+    {
+      "track": "Poppin - Big Scarr",
       "plays": 3
     },
     {
@@ -242,19 +242,23 @@
     {
       "track": "Cookin (from GTAVI: The Album) - 21 Savage",
       "plays": 3
+    },
+    {
+      "track": "Echo Long (feat. WestsideGunn & Meyhem Lauren) - Benny The Butcher",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 5,
-    "Morning (5am-12pm)": 46,
-    "Afternoon (12pm-5pm)": 171,
+    "Morning (5am-12pm)": 49,
+    "Afternoon (12pm-5pm)": 178,
     "Evening (5pm-9pm)": 113,
     "Night (9pm-12am)": 44
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
-    "Wed": 52,
+    "Wed": 62,
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
@@ -272,26 +276,26 @@
     },
     {
       "artist": "Lil Baby",
-      "days": 10
+      "days": 11
     },
     {
       "artist": "J. Cole",
-      "days": 9
+      "days": 10
     },
     {
       "artist": "Tems",
-      "days": 4
+      "days": 5
     }
   ],
   "release_eras": {
     "1990s": 13,
-    "2000s": 18,
-    "2010s": 90,
-    "2020s": 258
+    "2000s": 19,
+    "2010s": 92,
+    "2020s": 265
   },
   "listening_style": {
     "played_from": {
-      "other": 298,
+      "other": 308,
       "playlist": 57,
       "album": 24
     },

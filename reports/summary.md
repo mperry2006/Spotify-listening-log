@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-18 to 2026-11-25** · updated 2026-11-25 11:26 ET
+**2026-11-18 to 2026-11-25** · updated 2026-11-25 12:59 ET
 
-**379 plays** (-125 vs last week) · **1203 minutes** · 175 artists · 319 songs
+**389 plays** (-116 vs last week) · **1234 minutes** · 182 artists · 330 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -9,29 +9,29 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 30 | = |
-| 2 | Big Scarr | 26 | +31 |
-| 3 | Future | 23 | +3 |
-| 4 | J. Cole | 20 | -2 |
-| 5 | 21 Savage | 18 | -2 |
-| 6 | Gunna | 18 | +2 |
-| 7 | Lil Baby | 16 | = |
-| 8 | Travis Scott | 14 | +10 |
-| 9 | Pooh Shiesty | 14 | +21 |
-| 10 | Westside Gunn | 13 | +4 |
+| 2 | Big Scarr | 25 | +30 |
+| 3 | Future | 23 | +2 |
+| 4 | J. Cole | 21 | -2 |
+| 5 | 21 Savage | 19 | -2 |
+| 6 | Gunna | 19 | = |
+| 7 | Lil Baby | 18 | +3 |
+| 8 | Pooh Shiesty | 15 | +23 |
+| 9 | Westside Gunn | 14 | +4 |
+| 10 | Travis Scott | 14 | +8 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Having Our Way (feat. Drake) - Migos | 5 | +181 |
-| 2 | Poppin - Big Scarr | 4 | +39 |
-| 3 | COUNT UP - Gunna | 4 | NEW |
-| 4 | Never Sleep (with Lil Baby feat. Travis Scott) - NAV | 3 | NEW |
+| 1 | Having Our Way (feat. Drake) - Migos | 5 | +176 |
+| 2 | COUNT UP - Gunna | 4 | NEW |
+| 3 | Never Sleep (with Lil Baby feat. Travis Scott) - NAV | 3 | NEW |
+| 4 | Poppin - Big Scarr | 3 | +5 |
 | 5 | Master P (feat. Tay Keith) - Pooh Shiesty | 3 | NEW |
 | 6 | Livin' - Lil Double 0 | 3 | NEW |
 | 7 | Cookin (from GTAVI: The Album) - 21 Savage | 3 | NEW |
-| 8 | Get Lucki - Veeze | 2 | NEW |
-| 9 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 2 | -1 |
-| 10 | c l o s e - J. Cole | 2 | NEW |
+| 8 | Echo Long (feat. WestsideGunn & Meyhem Lauren) - Benny The Butcher | 3 | NEW |
+| 9 | PABLO FINAL GOTTI version (feat. Yo Gotti) - EST Gee | 2 | NEW |
+| 10 | SEAHAWK - BIG30 | 2 | +388 |
 
 ## Discovery
 45% of plays were songs not in your log before this week.
@@ -39,24 +39,25 @@ New artists: Grand Theft Auto VI (3), Montana 700 (2), SWV (2), Foogiano (2), Ja
 
 ## On repeat (3+ plays)
 - Having Our Way (feat. Drake) - Migos - 5x
-- Poppin - Big Scarr - 4x
 - COUNT UP - Gunna - 4x
 - Never Sleep (with Lil Baby feat. Travis Scott) - NAV - 3x
+- Poppin - Big Scarr - 3x
 - Master P (feat. Tay Keith) - Pooh Shiesty - 3x
 - Livin' - Lil Double 0 - 3x
 - Cookin (from GTAVI: The Album) - 21 Savage - 3x
+- Echo Long (feat. WestsideGunn & Meyhem Lauren) - Benny The Butcher - 3x
 
 ## When you listen
 ```
 Late night (12am-5am)  █ 5
-Morning (5am-12pm)     █████ 46
-Afternoon (12pm-5pm)   ████████████████████ 171
+Morning (5am-12pm)     ██████ 49
+Afternoon (12pm-5pm)   ████████████████████ 178
 Evening (5pm-9pm)      █████████████ 113
 Night (9pm-12am)       █████ 44
 
 Mon                    ████████████████████ 101
 Tue                    █████████ 43
-Wed                    ██████████ 52
+Wed                    ████████████ 62
 Thu                    ████████████ 61
 Fri                    ██████ 30
 Sat                    ███████████ 54
@@ -66,15 +67,15 @@ Sun                    ████████ 38
 ## Streaks
 - Drake: 30 days in a row
 - Future: 12 days in a row
-- Lil Baby: 10 days in a row
-- J. Cole: 9 days in a row
-- Tems: 4 days in a row
+- Lil Baby: 11 days in a row
+- J. Cole: 10 days in a row
+- Tems: 5 days in a row
 
 ## Eras
-1990s: 13, 2000s: 18, 2010s: 90, 2020s: 258
+1990s: 13, 2000s: 19, 2010s: 92, 2020s: 265
 
 ## How you listen
-Played from: other 298, playlist 57, album 24
+Played from: other 308, playlist 57, album 24
 Full-album sessions (4+ tracks in a row): 1
 
-_Log started 2026-10-26 · 2258 plays recorded total._
+_Log started 2026-10-26 · 2274 plays recorded total._
