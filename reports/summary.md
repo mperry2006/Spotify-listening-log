@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-18 to 2026-11-25** · updated 2026-11-25 17:14 ET
+**2026-11-18 to 2026-11-25** · updated 2026-11-25 18:13 ET
 
-**394 plays** (-121 vs last week) · **1252 minutes** · 185 artists · 332 songs
+**392 plays** (-113 vs last week) · **1246 minutes** · 184 artists · 330 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -13,16 +13,16 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | 3 | Future | 24 | +1 |
 | 4 | J. Cole | 20 | -2 |
 | 5 | 21 Savage | 19 | -2 |
-| 6 | Gunna | 19 | = |
-| 7 | Lil Baby | 18 | = |
+| 6 | Gunna | 19 | -1 |
+| 7 | Lil Baby | 18 | -1 |
 | 8 | Pooh Shiesty | 17 | +23 |
-| 9 | Travis Scott | 14 | +2 |
+| 9 | Travis Scott | 14 | +4 |
 | 10 | Migos | 14 | +6 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Having Our Way (feat. Drake) - Migos | 5 | +165 |
+| 1 | Having Our Way (feat. Drake) - Migos | 5 | +156 |
 | 2 | COUNT UP - Gunna | 4 | NEW |
 | 3 | Poppin - Big Scarr | 3 | +6 |
 | 4 | Master P (feat. Tay Keith) - Pooh Shiesty | 3 | NEW |
@@ -51,12 +51,12 @@ New artists: Grand Theft Auto VI (3), Montana 700 (2), SWV (2), Sada Baby (2), F
 Late night (12am-5am)  █ 5
 Morning (5am-12pm)     █████ 49
 Afternoon (12pm-5pm)   ████████████████████ 183
-Evening (5pm-9pm)      ████████████ 113
+Evening (5pm-9pm)      ████████████ 111
 Night (9pm-12am)       █████ 44
 
 Mon                    ████████████████████ 101
 Tue                    █████████ 43
-Wed                    █████████████ 67
+Wed                    █████████████ 65
 Thu                    ████████████ 61
 Fri                    ██████ 30
 Sat                    ███████████ 54
@@ -71,10 +71,10 @@ Sun                    ████████ 38
 - Tems: 5 days in a row
 
 ## Eras
-1990s: 12, 2000s: 20, 2010s: 91, 2020s: 271
+1990s: 12, 2000s: 20, 2010s: 90, 2020s: 270
 
 ## How you listen
-Played from: other 313, playlist 57, album 24
+Played from: other 311, playlist 57, album 24
 Full-album sessions (4+ tracks in a row): 1
 
 _Log started 2026-10-26 · 2306 plays recorded total._

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:14-05:00",
+  "generated_at": "2026-11-25T18:13-05:00",
   "window": {
     "start": "2026-11-18",
     "end": "2026-11-25"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2306,
   "this_week": {
-    "plays": 394,
-    "minutes": 1252,
-    "unique_tracks": 332,
-    "unique_artists": 185
+    "plays": 392,
+    "minutes": 1246,
+    "unique_tracks": 330,
+    "unique_artists": 184
   },
   "last_week": {
-    "plays": 515,
-    "minutes": 1801
+    "plays": 505,
+    "minutes": 1762
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -28,7 +28,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 31,
-      "last_week_plays": 69,
+      "last_week_plays": 66,
       "change": "="
     },
     {
@@ -42,7 +42,7 @@
       "rank": 3,
       "name": "Future",
       "plays": 24,
-      "last_week_plays": 19,
+      "last_week_plays": 18,
       "change": "+1"
     },
     {
@@ -56,7 +56,7 @@
       "rank": 5,
       "name": "21 Savage",
       "plays": 19,
-      "last_week_plays": 22,
+      "last_week_plays": 20,
       "change": "-2"
     },
     {
@@ -64,14 +64,14 @@
       "name": "Gunna",
       "plays": 19,
       "last_week_plays": 18,
-      "change": "="
+      "change": "-1"
     },
     {
       "rank": 7,
       "name": "Lil Baby",
       "plays": 18,
       "last_week_plays": 17,
-      "change": "="
+      "change": "-1"
     },
     {
       "rank": 8,
@@ -84,8 +84,8 @@
       "rank": 9,
       "name": "Travis Scott",
       "plays": 14,
-      "last_week_plays": 15,
-      "change": "+2"
+      "last_week_plays": 14,
+      "change": "+4"
     },
     {
       "rank": 10,
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+165"
+      "change": "+156"
     },
     {
       "rank": 2,
@@ -248,13 +248,13 @@
     "Late night (12am-5am)": 5,
     "Morning (5am-12pm)": 49,
     "Afternoon (12pm-5pm)": 183,
-    "Evening (5pm-9pm)": 113,
+    "Evening (5pm-9pm)": 111,
     "Night (9pm-12am)": 44
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
-    "Wed": 67,
+    "Wed": 65,
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
@@ -286,12 +286,12 @@
   "release_eras": {
     "1990s": 12,
     "2000s": 20,
-    "2010s": 91,
-    "2020s": 271
+    "2010s": 90,
+    "2020s": 270
   },
   "listening_style": {
     "played_from": {
-      "other": 313,
+      "other": 311,
       "playlist": 57,
       "album": 24
     },
