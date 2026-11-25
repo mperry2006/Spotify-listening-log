@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-18 to 2026-11-25** · updated 2026-11-25 01:14 ET
+**2026-11-18 to 2026-11-25** · updated 2026-11-25 02:48 ET
 
-**380 plays** (-132 vs last week) · **1206 minutes** · 175 artists · 320 songs
+**379 plays** (-134 vs last week) · **1203 minutes** · 175 artists · 319 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -34,7 +34,7 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | 10 | c l o s e - J. Cole | 2 | NEW |
 
 ## Discovery
-46% of plays were songs not in your log before this week.
+45% of plays were songs not in your log before this week.
 New artists: Grand Theft Auto VI (3), Montana 700 (2), SWV (2), Foogiano (2), Jay Worthy (1), Wiz Khalifa (1), Tracey Lee (1), Hotboii (1), Money Man (1), SK Da King (1)
 
 ## On repeat (3+ plays)
@@ -48,7 +48,7 @@ New artists: Grand Theft Auto VI (3), Montana 700 (2), SWV (2), Foogiano (2), Ja
 
 ## When you listen
 ```
-Late night (12am-5am)  █ 6
+Late night (12am-5am)  █ 5
 Morning (5am-12pm)     █████ 46
 Afternoon (12pm-5pm)   ████████████████████ 171
 Evening (5pm-9pm)      █████████████ 113
@@ -56,7 +56,7 @@ Night (9pm-12am)       █████ 44
 
 Mon                    ████████████████████ 101
 Tue                    █████████ 43
-Wed                    ██████████ 53
+Wed                    ██████████ 52
 Thu                    ████████████ 61
 Fri                    ██████ 30
 Sat                    ███████████ 54
@@ -71,10 +71,10 @@ Sun                    ████████ 38
 - Tems: 4 days in a row
 
 ## Eras
-1990s: 13, 2000s: 18, 2010s: 90, 2020s: 259
+1990s: 13, 2000s: 18, 2010s: 90, 2020s: 258
 
 ## How you listen
-Played from: other 298, playlist 58, album 24
+Played from: other 298, playlist 57, album 24
 Full-album sessions (4+ tracks in a row): 1
 
 _Log started 2026-10-26 · 2258 plays recorded total._
