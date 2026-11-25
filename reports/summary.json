@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-25T12:59-05:00",
+  "generated_at": "2026-11-25T14:13-05:00",
   "window": {
     "start": "2026-11-18",
     "end": "2026-11-25"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2274,
+  "total_plays_logged": 2282,
   "this_week": {
-    "plays": 389,
-    "minutes": 1234,
-    "unique_tracks": 330,
-    "unique_artists": 182
+    "plays": 383,
+    "minutes": 1213,
+    "unique_tracks": 324,
+    "unique_artists": 181
   },
   "last_week": {
-    "plays": 505,
-    "minutes": 1773
+    "plays": 514,
+    "minutes": 1806
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -27,72 +27,72 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 30,
-      "last_week_plays": 70,
+      "plays": 29,
+      "last_week_plays": 71,
       "change": "="
     },
     {
       "rank": 2,
       "name": "Big Scarr",
-      "plays": 25,
+      "plays": 26,
       "last_week_plays": 7,
-      "change": "+30"
+      "change": "+31"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 23,
+      "plays": 24,
       "last_week_plays": 18,
       "change": "+2"
     },
     {
       "rank": 4,
       "name": "J. Cole",
-      "plays": 21,
+      "plays": 22,
       "last_week_plays": 25,
       "change": "-2"
     },
     {
       "rank": 5,
-      "name": "21 Savage",
-      "plays": 19,
-      "last_week_plays": 21,
-      "change": "-2"
-    },
-    {
-      "rank": 6,
       "name": "Gunna",
       "plays": 19,
       "last_week_plays": 17,
-      "change": "="
+      "change": "+1"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Lil Baby",
       "plays": 18,
       "last_week_plays": 16,
       "change": "+3"
     },
     {
+      "rank": 7,
+      "name": "21 Savage",
+      "plays": 17,
+      "last_week_plays": 22,
+      "change": "-4"
+    },
+    {
       "rank": 8,
       "name": "Pooh Shiesty",
       "plays": 15,
       "last_week_plays": 7,
-      "change": "+23"
+      "change": "+24"
     },
     {
       "rank": 9,
-      "name": "Westside Gunn",
-      "plays": 14,
-      "last_week_plays": 14,
-      "change": "+4"
-    },
-    {
-      "rank": 10,
       "name": "Travis Scott",
       "plays": 14,
       "last_week_plays": 12,
-      "change": "+8"
+      "change": "+9"
+    },
+    {
+      "rank": 10,
+      "name": "Migos",
+      "plays": 14,
+      "last_week_plays": 13,
+      "change": "+7"
     }
   ],
   "top_tracks": [
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+176"
+      "change": "+175"
     },
     {
       "rank": 2,
@@ -154,17 +154,17 @@
     },
     {
       "rank": 9,
-      "name": "PABLO FINAL GOTTI version (feat. Yo Gotti) - EST Gee",
+      "name": "$500 Ounces (feat. Freddie Gibbs & Roc Marciano) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "SEAHAWK - BIG30",
+      "name": "LOVE YOU BETTER - Future",
       "plays": 2,
-      "last_week_plays": 1,
-      "change": "+388"
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -183,12 +183,12 @@
         "plays": 2
       },
       {
-        "name": "Foogiano",
+        "name": "Sada Baby",
         "plays": 2
       },
       {
-        "name": "Jay Worthy",
-        "plays": 1
+        "name": "Foogiano",
+        "plays": 2
       },
       {
         "name": "Wiz Khalifa",
@@ -251,14 +251,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 5,
     "Morning (5am-12pm)": 49,
-    "Afternoon (12pm-5pm)": 178,
+    "Afternoon (12pm-5pm)": 172,
     "Evening (5pm-9pm)": 113,
     "Night (9pm-12am)": 44
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
-    "Wed": 62,
+    "Wed": 56,
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
@@ -272,7 +272,7 @@
     },
     {
       "artist": "Future",
-      "days": 12
+      "days": 13
     },
     {
       "artist": "Lil Baby",
@@ -288,14 +288,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 13,
+    "1990s": 12,
     "2000s": 19,
-    "2010s": 92,
-    "2020s": 265
+    "2010s": 90,
+    "2020s": 262
   },
   "listening_style": {
     "played_from": {
-      "other": 308,
+      "other": 302,
       "playlist": 57,
       "album": 24
     },
