@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-25T14:13-05:00",
+  "generated_at": "2026-11-25T15:12-05:00",
   "window": {
     "start": "2026-11-18",
     "end": "2026-11-25"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2282,
+  "total_plays_logged": 2286,
   "this_week": {
-    "plays": 383,
-    "minutes": 1213,
-    "unique_tracks": 324,
-    "unique_artists": 181
+    "plays": 378,
+    "minutes": 1196,
+    "unique_tracks": 319,
+    "unique_artists": 180
   },
   "last_week": {
-    "plays": 514,
-    "minutes": 1806
+    "plays": 518,
+    "minutes": 1815
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -28,7 +28,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 29,
-      "last_week_plays": 71,
+      "last_week_plays": 70,
       "change": "="
     },
     {
@@ -41,14 +41,14 @@
     {
       "rank": 3,
       "name": "Future",
-      "plays": 24,
+      "plays": 25,
       "last_week_plays": 18,
-      "change": "+2"
+      "change": "+3"
     },
     {
       "rank": 4,
       "name": "J. Cole",
-      "plays": 22,
+      "plays": 21,
       "last_week_plays": 25,
       "change": "-2"
     },
@@ -56,15 +56,15 @@
       "rank": 5,
       "name": "Gunna",
       "plays": 19,
-      "last_week_plays": 17,
-      "change": "+1"
+      "last_week_plays": 19,
+      "change": "-1"
     },
     {
       "rank": 6,
       "name": "Lil Baby",
       "plays": 18,
-      "last_week_plays": 16,
-      "change": "+3"
+      "last_week_plays": 17,
+      "change": "+2"
     },
     {
       "rank": 7,
@@ -82,17 +82,17 @@
     },
     {
       "rank": 9,
-      "name": "Travis Scott",
+      "name": "Migos",
       "plays": 14,
-      "last_week_plays": 12,
+      "last_week_plays": 13,
       "change": "+9"
     },
     {
       "rank": 10,
-      "name": "Migos",
-      "plays": 14,
-      "last_week_plays": 13,
-      "change": "+7"
+      "name": "Travis Scott",
+      "plays": 12,
+      "last_week_plays": 14,
+      "change": "+4"
     }
   ],
   "top_tracks": [
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+175"
+      "change": "+170"
     },
     {
       "rank": 2,
@@ -112,56 +112,56 @@
     },
     {
       "rank": 3,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 4,
       "name": "Poppin - Big Scarr",
       "plays": 3,
       "last_week_plays": 3,
-      "change": "+5"
+      "change": "+6"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Master P (feat. Tay Keith) - Pooh Shiesty",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Livin' - Lil Double 0",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Cookin (from GTAVI: The Album) - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Echo Long (feat. WestsideGunn & Meyhem Lauren) - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
+      "rank": 8,
+      "name": "LOVE YOU BETTER - Future",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
       "rank": 9,
-      "name": "$500 Ounces (feat. Freddie Gibbs & Roc Marciano) - Westside Gunn",
+      "name": "ATLANTA TEARS - 21 Savage",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "LOVE YOU BETTER - Future",
+      "name": "Endzone - Big Scarr",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -224,10 +224,6 @@
       "plays": 4
     },
     {
-      "track": "Never Sleep (with Lil Baby feat. Travis Scott) - NAV",
-      "plays": 3
-    },
-    {
       "track": "Poppin - Big Scarr",
       "plays": 3
     },
@@ -251,14 +247,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 5,
     "Morning (5am-12pm)": 49,
-    "Afternoon (12pm-5pm)": 172,
+    "Afternoon (12pm-5pm)": 167,
     "Evening (5pm-9pm)": 113,
     "Night (9pm-12am)": 44
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
-    "Wed": 56,
+    "Wed": 51,
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
@@ -289,13 +285,13 @@
   ],
   "release_eras": {
     "1990s": 12,
-    "2000s": 19,
-    "2010s": 90,
-    "2020s": 262
+    "2000s": 18,
+    "2010s": 87,
+    "2020s": 261
   },
   "listening_style": {
     "played_from": {
-      "other": 302,
+      "other": 297,
       "playlist": 57,
       "album": 24
     },
