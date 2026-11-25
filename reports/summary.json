@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-24T20:37-05:00",
+  "generated_at": "2026-11-24T22:16-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2249,
+  "total_plays_logged": 2257,
   "this_week": {
-    "plays": 371,
-    "minutes": 1180,
-    "unique_tracks": 314,
-    "unique_artists": 173
+    "plays": 379,
+    "minutes": 1202,
+    "unique_tracks": 320,
+    "unique_artists": 175
   },
   "last_week": {
-    "plays": 547,
-    "minutes": 1910
+    "plays": 532,
+    "minutes": 1859
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -28,7 +28,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 30,
-      "last_week_plays": 72,
+      "last_week_plays": 70,
       "change": "="
     },
     {
@@ -36,49 +36,49 @@
       "name": "Big Scarr",
       "plays": 26,
       "last_week_plays": 6,
-      "change": "+35"
+      "change": "+34"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 21,
+      "plays": 23,
       "last_week_plays": 18,
-      "change": "+5"
+      "change": "+4"
     },
     {
       "rank": 4,
       "name": "J. Cole",
-      "plays": 19,
-      "last_week_plays": 27,
+      "plays": 20,
+      "last_week_plays": 26,
       "change": "-2"
     },
     {
       "rank": 5,
-      "name": "Gunna",
+      "name": "21 Savage",
       "plays": 18,
-      "last_week_plays": 20,
-      "change": "="
+      "last_week_plays": 21,
+      "change": "-2"
     },
     {
       "rank": 6,
-      "name": "21 Savage",
-      "plays": 17,
-      "last_week_plays": 21,
-      "change": "-3"
+      "name": "Gunna",
+      "plays": 18,
+      "last_week_plays": 17,
+      "change": "+2"
     },
     {
       "rank": 7,
       "name": "Lil Baby",
-      "plays": 15,
-      "last_week_plays": 20,
+      "plays": 16,
+      "last_week_plays": 19,
       "change": "-3"
     },
     {
       "rank": 8,
       "name": "Travis Scott",
       "plays": 14,
-      "last_week_plays": 14,
-      "change": "+7"
+      "last_week_plays": 12,
+      "change": "+10"
     },
     {
       "rank": 9,
@@ -89,10 +89,10 @@
     },
     {
       "rank": 10,
-      "name": "Veeze",
-      "plays": 12,
-      "last_week_plays": 4,
-      "change": "+41"
+      "name": "Migos",
+      "plays": 13,
+      "last_week_plays": 13,
+      "change": "+6"
     }
   ],
   "top_tracks": [
@@ -101,14 +101,14 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+215"
+      "change": "+201"
     },
     {
       "rank": 2,
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+49"
+      "change": "+47"
     },
     {
       "rank": 3,
@@ -140,28 +140,28 @@
     },
     {
       "rank": 7,
+      "name": "Cookin (from GTAVI: The Album) - 21 Savage",
+      "plays": 3,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 8,
       "name": "Get Lucki - Veeze",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 2,
       "last_week_plays": 3,
-      "change": "+3"
-    },
-    {
-      "rank": 9,
-      "name": "c l o s e - J. Cole",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "change": "+2"
     },
     {
       "rank": 10,
-      "name": "Hughes - Lelo",
+      "name": "c l o s e - J. Cole",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -170,6 +170,10 @@
   "dropped_off": [],
   "discovery": {
     "new_artists": [
+      {
+        "name": "Grand Theft Auto VI",
+        "plays": 3
+      },
       {
         "name": "Montana 700",
         "plays": 2
@@ -180,10 +184,6 @@
       },
       {
         "name": "Foogiano",
-        "plays": 2
-      },
-      {
-        "name": "Grand Theft Auto VI",
         "plays": 2
       },
       {
@@ -238,18 +238,22 @@
     {
       "track": "Livin' - Lil Double 0",
       "plays": 3
+    },
+    {
+      "track": "Cookin (from GTAVI: The Album) - 21 Savage",
+      "plays": 3
     }
   ],
   "time_of_day": {
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 46,
     "Afternoon (12pm-5pm)": 171,
-    "Evening (5pm-9pm)": 110,
-    "Night (9pm-12am)": 38
+    "Evening (5pm-9pm)": 113,
+    "Night (9pm-12am)": 43
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 34,
+    "Tue": 42,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -281,13 +285,13 @@
   ],
   "release_eras": {
     "1990s": 13,
-    "2000s": 17,
+    "2000s": 18,
     "2010s": 89,
-    "2020s": 252
+    "2020s": 259
   },
   "listening_style": {
     "played_from": {
-      "other": 289,
+      "other": 297,
       "playlist": 58,
       "album": 24
     },
