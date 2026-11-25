@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:32-05:00",
+  "generated_at": "2026-11-25T11:26-05:00",
   "window": {
     "start": "2026-11-18",
     "end": "2026-11-25"
@@ -13,8 +13,8 @@
     "unique_artists": 175
   },
   "last_week": {
-    "plays": 513,
-    "minutes": 1805
+    "plays": 504,
+    "minutes": 1777
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -36,20 +36,20 @@
       "name": "Big Scarr",
       "plays": 26,
       "last_week_plays": 6,
-      "change": "+32"
+      "change": "+31"
     },
     {
       "rank": 3,
       "name": "Future",
       "plays": 23,
       "last_week_plays": 18,
-      "change": "+4"
+      "change": "+3"
     },
     {
       "rank": 4,
       "name": "J. Cole",
       "plays": 20,
-      "last_week_plays": 26,
+      "last_week_plays": 24,
       "change": "-2"
     },
     {
@@ -70,8 +70,8 @@
       "rank": 7,
       "name": "Lil Baby",
       "plays": 16,
-      "last_week_plays": 19,
-      "change": "-3"
+      "last_week_plays": 17,
+      "change": "="
     },
     {
       "rank": 8,
@@ -85,7 +85,7 @@
       "name": "Pooh Shiesty",
       "plays": 14,
       "last_week_plays": 7,
-      "change": "+22"
+      "change": "+21"
     },
     {
       "rank": 10,
@@ -101,14 +101,14 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+190"
+      "change": "+181"
     },
     {
       "rank": 2,
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+40"
+      "change": "+39"
     },
     {
       "rank": 3,

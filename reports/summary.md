@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-18 to 2026-11-25** · updated 2026-11-25 09:32 ET
+**2026-11-18 to 2026-11-25** · updated 2026-11-25 11:26 ET
 
-**379 plays** (-134 vs last week) · **1203 minutes** · 175 artists · 319 songs
+**379 plays** (-125 vs last week) · **1203 minutes** · 175 artists · 319 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -9,21 +9,21 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 30 | = |
-| 2 | Big Scarr | 26 | +32 |
-| 3 | Future | 23 | +4 |
+| 2 | Big Scarr | 26 | +31 |
+| 3 | Future | 23 | +3 |
 | 4 | J. Cole | 20 | -2 |
 | 5 | 21 Savage | 18 | -2 |
 | 6 | Gunna | 18 | +2 |
-| 7 | Lil Baby | 16 | -3 |
+| 7 | Lil Baby | 16 | = |
 | 8 | Travis Scott | 14 | +10 |
-| 9 | Pooh Shiesty | 14 | +22 |
+| 9 | Pooh Shiesty | 14 | +21 |
 | 10 | Westside Gunn | 13 | +4 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Having Our Way (feat. Drake) - Migos | 5 | +190 |
-| 2 | Poppin - Big Scarr | 4 | +40 |
+| 1 | Having Our Way (feat. Drake) - Migos | 5 | +181 |
+| 2 | Poppin - Big Scarr | 4 | +39 |
 | 3 | COUNT UP - Gunna | 4 | NEW |
 | 4 | Never Sleep (with Lil Baby feat. Travis Scott) - NAV | 3 | NEW |
 | 5 | Master P (feat. Tay Keith) - Pooh Shiesty | 3 | NEW |
