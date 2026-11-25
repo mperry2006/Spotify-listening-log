@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-25T15:12-05:00",
+  "generated_at": "2026-11-25T16:13-05:00",
   "window": {
     "start": "2026-11-18",
     "end": "2026-11-25"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2286,
+  "total_plays_logged": 2297,
   "this_week": {
-    "plays": 378,
-    "minutes": 1196,
-    "unique_tracks": 319,
-    "unique_artists": 180
+    "plays": 385,
+    "minutes": 1221,
+    "unique_tracks": 323,
+    "unique_artists": 182
   },
   "last_week": {
-    "plays": 518,
-    "minutes": 1815
+    "plays": 522,
+    "minutes": 1828
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -27,7 +27,7 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 29,
+      "plays": 30,
       "last_week_plays": 70,
       "change": "="
     },
@@ -41,15 +41,15 @@
     {
       "rank": 3,
       "name": "Future",
-      "plays": 25,
-      "last_week_plays": 18,
+      "plays": 24,
+      "last_week_plays": 19,
       "change": "+3"
     },
     {
       "rank": 4,
       "name": "J. Cole",
-      "plays": 21,
-      "last_week_plays": 25,
+      "plays": 19,
+      "last_week_plays": 27,
       "change": "-2"
     },
     {
@@ -61,38 +61,38 @@
     },
     {
       "rank": 6,
-      "name": "Lil Baby",
+      "name": "21 Savage",
       "plays": 18,
-      "last_week_plays": 17,
-      "change": "+2"
+      "last_week_plays": 22,
+      "change": "-3"
     },
     {
       "rank": 7,
-      "name": "21 Savage",
-      "plays": 17,
-      "last_week_plays": 22,
-      "change": "-4"
+      "name": "Lil Baby",
+      "plays": 18,
+      "last_week_plays": 17,
+      "change": "+1"
     },
     {
       "rank": 8,
       "name": "Pooh Shiesty",
-      "plays": 15,
+      "plays": 17,
       "last_week_plays": 7,
       "change": "+24"
     },
     {
       "rank": 9,
-      "name": "Migos",
+      "name": "Travis Scott",
       "plays": 14,
-      "last_week_plays": 13,
-      "change": "+9"
+      "last_week_plays": 15,
+      "change": "+4"
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
-      "plays": 12,
-      "last_week_plays": 14,
-      "change": "+4"
+      "name": "Migos",
+      "plays": 14,
+      "last_week_plays": 13,
+      "change": "+8"
     }
   ],
   "top_tracks": [
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+170"
+      "change": "+171"
     },
     {
       "rank": 2,
@@ -247,14 +247,14 @@
   "time_of_day": {
     "Late night (12am-5am)": 5,
     "Morning (5am-12pm)": 49,
-    "Afternoon (12pm-5pm)": 167,
+    "Afternoon (12pm-5pm)": 174,
     "Evening (5pm-9pm)": 113,
     "Night (9pm-12am)": 44
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
-    "Wed": 51,
+    "Wed": 58,
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
@@ -264,7 +264,7 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 30
+      "days": 31
     },
     {
       "artist": "Future",
@@ -285,13 +285,13 @@
   ],
   "release_eras": {
     "1990s": 12,
-    "2000s": 18,
-    "2010s": 87,
-    "2020s": 261
+    "2000s": 19,
+    "2010s": 89,
+    "2020s": 265
   },
   "listening_style": {
     "played_from": {
-      "other": 297,
+      "other": 304,
       "playlist": 57,
       "album": 24
     },
