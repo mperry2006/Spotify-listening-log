@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:59-05:00",
+  "generated_at": "2026-11-24T20:37-05:00",
   "window": {
     "start": "2026-11-17",
     "end": "2026-11-24"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2249,
   "this_week": {
-    "plays": 373,
-    "minutes": 1186,
-    "unique_tracks": 315,
+    "plays": 371,
+    "minutes": 1180,
+    "unique_tracks": 314,
     "unique_artists": 173
   },
   "last_week": {
-    "plays": 556,
-    "minutes": 1942
+    "plays": 547,
+    "minutes": 1910
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -28,7 +28,7 @@
       "rank": 1,
       "name": "Drake",
       "plays": 30,
-      "last_week_plays": 73,
+      "last_week_plays": 72,
       "change": "="
     },
     {
@@ -36,49 +36,49 @@
       "name": "Big Scarr",
       "plays": 26,
       "last_week_plays": 6,
-      "change": "+37"
+      "change": "+35"
     },
     {
       "rank": 3,
       "name": "Future",
-      "plays": 22,
-      "last_week_plays": 17,
-      "change": "+6"
+      "plays": 21,
+      "last_week_plays": 18,
+      "change": "+5"
     },
     {
       "rank": 4,
-      "name": "Gunna",
-      "plays": 19,
-      "last_week_plays": 21,
-      "change": "-1"
-    },
-    {
-      "rank": 5,
       "name": "J. Cole",
       "plays": 19,
       "last_week_plays": 27,
-      "change": "-3"
+      "change": "-2"
+    },
+    {
+      "rank": 5,
+      "name": "Gunna",
+      "plays": 18,
+      "last_week_plays": 20,
+      "change": "="
     },
     {
       "rank": 6,
       "name": "21 Savage",
       "plays": 17,
       "last_week_plays": 21,
-      "change": "-2"
+      "change": "-3"
     },
     {
       "rank": 7,
       "name": "Lil Baby",
-      "plays": 16,
+      "plays": 15,
       "last_week_plays": 20,
-      "change": "-2"
+      "change": "-3"
     },
     {
       "rank": 8,
       "name": "Travis Scott",
-      "plays": 15,
-      "last_week_plays": 13,
-      "change": "+9"
+      "plays": 14,
+      "last_week_plays": 14,
+      "change": "+7"
     },
     {
       "rank": 9,
@@ -89,10 +89,10 @@
     },
     {
       "rank": 10,
-      "name": "Metro Boomin",
+      "name": "Veeze",
       "plays": 12,
-      "last_week_plays": 15,
-      "change": "+1"
+      "last_week_plays": 4,
+      "change": "+41"
     }
   ],
   "top_tracks": [
@@ -101,14 +101,14 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+222"
+      "change": "+215"
     },
     {
       "rank": 2,
       "name": "Poppin - Big Scarr",
       "plays": 4,
       "last_week_plays": 2,
-      "change": "+53"
+      "change": "+49"
     },
     {
       "rank": 3,
@@ -140,28 +140,28 @@
     },
     {
       "rank": 7,
-      "name": "Lock On Me (with Travis Scott & Future) - Metro Boomin",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 8,
       "name": "Get Lucki - Veeze",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30",
       "plays": 2,
       "last_week_plays": 3,
       "change": "+3"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "c l o s e - J. Cole",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Hughes - Lelo",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -244,12 +244,12 @@
     "Late night (12am-5am)": 6,
     "Morning (5am-12pm)": 46,
     "Afternoon (12pm-5pm)": 171,
-    "Evening (5pm-9pm)": 112,
+    "Evening (5pm-9pm)": 110,
     "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
-    "Tue": 36,
+    "Tue": 34,
     "Wed": 53,
     "Thu": 61,
     "Fri": 30,
@@ -282,13 +282,13 @@
   "release_eras": {
     "1990s": 13,
     "2000s": 17,
-    "2010s": 90,
-    "2020s": 253
+    "2010s": 89,
+    "2020s": 252
   },
   "listening_style": {
     "played_from": {
       "other": 289,
-      "playlist": 60,
+      "playlist": 58,
       "album": 24
     },
     "full_album_sessions": 1
@@ -302,10 +302,10 @@
         "Westside Gunn",
         "21 Savage",
         "Migos",
-        "Lil Baby",
         "Gunna",
-        "Young Thug",
-        "Kendrick Lamar"
+        "Lil Baby",
+        "Pooh Shiesty",
+        "Young Thug"
       ]
     },
     "medium_term": {

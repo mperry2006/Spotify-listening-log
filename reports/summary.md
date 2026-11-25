@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-17 to 2026-11-24** · updated 2026-11-24 18:59 ET
+**2026-11-17 to 2026-11-24** · updated 2026-11-24 20:37 ET
 
-**373 plays** (-183 vs last week) · **1186 minutes** · 173 artists · 315 songs
+**371 plays** (-176 vs last week) · **1180 minutes** · 173 artists · 314 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -9,29 +9,29 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | # | Artist | Plays | vs last week |
 |---|---|---|---|
 | 1 | Drake | 30 | = |
-| 2 | Big Scarr | 26 | +37 |
-| 3 | Future | 22 | +6 |
-| 4 | Gunna | 19 | -1 |
-| 5 | J. Cole | 19 | -3 |
-| 6 | 21 Savage | 17 | -2 |
-| 7 | Lil Baby | 16 | -2 |
-| 8 | Travis Scott | 15 | +9 |
+| 2 | Big Scarr | 26 | +35 |
+| 3 | Future | 21 | +5 |
+| 4 | J. Cole | 19 | -2 |
+| 5 | Gunna | 18 | = |
+| 6 | 21 Savage | 17 | -3 |
+| 7 | Lil Baby | 15 | -3 |
+| 8 | Travis Scott | 14 | +7 |
 | 9 | Pooh Shiesty | 14 | +23 |
-| 10 | Metro Boomin | 12 | +1 |
+| 10 | Veeze | 12 | +41 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Having Our Way (feat. Drake) - Migos | 5 | +222 |
-| 2 | Poppin - Big Scarr | 4 | +53 |
+| 1 | Having Our Way (feat. Drake) - Migos | 5 | +215 |
+| 2 | Poppin - Big Scarr | 4 | +49 |
 | 3 | COUNT UP - Gunna | 4 | NEW |
 | 4 | Never Sleep (with Lil Baby feat. Travis Scott) - NAV | 3 | NEW |
 | 5 | Master P (feat. Tay Keith) - Pooh Shiesty | 3 | NEW |
 | 6 | Livin' - Lil Double 0 | 3 | NEW |
-| 7 | Lock On Me (with Travis Scott & Future) - Metro Boomin | 2 | NEW |
-| 8 | Get Lucki - Veeze | 2 | NEW |
-| 9 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 2 | +3 |
-| 10 | c l o s e - J. Cole | 2 | NEW |
+| 7 | Get Lucki - Veeze | 2 | NEW |
+| 8 | Red Key (feat. Moneybagg Yo & Big Homiie G) - BIG30 | 2 | +3 |
+| 9 | c l o s e - J. Cole | 2 | NEW |
+| 10 | Hughes - Lelo | 2 | NEW |
 
 ## Discovery
 45% of plays were songs not in your log before this week.
@@ -50,11 +50,11 @@ New artists: Montana 700 (2), SWV (2), Foogiano (2), Grand Theft Auto VI (2), Ja
 Late night (12am-5am)  █ 6
 Morning (5am-12pm)     █████ 46
 Afternoon (12pm-5pm)   ████████████████████ 171
-Evening (5pm-9pm)      █████████████ 112
+Evening (5pm-9pm)      █████████████ 110
 Night (9pm-12am)       ████ 38
 
 Mon                    ████████████████████ 101
-Tue                    ███████ 36
+Tue                    ███████ 34
 Wed                    ██████████ 53
 Thu                    ████████████ 61
 Fri                    ██████ 30
@@ -70,10 +70,10 @@ Sun                    ████████ 38
 - Tems: 4 days in a row
 
 ## Eras
-1990s: 13, 2000s: 17, 2010s: 90, 2020s: 253
+1990s: 13, 2000s: 17, 2010s: 89, 2020s: 252
 
 ## How you listen
-Played from: other 289, playlist 60, album 24
+Played from: other 289, playlist 58, album 24
 Full-album sessions (4+ tracks in a row): 1
 
 _Log started 2026-10-26 · 2249 plays recorded total._
