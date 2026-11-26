@@ -1,7 +1,7 @@
 # Listening Report
-**2026-11-18 to 2026-11-25** · updated 2026-11-25 20:37 ET
+**2026-11-19 to 2026-11-26** · updated 2026-11-26 05:58 ET
 
-**377 plays** (-123 vs last week) · **1196 minutes** · 183 artists · 316 songs
+**375 plays** (-116 vs last week) · **1187 minutes** · 182 artists · 314 songs
 
 _Counting real listens only. 0 skips left out (0% skip rate)._
 
@@ -16,13 +16,13 @@ _Counting real listens only. 0 skips left out (0% skip rate)._
 | 6 | 21 Savage | 18 | -3 |
 | 7 | Lil Baby | 18 | +2 |
 | 8 | Pooh Shiesty | 17 | +22 |
-| 9 | Migos | 14 | +7 |
-| 10 | Westside Gunn | 12 | -2 |
+| 9 | Migos | 14 | +8 |
+| 10 | Travis Scott | 12 | +1 |
 
 ## Top songs
 | # | Song | Plays | vs last week |
 |---|---|---|---|
-| 1 | Having Our Way (feat. Drake) - Migos | 5 | +139 |
+| 1 | Having Our Way (feat. Drake) - Migos | 5 | +128 |
 | 2 | COUNT UP - Gunna | 4 | NEW |
 | 3 | Poppin - Big Scarr | 3 | +7 |
 | 4 | Master P (feat. Tay Keith) - Pooh Shiesty | 3 | NEW |
@@ -52,11 +52,11 @@ Late night (12am-5am)  █ 5
 Morning (5am-12pm)     █████ 49
 Afternoon (12pm-5pm)   ████████████████████ 183
 Evening (5pm-9pm)      ██████████ 96
-Night (9pm-12am)       █████ 44
+Night (9pm-12am)       █████ 42
 
 Mon                    ████████████████████ 101
 Tue                    █████████ 43
-Wed                    ██████████ 50
+Wed                    ██████████ 48
 Thu                    ████████████ 61
 Fri                    ██████ 30
 Sat                    ███████████ 54
@@ -71,10 +71,10 @@ Sun                    ████████ 38
 - Tems: 5 days in a row
 
 ## Eras
-1990s: 11, 2000s: 20, 2010s: 83, 2020s: 263
+1990s: 10, 2000s: 20, 2010s: 83, 2020s: 262
 
 ## How you listen
-Played from: other 296, playlist 57, album 24
+Played from: other 294, playlist 57, album 24
 Full-album sessions (4+ tracks in a row): 1
 
 _Log started 2026-10-26 · 2306 plays recorded total._
