@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-26T05:58-05:00",
+  "generated_at": "2026-11-26T15:13-05:00",
   "window": {
     "start": "2026-11-19",
     "end": "2026-11-26"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2306,
+  "total_plays_logged": 2356,
   "this_week": {
-    "plays": 375,
-    "minutes": 1187,
-    "unique_tracks": 314,
-    "unique_artists": 182
+    "plays": 401,
+    "minutes": 1314,
+    "unique_tracks": 343,
+    "unique_artists": 198
   },
   "last_week": {
-    "plays": 491,
-    "minutes": 1713
+    "plays": 507,
+    "minutes": 1748
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -27,16 +27,16 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 30,
-      "last_week_plays": 63,
+      "plays": 35,
+      "last_week_plays": 62,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "Big Scarr",
-      "plays": 26,
-      "last_week_plays": 7,
-      "change": "+29"
+      "name": "J. Cole",
+      "plays": 21,
+      "last_week_plays": 22,
+      "change": "="
     },
     {
       "rank": 3,
@@ -47,38 +47,38 @@
     },
     {
       "rank": 4,
-      "name": "Gunna",
+      "name": "Big Scarr",
       "plays": 19,
-      "last_week_plays": 15,
-      "change": "+6"
+      "last_week_plays": 14,
+      "change": "+7"
     },
     {
       "rank": 5,
-      "name": "J. Cole",
-      "plays": 19,
-      "last_week_plays": 22,
-      "change": "-3"
+      "name": "Gunna",
+      "plays": 18,
+      "last_week_plays": 17,
+      "change": "+2"
     },
     {
       "rank": 6,
       "name": "21 Savage",
-      "plays": 18,
+      "plays": 17,
       "last_week_plays": 21,
       "change": "-3"
     },
     {
       "rank": 7,
       "name": "Lil Baby",
-      "plays": 18,
-      "last_week_plays": 15,
-      "change": "+2"
+      "plays": 16,
+      "last_week_plays": 17,
+      "change": "-1"
     },
     {
       "rank": 8,
       "name": "Pooh Shiesty",
-      "plays": 17,
-      "last_week_plays": 7,
-      "change": "+22"
+      "plays": 15,
+      "last_week_plays": 9,
+      "change": "+17"
     },
     {
       "rank": 9,
@@ -89,10 +89,10 @@
     },
     {
       "rank": 10,
-      "name": "Travis Scott",
-      "plays": 12,
-      "last_week_plays": 15,
-      "change": "+1"
+      "name": "Kanye West",
+      "plays": 14,
+      "last_week_plays": 11,
+      "change": "+8"
     }
   ],
   "top_tracks": [
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+128"
+      "change": "+121"
     },
     {
       "rank": 2,
@@ -112,56 +112,56 @@
     },
     {
       "rank": 3,
-      "name": "Poppin - Big Scarr",
+      "name": "Gangsta - Tems",
       "plays": 3,
-      "last_week_plays": 3,
-      "change": "+7"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 4,
-      "name": "Master P (feat. Tay Keith) - Pooh Shiesty",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 5,
-      "name": "Livin' - Lil Double 0",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 6,
       "name": "Cookin (from GTAVI: The Album) - 21 Savage",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Echo Long (feat. WestsideGunn & Meyhem Lauren) - Benny The Butcher",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
+      "rank": 6,
+      "name": "Passionfruit - Drake",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 7,
+      "name": "SKELETONS - Travis Scott",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
       "rank": 8,
-      "name": "ATLANTA TEARS - 21 Savage",
+      "name": "Get Away - J. Cole",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Endzone - Big Scarr",
+      "name": "Preach - Young Dolph",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "Ballin in LA (feat. Gucci Mane & Pooh Shiesty) - Big Scarr",
+      "name": "If I'm Lyin', I'm Flyin' - Kodak Black",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
@@ -173,10 +173,6 @@
       {
         "name": "Grand Theft Auto VI",
         "plays": 3
-      },
-      {
-        "name": "Montana 700",
-        "plays": 2
       },
       {
         "name": "SWV",
@@ -191,27 +187,31 @@
         "plays": 2
       },
       {
-        "name": "Tracey Lee",
-        "plays": 1
-      },
-      {
-        "name": "Hotboii",
-        "plays": 1
-      },
-      {
-        "name": "Money Man",
-        "plays": 1
-      },
-      {
         "name": "SK Da King",
         "plays": 1
       },
       {
         "name": "Heem B$F",
         "plays": 1
+      },
+      {
+        "name": "Lucci Lou",
+        "plays": 1
+      },
+      {
+        "name": "Ozer",
+        "plays": 1
+      },
+      {
+        "name": "YGTUT",
+        "plays": 1
+      },
+      {
+        "name": "Jazmine Sullivan",
+        "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 45,
+    "plays_of_new_tracks_pct": 42,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -224,15 +224,7 @@
       "plays": 4
     },
     {
-      "track": "Poppin - Big Scarr",
-      "plays": 3
-    },
-    {
-      "track": "Master P (feat. Tay Keith) - Pooh Shiesty",
-      "plays": 3
-    },
-    {
-      "track": "Livin' - Lil Double 0",
+      "track": "Gangsta - Tems",
       "plays": 3
     },
     {
@@ -246,8 +238,8 @@
   ],
   "time_of_day": {
     "Late night (12am-5am)": 5,
-    "Morning (5am-12pm)": 49,
-    "Afternoon (12pm-5pm)": 183,
+    "Morning (5am-12pm)": 65,
+    "Afternoon (12pm-5pm)": 193,
     "Evening (5pm-9pm)": 96,
     "Night (9pm-12am)": 42
   },
@@ -255,7 +247,7 @@
     "Mon": 101,
     "Tue": 43,
     "Wed": 48,
-    "Thu": 61,
+    "Thu": 87,
     "Fri": 30,
     "Sat": 54,
     "Sun": 38
@@ -264,36 +256,38 @@
   "streaks": [
     {
       "artist": "Drake",
-      "days": 31
+      "days": 32
     },
     {
       "artist": "Future",
       "days": 13
     },
     {
+      "artist": "J. Cole",
+      "days": 11
+    },
+    {
       "artist": "Lil Baby",
       "days": 11
     },
     {
-      "artist": "J. Cole",
-      "days": 10
-    },
-    {
       "artist": "Tems",
-      "days": 5
+      "days": 6
     }
   ],
   "release_eras": {
-    "1990s": 10,
-    "2000s": 20,
-    "2010s": 83,
-    "2020s": 262
+    "1970s": 1,
+    "1980s": 1,
+    "1990s": 18,
+    "2000s": 30,
+    "2010s": 95,
+    "2020s": 256
   },
   "listening_style": {
     "played_from": {
-      "other": 294,
-      "playlist": 57,
-      "album": 24
+      "other": 299,
+      "playlist": 82,
+      "album": 20
     },
     "full_album_sessions": 1
   },
