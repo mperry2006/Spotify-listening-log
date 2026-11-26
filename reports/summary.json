@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:04-05:00",
+  "generated_at": "2026-11-25T20:37-05:00",
   "window": {
     "start": "2026-11-18",
     "end": "2026-11-25"
@@ -7,14 +7,14 @@
   "log_since": "2026-10-26",
   "total_plays_logged": 2306,
   "this_week": {
-    "plays": 385,
-    "minutes": 1224,
-    "unique_tracks": 324,
+    "plays": 377,
+    "minutes": 1196,
+    "unique_tracks": 316,
     "unique_artists": 183
   },
   "last_week": {
-    "plays": 505,
-    "minutes": 1759
+    "plays": 500,
+    "minutes": 1747
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -27,8 +27,8 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 31,
-      "last_week_plays": 64,
+      "plays": 30,
+      "last_week_plays": 63,
       "change": "="
     },
     {
@@ -41,23 +41,23 @@
     {
       "rank": 3,
       "name": "Future",
-      "plays": 22,
-      "last_week_plays": 19,
+      "plays": 20,
+      "last_week_plays": 21,
       "change": "+1"
     },
     {
       "rank": 4,
-      "name": "J. Cole",
-      "plays": 20,
-      "last_week_plays": 24,
-      "change": "-2"
+      "name": "Gunna",
+      "plays": 19,
+      "last_week_plays": 15,
+      "change": "+6"
     },
     {
       "rank": 5,
-      "name": "Gunna",
+      "name": "J. Cole",
       "plays": 19,
-      "last_week_plays": 17,
-      "change": "+1"
+      "last_week_plays": 25,
+      "change": "-3"
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "rank": 7,
       "name": "Lil Baby",
       "plays": 18,
-      "last_week_plays": 16,
-      "change": "+1"
+      "last_week_plays": 15,
+      "change": "+2"
     },
     {
       "rank": 8,
@@ -82,17 +82,17 @@
     },
     {
       "rank": 9,
-      "name": "Travis Scott",
+      "name": "Migos",
       "plays": 14,
       "last_week_plays": 13,
       "change": "+7"
     },
     {
       "rank": 10,
-      "name": "Migos",
-      "plays": 14,
-      "last_week_plays": 13,
-      "change": "+5"
+      "name": "Westside Gunn",
+      "plays": 12,
+      "last_week_plays": 15,
+      "change": "-2"
     }
   ],
   "top_tracks": [
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+150"
+      "change": "+139"
     },
     {
       "rank": 2,
@@ -248,13 +248,13 @@
     "Late night (12am-5am)": 5,
     "Morning (5am-12pm)": 49,
     "Afternoon (12pm-5pm)": 183,
-    "Evening (5pm-9pm)": 104,
+    "Evening (5pm-9pm)": 96,
     "Night (9pm-12am)": 44
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
-    "Wed": 58,
+    "Wed": 50,
     "Thu": 61,
     "Fri": 30,
     "Sat": 54,
@@ -284,14 +284,14 @@
     }
   ],
   "release_eras": {
-    "1990s": 12,
+    "1990s": 11,
     "2000s": 20,
-    "2010s": 87,
-    "2020s": 266
+    "2010s": 83,
+    "2020s": 263
   },
   "listening_style": {
     "played_from": {
-      "other": 304,
+      "other": 296,
       "playlist": 57,
       "album": 24
     },
