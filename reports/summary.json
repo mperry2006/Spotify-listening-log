@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-26T21:55-05:00",
+  "generated_at": "2026-11-27T07:34-05:00",
   "window": {
-    "start": "2026-11-19",
-    "end": "2026-11-26"
+    "start": "2026-11-20",
+    "end": "2026-11-27"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 2405,
   "this_week": {
-    "plays": 416,
-    "minutes": 1394,
-    "unique_tracks": 358,
+    "plays": 413,
+    "minutes": 1385,
+    "unique_tracks": 357,
     "unique_artists": 216
   },
   "last_week": {
     "plays": 526,
-    "minutes": 1808
+    "minutes": 1807
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -76,9 +76,9 @@
     {
       "rank": 8,
       "name": "Pooh Shiesty",
-      "plays": 15,
-      "last_week_plays": 8,
-      "change": "+22"
+      "plays": 14,
+      "last_week_plays": 9,
+      "change": "+19"
     },
     {
       "rank": 9,
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+109"
+      "change": "+107"
     },
     {
       "rank": 2,
@@ -133,38 +133,38 @@
     },
     {
       "rank": 6,
-      "name": "Shibuya (feat. Syd) - Free Nationals",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
-      "name": "Free Shiest Life (feat. Pooh Shiesty) - BIG30",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 8,
       "name": "h u n g e r . o n . h i l l s i d e (with Bas) - J. Cole",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Blem - Drake",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Jane - Migos",
       "plays": 2,
       "last_week_plays": 1,
       "change": "+194"
+    },
+    {
+      "rank": 9,
+      "name": "Livin' - Lil Double 0",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+421"
+    },
+    {
+      "rank": 10,
+      "name": "Safe 2 - Veeze",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -211,7 +211,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 43,
+    "plays_of_new_tracks_pct": 42,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -241,18 +241,18 @@
     "Morning (5am-12pm)": 65,
     "Afternoon (12pm-5pm)": 205,
     "Evening (5pm-9pm)": 93,
-    "Night (9pm-12am)": 48
+    "Night (9pm-12am)": 45
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
     "Wed": 48,
-    "Thu": 102,
+    "Thu": 99,
     "Fri": 30,
     "Sat": 54,
     "Sun": 38
   },
-  "busiest_day": "Thu",
+  "busiest_day": "Mon",
   "streaks": [
     {
       "artist": "Drake",
@@ -278,14 +278,14 @@
   "release_eras": {
     "1970s": 1,
     "1980s": 2,
-    "1990s": 24,
+    "1990s": 23,
     "2000s": 44,
-    "2010s": 92,
-    "2020s": 253
+    "2010s": 91,
+    "2020s": 252
   },
   "listening_style": {
     "played_from": {
-      "other": 313,
+      "other": 310,
       "playlist": 82,
       "album": 21
     },
