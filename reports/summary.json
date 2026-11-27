@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-26T15:13-05:00",
+  "generated_at": "2026-11-26T21:55-05:00",
   "window": {
     "start": "2026-11-19",
     "end": "2026-11-26"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2356,
+  "total_plays_logged": 2405,
   "this_week": {
-    "plays": 401,
-    "minutes": 1314,
-    "unique_tracks": 343,
-    "unique_artists": 198
+    "plays": 416,
+    "minutes": 1394,
+    "unique_tracks": 358,
+    "unique_artists": 216
   },
   "last_week": {
-    "plays": 507,
-    "minutes": 1748
+    "plays": 526,
+    "minutes": 1808
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -28,71 +28,71 @@
       "rank": 1,
       "name": "Drake",
       "plays": 35,
-      "last_week_plays": 62,
+      "last_week_plays": 64,
       "change": "="
     },
     {
       "rank": 2,
-      "name": "J. Cole",
-      "plays": 21,
-      "last_week_plays": 22,
-      "change": "="
+      "name": "Gunna",
+      "plays": 23,
+      "last_week_plays": 17,
+      "change": "+6"
     },
     {
       "rank": 3,
-      "name": "Future",
-      "plays": 20,
-      "last_week_plays": 21,
-      "change": "+1"
+      "name": "Kanye West",
+      "plays": 21,
+      "last_week_plays": 11,
+      "change": "+15"
     },
     {
       "rank": 4,
-      "name": "Big Scarr",
+      "name": "J. Cole",
       "plays": 19,
-      "last_week_plays": 14,
-      "change": "+7"
+      "last_week_plays": 24,
+      "change": "-1"
     },
     {
       "rank": 5,
-      "name": "Gunna",
-      "plays": 18,
-      "last_week_plays": 17,
-      "change": "+2"
+      "name": "Big Scarr",
+      "plays": 19,
+      "last_week_plays": 13,
+      "change": "+11"
     },
     {
       "rank": 6,
-      "name": "21 Savage",
-      "plays": 17,
-      "last_week_plays": 21,
-      "change": "-3"
+      "name": "Future",
+      "plays": 18,
+      "last_week_plays": 24,
+      "change": "-4"
     },
     {
       "rank": 7,
       "name": "Lil Baby",
-      "plays": 16,
-      "last_week_plays": 17,
+      "plays": 17,
+      "last_week_plays": 18,
       "change": "-1"
     },
     {
       "rank": 8,
       "name": "Pooh Shiesty",
       "plays": 15,
-      "last_week_plays": 9,
-      "change": "+17"
+      "last_week_plays": 8,
+      "change": "+22"
     },
     {
       "rank": 9,
       "name": "Migos",
       "plays": 14,
       "last_week_plays": 13,
-      "change": "+8"
+      "change": "+6"
     },
     {
       "rank": 10,
-      "name": "Kanye West",
+      "name": "21 Savage",
       "plays": 14,
-      "last_week_plays": 11,
-      "change": "+8"
+      "last_week_plays": 23,
+      "change": "-6"
     }
   ],
   "top_tracks": [
@@ -101,7 +101,7 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+121"
+      "change": "+109"
     },
     {
       "rank": 2,
@@ -133,38 +133,38 @@
     },
     {
       "rank": 6,
-      "name": "Passionfruit - Drake",
+      "name": "Shibuya (feat. Syd) - Free Nationals",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "SKELETONS - Travis Scott",
+      "name": "Free Shiest Life (feat. Pooh Shiesty) - BIG30",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 8,
-      "name": "Get Away - J. Cole",
+      "name": "h u n g e r . o n . h i l l s i d e (with Bas) - J. Cole",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 9,
-      "name": "Preach - Young Dolph",
+      "name": "Blem - Drake",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 10,
-      "name": "If I'm Lyin', I'm Flyin' - Kodak Black",
+      "name": "Jane - Migos",
       "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "last_week_plays": 1,
+      "change": "+194"
     }
   ],
   "dropped_off": [],
@@ -211,7 +211,7 @@
         "plays": 1
       }
     ],
-    "plays_of_new_tracks_pct": 42,
+    "plays_of_new_tracks_pct": 43,
     "note": "New = first time in the log (only meaningful once the log has some history)."
   },
   "on_repeat": [
@@ -239,20 +239,20 @@
   "time_of_day": {
     "Late night (12am-5am)": 5,
     "Morning (5am-12pm)": 65,
-    "Afternoon (12pm-5pm)": 193,
-    "Evening (5pm-9pm)": 96,
-    "Night (9pm-12am)": 42
+    "Afternoon (12pm-5pm)": 205,
+    "Evening (5pm-9pm)": 93,
+    "Night (9pm-12am)": 48
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
     "Wed": 48,
-    "Thu": 87,
+    "Thu": 102,
     "Fri": 30,
     "Sat": 54,
     "Sun": 38
   },
-  "busiest_day": "Mon",
+  "busiest_day": "Thu",
   "streaks": [
     {
       "artist": "Drake",
@@ -260,14 +260,14 @@
     },
     {
       "artist": "Future",
-      "days": 13
-    },
-    {
-      "artist": "J. Cole",
-      "days": 11
+      "days": 14
     },
     {
       "artist": "Lil Baby",
+      "days": 12
+    },
+    {
+      "artist": "J. Cole",
       "days": 11
     },
     {
@@ -277,17 +277,17 @@
   ],
   "release_eras": {
     "1970s": 1,
-    "1980s": 1,
-    "1990s": 18,
-    "2000s": 30,
-    "2010s": 95,
-    "2020s": 256
+    "1980s": 2,
+    "1990s": 24,
+    "2000s": 44,
+    "2010s": 92,
+    "2020s": 253
   },
   "listening_style": {
     "played_from": {
-      "other": 299,
+      "other": 313,
       "playlist": 82,
-      "album": 20
+      "album": 21
     },
     "full_album_sessions": 1
   },
@@ -298,12 +298,12 @@
         "J. Cole",
         "Gunna",
         "Future",
-        "Westside Gunn",
         "Migos",
         "21 Savage",
+        "Westside Gunn",
         "Lil Baby",
-        "Lil Wayne",
-        "Kendrick Lamar"
+        "Kanye West",
+        "Lil Wayne"
       ]
     },
     "medium_term": {
@@ -317,7 +317,7 @@
         "Freddie Gibbs",
         "Curren$y",
         "Gunna",
-        "Lil Wayne"
+        "Benny The Butcher"
       ]
     },
     "long_term": {
