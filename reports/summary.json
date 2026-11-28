@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-27T17:01-05:00",
+  "generated_at": "2026-11-27T22:56-05:00",
   "window": {
     "start": "2026-11-20",
     "end": "2026-11-27"
   },
   "log_since": "2026-10-26",
-  "total_plays_logged": 2411,
+  "total_plays_logged": 2412,
   "this_week": {
-    "plays": 406,
-    "minutes": 1363,
-    "unique_tracks": 353,
-    "unique_artists": 215
+    "plays": 391,
+    "minutes": 1312,
+    "unique_tracks": 338,
+    "unique_artists": 211
   },
   "last_week": {
-    "plays": 496,
-    "minutes": 1692
+    "plays": 498,
+    "minutes": 1697
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -27,23 +27,23 @@
     {
       "rank": 1,
       "name": "Drake",
-      "plays": 34,
-      "last_week_plays": 62,
+      "plays": 33,
+      "last_week_plays": 60,
       "change": "="
     },
     {
       "rank": 2,
       "name": "Gunna",
       "plays": 22,
-      "last_week_plays": 19,
-      "change": "+3"
+      "last_week_plays": 16,
+      "change": "+5"
     },
     {
       "rank": 3,
       "name": "Kanye West",
-      "plays": 21,
-      "last_week_plays": 10,
-      "change": "+19"
+      "plays": 20,
+      "last_week_plays": 11,
+      "change": "+17"
     },
     {
       "rank": 4,
@@ -54,24 +54,24 @@
     },
     {
       "rank": 5,
-      "name": "J. Cole",
-      "plays": 18,
-      "last_week_plays": 23,
-      "change": "-3"
-    },
-    {
-      "rank": 6,
-      "name": "Future",
-      "plays": 18,
-      "last_week_plays": 20,
-      "change": "-2"
-    },
-    {
-      "rank": 7,
       "name": "Lil Baby",
       "plays": 17,
       "last_week_plays": 17,
       "change": "+1"
+    },
+    {
+      "rank": 6,
+      "name": "Future",
+      "plays": 17,
+      "last_week_plays": 21,
+      "change": "-2"
+    },
+    {
+      "rank": 7,
+      "name": "J. Cole",
+      "plays": 16,
+      "last_week_plays": 23,
+      "change": "-5"
     },
     {
       "rank": 8,
@@ -85,14 +85,14 @@
       "name": "Tems",
       "plays": 14,
       "last_week_plays": 2,
-      "change": "+77"
+      "change": "+76"
     },
     {
       "rank": 10,
-      "name": "The Alchemist",
+      "name": "Pooh Shiesty",
       "plays": 12,
       "last_week_plays": 11,
-      "change": "+7"
+      "change": "+11"
     }
   ],
   "top_tracks": [
@@ -101,28 +101,28 @@
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
       "last_week_plays": 1,
-      "change": "+73"
+      "change": "+65"
     },
     {
       "rank": 2,
+      "name": "Cookin (from GTAVI: The Album) - 21 Savage",
+      "plays": 4,
+      "last_week_plays": 0,
+      "change": "NEW"
+    },
+    {
+      "rank": 3,
       "name": "Gangsta - Tems",
       "plays": 3,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "COUNT UP - Gunna",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+439"
-    },
-    {
-      "rank": 4,
-      "name": "Cookin (from GTAVI: The Album) - 21 Savage",
-      "plays": 3,
-      "last_week_plays": 0,
-      "change": "NEW"
+      "change": "+427"
     },
     {
       "rank": 5,
@@ -133,38 +133,38 @@
     },
     {
       "rank": 6,
-      "name": "Safe 2 - Veeze",
-      "plays": 2,
-      "last_week_plays": 0,
-      "change": "NEW"
-    },
-    {
-      "rank": 7,
       "name": "Potluck - MAVI",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Wanna Know Remix (feat. Drake) - Dave",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+54"
+      "change": "+47"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Wasting Time ( feat. Drake & The Neptunes ) - Brent Faiyaz",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Jose Canseco (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
+    },
+    {
+      "rank": 10,
+      "name": "Master P (feat. Tay Keith) - Pooh Shiesty",
+      "plays": 2,
+      "last_week_plays": 1,
+      "change": "+375"
     }
   ],
   "dropped_off": [],
@@ -172,7 +172,7 @@
     "new_artists": [
       {
         "name": "Grand Theft Auto VI",
-        "plays": 3
+        "plays": 4
       },
       {
         "name": "SWV",
@@ -185,10 +185,6 @@
       {
         "name": "Foogiano",
         "plays": 2
-      },
-      {
-        "name": "Lucci Lou",
-        "plays": 1
       },
       {
         "name": "Ozer",
@@ -209,6 +205,10 @@
       {
         "name": "Li 9",
         "plays": 1
+      },
+      {
+        "name": "Fugees",
+        "plays": 1
       }
     ],
     "plays_of_new_tracks_pct": 43,
@@ -220,15 +220,15 @@
       "plays": 5
     },
     {
+      "track": "Cookin (from GTAVI: The Album) - 21 Savage",
+      "plays": 4
+    },
+    {
       "track": "Gangsta - Tems",
       "plays": 3
     },
     {
       "track": "COUNT UP - Gunna",
-      "plays": 3
-    },
-    {
-      "track": "Cookin (from GTAVI: The Album) - 21 Savage",
       "plays": 3
     },
     {
@@ -240,15 +240,15 @@
     "Late night (12am-5am)": 5,
     "Morning (5am-12pm)": 63,
     "Afternoon (12pm-5pm)": 200,
-    "Evening (5pm-9pm)": 93,
-    "Night (9pm-12am)": 45
+    "Evening (5pm-9pm)": 84,
+    "Night (9pm-12am)": 39
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
     "Wed": 48,
     "Thu": 99,
-    "Fri": 23,
+    "Fri": 8,
     "Sat": 54,
     "Sun": 38
   },
@@ -279,14 +279,14 @@
     "1970s": 1,
     "1980s": 2,
     "1990s": 23,
-    "2000s": 44,
-    "2010s": 88,
-    "2020s": 248
+    "2000s": 43,
+    "2010s": 82,
+    "2020s": 240
   },
   "listening_style": {
     "played_from": {
-      "other": 303,
-      "playlist": 82,
+      "other": 294,
+      "playlist": 76,
       "album": 21
     },
     "full_album_sessions": 1
@@ -302,8 +302,8 @@
         "21 Savage",
         "Westside Gunn",
         "Lil Baby",
-        "Kanye West",
-        "Lil Wayne"
+        "JAŸ-Z",
+        "Kanye West"
       ]
     },
     "medium_term": {
