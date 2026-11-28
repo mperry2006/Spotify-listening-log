@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-27T22:56-05:00",
+  "generated_at": "2026-11-28T08:07-05:00",
   "window": {
-    "start": "2026-11-20",
-    "end": "2026-11-27"
+    "start": "2026-11-21",
+    "end": "2026-11-28"
   },
   "log_since": "2026-10-26",
   "total_plays_logged": 2412,
   "this_week": {
-    "plays": 391,
-    "minutes": 1312,
+    "plays": 390,
+    "minutes": 1310,
     "unique_tracks": 338,
     "unique_artists": 211
   },
   "last_week": {
-    "plays": 498,
-    "minutes": 1697
+    "plays": 424,
+    "minutes": 1407
   },
   "counting_rule": "Only plays where more than 50% of the song was heard (estimated).",
   "skips": {
@@ -28,14 +28,14 @@
       "rank": 1,
       "name": "Drake",
       "plays": 33,
-      "last_week_plays": 60,
+      "last_week_plays": 28,
       "change": "="
     },
     {
       "rank": 2,
       "name": "Gunna",
       "plays": 22,
-      "last_week_plays": 16,
+      "last_week_plays": 15,
       "change": "+5"
     },
     {
@@ -43,56 +43,56 @@
       "name": "Kanye West",
       "plays": 20,
       "last_week_plays": 11,
-      "change": "+17"
+      "change": "+14"
     },
     {
       "rank": 4,
       "name": "Big Scarr",
       "plays": 19,
       "last_week_plays": 13,
-      "change": "+9"
+      "change": "+7"
     },
     {
       "rank": 5,
       "name": "Lil Baby",
       "plays": 17,
       "last_week_plays": 17,
-      "change": "+1"
+      "change": "="
     },
     {
       "rank": 6,
       "name": "Future",
       "plays": 17,
       "last_week_plays": 21,
-      "change": "-2"
+      "change": "-3"
     },
     {
       "rank": 7,
       "name": "J. Cole",
       "plays": 16,
-      "last_week_plays": 23,
-      "change": "-5"
+      "last_week_plays": 21,
+      "change": "-3"
     },
     {
       "rank": 8,
       "name": "21 Savage",
       "plays": 14,
-      "last_week_plays": 22,
-      "change": "-5"
+      "last_week_plays": 21,
+      "change": "-6"
     },
     {
       "rank": 9,
       "name": "Tems",
       "plays": 14,
       "last_week_plays": 2,
-      "change": "+76"
+      "change": "+64"
     },
     {
       "rank": 10,
       "name": "Pooh Shiesty",
       "plays": 12,
       "last_week_plays": 11,
-      "change": "+11"
+      "change": "+8"
     }
   ],
   "top_tracks": [
@@ -100,8 +100,8 @@
       "rank": 1,
       "name": "Having Our Way (feat. Drake) - Migos",
       "plays": 5,
-      "last_week_plays": 1,
-      "change": "+65"
+      "last_week_plays": 0,
+      "change": "NEW"
     },
     {
       "rank": 2,
@@ -122,7 +122,7 @@
       "name": "COUNT UP - Gunna",
       "plays": 3,
       "last_week_plays": 1,
-      "change": "+427"
+      "change": "+357"
     },
     {
       "rank": 5,
@@ -133,38 +133,38 @@
     },
     {
       "rank": 6,
-      "name": "Potluck - MAVI",
+      "name": "Wanna Know Remix (feat. Drake) - Dave",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
       "rank": 7,
-      "name": "Wanna Know Remix (feat. Drake) - Dave",
-      "plays": 2,
-      "last_week_plays": 1,
-      "change": "+47"
-    },
-    {
-      "rank": 8,
       "name": "Wasting Time ( feat. Drake & The Neptunes ) - Brent Faiyaz",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Jose Canseco (feat. Stove God Cooks) - Westside Gunn",
       "plays": 2,
       "last_week_plays": 0,
       "change": "NEW"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Master P (feat. Tay Keith) - Pooh Shiesty",
       "plays": 2,
       "last_week_plays": 1,
-      "change": "+375"
+      "change": "+306"
+    },
+    {
+      "rank": 10,
+      "name": "Scholarships - Drake",
+      "plays": 2,
+      "last_week_plays": 0,
+      "change": "NEW"
     }
   ],
   "dropped_off": [],
@@ -241,14 +241,14 @@
     "Morning (5am-12pm)": 63,
     "Afternoon (12pm-5pm)": 200,
     "Evening (5pm-9pm)": 84,
-    "Night (9pm-12am)": 39
+    "Night (9pm-12am)": 38
   },
   "day_of_week": {
     "Mon": 101,
     "Tue": 43,
     "Wed": 48,
     "Thu": 99,
-    "Fri": 8,
+    "Fri": 7,
     "Sat": 54,
     "Sun": 38
   },
@@ -259,20 +259,16 @@
       "days": 33
     },
     {
-      "artist": "Future",
-      "days": 14
-    },
-    {
       "artist": "Lil Baby",
       "days": 13
     },
     {
-      "artist": "J. Cole",
-      "days": 11
-    },
-    {
       "artist": "Gunna",
       "days": 6
+    },
+    {
+      "artist": "The Alchemist",
+      "days": 3
     }
   ],
   "release_eras": {
@@ -281,11 +277,11 @@
     "1990s": 23,
     "2000s": 43,
     "2010s": 82,
-    "2020s": 240
+    "2020s": 239
   },
   "listening_style": {
     "played_from": {
-      "other": 294,
+      "other": 293,
       "playlist": 76,
       "album": 21
     },
